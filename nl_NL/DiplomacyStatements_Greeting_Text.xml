@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_MVEMBA_ANY">
+			<Text>U zij gezegend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Een groot plezier, zoals altijd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY">
+			<Text>U wenst mij te spreken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_BARBAROSSA_ANY">
+			<Text>Wat wilt u?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_GANDHI_ANY">
+			<Text>Vrede zij met u.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_GILGAMESH_ANY">
+			<Text>Laten we beginnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_GORGO_ANY">
+			<Text>Gegroet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY">
+			<Text>Spreek!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_HOJO_ANY">
+			<Text>Welkom.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_PEDRO_ANY">
+			<Text>Wat wilt u van mij?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_PERICLES_ANY">
+			<Text>Hoe is het met u?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_PETER_GREAT_ANY">
+			<Text>Goedendag.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_PHILIP_II_ANY">
+			<Text>Aangenaam.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_QIN_ANY">
+			<Text>U zij gezegend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_SALADIN_ANY">
+			<Text>Alles goed?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ga verder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_TOMYRIS_ANY">
+			<Text>Wat wilt u van mij?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_TRAJAN_ANY">
+			<Text>Gezondheid!.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY">
+			<Text>We ontvangen u graag.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_ANY_ANY">
+			<Text>Wat wilt u van mij?</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

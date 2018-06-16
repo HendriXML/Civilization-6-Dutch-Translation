@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Kan worden geconstrueerd via [ICON_TradeRoute] handelsroutes of door een militaire ingenieur. Verbetert [ICON_Movement] verplaatsingssnelheid van iedere eenheid die zich van het ene naar het andere weggebiedsdeel beweegt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Kan worden geconstrueerd via [ICON_TradeRoute] handelsroutes of door een militaire ingenieur. Verbetert [ICON_Movement] verplaatsingssnelheid van iedere eenheid die zich van het ene naar het andere weggebiedsdeel beweegt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
+			<Text>Kan worden geconstrueerd via [ICON_TradeRoute] handelsroutes of door een militaire ingenieur. Verbetert [ICON_Movement] verplaatsingssnelheid van iedere eenheid die zich van het ene naar het andere weggebiedsdeel beweegt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
+			<Text>Kan worden geconstrueerd via [ICON_TradeRoute] handelsroutes of door een militaire ingenieur. Verbetert [ICON_Movement] verplaatsingssnelheid van iedere eenheid die zich van het ene naar het andere weggebiedsdeel beweegt.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

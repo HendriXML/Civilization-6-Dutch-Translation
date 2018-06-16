@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_REPRESENTATIVE">
+			<Text>een vertegenwoordiger</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_BARBAROSSA_NAME">
+			<Text>Frederick Barbarossa</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+			<Text>Catherine de Medici</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_CLEOPATRA_NAME">
+			<Text>Cleopatra</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_GANDHI_NAME">
+			<Text>Gandhi</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_GILGAMESH_NAME">
+			<Text>Gilgamesh</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_GORGO_NAME">
+			<Text>Gorgo</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_HARDRADA_NAME">
+			<Text>Harald Hardrada</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_HOJO_NAME">
+			<Text>Hojo Tokimune</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_MVEMBA_NAME">
+			<Text>Mvemba a Nzinga</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_PEDRO_NAME">
+			<Text>Pedro II</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_PERICLES_NAME">
+			<Text>Pericles</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_PETER_GREAT_NAME">
+			<Text>Peter</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_PHILIP_II_NAME">
+			<Text>Philip II</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_QIN_NAME">
+			<Text>Qin Shi Huang</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_SALADIN_NAME">
+			<Text>Saladin</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TOMYRIS_NAME">
+			<Text>Tomyris</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAJAN_NAME">
+			<Text>Trajan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+			<Text>Teddy Roosevelt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_VICTORIA_NAME">
+			<Text>Victoria</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
+			<Text>Ally of Enkidu</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
+			<Text>Ayyubid Dynasty</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
+			<Text>Backstab Averse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
+			<Text>Big Stick Policy</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
+			<Text>Black Queen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BUSHIDO_NAME">
+			<Text>Bushido</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
+			<Text>City-State Ally</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
+			<Text>Counter Reformer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
+			<Text>Delian League</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
+			<Text>Enthusiastic Disciple</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
+			<Text>Patron of the Arts</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_IRON_CROWN_NAME">
+			<Text>Iron Crown</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
+			<Text>Last Viking King</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
+			<Text>Optimus Princeps</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_PARANOID_NAME">
+			<Text>Paranoid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_PEACEKEEPER_NAME">
+			<Text>Peacekeeper</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
+			<Text>Queen of the Nile</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
+			<Text>Sun Never Sets</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_TLATOANI_NAME">
+			<Text>Tlatoani</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_WESTERNIZER_NAME">
+			<Text>Westernizer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
+			<Text>With Your Shield Or On It</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
+			<Text>Wall of 10,000 Li</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_AIRPOWER_NAME">
+			<Text>Airpower</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
+			<Text>Barbarian Ally</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
+			<Text>City State Protector</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CIVILIZED_NAME">
+			<Text>Civilized</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CULTURED_NAME">
+			<Text>Cultured</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_DARWINIST_NAME">
+			<Text>Darwinist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_DEVOUT_NAME">
+			<Text>Devout</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
+			<Text>Environmentalist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
+			<Text>Exploitative</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_EXPLORER_NAME">
+			<Text>Explorer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_FUN_LOVING_NAME">
+			<Text>Fun-Loving</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
+			<Text>Great Person Advocate</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_IDEOLOGUE_NAME">
+			<Text>Ideologue</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
+			<Text>Heavy Industry</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
+			<Text>Money Grubber</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_NATURALIST_NAME">
+			<Text>Naturalist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_NUKE_LOVER_NAME">
+			<Text>Nuke Happy</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_POPULOUS_NAME">
+			<Text>Populous</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_STANDING_ARMY_NAME">
+			<Text>Standing Army</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_TECHNOPHILE_NAME">
+			<Text>Technophile</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
+			<Text>Wonder Obsessed</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
+			<Text>Likes civilizations who are willing to form a long-term alliance. Dislikes anyone denouncing or attacking his friends and allies.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
+			<Text>Wants to have his Worship building in many cities, and likes a civilization with it. Dislikes civilizations following other Religions, or civilizations waging war on followers of his Religion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
+			<Text>Likes civilizations who are their declared friend. Hates civilizations who backstab and declare surprise wars.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
+			<Text>Likes peaceful civilizations that have a city on his home continent. Hates civilizations starting wars against a city-state or civilization based on his continent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
+			<Text>Gains as many Spies and as much diplomatic access as possible.  Does not like civilizations who ignore these espionage activities.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
+			<Text>Likes civilizations that have a strong military and [ICON_Faith]Faith and [ICON_Culture] Culture output. Dislikes civilizations that are strong in military but weak in [ICON_Faith]Faith and [ICON_Culture] Culture output.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
+			<Text>Likes civilizations that aren't competing for the same city-state allegiance. Dislikes civilizations that are directly competing for city-state allegiance.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
+			<Text>Likes civilizations who follow the same Religion, and wants his cities to all follow the same Religion.  Hates anyone trying to spread their Religion into his empire.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
+			<Text>Likes civilizations that aren't competing for the same city-state allegiance. Dislikes civilizations that are directly competing for city-state allegiance.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
+			<Text>Likes civilizations that bring Religion to the Kongo. Dislikes civilizations that have founded a Religion but not brought it to a Kongolese city.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
+			<Text>Likes civilizations who are not competing for Great People, and will recruit Great People whenever possible. Dislikes losing a Great Person to another civilization.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
+			<Text>Likes civilizations who do not associate with city-states. Does not like Suzerains of city-states, or civilizations who conquered city-states.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
+			<Text>Builds a large navy and respects civilizations who follow his lead.  Does not like civilizations with a weak navy.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
+			<Text>Tries to include as much territory as possible in his empire.  Does not like civilizations who control little territory.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
+			<Text>Likes civilizations who pose no threat. Dislikes civilizations with strong militaries or ones with nearby cities.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
+			<Text>Likes civilizations with powerful militaries, and will try to ally with them to avoid damaging military conflicts. Dislikes civilizations with weak militaries.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
+			<Text>Never declares wars for which he can be branded a warmonger, and will try to befriend those who maintain the peace. Hates warmongers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
+			<Text>Likes civilizations from her home continent, and wants to expand to all continents. Doesn’t like civilizations on continents where England has no city.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
+			<Text>Likes civilizations who have the same Luxury resources as he does, and will try to collect every Luxury resource available. Dislikes civilizations who have a new Luxury resource he has not yet collected.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
+			<Text>Friendly to those civilizations that are ahead of him in [ICON_Science] Science and [ICON_Culture] Culture.  Dislikes backwards civilizations that are lacking in [ICON_Science] Science and [ICON_Culture] Culture.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Never gives up items in a peace deal, and likes civilizations who match that approach. Dislikes civilizations who have capitulated or who have never gone to war.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
+			<Text>Likes civilizations not competing for wonders, and builds wonders whenever possible. Dislikes losing a wonder to another civilization.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
+			<Text>Sympathizes with the barbarians.  Does not like civilizations that destory barbarian outposts.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
+			<Text>Hates barbarians. Likes civilizations that clear out barbarian outposts. Does not like civilizations that ignores barbarian outposts.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
+			<Text>Tries to build up [ICON_Culture] Culture, and likes civilizations that also focus on [ICON_Culture] Culture.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
+			<Text>Likes to see civilizations at war, and believes in constant struggle. </Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
+			<Text>Tries to make the citizens in each city as happy as possible. Likes civilizations that also develop in this fashion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
+			<Text>Tries to build up industry, and likes civilizations that also focus on [ICON_Production] Production.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
+			<Text>Tries to have the highest possible [ICON_Gold] Gold per turn income. Respects other high income civilizations.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
+			<Text>Tries to find all natural wonders.  Likes civilizations that keep Woods and Rainforest unchopped, and those that establish National Parks.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
+			<Text>Has no hesitation to use nuclear weapons. Respects other cilizations that project strength with nuclear weapons.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
+			<Text>Tries to have the highest overall population.  Respects other high population civilizations.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
+			<Text>Always tries to keep a large standing army. Respects other civilizations with large armies.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
+			<Text>Tries to build up [ICON_Science] Science, and likes civilizations that also focus on [ICON_Science] Science.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
+			<Text>Tries to build up air power. Admires civilizations with greater air power. Dislikes civilizations with weaker air power.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
+			<Text>Emphasizes protectorate wars. Admires civilizations that start protectorate wars. Dislikes civilizations that attack city states.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
+			<Text>Clears all features and improves all possible tiles. Likes civilizations with a high percentage of improved tiles. Dislikes civilizations with low percentage of improved tiles or that found National Parks.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
+			<Text>Builds National Parks, doesn't clear features, plants forests. Likes civilizations that plant forests or found National Parks. Dislikes civilizations that clear features.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
+			<Text>Favors civilizations with the same type of government, dislikes civilizations that have different govenments, and really dislikes civilizations with different govenments of the same era as its own.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
+			<Text>Tries to build up [ICON_Faith] Faith, and likes civilizations that also focus on [ICON_Faith] Faith.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
+			<Text>Tries to explore the map, and likes civilizations that have explored less of the map than itself and dislikes civilizations that have explored more of the map than itself.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
+			<Text>1 [ICON_Envoy] Gezant:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
+			<Text>3 [ICON_Envoy] Gezanten:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
+			<Text>6 [ICON_Envoy] Gezanten:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
+			<Text>Wetenschappelijke stadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] wetenschap in je [ICON_Capital] hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] wetenschap in iedere campuswijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] extra wetenschap in iedere campuswijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
+			<Text>Religieuze stadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] geloof in de [ICON_Capital] hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] geloof in iedere Heilige Plaats-wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] extra geloof in iedere Heilige Plaats-wijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
+			<Text>Handelsstadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] goud in de [ICON_Capital] hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] goud in iedere commerciële wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] extra goud in iedere commerciële wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
+			<Text>Culturele stadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] cultuur in de [ICON_Capital] hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] cultuur in iedere theaterwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] extra cultuur in iedere theaterwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
+			<Text>Militaristische stadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] productie in de [ICON_Capital] hoofdstad bij het produceren van eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] productie in iedere legerplaats bij het produceren van eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] extra productie in iedere legerplaats bij het produceren van eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
+			<Text>Industriele stadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] productie in de [ICON_Capital] hoofdstad bij het produceren van wonderen, gebouwen en wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] productie in iedere industriewijk bij het produceren van wonderen, gebouwen en wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] extra productie in iedere industriewijk bij het produceren van wonderen, gebouwen en wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
+			<Text>Amsterdam-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
+			<Text>Je [ICON_TradeRoute] handelsroutes naar buitenlandse steden verdienen +1 [ICON_Gold] goud voor iedere luxegoederenbron bij de bestemming.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
+			<Text>Brussel-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
+			<Text>Je steden krijgen +15% [ICON_Production] productie richting wonderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
+			<Text>Buenos Aires-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
+			<Text>Je bonus-hulpbronnen gedragen zich als luxegoederenbronnen en leveren 1 [ICON_Amenities] voorziening per type op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
+			<Text>Carthago-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Je legerplaatsen voorzien in +1 [ICON_TradeRoute] handelsroutecapaciteit per wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
+			<Text>Geneve-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
+			<Text>Je steden verdienen +15% [ICON_Science] wetenschap wanneer je niet oorlog voert tegen een andere beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
+			<Text>Hattusa-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
+			<Text>Voorziet je van 1 exemplaar van iedere strategische hulpbron die je hebt onthuld maar niet jouw eigendom is.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
+			<Text>Hong Kong-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
+			<Text>Je steden krijgen +20% [ICON_Production] productie richting stadsprojecten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
+			<Text>Jakarta-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
+			<Text>Je [ICON_TradingPost] handelsposten in buitenlandse steden voorzien in +1 [ICON_Gold] goud voor je doorgaande [ICON_TradeRoute] handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
+			<Text>Jeruzalem-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
+			<Text>Bekeert automatisch naar door jou gestichte religie en voert pressie uit voor die religie als ware het een Heilige Stad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_KABUL_NAME">
+			<Text>Kabul suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
+			<Text>Je eenheden ontvangen dubbele ervaring voor door hen begonnen gevechten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_KANDY_NAME">
+			<Text>Kandy-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
+			<Text>Ontvang iedere keer een [ICON_GreatWork_Relic] relikwie wanneer je een nieuw natuurlijk wonder ontdekt en verdien +50% [ICON_Faith] geloof van alle [ICON_GreatWork_Relic] relikwien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
+			<Text>Kumasi-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
+			<Text>Je [ICON_TradeRoute] handelsroutes naar stadstaten voorzien in +2 [ICON_Culture] cultuur en +1 [ICON_Gold] goud voor iedere gespecialiseerde wijk in de stad van oorsprong.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
+			<Text>La Venta-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
+			<Text>Je bouwers kunnen nu de verbetering Groot Hoofd maken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_LISBON_NAME">
+			<Text>Lissabon-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
+			<Text>Je handelseenheden worden immuun voor plundering in watergebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
+			<Text>Mohenjo-Daro-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
+			<Text>Je steden hebben volledige [ICON_Housing] huisvesting van water, als lagen zij aan een rivier.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
+			<Text>Nan Madol-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
+			<Text>Je wijken op of naast kustgebiedsdelen voorzien in +2 [ICON_Culture] cultuur.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
+			<Text>Preslav-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Je lichte en zware cavalerie-eenheden hebben +5 [ICON_Strength] gevechtskracht bij het vechten op heuvels.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
+			<Text>Seoul-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
+			<Text>Als je een nieuw tijdperk betreedt verdien je 1 willekeurig [ICON_TechBoosted] 'Eureka'-moment uit dat tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
+			<Text>Stockholm-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Je wijken voorzien in +1 [ICON_GreatPerson] Belangrijk Persoon-punten van het type ([ICON_GreatWriter] Grote Schrijver, [ICON_GreatArtist] Grote artiest en [ICON_GreatMusician] Grote Muzikant voor theaterwijken).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
+			<Text>Toronto-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
+			<Text>Regionale effecten van je industrie- en uitgaanscentra reiken 3 gebiedsdelen verder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
+			<Text>Valletta-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
+			<Text>Gebouwen in stadscentrum en legerplaatsen kunnen worden gekocht met [ICON_Faith] geloof. Kosten van oude, middeleeuwse en Renaissancemuren zijn gereduceerd, maar kunnen alleen worden gekocht met [ICON_Faith] geloof.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
+			<Text>Vilnius-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Wanneer je een nieuw tijdperk betreedt verdien je 1 willekeurig [ICON_CivicBoosted] 'Inspiratie'-moment uit dat tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
+			<Text>Yerevan-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
+			<Text>Je apostelen kunnen kiezen uit iedere mogelijke promotie in plaats van een willekeurige te ontvangen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
+			<Text>Zanzibar-suzerein-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
+			<Text>Ontvang de luxegoederenbronnen [ICON_RESOURCE_CINNAMON] kaneel en [ICON_RESOURCE_CLOVES] kruidnagel. Deze kunnen niet op een andere manier worden verdiend in het spel en voorzien in 6 [ICON_Amenities] voorzieningen ieder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+			<Text>Thermopylae</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+			<Text>Adventures of Enkidu</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+			<Text>Mediterranean's Bride</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+			<Text>Divine Wind</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+			<Text>El Escorial</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+			<Text>The Grand Embassy</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+			<Text>Holy Roman Emperor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+			<Text>Pax Britannica</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+			<Text>Righteousness of the Faith</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+			<Text>Religious Convert</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+			<Text>Roosevelt Corollary</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
+			<Text>Satyagraha</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+			<Text>Thunderbolt of the North</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+			<Text>The First Emperor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+			<Text>Catherine's Flying Squadron</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+			<Text>Trajan's Column</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+			<Text>Killer of Cyrus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+			<Text>Magnanimous</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+			<Text>Surrounded by Glory</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
+			<Text>Victoria unique unit: Redcoat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
+			<Text>Harald Hardrada unique unit: Viking Longship</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Theodore Roosevelt unique unit: Rough Rider</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+			<Text>Overwinningen voorzien in [ICON_Culture] cultuur gelijk aan 50% van de [ICON_Strength] gevechtskracht van de verslagen eenheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
+			<Text>Kan zonder straf voor oorlogszucht iedereen oorlog verklaren die mee in oorlog verbonden is. Wanneer in oorlog met een gezamenlijke vijand worden beloningen voor plundering en gevechtservaring gedeeld als binnen 5 gebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
+			<Text>Je [ICON_TradeRoute] handelsroutes naar andere beschavingen voorzien in +4 [ICON_Gold] goud voor Egypte. [ICON_TradeRoute] Handelsroutes van andere beschavingen naar Egypte voorzien in +2 [ICON_Food] voedsel voor hen en +2 [ICON_Gold] goud voor Egypte.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+			<Text>Landeenheden ontvangen +5 [ICON_Strength] gevechtskracht in landgebiedsdelen grenzend aan de kust; maritieme eenheden ontvangen +5 [ICON_Strength] gevechtskracht in ondiepe watergebiedsdelen. Bouwt kampementen, Heilige Stad en theaterwijken in de helft van de tijd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+			<Text>Inquisiteurs kunnen een extra keer ketterij uitbannen. Gevechtseenheden hebben een bonus van +4 [ICON_Strength] gevechtskracht tegen spelers die een andere religie aanhangen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+			<Text>Ontvangt [ICON_Science] wetenschap of [ICON_Culture] cultuur van [ICON_TradeRoute] handelsroutes naar beschavingen die voor liggen op Rusland (+1 per 3 technologieën of staatsvormen voor liggend).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+			<Text>Extra plaats voor militaire beleidsoptie. +7 [ICON_Strength] Gevechtskracht bij het aanvallen van stadstaten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
+			<Text>Alle gestichte of veroverde steden op een continent anders dan je thuiscontinent ontvangen een gratis melee-eenheid. Verwerf de unieke eenheid Redcoat wanneer militaire wetenschap is onderzocht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+			<Text>Het aanbiddingsgebouw van hun religie kan door elke speler worden gekocht voor slechts eentiende van de gebruikelijke  [ICON_Faith] geloofskosten.  Dit gebouw is uitgebreid om 10% toe te voegen aan de output van [ICON_Science] wetenschap, [ICON_Faith] geloof en [ICON_Culture] cultuur van Arabische steden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+			<Text>Kan geen Heilige Plaats-wijken bouwen, Grote Profeten verwerven of religies stichten. Verdient alle geloofsrichtingen van iedere religie die zichzelf heeft bewerkstelligd in de meerderheid van zijn steden. Ontvangt iedere keer een apostel bij het voltooien van een M'banza of theaterwijk (van de overwegende religie van die stad).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+			<Text>Eenheden ontvangen +5 [ICON_Strength] gevechtskracht op hun thuiscontinent. +1 Lokkracht voor alle gebiedsdelen in een stad met een nationaal park. Verwerf de unieke eenheid Rough Rider bij het bereiken van de technologie schroefdraad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
+			<Text>+5 [ICON_Faith] Geloof voor iedere onrmoete beschaving (inclusief India) die een religie heeft gesticht en momenteel geen oorlog voert. Tegenstanders lijden dubbel aan oorlogsmoeheid wanneer ze vechten tegen Gandhi.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+			<Text>Staat kustovervallen aan alle maritieme melee-eenheden toe.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+			<Text>Bij het bouwen van oude en klassieke wonderen kun je bouwer-ladingen uitgeven om 15% van de oorspronkelijke kosten van het wonder te voltooien. Bouwers ontvangen een extra lading.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+			<Text>Heeft 1 niveau van [ICON_VisLimited] diplomatieke zichtbaarheid meer dan normaal bij iedere beschaving die wordt ontmoet. Ontvangt capaciteit om een extra spion op te leiden met de technologie kastelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+			<Text>Alle steden starten met een extra stadscentrumgebouw. (Begint met een monument in oude tijdperk).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+			<Text>Alle eenheden ontvangen +5 [ICON_Strength] gevechtskracht bij het aanvallen van gewonde eenheden. Wanneer ze een eenheid uitschakelen genezen ze tot 50 HP.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+			<Text>Na rekrutering of bescherming van een [ICON_GreatPerson] Belangrijk Persoon wordt 20% van de kosten aan [ICON_GreatPerson] Belangrijk Persoon-punten teruggestort.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+			<Text>+5% [ICON_Culture] cultuur per stadstaat waarvan je suzerein bent.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

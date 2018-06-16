@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Je hebt een bericht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} heeft je een bericht gestuurd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Verzoek om vriendschapsverklaring</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} heeft verzocht vriendschap te verklaren met jouw beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Vriendschapsverklaring geaccepteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} heeft je vriendschapsverklaring geaccepteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Vriendschapsverklaring geweigerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} heeft je vriendschapsverklaring geweigerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>In afwachting van diplomatieke delegatie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} heeft gevraagd om een diplomatieke delegatie naar je hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Diplomatieke delegatie geaccepteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} heeft je diplomatieke delegatie geaccepteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Diplomatieke delegatie afgewezen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} heeft je diplomatieke delegatie afgewezen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Oorlog verklaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} heeft jouw beschaving de oorlog verklaard.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Je bent aangeklaagd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} heeft je beschaving aangeklaagd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Verzoek om ambassade</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wil een ambassade oprichten in je hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Ambassade geaccepteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} heeft je verzoek om een ambassade geaccepteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Ambassade afgewezen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} heeft je verzoek om een ambassade afgewezen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bondgenootschap verzocht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wil bondgenoot met je natie worden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Bondgenootschap geaccepteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} heeft je verzoek om een bondgenootschap geaccepteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Bondgenootschap afgewezen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} heeft je verzoek om een bondgenootschap afgewezen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Verzoek om vrede</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wil vrede sluiten met je beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Vrede geaccepteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} heeft je verzoek om vrede geaccepteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Oorlog gaat door</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} heeft je verzoek om vrede verworpen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Verzoek om open grenzen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}heeft verzocht om open grenzen met je beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Open grenzen geaccepteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} heeft je verzoek om open grenzen geaccepteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Open grenzen geweigerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} heeft je verzoek om open grenzen verworpen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Je bent gewaarschuwd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} heeft je een waarschuwing gestuurd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Speler verslagen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} is verslagen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Je hebt een bericht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} heeft je een bericht gestuurd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Je hebt een andere beschaving ontmoet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>Je hebt kennis gemaakt met het {1_Civ}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Voorstel deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} wil een deal met je beschaving sluiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Deal geaccepteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} heeft je deal geaccepteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Deal afgewezen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} heeft je deal verworpen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_ADJUSTED">
+			<Text>Deal aangepast</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_ADJUSTED">
+			<Text>{1_name} heeft je deal aangepast.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_DEMANDED">
+			<Text>Deal gevraagd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_DEMANDED">
+			<Text>{1_name} heeft om een deal gevraagd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_PROPOSED">
+			<Text>Deal voorgesteld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_PROPOSED">
+			<Text>{1_name} heeft je een deal voorgesteld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_EQUALIZE">
+			<Text>Maak eerlijke deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_EQUALIZE">
+			<Text>{1_name} wil een gelijkwaardige deal.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_CLOSED">
+			<Text>Voorgestelde deal geannuleerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_CLOSED">
+			<Text>{1_name} heeft onderhandeling over een deal geannuleerd.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

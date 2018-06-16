@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Maakt de oogst van [ICON_RESOURCE_WHEAT] tarwe en [ICON_RESOURCE_RICE] rijst mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>Maakt de oogst van [ICON_RESOURCE_CATTLE] vee en [ICON_RESOURCE_SHEEP] schapen mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Maakt het kappen van bos en de opbrengst van [ICON_RESOURCE_Copper] koper mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>Maakt het in te schepen van bouwers mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Maakt het dempen van moerassen mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>Maakt de opbrengst van [ICON_RESOURCE_STONE] steen mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Maakt het kappen van regenwoud mogelijk. Onthult [ICON_RESOURCE_IRON] ijzer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Maakt het inschepen van alle landeenheden mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Maakt het inschepen van handelaren en het vangen van [ICON_RESOURCE_FISH] vis mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] verplaatsing voor alle maritieme eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>+1 [ICON_Production] productie voor de mijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Bonus [ICON_Culture] cultuur voor de nabijheid van de Grote Muur. Verwerf de mogelijkheid een spion te trainen als je speelt als Catherine de Medici.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>+1 [ICON_Gold] goud van de vissersboten. Alle maritieme en ingescheepte eenheden kunnen navigeren over oceaangebied. +1 [ICON_Movement] verplaatsing voor ingescheepte eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>+1 [ICON_Gold] goud van de groeve.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Voorziet in een niveau meer aan diplomatiek aanzien bij alle andere beschavingen. Alle opbrengsten aan [ICON_Tourism] toerisme van [ICON_GreatWork_Writing] Grote Boekwerken worden verdubbeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_RADIO_DESCRIPTION">
+			<Text>Onthult [ICON_RESOURCE_ALUMINUM] aluminium.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>+1 [ICON_Production] productie van de mijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Maakt een onderzoek overeenkomst mogelijk als een diplomatieke actie. +1 [ICON_Food] voedsel van plantages.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>Trappenbronnen ontvangen +1 [ICON_Housing] huisvesting.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>+2 [ICON_Movement] verplaatsing voor ingescheepte eenheden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>Bonus [ICON_Tourism] toerisme voor alle verbeteringen die in [ICON_Culture] cultuur voorzien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Upgradet boerderijen tot gemechaniseerde landbouw. +1 [ICON_Food] voedsel voor iedere aanliggende boerderij.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>+1 [ICON_Production] productie van houtmolen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>+1 [ICON_Movement]verplaatsing voor ingescheepte eenheden.</Text>
+		</Replace>
+    <Replace Language="nl_NL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+      <Text>+1 [ICON_Movement]verplaatsing voor ingescheepte eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>+1 [ICON_Production] productie van groeve.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>+1 [ICON_Food] voedsel naar vissersboten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Geeft de mogelijkheid een extra spion op te leiden. Alle opbrengsten aan [ICON_Tourism] toerisme worden verdubbeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] goud naar kampementen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>+1 [ICON_Production] productie naar weiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Kan meermaals worden voltooid, je punten voor een score-overwinning vermeerderend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>een stad gesticht aan de kust.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>vind een natuurlijk wonder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>bewerk een hulpbron.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>dood een eenheid met een slingeraar.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>ontmoet een andere beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>bouw een groeve.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>dood drie barbaren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>ontgin een hulpbron (mijn).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>verbeter twee zee-hulpbronnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>maak een [ICON_TradeRoute] handelsroute.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>leg een wei aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>bouw een ijzermijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>bezit twee galeien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>leg drie verschillende gespecialiseerde wijken aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>bouw een watermolen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>bouw stadsmuren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>dood een eenheid met een speerwerper.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>bouw drie mijnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>heb de staatsvorm Feudalisme.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>bezit drie boogschutters.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>verdien een Grote Wetenschapper.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>bouw een aquaduct.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>zorg voor een regering met 6 plaatsen voor beleidsopties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>bouw twee havens.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>bouw een houtmolen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>heb het staatsbestel Gilden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>bouw een wapenzaal.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>bouw twee universiteiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>dood een eenheid met een musketier.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>bouw een universiteit naast een berg.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>bezit twee kruisboogschutters.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>bezit twee mortierwapens.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>bouw drie werkplaatsen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>heb de staatsvorm Verlichting.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>heb twee forten in je gebied.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>dood een eenheid met een ridder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>bouw twee scheepswerven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>bouw twee buurtschappen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>bouw twee banken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>bouw een salpetermijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>bouw een wonder uit het industriële tijdperk of later.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>bezit drie musketiers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>bouw een kolenmijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>bezit drie vrijbuiters.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>bouw een nationaal park.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>voltooi onderzoek overeenkomst.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>graaf een artefact uit.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>bouw drie dubbeldekkers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>bouw twee krachtcentrales.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>Leg een landingsbaan aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>bouw een oliebron.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>heb een regering met 8 plaatsen voor beleidsopties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>bouw twee vliegvelden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>bouw twee televisiestations.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>haal een jachtvliegtuig naar beneden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>bezit 3 tanks.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>heb de staatsvorm Globalisering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>bouw een aluminiummijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>boost naar Grote Wetenschapper of spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Een stad aan de kust verkrijgen geeft je beschaving inzicht in navigatie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Met de ontdekking van een natuurlijk wonder heeft je beschaving zich laten inspireren door de grootsheid van het universum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Bewerking van een hulpbron heeft je het nut en belang doen inzien van irrigatie van je gewassen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>Na eindelijk een vijand gedood te hebben met een slinger verlang je naar een sterker afstandswapen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>Na andere beschavingen ontmoet te hebben zie je het nut in van nieuwe manieren van communicatie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Groeves hebben je ruw materiaal opgeleverd, wat het noodzakelijk maakt metselaars aan te nemen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Je gevechten tegen barbaren tonen de noodzaak van krachtiger bewapening aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Je mijnwerkzaamheden hebben je de mogelijkheid gegeven assen te maken. Zal het wiel volgen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Je vissers zijn aan het leren zich te oriënteren op de nachtelijke sterrenhemel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>Je [ICON_TradeRoute] handelsroute voorziet je direct van goederen, maar een uitwisselmedium zou de handel flexibeler maken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Met de dieren nu in de wei wordt het tijd om te leren rijden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Toegang tot een gestage bron van ijzer heeft je in staat gesteld betere wapens en sterkere bepantsering te maken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>De bouw van een squadron van galeien heeft je veel geleerd over het bouwen van grotere schepen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Je wijkplanners hebben de grondbeginselen van geometrie uitgewerkt. Een volledig wiskundig systeem volgt spoedig?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Werk aan de watermolen heeft je arbeiders veel geleerd over bouwpraktijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Het voltooien van de muren rond je stad demonstreerde de bouwkundige principes benodigd voor aquaducten en katapulten.</Text>
+		</Replace>
+    <Replace Language="nl_NL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+      <Text>+1 [ICON_Movement] Verplaatsing voor ingescheepte eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Je speerwerpers hebben hun effectiviteit bewezen, maar nu je tegenstanders sterker en sneller worden is misschien een langer wapen nodig?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>Nu er ruw materiaal binnenkomt van een diversiteit aan mijnen is het essentieel nieuwe ambachtslieden op te leiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>De feodale heren in je rijk willen een kampioen om hun land te verdedigen. Misschien iets voor een gepantserde strijder te paard?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Je zoekt machines om het presteren van je troepen met afstandswapens te verbeteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>Het onderwijs van je Grote Wetenschapper heeft hernieuwde interesse gewekt in iets leren binnen je rijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Je militaire leiders hebben de voortgang aan je aquaduct nauwgezet gevolgd. Zij zien nieuwe wegen om deze technieken te gebruiken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>De minister van defensie van onze nieuwe regering stelt voor een massieve defensiemacht te bouwen om onze hoofdstad te beschermen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>Met zo veel schepen die de havens van je rijk uitvaren verlang je ernaar je verkenningen te documenteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Met zo'n grote hoeveelheid planken kan je scheepsindustrie spoedig van start.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Je opkomende gilden hebben plannen die een groot inkomen aan goud vereisen. Misschien moeten we hen een lening verschaffen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Je mensen in de wapenzaal maken een nieuw wapen dat tegenstanders zal verwoesten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>Je geleerden zijn methoden aan het ontwikkelen om snel boeken te kunnen kopiëren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>Het succes van je musketiers heeft een nieuw idee doen opwellen: wat als we upgraden naar kruitwapens op zee?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Je wetenschappers zijn op pad naar de bergen voor een scherpere blik op de hemel. Zou een permanente verblijfplaats daar helpen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>Met zoveel kruisboogschutters in het veld kunnen we een hoop praktijkstudie verrichten over afstandswapens.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>Na het creëeren van mortierwapens realiseer je je dat kastelen niet onkwetsbaar zijn – je hebt een steviger defensie nodig!.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>De drukke werkplaatsen in je rijk duiden op toekomstige grootsheid. Is een industriële revolutie aanstaande?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>De dageraad van een eeuw van verlichting heeft een serieus effect op je wetenschappelijke methodes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Je steden zijn beschermd door verschillende versterkingen, wat als ze zouden worden beschermd door kanonnen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Je dappere ridder heeft zijn vijand verslagen. Laten we van deze overwinning leren en student worden in militaire aangelegenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Laat ons onze industriële scherpzinnigheid toepassen op onze nieuwe scheepswerven. Door stoomkracht aangedreven vaartuigen kunnen heersen over de zee.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>Met de introductie van buurtschappen groeit onze stad als nooit tevoren. Het onwikkelen van sanitaire voorzieningen is nu cruciaal.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>De macht van je banken neemt toe. Het is tijd om de krachten te bestuderen die onze nationale economie vormgeven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>Met een bron van salpeter schakelt je vuurwapenindustrie over naar topgereedschap. De vogende stap zal zijn onze accuraatheid te verbeteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Nu onze ingenieurs een modern wonder hebben voltooid, deinzen ze nergens meer voor terug. Wat, zijn ze nu aan het denken over vliegen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Je instrumentmakers zijn moe van het maken van zoveel musketten.  Zou enige standaardisatie uitkomst bieden?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Je met kolen gevoede fornuizen moeten on in staat stellen eersteklas staal te produceren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Je vrijbuiters zijn geïntrigreerd door de ontdekking van elektriciteit. Zouden ze deze kunnen gebruiken voor een heimelijke aandrijving?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Je nieuwe nationale park heeft bezoekers nodig. Misschien zal een nieuwe communicatievorm helpen het te adverteren?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Jde machten bundelen met andere naties heeft een kettingreactie in wetenschappelijke vooruitgang teweeggebracht.  Zal dit ook gaan gebeuren met chemie?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Je archeoloog heeft ontdekt dat er olie lekt uit de rotsen. Misschien kunnen je geologen daar eens naar kijken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>Je uitgebreide ervaring met dubbeldekkers heeft geleid tot een belangrijke aeronautische doorbraak.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>De ontwikkeling van nieuwe krachtcentrales heeft de industriële vooruitgang die onze wapenproductie kan ondersteunen bespoedigd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Nu je hebt geleerd verplaatsbare landingsbanen te bouwen, waarom niet eens op zee proberen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Je oliebron zou kunnen leiden tot vele manieren van vooruitgang. Wat te denken van zijn plasticiteit.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>Een moderne regering komt met een hoop bureaucratie. Efficiënte beheersing van data kan daarbij van grote waarde zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>Met facliteiten voor vliegtijgen in verschillende steden doet je aeronautische industrie het prima.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>Met je pioniers in radio en televisie voorop ben je snel verslaafd aan het verzenden van data.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Je militairen hebben een vijandelijk vliegtuig neergehaald. Nu is het tijd om de beste verdediging tegen vijandelijke  vliegtuigen te ontwikkelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Tanks zijn de ruggegraat van je leger geweest, dus het is tijd dat je wetenschappers een meer geavanceerd model ontwikkelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Met een uitgebreide set van metalen om mee te experimenteren kunnen je wetenschappers nieuwe wegen inslaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Met een uitgebreide set van metalen om mee te experimenteren kunnen je wetenschappers nieuwe wegen inslaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>Een teamlid heeft zijn onderzoeksnotities m.b.t. een onlangs verworven technologie gedeeld. Hun innovatie zal je eigen voortgang dramatisch verbeteren.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

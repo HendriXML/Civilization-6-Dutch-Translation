@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>Train een {1_UnitName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+			<Text>Leg een {1_DistrictName} aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+			<Text>Ontlok een 'Eureka'voor {1_TechName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+			<Text>Ontlok inspiratie voor {1_CivicName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+			<Text>Rekruteer een {1_GreatPersonClassName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+			<Text>Bekeer een stadstaat tot jouw [ICON_Religion] religie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+			<Text>Ontwikkel een [ICON_TradeRoute] handelsroute naar de stadstaat.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Vernietig een [ICON_Barbarian] barbaarse buitenpost binnen 5 gebiedsdelen van de stad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+			<Text>Train een willekeurig geselecteerd militair [ICON_Unit] eenheidstype.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+			<Text>Leg een willekeurig gekozen gespecialiseerde [ICON_District] wijk aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+			<Text>Ontlok een willekeurig geselecteerd [ICON_TechBoosted] Eureka-moment.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+			<Text>Ontlok een willekeurig geselecteerd [ICON_CivicBoosted] inspiratiemoment.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+			<Text>Rekruteer een willekeurig geselecteerde klasse van [ICON_GreatPerson] Belangrijk Persoon.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Train een {1_UnitName} militaire eenheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Leg een {1_DistrictName} wijk aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Ontlok een [ICON_TechBoosted] Eureka-moment voor de technologie {1_TechnologyName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Ontlok het [ICON_CivicBoosted] inspiratiemoment voor het staatsbestel {1_CivicName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+			<Text>Rekruteer een {1_IconString} {2_GreatPersonClassName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_REWARD_ENVOYS">
+			<Text>[ICON_Envoy] Gezanten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
+			<Text>[ICON_Envoy] {1_Amount} {1_Amount : plural 1?Gezant; other?Gezanten;}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

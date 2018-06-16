@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY">
+			<Text>Eisen stellen brengt je nergens.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY">
+			<Text>Ik zal aan je eisen voldoen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY">
+			<Text>Wijs van je om aan mijn eisen te voldoen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY">
+			<Text>Ik zal misschien naar andere middelen moeten grijpen om mijn eisen vervuld te krijgen!</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

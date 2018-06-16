@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY">
+			<Text>Ik accepteer je vredesvoorwaarden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Vrede zij met je.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ik wil niet als oorlogszuchtig worden herinnerd. Laten we onze verschillen opzij leggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Ik moet toegeven dat ik liever vrede met je wil.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Je hebt dapper gevochten en verdient vrede. We bieden je graag een wapenstilstand aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GANDHI_ANY">
+			<Text>Ja, ja. Dat is een goede zaak.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Ik respecteer een sterke tegenstandeer. Laten we vrede sluiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GORGO_ANY">
+			<Text>Deze oorlog heeft zijn loop gehad. Als je wilt leven kun je vrede krijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Uitstekend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HOJO_ANY">
+			<Text>Ik ben vereerd om mijn gelijke op het slagveld te vinden. Ik steek mijn zwaard liever weg dan zo'n groot strijder te vernietigen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PEDRO_ANY">
+			<Text>Ik accepteer je vredesvoorwaarden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PERICLES_ANY">
+			<Text>Een goed voorstel. Akkoord.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Ik ben meer geïnteresseerd in het najagen van het leven dan van de dood. Laat er vrede zijn tussen ons.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Vrede voor jou en je rijk. We zijn de oorlog moe.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY">
+			<Text>We zijn onder de indruk. Laat er vrede zijn tussen ons.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SALADIN_ANY">
+			<Text>Laten we wijsheid en vrede leren kennen nu we zoveel oorlog hebben gekend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Het is de plicht van onze natie om onze rechten en belangen te bewaken. Nu dat achter de rug is kunnen we verder gaan in vrede.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Ik accepteer je vredsvoorwaarden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Ja, laten we een wapenstilstand afspreken. Deze oorlog brengt ons nergens.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Namens het Verenigd Koninkrijk en Ierland bekrachtig ik deze vrede tussen onze twee naties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY">
+			<Text>Er kan geen sprake zijn van vrede tussen ons!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Hierop kan ik geen ja zeggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Absoluut niet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Nee! Dat accepteer ik niet!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Niet bij mijn leven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GANDHI_ANY">
+			<Text>Sorry, maar nee.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh wijst af.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORGO_ANY">
+			<Text>Ik zal het later nog eens bezien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Nee, dat kan ik niet accepterent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HOJO_ANY">
+			<Text>Niet zolang ik leef.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PEDRO_ANY">
+			<Text>Er kan geen sprake zijn van vrede tussen ons!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PERICLES_ANY">
+			<Text>Athene is afwijzend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Niet voor alle Russen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Nee, mijn hemel!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY">
+			<Text>We zullen je pleidooien negeren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SALADIN_ANY">
+			<Text>Je moet met een beter voorstel komen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Dat meen je niet!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Er kan geen sprake zijn van vrede tussen ons!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Niet voor je hele rijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Een zeer emphatisch nee.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Vrede, goed?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Laaat deze oorlog tot een einde komen. Laten we in het heilige licht van vrede lopen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Omwille van onze geliefden smeek ik je om vrede te laten zijn tussen ons.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Vrede is veel interessanter dan oorlog, vind je niet?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Je hebt je volk goed verdedigd. Als je wilt verleen ik je vrede.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ooog om oog maakt de wereld alleen maar blind. Laten we in plaats daarvan vrede sluiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Van de diepte van de onderwerend tot de bergen van Ea heb ik nooit zo'n sterke tegenstander gehad als jij. Laten we vrede sluiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Je hebt je respijt gehad...vrede?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Ik geef je vrede als je wilt. Tijd om onze knopen te tellen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Er is niets meer over om voor te vechten. Laten we ons bezinnen op onze acties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>De tijd voor vrede is aangebroken, vind je niet?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>De democratie heeft gekozen voor vrede. Accepteer je een einde aan deze oorlog?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ik kan wel een gemeenschappelijke reden vinden om deze oorlog te stoppen, als je bereid bent te onderhandelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Laat de vrede van de Heer tussen ons neerdalen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Het is tijd voor vrede. Laten we deze oorlog stoppen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Moge vrede over jou en ons beiden komen. Help je me deze oorlog te stoppen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ik heb de belangen van onze natie beschermd en onze rechtgen bewaakt. Nu dat achter de rug is kunnen we in vrede leven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>De tijd voor vrede is gekomen, vind je niet?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Oorlog, vredelijke oorlog! Laten we in plaats daarvan een Romeinse vrede sluiten. Wat is daarop je antwoord?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>We denken echt dat een overeenkomst kan worden bereikt die ons beiden voldoening schenkt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>De oorlog is voorbij.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Dan blijft het oorlog.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_NEGATIVE">
+			<Text>Weiger vredevoorstel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_POSITIVE">
+			<Text>Accepteer vredevoorstel</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

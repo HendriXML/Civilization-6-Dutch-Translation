@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
+			<Text>Maakt het aanleggen van [ICON_TradeRoute] handelsroutes mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
+			<Text>Geeft flankeer- en gevechtsondersteuning bonussen aan alle gevechtseenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid grenzen te versterken en staat open grenzen toe aan andere beschavingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
+			<Text>Beloont je met 1 [ICON_Envoy] gezant.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
+			<Text>Beloont je met 1 [ICON_Envoy] gezant.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
+			<Text>Beloont je met 1 [ICON_Envoy] gezant.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
+			<Text>Beloont je met 1 [ICON_Envoy] gezant.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+			<Text>Boerderijen verdienen nu +1 [ICON_Food] voedsel voor iedere aangrenzende boerderij als er 3 boerderijen naast elkaar liggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
+			<Text>Maakt bondgenootschappen mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
+			<Text>Beloont je met 1 [ICON_Envoy] gezant.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
+			<Text>Weiden ontvangen +1 [ICON_Food] voedsel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
+			<Text>Maakt ambassades en het opleiden van een spion mogelijk. De eerste vier casus belli mogen nu worden gebruikt om oorlog te rechtvaardigden. Deze casus belli zijn: heilige oorlog, bevrijdingsoorlog, heroveringsoorlog en beschermingsoorlog.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+			<Text>Kampen ontvangen +1 [ICON_Production] productie. </Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Religieuze [ICON_Tourism] toerisme-effecten gericht tegen jouw beschaving worden gehalveerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+			<Text>Beloont je met 2 [ICON_Envoy] gezanten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
+			<Text>Kan boerderij bouwen op heuvels in grasland en vlaktes. Ontsluit stadsverdediging, wat al je steden automatisch 200 versterkingskracht geeft en de mogelijkheid van bombarderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
+			<Text>Geeft je de mogelijkheid om een extra spion op te leiden. Maakt de omvorming van twee identieke eenheden tot een korps of vloot mogelijk. Geeft je een nieuwe casus belli die als rechtvaardiging voor een oorlog kan gelden: koloniale oorlog.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
+			<Text>Beloont je met 2 [ICON_Envoy] gezanten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
+			<Text>Onthult [ICON_RESOURCE_ANTIQUITY_SITE] eeuwenoude plaatsen. Maakt ontwikkeling van archeologen mogelijk. Beloont je met 1 [ICON_Envoy] gezant.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
+			<Text>Beloont je met 2 [ICON_Envoy] gezanten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
+			<Text>Beloont je met 3 [ICON_Envoy] gezanten. Maakt het aanleggen van nationale parken en de koop van naturalisten met [ICON_Faith] geloof mogelijk. Maakt planten van bos met bouwers mogelijk (tweede-groei). Bos op je gebied dat nog nooit is gekapt (oude-groei) verdient +1 aanlokking.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Maakt een defensief pact mogelijk. Maakt het mogelijk om drie identieke eenheden om te vormen tot een leger of armada. Geeft je een nieuwe casus belli die als rechtvaardiging voor een oorlog kan gelden: oorlog van territoriale expansie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
+			<Text>Geeft je de mogelijkheid om een extra spion op te leiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
+			<Text>Geeft je de mogelijkheid om een extra spion op te leiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
+			<Text>Onthult [ICON_RESOURCE_SHIPWRECK] scheepswrakken en maakt het voor archeologen mogelijk daaruit [ICON_GreatWork_Artifact] artefacten op te diepen. Beloont je met 3 [ICON_Envoy] gezanten. </Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
+			<Text>Maakt het transport van landeenheden tussen vliegveldwijken die een luchthaven hebben mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
+			<Text>+1 [ICON_Gold] goud naar plantages. Kan meermalen worden voltooid, je punten richting een score-overwinning opstapelend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Kan meermalen worden voltooid, je punten richting een score-overwinning opstapelend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
+			<Text>Beloont je met {1_NumOfEnvoys} [ICON_Envoy] {1_NumOfEnvoys : plural 1?gezant; other?gezanten;}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
+			<Text>verbeter 3 gebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
+			<Text>ontdek een tweede continent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
+			<Text>veeg een barbaarse buitenpost schoon.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
+			<Text>leg een wijk aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
+			<Text>zorg voor beschaving van min. 6 inwoners.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MYSTICISM">
+			<Text>sticht een Pantheon.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
+			<Text>onderzoek constructietechniek.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
+			<Text>ontmoet drie stadstaten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
+			<Text>bouw een wonder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
+			<Text>bouw een kampement.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
+			<Text>wees doel van oorlogsverklaring.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
+			<Text>bouw twee campuswijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_THEOLOGY">
+			<Text>sticht een religie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
+			<Text>dood een eenheid met een galei.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_FEUDALISM">
+			<Text>bouw 6 boerderijen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
+			<Text>stad met min. 10 inwoners.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
+			<Text>zorg voor 8 landgevechtseenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
+			<Text>onderhoud vier handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_GUILDS">
+			<Text>bouw twee markten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
+			<Text>bouw twee tempels.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_EXPLORATION">
+			<Text>bouw twee zeilschepen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_HUMANISM">
+			<Text>verdien een Grote Artiest.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
+			<Text>bondgenootschap met andere beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
+			<Text>zes steden die jouw religie aanhangen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
+			<Text>Verdien een Grote Koopman.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
+			<Text>verdien drie Belangrijke Personen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
+			<Text>zeven wijken met verschillende specialiteiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_NATIONALISM">
+			<Text>verklaar oorlog met gebruik van een casus belli.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
+			<Text>bouw een kunstmuseum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_COLONIALISM">
+			<Text>onderzoek astronomie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
+			<Text>bouw een archeologisch museum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_URBANIZATION">
+			<Text>stad met min. 15 inwoners.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
+			<Text>bouw twee veldkanonnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CONSERVATION">
+			<Text>buurtschap met lokkracht 'adembenemend'.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
+			<Text>drie korpsen in je militaire macht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
+			<Text>onderzoek radio.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CAPITALISM">
+			<Text>bouw drie aandelenbeurzen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
+			<Text>bouw een onderzoekslaboratorium.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
+			<Text>bouw vier riolen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
+			<Text>bouw drie militaire academies.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
+			<Text>bouw drie fabrieken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_COLD_WAR">
+			<Text>onderzoek kernfusie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
+			<Text>leg vier uitgaanscentra aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
+			<Text>heb een themamuseum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
+			<Text>bouw een vliegveld of landingsbaan op een buitenlands continent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
+			<Text>bouw een ruimtehavenwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
+			<Text>bouw drie luchthavens.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
+			<Text>onderzoek telecommunicatie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
+			<Text>Nu het land rond onze eerste stad zich aardig ontwikkelt kunnen we onze productie gaan verfijnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
+			<Text>Nu we een ander continent hebben ontdekt realiseren we ons dat er uitgebreide handelsmogelijkheden liggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
+			<Text>Je soldaten hopen dat de overwinning op een barbaarse buitenpost een eerste is in een lange reeks van militaire zeges.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
+			<Text>Met onze eerste wijk in functie hebben we de waarde van rijksprojecten aangetoond.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
+			<Text>Het groeiende aantal burgers in je land droomt van het hebben van een rijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
+			<Text>Aanbidding van je Pantheon heeft meer spirituele kwesties in onze wereld opgeroepen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
+			<Text>Je nieuwe bouwvaardigheden zullen zeker revenuen opleveren voor spel en vermaak.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
+			<Text>Je contact met andere staten heeft je ideeën over hoe over je eigen volk te regeren verhelderd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
+			<Text>De completering van een wonder heeft je volk nieuwe energie gegeven. Ze schrijven boeken om deze grote gebeurtenis te memoreren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
+			<Text>Nu we een kampement hebben kunnen we onze militaire training beter vormgeven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
+			<Text>Geconfronteerd met een dreigende invasie komen je burgers met innovatieve verdedigingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
+			<Text>Vanwege de plannen om zoveel mogelijk documenten op te nemen in de bibliotheken van je campussen, beginnen mensen de geschiedenis van je rijk vast te leggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
+			<Text>De stichting van een religie door je Grote Profeet inspireert tot diepere gedachten over de natuur van het goddelijke.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
+			<Text>Je overwinning op zee doet de mensen ernaar verlangen om een zeemacht te worden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
+			<Text>Om de boerenlanden van je rijk te managen wordt een systeem van landheren en vazallen bedacht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
+			<Text>Je grote stadscentrum zal binnenkort een bureaucratisch korps nodig hebben.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
+			<Text>Je zou kunnen overwegen huurlingen aan te trekken om je leger verder te laten groeien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
+			<Text>De toename van handel in je land zal spoedig een handelsmarkt aantrekken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
+			<Text>Het succes van je commerciële wijken heeft de groei van handelsgilden bespoedigd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
+			<Text>Je devote bevolking gelooft sterk dat jouw regeren een zegen van het goddelijke is.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
+			<Text>De lessen die je hebt geleerd door de verkenningen met zeilschepen hebben tot een nieuwe manier van regeren geleid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
+			<Text>De inspiratie opgedaan door je pas verworven Grote Artiest heeft bij je mensen de kracht van het individu wakker gemaakt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
+			<Text>De inspanning om een alliantie op te bouwen was een goede traing voor je eerste korps diplomaten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
+			<Text>De groei van je religie komt met het gevaar van een schisma. Grijp beter meteen in bij corrupte kerkpraktijken!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
+			<Text>Je nieuwe Grote Koopman wisselt gedachten uit over hoe we aan de top van onze economische medestrijders kunnen komen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
+			<Text>De ideeën van je bevolking hebben de landelijke intellectuele discussie geïnspireerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
+			<Text>Je nieuwe kennis van de sterrenhemel helpt je bij navigatie en het realiseren van een wereldrijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
+			<Text>Na de bouw van zoveel diverse wijken zijn je ingenieurs zeer bekwaam geworden in stadsbouw.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
+			<Text>Je bevolking gelooft in de juistheid van deze oorlog. Het is een kwestie van nationale trots geworden voor ons!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
+			<Text>De onthulling van een nieuw museum trekt mensen naar de kunsten. Misschien zijn dans en opera de volgende trekker?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
+			<Text>Nu je een museum hebt dat alles kan bewaren wat je hebt gevonden, wordt het tijd om te zien wat je nog meer kunt ontdekken in de wereld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
+			<Text>Je grote stad raakt overbevolkt. Het wordt tijd buitenwijken te plannen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
+			<Text>Moderne oorlogsvoering is duidelijk een ruwe aangelegenheid. Je militaire doctrine begint zich te buigen over sommige principes van totale oorlog.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
+			<Text>De bewoners van je adembenemende nieuwe buurt schreeuwen om een plan om alle natuurlijke schatten van de wereld te kunnen bewaren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
+			<Text>Bij de komst van de radio wenkt een nieuw communicatietijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
+			<Text>Je militaire macht is beter georganiseerd. Nu is het tijd om je op het wereldpodium te laten gelden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
+			<Text>Aandelenbeurzen ontspruiten in verschillende steden; met genoeg investeringskapitaal is een markteconomie klaar voor opkomst.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
+			<Text>Met een toegewijd onderzoekslaboratorium begin je wetenschappers te werven, zodat een nucleair onderzoeksprogramma van start kan gaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
+			<Text>De vrouwen in je rijk schreeuwen om fatsoenlijke sanitaire voorzieningen. Die strijd gewonnen hebbend, vragen ze nu om stemrecht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
+			<Text>De door je militaire academies ingeprente discipline is nu een tweede natuur voor je burgers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
+			<Text>Je fabrieksarbeiders schreeuwen om betere arbeidsomstandigheden. Het is tijd dat de arbeiders van de wereld zich verenigen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
+			<Text>De opkomst van nucleaire wapens zal de natuur van gewapende conflicten in de wereld zeker veranderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
+			<Text>Je vier steden met een vermaakcentrum willen de strijd aangaan in een nieuwe professionele sportliga.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
+			<Text>Met een perfect verzorgd museum kan het sterke culturele erfgoed van je burgers's voor iedereen tentoon worden gesteld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
+			<Text>Nu je luchtbases de hele wereld omvatten, kan je militaire macht overal in de wereld worden ingezet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
+			<Text>De onthulling van je nieuwe ruimtehaven heeft je mensen ertoe aangezet naar de ruimte te willen doorstoten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
+			<Text>Met zoveel luchthavens is de wereld waarlijk een kleinere plaats geworden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
+			<Text>Je vorderingen in communicatietechnologie stellen de mensen in staat om online te vergaderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVERNMENT_OF">
+			<Text>Regering van {1_civ}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CHANGE_GOVERNMENT">
+			<Text>Wijziging regering</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MY_GOVERNMENT">
+			<Text>Mijn regering</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_policIES">
+			<Text>Beleidsopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVERNMENTS">
+			<Text>Regeringen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CULTURE_PER_TURN">
+			<Text>Cultuur per beurt: +{1_Culture}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MILITARY">
+			<Text>Militair</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ECONOMIC">
+			<Text>Economisch</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMATIC">
+			<Text>Diplomatiek</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_WILDCARD">
+			<Text>Wildcard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_EMPTY_POLICY_SLOT">
+			<Text>Lege plaats voor {1_policyType}-beleid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_AVAIL_policIES">
+			<Text>Geen beschikbare beleidsopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIEW_LOCKED_policIES">
+			<Text>Toon afgesloten beleidsopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
+			<Text>Geen bonus.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
+			<Text>Hoofdstad ontvangt +1 boost voor alle opbrengsten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
+			<Text>Alle melee-landeenheden verdienen +4 [ICON_Strength] gevechtskracht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
+			<Text>Alle steden met een wijk ontvangen +1 [ICON_Amenities] voorzieningen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
+			<Text>+2 [ICON_Housing] huisvesting in iedere stad met middeleeuwse muren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
+			<Text>Kunt landgevechtseenheden kopen met geloof. Alle eenheden krijgen +5 [ICON_Religion] religieuze kracht in theologische strijd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
+			<Text>+2 [ICON_TradeRoute] handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
+			<Text>Alle gevechtseenheden verdienen +4 [ICON_Strength] gevechtskracht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
+			<Text>Landeenheden verdienen +4 [ICON_Strength] gevechtskracht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
+			<Text>Bescherming van Belangrijke Personen kost 50% minder goud.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
+			<Text>Geen bonus.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
+			<Text>Bonus op productie wonder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
+			<Text>Ervaring voor gevechtseenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
+			<Text>Bonus Belangrijk Persoon-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
+			<Text>Bonus invloed punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
+			<Text>Korting op kopen met geloof.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
+			<Text>Korting op kopen met goud.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
+			<Text>Bonus op productie eenheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
+			<Text>Bonus op alle productie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
+			<Text>Bonus opbrengsten van wijkprojecten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
+			<Text>Geen bonus.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
+			<Text>Bonus op [ICON_Production] productie van wonder (10%, plus 1% voor iedere 20 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
+			<Text>Bonus gevechtservaring voor eenheden (20%, plus 1% voor iedere 5 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
+			<Text>Bonus [ICON_GreatPerson] Belangrijk Persoon-punten (15%, plus 1% voor iedere 15 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
+			<Text>Bonus invloed punten richting [ICON_Envoy] gezanten (20%, plus 1% voor iedere 10 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
+			<Text>Korting op [ICON_Faith] kopen met geloof (15%, plus 1% voor iedere 15 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
+			<Text>Korting op [ICON_Gold] kopen met goud (15%, plus 1% voor iedere 15 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
+			<Text>Bonus naar [ICON_Production] productie eenheid (20%, plus 1% voor iedere 10 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
+			<Text>Bonus naar alle [ICON_Production] productie (10%, plus 1% voor iedere 20 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
+			<Text>Bonus opbrengsten wijkprojecten (30%, plus 1% voor iedere 10 beurten op standaardsnelheid).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
+			<Text>Geen {1_policyName} meer inzetbaar voor deze regering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
+			<Text>Geen {1_policyName} inzetbaar onder deze regering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
+			<Text>Nog {1_Num: number #} {1_Num : plural 1?beleidsoptie; other?beleidsopties;} plaatsbaar in {2_policyName}gebied.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
+			<Text>{1_Num: number #} {1_Num : plural 1?beleidsoptie; other?beleidsopties;} plaatsbaar in {2_policyName}gebied.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
+			<Text>Verdien {1_InfluencePointRate} invloeds{1_InfluencePointRate : plural 1?punt; other?punten;} per [ICON_Turn] beurt. Bij {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?punt; other?punten;}, verdien {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?gezant; other?gezanten;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_PLACEHOLDER_DESC">
+			<Text>Platshouder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
+			<Text>+100% theaterwijk-nabijheidsbonussen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting gevechtseenheden uit het oude en klassieke tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>Je [ICON_TradeRoute] handelsroutes naar een geallieerde stad voorzien in +2 [ICON_Food] voedsel en +2 [ICON_Production] productie voor beide steden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
+			<Text>+6 [ICON_Strength] stadsverdedingskracht. +5 [ICON_Ranged] stadsgevechtskracht op afstand.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
+			<Text>+2 [ICON_Gold] goud van alle [ICON_TradeRoute] handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
+			<Text>+2 invloed punten per beurt richting het verdienen van [ICON_Envoy] gezanten stadstaat.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting lichte en zware cavalerie-eenheden uit middeleeuwen, Renaissance en industriële tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
+			<Text>+10% [ICON_Culture] cultuur per stadstaat waar je suzerein van bent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
+			<Text>+4 [ICON_Food] voedsel van binnenlandse [ICON_TradeRoute] handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% snellere groei voor steden op een ander continent dan dat van je oorspronkelijke [ICON_Capital] hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] goud in steden op een ander continent dan dat van je oorspronkelijke [ICON_Capital] hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting kolonisten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
+			<Text>Onderhoud eenheden verminderd met 1 [ICON_Gold] goud per beurt per eenheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
+			<Text>Iedere [ICON_Envoy] gezant die je naar een stadstaat zendt geldt voor twee als zijn suzerein een andere regering heeft dan jij.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CORVEE_DESCRIPTION">
+			<Text>+15% [ICON_Production] productie richting oude en klassieke wonderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
+			<Text>100% bonus voor nabijheid industriegebied.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
+			<Text>Niveau vijandelijke spion in jouw gebied gereduceerd met 2. Jouw spionniveau is verhoogd met 1 voor offensieve operaties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
+			<Text>Geen oorlogsmoeheid van strijd op jouw gebied.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
+			<Text>De eerste [ICON_Envoy] gezant die je naar iedere stadstaat zendt telt voor twee [ICON_Envoy] gezanten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] gevechtskracht tegen barbaren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
+			<Text>+5 [ICON_Production] productie en +10 [ICON_Gold] goud van internationale [ICON_TradeRoute] handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
+			<Text>+100% bonus voor nabijheid commercieel centrum en havenwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
+			<Text>Kosten kolonist verminderd met 50%. Kosten koop perceel verminderd met 20%.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting gevechtseenheden uit middeleeuwen en Renaissance.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting moderne en nucleaire luchteenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
+			<Text>+100% bonus voor nabijheid voor industriële en campuswijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>+100% [ICON_Gold] goudopbrengst van gebouwen in commercieel centrum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
+			<Text>+2 [ICON_GreatArtist] Grote Artiest-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
+			<Text>+1 [ICON_Faith] geloof en +1 [ICON_Gold] goud in de [ICON_Capital] hoofdstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
+			<Text>+15% [ICON_Production] productie richting wonderen uit middeleeuwen en Renaissance.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting gevechtseenheden uit industriële en moderne tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>+100% [ICON_Culture] cultuuropbrengst van gebouwen in theaterwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
+			<Text>Open grenzen met alle stadstaten en +4 invloed punten per beurt richting het verdienen van [ICON_Envoy] gezanten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] toerisme van [ICON_GreatWork_Landscape] Grote Kunstwerken en [ICON_GreatWork_Artifact] artefacten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_ILKUM_DESCRIPTION">
+			<Text>+30% [ICON_Production] productie richting bouwers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
+			<Text>+2 [ICON_GreatScientist] Grote Wetenschapper-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_INSULAE_DESCRIPTION">
+			<Text>+1 [ICON_Housing] huisvesting in alle steden met ten minste twee gespecialiseerde wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
+			<Text>+15% [ICON_Production] productie richting ruimtewedloop als een stad of een militaire academie of een zeehaven heeft.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
+			<Text>+10% [ICON_Science] wetenschap per stadstaat waar je suzerein van bent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
+			<Text>+100% [ICON_Production] productie richting maritieme eenheden uit het moderne, nucleaire in informatietijdperk, exclusief vliegdekschepen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
+			<Text>+2 [ICON_GreatEngineer] Grote Ingenieur-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
+			<Text>+4 [ICON_GreatMerchant] Grote Koopman-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
+			<Text>Verminderd de kosten van het kopen van een gebiedsdeel met 20%.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
+			<Text>Onderhoudskosten eenheden gereduceerd met 2 [ICON_Gold] goud per beurt per eenheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] voorzieningen naar alle steden met ten minste twee gespecialiseerde wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie voor lichte en zware cavalerie-eenheden uit het moderne, nucleaire en informatietijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LIMES_DESCRIPTION">
+			<Text>+100% [ICON_Production] productie richting defensieve gebouwen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
+			<Text>+2 [ICON_GreatWriter] Grote Schrijver-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
+			<Text>+1 verplaatsing als de beurt is gestart op vriendschappelijk terrein.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting spionnen. Operaties van spionnen nemen 25% minder tijd in beslag.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting lichte en zware cavalerie-eenheden uit het oude en klassieke tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
+			<Text>+100% [ICON_Production] productie richting maritieme eenheden uit het oude en klassieke tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
+			<Text>+1 [ICON_Gold] goud van je internationale [ICON_TradeRoute] handelsroutes per verbeterde luxe- en strategische hulpbron in de aankomstplaats; +2 [ICON_Culture] cultuur en +2 [ICON_Science] wetenschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Bouw 25% minder oorlogsmoeheid op dan gewoonlijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
+			<Text>+2 [ICON_Housing] huisvesting in alle steden met ten minste drie gespecialiseerde wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Gold] goud van al je [ICON_Envoy] gezanten in stadstaten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
+			<Text>Iedere stad ontvangt +1 [ICON_Culture] cultuur voor iedere door die stad aangelegde gespecialiseerde wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
+			<Text>+50% [ICON_Production] productie richting gevechtseenheden uit het nucleaire en informatietijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
+			<Text>+4 [ICON_GreatGeneral] Grote Generaal-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
+			<Text>Militaire academies en zeehavens genereren +1 [ICON_Science] wetenschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
+			<Text>Eenheden hebben qua [ICON_Strength] gevechtskracht 50% minder last van verwondingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
+			<Text>Overwinningen op eenheden uit eerdere tijdperken voorzien in [ICON_Gold] goud gelijk aan 50% van de [ICON_Strength] gevechtskracht van de verslagen eenheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
+			<Text>+100% bonus voor nabijheid campuswijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+100% bonus voor nabijheid havenwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
+			<Text>+2 [ICON_GreatAdmiral] Grote Generaal-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
+			<Text>+4 [ICON_Housing] huisvesting, +2 [ICON_Amenities] voorzieningen en -8 [ICON_Gold] goud naar alle steden met ten minste drie gespecialiseerde wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
+			<Text>+4 [ICON_GreatScientist] Grote Wetenschapper-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
+			<Text>Spionnen die een techniek versnelling bonus stelen zonder ontdekt te worden verdienen een extra boost.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
+			<Text>+50% [ICON_Tourism] toerisme-output voor beschavingen naar wie je een [ICON_TradeRoute] handelsroute hebt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
+			<Text>+100% [ICON_Production] productie richting ondersteunende eenheden uit het moderne, nucleaire en informatietijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Niveau vijandelijke spionnen met 2 verminderd in je land. Maar alle steden lijden een verlies van -1 [ICON_Amenities] voorzieningen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
+			<Text>100% [ICON_Production] productie richting maritieme eenheden uit Renaissance en industriële tijdperk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
+			<Text>50% korting op alle eenhedenupgrades.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
+			<Text>Bouwt 25% minder oorlogsmoeheid op dan gewoonlijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
+			<Text>Ontvang 50 [ICON_Gold] goud per punt aan lokkracht van gebiedsdeel wanneer je een boerderij door een buurtschap vervangt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
+			<Text>+30% [ICON_Production] productie richting bouwers en nieuw opgeleide bouwers verdienen twee extra bouwacties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_RAJ_DESCRIPTION">
+			<Text>+2 [ICON_Science] wetenschap, [ICON_Culture] cultuur, [ICON_Faith] geloof en [ICON_Gold] goud van iedere stadstaat waarvan je suzerein bent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_RAID_DESCRIPTION">
+			<Text>Oogsten verdiend door plundering worden verdubbeld voor het plunderen van verbeteringen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>+100% [ICON_Science] wetenschap van gebouwen in campuswijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
+			<Text>Alle religieuze eenheden krijgen +5 [ICON_Religion] religieuze kracht in theologische strijd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
+			<Text>Eén exemplaar van een strategische hulpbron staat je toe in welke stad dan ook eenheden te produceren en te verkopen die deze bron vereisen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] voorzieningen voor steden met een eenheid in garnizoen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_REVELATION_DESCRIPTION">
+			<Text>+2 [ICON_GreatProphet] Grote Profeet-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SACK_DESCRIPTION">
+			<Text>Opbrengsten van plundering worden verdubbeld bij het plunderen van wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
+			<Text>Verdriedubbelt [ICON_Tourism] toerisme van [ICON_GreatWork_Music] Grote Muziekwerken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
+			<Text>+100% bonus voor nabijheid Heilige Plaats.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
+			<Text>Nieuw opgeleide bouwers verdienen twee extra bouwacties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Verdubbelt [ICON_Faith] geloof van gebouwen in Heilige Plaats-wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
+			<Text>+15% [ICON_Production] productie richting wonderen uit industriële en latere tijdperken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
+			<Text>+100% bonus voor nabijheid theaterwijk en stadions genereren +1 [ICON_Amenities] voorzieningen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
+			<Text>+50 [ICON_Production] richting luchteenheden uit het informatietijdperk en richting alle vliegdekschepen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
+			<Text>+2 [ICON_GreatGeneral] Grote Generaal-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
+			<Text>Verdubbelt ervaring van verkenningseenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
+			<Text>+4 [ICON_GreatMusician] Grote Muzikant-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] goud van ieder onderzoekslaboratorium, militaire academie en krachtcentrale.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
+			<Text>Oogst van plundering wordt verdubbeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
+			<Text>+100% bonus voor nabijheid commerciële wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Culture] cultuur en +1 [ICON_Science] wetenschap van internationale [ICON_TradeRoute] handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
+			<Text>+2 [ICON_GreatMerchant] Grote Koopman-punten per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] goud en +1 [ICON_Faith] geloof van alle [ICON_TradeRoute] handelsroutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
+			<Text>+1 [ICON_Production] productie in alle steden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
+			<Text>+30% [ICON_Production] productie richting legerplaatsen en de gebouwen voor die wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
+			<Text>+4 [ICON_Strength] gevechtskracht bij strijd tegen beschavingen die een andere religie aanhangen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
+			<Text>+4 Oligarchie-bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_STARTED">
+			<Text>Voortgang gestart richting staatsbestel: {1_CivicName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVIC_COMPLETE">
+			<Text>Staatbestel voltooid: {1_CivicName}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

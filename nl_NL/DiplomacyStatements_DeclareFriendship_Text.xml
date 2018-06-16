@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>We zijn blij je aanbod van vriendschap te kunnen accepteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Namens het Congolese volk accepteer ik je vriendschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ik accepteer je aanbod van vriendschap. En je bent uiteraard uitgenodigd voor de eerstvolgende koninklijke bruiloft.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Mooi. Ik hoop alleen dat je meer een Marcus Antonius dan een Brutus bent.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Een sterke bondgenoot is de grootste vriend. Laten we in vrede leven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ik accepteer je aanbod van vriendschap. Moge het worden gezegend met vrede.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh accepteert graag je vriendschap. Laat de wereld weten dat we gezworen vrienden zijn!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Je hebt bewezen een goede vriend van Sparta te zijn. Geaccepteerd namens mijn volk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Vrienden? Ja, ik ben een vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Ik zie in jou de vrede en rust van een strijder en die vriendschap verwelkom ik.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We aanvaarden met graagte je aanbod van vriendschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Terwille van de democratie accepteer ik je vriendschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Je aanbod is vriendelijk. Ik accepteer het als het beste voor jouw en mijn volk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Je bent door de Heer gezegend en een vriend voor me. Laat de wereld weten dat je door Zijn macht beschermd wordt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Je hebt je als een waardige vriend van het koninkrijk bewezen, we aanvaarden je aanbod.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Ik begrijp dat je een vriend van onze natie bent. Laten we onze vriendschap aan de wereld verklaren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Daar kan ik geen nee tegen zeggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ik zal je vriendschap accepteren, maar schend mijn vertrouwen niet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Laat weten dat je rijk een vriend van ons is en dat we ons zullen verbinden in vriendschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Ja, dit doet ons plezier. Onze naties zullen hiervan zeker profiteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>We zijn hierin momenteel niet geïnteresseerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Congo is nog niet klaar voor je vriendschap. Laat onze relatie eerst maar eens rijpen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Sorry, dit is een te plotselinge verandering. Misschien een andere keer?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ha! Ik tel keizers en farao's onder mijn metgezellen; wat doet je denken daarbij te mogen horen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Nee, ik kan je vriendschap niet accepteren, voor de bestwil van mijn rijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Ik kan deze overeenkomst niet met je aangaan. Begrijp me, het is echt het beste.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh is geen vriend van je.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sparta heeft je vriendschap niet nodig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Nee, zelfs niet voor alle schatten in Asgard.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>In het belang van ons volk en namens de keizer moet ik nee zeggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Nee, we zullen geen vrienden kunnen worden, tenzij je ons van het tegendeel kunt overtuigen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ik met afwijzen. Een oude vriend is beter dan twee nieuwe.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Nee, ik accepteer je aanbod niet. Je bent een zondaar en geen vriend van Spanje.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Je bent onze vriendschap nog niet waard.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Je aanbod is genereus en vriendelijk, maar we moeten het in alle nederigheid afwijzen totdat we zeker kunnen zijn van je intenties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Ik geef mijn vriendschap niet lichtvaardig weg. Je moet eerst mijn vertrouwen verdienen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Rome moet  Rome blijven: een vriend van alleen zichzelf.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Het is te vroeg om zo'n afspraak te maken. We zullen het natuurlijk op een geschikt moment opnieuw bezien, dat begrijp je toch?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
+			<Text>Zou je ons formeel vriendschap willen verklaren?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Ik steek mijn hand in vriendschap naar je uit. Laat ons volk broeders en zusters onder de Heer zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ik reik je de koninklijke hand in vriendschap. Aangenomen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Velen zouden een moord begaan voor mijn vriendschap. Het is een genereus aanbod. Wat is je antwoord?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>We reiken je wederom de hand, maar dit keer in vriendschap. Aangenomen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ik neem aan dat leiderschap soms geweld betekent, maar vandaag betekent het met elkaar overweg kunnen. Dus... wil je mijn vriendschap accepteren?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>De hele wereld weet hoe genereus ik ben tegenover mijn vrienden. Laten we dus vrienden zijn en geen vijanden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Hierbij bied ik je Sparta’s vriendschap aan. Aangenomen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Op al mijn reizen ben ik niemand groter dan ikzelf tegengekomen totdat ik jou ontmoette. Laten we vrienden zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Je bent harmonieus en wijs. We bieden je trouw en eer aan als je onze vriendschap accepteert.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Wil je ons formeel vriendschap verklaren?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Laten we onze verschillen even opzij zetten. Vriendschap is belangrijker dan kleinzielig beleid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ik ben vereerd je mijn vriendschap te kunnen aanbieden. Aangenomen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Ik geloof dat jij de wijsheid en het licht van de Heer hebt gezien. Laten we zijn zegen delen in vriendschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Laat je vriendschap met ons alsjeblieft terugkeren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Je hebt jezelf als een wijs en rechtvaaardig leider bewezen. Wil je mijn aanbod van vriendschap accepteren?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Je hebt mijn respect verdiend. Zullen we onze vriendschap verklaren?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Vriendschap tussen naties is een zeer waardevol iets. Laten we het hebben.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Glorieus Rome doet je aan aanbod van vriendschap. Aangenomen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>We zijn blij je als een gewaardeerde vriend te kunnen beschouwen. We hopen dat dat wederzijds is…</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Uitstekend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Hartelijk bedankt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Bedankt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Hoe kan ik je bedanken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Bedankt, vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Bedankt, vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Bedankt!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Bedankt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Bedankt, vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Bedankt, vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Uitstekend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Bedankt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Je hebt mijn dankbaarheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Moge God je zegenen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>We zijn dankbaar.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Moge Allah je zegenen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Je hebt mijn dank.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Bedankt, vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Heel veel dank.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Je bent zeer vriendelijk en attent geweest.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Hoe ongelukkig!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Dat is ontzetttend jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Dan volgende keer misschien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Een ongelukkige beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Ben je gek?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Jammer...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Jammer…</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Stom, stom…</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Pech gehad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Let op wat je zegt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Dat is heel jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Denk er nog eens over.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Wat jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Wat jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
+			<Text>Sorry, maar we kunnen ons momenteel geen formele vriendschap veroorloven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_POSITIVE">
+			<Text>We willen de wereld graag laten weten dat we samen zullen optrekken als vrienden.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

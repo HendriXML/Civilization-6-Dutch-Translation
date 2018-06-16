@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_ANY_ANY">
+			<Text>Ik had nooit gedacht dat het einde zo spoedig zou komen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Je bent niets anders dan een overwonnen barbaar. Wreed en hardvochtig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ik ben oud genoeg om te weten wanneer ik verslagen ben. Ga verder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Egypte is verloren. Als ik mijn lief niet kan omhelzen, dan maar de adders.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Wij waren de verhevenen en glorieuzen...maar nee, laat maar zitten. Je hebt gewonnen. Moge jouw rijk vredelievender zijn dan het mijne ooit was.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Je kunt me boeien, martelen of zelfs mijn lichaam vernietigen, maar je zult mijn geest nooit gevangennemen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Welk verraad heeft mij dit aangedaan? Nee, welk kwaad?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Ares heeft ons verlaten. Sparta is verslagen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Ik ga me aansluiten bij de Einherjar in Valhalla en feesten, terwijl jij hier verder ploetert.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Maak alsjeblieft een einde aan deze schande voor mijn familie...voor mijn volk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Moge God deze laatste wensen vervullen - vrede en welvaart voor Brazilië.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Je hebt ons weliswaar verslagen, maar wat we achterlaten is verweven met de levens van anderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ik ben verslagen. Het leven gaat niet over rozen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Mijn land...mijn koninkrijk...waarom, God? Waarom heb je me verlaten?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ANY">
+			<Text>Ik had nooit gedacht dat dit zou kunnen gebeuren...niet op deze manier.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Dit is geen overwinning. Een overwinning beroert de harten van je tegenstanders door zachtheid en vriendelijkheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Gefeliciteerd. In plaats van de Verenigde Staten van Amerika zal jouw natie het ver schoppen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>De keizerin valt, maar zal worden herinnerd. Jij ook?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Het welbevinden van de verslagenen is de hoop op niet nog veel meer welbevinden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Dit ernstige en grievende verlies kan niet lang worden gedragen en Engeland, dank voorzienigheid, zal weer herrijzen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_ANY_ANY">
+			<Text>Ik had nooit gedacht dat het einde zo spoedig zou komen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Je bent niets anders dan een overwonnen barbaar. Wreed en hardvochtig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ik ben oud genoeg om te weten wanneer ik verslagen ben. Ga verder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Egypte is verloren. Als ik mijn lief niet kan omhelzen, dan maar de adders.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Wij waren de verhevenen en glorieuzen...maar nee, laat maar zitten. Je hebt gewonnen. Moge jouw rijk vredelievender zijn dan het mijne ooit was.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Je kunt me boeien, martelen of zelfs mijn lichaam vernietigen, maar je zult mijn geest nooit gevangennemen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Welk verraad heeft mij dit aangedaan? Nee, welk kwaad?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Ares heeft ons verlaten. Sparta is verslagen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Ik ga me aansluiten bij de Einherjar in Valhalla en feesten, terwijl jij hier verder ploetert.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Maak alsjeblieft een einde aan deze schande voor mijn familie...voor mijn volk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Huitzilopochtli vergeef ons onze zwakte...mijn zwakte. Ik was niet sterk genoeg om je te dienen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Moge God deze laatste wensen vervullen - vrede en welvaart voor Brazilië.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Je hebt ons weliswaar verslagen, maar wat we achterlaten is verweven met de levens van anderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ik ben verslagen. Het leven gaat niet over rozen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Mijn land...mijn koninkrijk...waarom, God? Waarom heb je me verlaten?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Ik had nooit gedacht dat dit zou kunnen gebeuren...niet op deze manier.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Dit is geen overwinning. Een overwinning beroert de harten van je tegenstanders door zachtheid en vriendelijkheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Gefeliciteerd. In plaats van de Verenigde Staten van Amerika zal jouw natie het ver schoppen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>De keizerin valt, maar zal worden herinnerd. Jij ook?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Het welbevinden van de verslagenen is de hoop op niet nog veel meer welbevinden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Dit ernstige en grievende verlies kan niet lang worden gedragen en Engeland, dank voorzienigheid, zal weer herrijzen.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

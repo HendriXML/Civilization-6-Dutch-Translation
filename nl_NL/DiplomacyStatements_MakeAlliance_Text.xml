@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>We accepteren graag je aanbod van een bondgenootschap.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Ik kies mijn bondgenoten zorgvuldig en jij bent het naar mijn idee waard.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Je bent een vriend van ons rijk geweest. Ik zou het een eer vinden als je een bondgenootschap met ons wil aangaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Je hebt mijn respect verdiend. Zullen we eeen bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Wil je een bondgenootschap aangaan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+			<Text>Prachtig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_NEGATIVE">
+			<Text>Sorry, maar we kunnen ons momenteel niet aan een bondgenootschap committeren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_POSITIVE">
+			<Text>We zijn blij om de wereld te laten weten dat we een bondgenootschap hebben.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

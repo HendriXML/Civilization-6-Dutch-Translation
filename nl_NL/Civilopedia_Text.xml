@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Concepts</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Major Civilizations</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_LEADERS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Leaders</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CITYSTATES_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">City-States</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_DISTRICTS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Districts</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_BUILDINGS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Buildings</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_WONDERS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Wonders and Projects</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_UNITS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Units</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Unit Promotions</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Great People</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Technologies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CIVICS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Civics</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Governments and Policies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RELIGIONS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Religions</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_FEATURES_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Terrains and Features</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RESOURCES_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Resources</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Improvements and Routes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Introduction</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Basic Concepts</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Getting Started</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Historical Context</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Summary</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Detailed Approach</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Introduction</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Cultural</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Industrial</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Militaristic</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Religious</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Scientific</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Trade</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Terrains</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Features</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Natural Wonders</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Governments</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Military Policies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Economic Policies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Diplomatic Policies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Great Person Policies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Wildcard Policies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Improvements</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Routes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Historic Religions</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Pantheon Beliefs</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Worship Beliefs</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Follower Beliefs</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Founder Beliefs</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Enhancer Beliefs</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Luxury</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Strategic</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Artifact</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Wonders</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Projects</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Unit Abilities</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

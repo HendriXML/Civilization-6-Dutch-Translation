@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+			<Text>Repareer de schade aan de buitendefensie van deze stad. Alleen mogelijk als de stad in de laatste 3 beurten niet is aangevallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Wijkgericht project dat voorziet in [ICON_Gold] goud en [ICON_GreatGeneral] Grote Generaal-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Wijkgericht project dat voorziet in [ICON_Gold] goud en [ICON_GreatAdmiral] Grote Admiraal-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Wijkgericht project dat voorziet in [ICON_Gold] goud en [ICON_GreatEngineer] Grote Ingenieur-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Wijkgericht project dat voorziet in een groot bedrag aan [ICON_Gold] goud en [ICON_GreatMerchant] Grote Koopman-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Wijkgericht project dat voorziet in [ICON_Faith] geloof en [ICON_GreatProphet] Grote Profeet-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Wijkgericht project dat voorziet in [ICON_Science] wetenschap en [ICON_GreatScientist] Grote Wetenschapper-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Wijkgericht project dat voorziet in [ICON_Culture] cultuur en een klein aantal [ICON_GreatWriter] Grote Schrijver-, [ICON_GreatArtist] Grote Artiest- en [ICON_GreatMusician] Grote Muzikant-punten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Voorzieningen en [ICON_GreatPerson] Belangrijk Persoon-punten voor [ICON_GreatEngineer] Grote Ingenieurs, [ICON_GreatMerchant] Grote Kooplieden, [ICON_GreatWriter] Grote Schrijvers, [ICON_GreatArtist] Grote Artiesten en [ICON_GreatMusician] Grote Muzikanten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+			<Text>Ruimtewedloopproject dat een kleine satelliet in een baan om de aarde brengt. Onthult iedere onbekende hoek van de wereld en markeert de eerste stap richting een wetenschappelijke overwinning.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+			<Text>Ruimtewedloopproject dat een grote raket lanceert om een mens op de maan te laten landen. Geeft een eenmalige [ICON_Culture] cultuurbonus gelijk aan 10 maal je [ICON_Science] wetenschap per beurt en markeert de tweede stap richting een wetenschappelijke overwinning.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+			<Text>Ruimtewedloopproject dat een reactormodule lanceert ten behoeve van de Marskoloniemissie. Lancering van alle drie modules levert een wetenschappelijke overwinning op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+			<Text>Ruimtewedloopproject dat een verblijfsmodule lanceert ten behoeve van de Marskoloniemissie. Lancering van alle drie modules levert een wetenschappelijke overwinning op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+			<Text>Ruimtewedloopproject dat een hydrocultuurmodule lanceert ten behoeve van de Marskoloniemissie. Lancering van alle drie modules levert een wetenschappelijke overwinning op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+			<Text>Maakt de productie van nucleaire apparaten mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+			<Text>Maakt de productie van thermonucleaire apparaten mogelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Voegt een nucleair apparaat toe aan ons staatsbezit. Vereist [ICON_Resource_Uranium] uranium. Onderhoud kost 14 [ICON_Gold] goud.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Voegt een thermonucleair apparaat toe aan ons staatsbezit. Vereist [ICON_Resource_Uranium] uranium. Onderhoud kost 16 [ICON_Gold] goud.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+			<Text>Je hebt met succes een satelliet gelanceerd! Onthult iedere onbekende hoek van de wereld en markeert de eerste stap richting een wetenschappelijke overwinning.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+			<Text>Je hebt een mens op de maan laten landen! Geeft een eenmalige [ICON_Culture] cultuurbonus gelijk aan 10 maal je [ICON_Science] wetenschap per beurt en markeert de tweede stap richting een wetenschappelijke overwinning.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+			<Text>Je hebt met succes een reactormodule gelanceerd, een hoofdonderdeel van je ruimtevaartuig naar Mars. Lancering van alle drie modules maakt het ruimtevaartuig compleet en levert een wetenschappelijke overwinning op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+			<Text>Je hebt met succes een verblijfsmodule gelanceerd, een hoofdonderdeel van je ruimtevaartuig naar Mars. Lancering van alle drie modules maakt het ruimtevaartuig compleet en levert een wetenschappelijke overwinning op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+			<Text>Je hebt met succes een hydrocultuurmodule gelanceerd, een hoofdonderdeel van je ruimtevaartuig naar Mars. Lancering van alle drie modules maakt het ruimtevaartuig compleet en levert een wetenschappelijke overwinning op.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

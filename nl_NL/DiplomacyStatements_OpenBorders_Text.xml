@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>We zullen graag onze grenzen voor je eenheden openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>We zullen graag onze grenzen voor je eenheden openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Oh, goed hoor. Je mag verder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Je mag Egypte binnen, mits je ons cultureel erfgoed respecteert.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Ik zal het toestaan, in het belang van Duitsland naar ik hoop.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>We zullen graag onze grenzen voor je eenheden openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Je mag door Sumer, mijn vriend. Naar stoor mijn volk niet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Ik zal de grens voor je open, maar blijf niet treuzelen in Sparta.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Ja, kijk maar rond. De wereld is te groot om op een plaats te blijven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Je mensen mogen onze grens over, maar dienen wel onze manieren te respecteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We zullen graag onze grenzen voor je eenheden openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Ja, we zullen je toestaan onze democratie te betreden. Misschien kun je iets van ons leren en wij van jullie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Goed. Ik verleen je hierbij toestemming om mijn land door te trekken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ja, je mag mijn land betreden. Het zou niet juist zijn dat te verbieden in een zo uitgebreid koninkrijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Natuurlijk mag je passeren. Welke bedreiging zou je kunnen vormen voor het Middle Kingdom?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Ja, je mag mijn land doorgaan, mits het ons land blijft. Ik zal dit koopje altijd prefereren boven oorlogvoering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>We zullen graag onze grenzen voor je eenheden openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>We zullen graag onze grenzen voor je eenheden openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>We zullen graag onze grenzen voor je eenheden openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>In onze dankbare erkenning van een gedeelde wens tot vrede accepteren we jullie troepen temidden van de onze.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ik kan het heleaas uit veiligheidsoverwegingen niet toestaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Je mag Egypte niet binnen. Toegang is alleen voor degenen die het waard zijn deze grond te betreden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Ik ben niet zo'n dwaas die zijn vijanden gewoon toestaat door zijn land te trekken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Nee, je mag Sumer niet door. Alleen ware bondgenoten is dat toegestaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Jij, die niet heeft gebaad in de Eurotas-- die niets weet van de agoge-- mag Sparta niet door.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Ik heb mijn koninkrijk al eens verloren op deze wijze...ik wil dat niet nog eens.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Het Pure Land staat voor jou niet open. Je mag raden waarom.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>De democratie heeft helaas tegen je doorgan gestemd voor dit moment.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ik kan geen potentiële bedreiging in mijn vaderland toelaten. Ik hoop dat je dat begrijpt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ik zal je niet toestaan mijn onderdanen te corrumperen met je verdorven manieren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Nee, ik laat vreemdelingen niet toe ons buitengewone rijk te bederven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Bij de grattie en genade van de enige ware God kan ik buitenlanders niet toestaan dit heilige land te bederven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>We hebben momenteel geen belangstelling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Ik moet je verzoek uit veiligheidsiverwegingen helaas afslaan. Ik hoop dat je er begrip voor hebt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>MIjn militairen willen graag toestemming om je land door te trekken. Vreedzaam, uiteraard.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Laat mijn volk door je land trekken. Het zal de moeite waard blijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Ik moet mijn leger door je land verplaatsen. Sta je dat toe?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamesh trekt door je land om vijanden te vermorzelen, goed?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Mijn Spartanen wensen je land te doorkruisen; wil je hen een kans op roem ontnemen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Laat je mijn Vikingen passeeren? Ze zijn onhandelbaar als ze rusteloos worden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ik verzoek je nederig toestemming om je grens te passeren.We zullen het vredig houden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Athene wil graag je land doortrekken. Sta je dat toe?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Mijn volk wil graag door je land trekken. Sta je dat toe?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Het Spaanse koninkrijk verzoekt vriendelijk door je land te mogen trekken. We doen geen kwaad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY">
+			<Text>We moeten door jouw land en verzoeken nedering toestemming daartoe.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken? Ik verzeker je dat ze vreedzaam zullen zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Sta je onze eenheden toe door je land te trekken?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>We verzoeken nederig toestemming voor onze soldaten om door je gebied te trekken. Wat is daarop je antwoord?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Uitstekend!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_NEGATIVE">
+			<Text>We gaan jullie militairen momenteel niet toelaten binnen onze grenzen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_POSITIVE">
+			<Text>Het is je eenheden toegestaan om door ons land te trekken.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

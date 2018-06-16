@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_RULESET_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Cavalry and Cannonades</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_RULESET_TEASER">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Greatly reduced unit maintanence costs.[NEWLINE][ICON_Bullet]Units no longer require strategic resources to be built.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_VICTORY_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">No Waterloo For You</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_VICTORY_TITLE_ALT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">For Iron, Land, and Glory!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_VICTORY_DESC">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_VICTORY_WIN_BLURB">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">"The battlefield is a scene of constant chaos. The winner will be the one who controls that chaos, both his own and the enemies." —Napoleon Bonaparte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_MOD_TITLE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Multiplayer Scenario: Cavalry and Cannonades</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_MOD_TEASER">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_MOD_DESCRIPTION">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_NAPOLEON_PROGRESS">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Territory Size {TerritorySize} {TerritorySizeIcon}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAX_TURNS_REACHED_PROGRESS">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Turn Limit {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">"Victory belongs to the most persevering." —Napoleon Bonaparte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Emperor Napoleon I</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">First Consul Bonaparte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Napoleon, General of the Interior</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Brigadier General Bonaparte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Lieutenant Napoleon Bonaparte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Napoleone di Buonaparte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME_ALT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Sovereign of the Iron Empire</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME_ALT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Grand Admiral of the Fleet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME_ALT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Brigadier General of the Army</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME_ALT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Cavalry Colonel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME_ALT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Captain of Artillery</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Lieutenant Martinet</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

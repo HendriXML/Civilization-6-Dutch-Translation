@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Creëert nog meer barbaren [ICON_Gold] goud indien vernietigd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om verblijfplaatsen aan zee te bouwen.[NEWLINE][NEWLINE]Verdubbelt de aantrekkingskracht van het gebiedsdeel voor [ICON_Tourism] toerisme. Kan alleen worden gebouwd in woestijn-, vlakte- of graslandgebiedsdelen aan de kust. Minimaal lokkracht 'adembenemend'.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om boerderijen te bouwen.[NEWLINE][NEWLINE]+1 [ICON_Food] Voedsel. Kan alleen worden gebouwd op grasland of vlakte.[NEWLINE][NEWLINE]Een boerderij bouwen naast een andere levert huisvestingsbonussen op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om mijnen te bouwen.[NEWLINE][NEWLINE]+1 [ICON_Production] productie. Kan alleen worden gebouwd op heuvels of bepaalde hulpbronnen.[NEWLINE][NEWLINE]Indien gebouwd op een luxegoederen- of strategische hulpbron, zal de stad het gebruik van de hulpbron verkrijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om groeves te bouwen.[NEWLINE][NEWLINE]+1 [ICON_Production] productie. Kan alleen worden gebouwd op [ICON_RESOURCE_STONE] steen-, [ICON_RESOURCE_MARBLE] marmer- of [ICON_RESOURCE_GYPSUM] gipsbronnen.[NEWLINE][NEWLINE]Indien gebouwd op een luxegoederenbron, zal de stad het gebruik van die hulpbron verkrijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om vissersboten te bouwen.[NEWLINE][NEWLINE]+1 [ICON_Food] voedsel. Kan alleen worden gebouwd aan kust of in oceaan.[NEWLINE][NEWLINE]Indien gebouwd op [ICON_RESOURCE_PEARLS] parels of [ICON_RESOURCE_WHALES] walvissen, zal de stad het gebruik van die hulpbron verkrijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een wei aan te leggen.[NEWLINE][NEWLINE]+1 [ICON_Production] productie. Kan alleen worden gebouwd bij bronnen van [ICON_RESOURCE_CATTLE] vee, [ICON_RESOURCE_SHEEP] schapen of [ICON_RESOURCE_HORSES] paarden.[NEWLINE][NEWLINE]Indien gebouwd bij [ICON_RESOURCE_HORSES] paarden-hulpbron, zal de stad het gebruik van die hulpbron verwerven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om plantages aan te leggen.[NEWLINE][NEWLINE]+1 [ICON_Gold] goud. Kan alleen worden gebouwd bij bronnen van [ICON_RESOURCE_BANANAS] bananen, [ICON_RESOURCE_CITRUS] citrusvruchten, [ICON_RESOURCE_COCOA] cacao, [ICON_RESOURCE_COFFEE] koffie, [ICON_RESOURCE_COTTON] katoen, [ICON_RESOURCE_DYES] verfstof, [ICON_RESOURCE_SILK] zijde, [ICON_RESOURCE_SPICES] specerijen, [ICON_RESOURCE_SUGAR] suiker, [ICON_RESOURCE_TEA] thee, [ICON_RESOURCE_TOBACCO] tabak of [ICON_RESOURCE_WINE] wijn.[NEWLINE][NEWLINE]Indien gebouwd op een luxegoederenbron, zal de stad het gebruik van deze hulpbron verkrijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om kampementen aan te leggen.[NEWLINE][NEWLINE]+1 [ICON_Gold] goud. Kan alleen worden gebouwd bij bronnen van [ICON_RESOURCE_FURS] bont, [ICON_RESOURCE_IVORY] ivoor, [ICON_RESOURCE_DEER] herten of [ICON_RESOURCE_TRUFFLES] truffels.[NEWLINE][NEWLINE]Indien gebouwd op een luxegoederenbron als [ICON_RESOURCE_FURS] bont, [ICON_RESOURCE_TRUFFLES] truffels of [ICON_RESOURCE_IVORY] ivoor, zal de stade het gebruik van die hulpbron verwerven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een houtmolen te bouwen.[NEWLINE][NEWLINE]+1 [ICON_Production] productie. +1 [ICON_Production] productie als naast een rivier. Kan alleen worden gebouwd in bossen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een oliebron te bouwen.[NEWLINE][NEWLINE]Kan alleen worden gebouwd op [ICON_RESOURCE_OIL] olie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om booreilanden aan te leggen.[NEWLINE][NEWLINE]Kan alleen worden gebouwd op [ICON_RESOURCE_OIL] olie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+			<Text>Bezettende eenheid ontvangt +4 [ICON_Strength] defensieve kracht en verwerft automatisch 2 beurten versterking.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de militaire ingenieur om een landingsbaan aan te leggen.[NEWLINE][NEWLINE]Kan 3 luchteenheden ondersteunen. Kan alleen worden gebouwd op vlak terrein.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een chateau te bouwen, uniek voor Frankrijk.[NEWLINE][NEWLINE]+1 [ICON_Culture] cultuur. +2 [ICON_Culture] cultuur indien naast een wonder. +1 [ICON_Gold] goud indien naast een luxegoederenbron. Kan alleen worden gebouwd langs rivieren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een Groot Hoofd te bouwen.[NEWLINE][NEWLINE]+2 [ICON_Faith] geloof. +1 [ICON_Faith] geloof voor iedere 2 nabije regenwouden. +1 [ICON_Faith] geloof voor iedere 2 nabije bossen. Kan niet worden gebouwd op sneeuw of sneeuwheuvels.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om Grote Muren te bouwen, uniek voor China.[NEWLINE][NEWLINE]Verbetert [ICON_Strength] defensie. Bonus in [ICON_Gold] goud indien naast een ander segment. Aanvullend [ICON_Culture] cultuur en [ICON_Tourism] toerisme als je techniek voor aanliggende segmenten voortschrijdt. Moet worden gebouwd langs de grens van je rijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een Koergan te bouwen, uniek voor Scythië.[NEWLINE][NEWLINE]+1 [ICON_Faith] geloof. +1 [ICON_Gold] goud. +1 [ICON_Faith] geloof voor iedere nabije wei. Kan niet worden gebouwd op heuvels.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een missie te bouwen, uniek voor Spanje.[NEWLINE][NEWLINE]+1 [ICON_Faith] geloof. +2 [ICON_Faith] geloof indien op een ander continent dan je [ICON_Capital] hoofdstad. +1 [ICON_Science] wetenschap indien naast een campus-wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid van het Romeinse legioen om een Romeins fort te bouwen, uniek voor Rome.[NEWLINE][NEWLINE]Bezettende eenheid ontvangt +4 [ICON_Strength] verdedigende kracht en krijgt automatisch 2 beurten versterking.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een sfinx te bouwen, uniek voor Egypte.[NEWLINE][NEWLINE]+1 [ICON_Faith] geloof en +1 [ICON_Culture] cultuur. +2 [ICON_Faith] geloof indien naast een wonder. Kan niet worden gebouwd naast een andere sfinx. Kan worden gebouwd op watervlaktes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een trappenbron te bouwen, uniek voor India.[NEWLINE][NEWLINE]1 [ICON_Food] voedsel en +1 [ICON_Housing] huisvesting. +1 [ICON_Faith] geloof indien naast een wijk met een Heilige Plaats. +1 [ICON_Food] voedsel indien naast een boerderij. Kan niet worden gebouwd op heuvels of naast een andere trappenbron.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de bouwer om een Ziggoerat te bouwen, uniek voor Sumeria.[NEWLINE][NEWLINE]+2 [ICON_Science] wetenschap. +1 [ICON_Culture] cultuur indien naast een rivier. Kan niet worden gebouwd op een heuvel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} Relikwie is beloond[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Je krijgt een verkenningseenheid toegekend.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Je eenheid is geëpgraded.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Je eenheid heeft ervaring opgedaan.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Je eenheid is genezen.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+			<Text>[COLOR_FLOAT_SCIENCE]Een gratis technologie.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+			<Text>+{1_Num} Nieuwe populatie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+			<Text>Je krijgt {1_Num}  {1_Num: plural 1?{2_Unit} eenheid; other?{2_Unit} eenheden;} toegekend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+			<Text>Ontsluit de mogelijkheid voor de militaire ingenieur om een raketsilo te bouwen.[NEWLINE][NEWLINE]Fungeert als lanceerplaats voor nucleaire en thermonucleaire apparaten.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

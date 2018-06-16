@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_CITY_CENTER_DESCRIPTION">
+			<Text>Dit is het stadscentrum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Een wijk in je stad voor wetenschappelijke inspanningen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: standaard [ICON_Science] wetenschapsbonus voor iedere aangrenzende berg. Kleine [ICON_Science] wetenschapsbonus voor aangrenzende wijk- en regenwoudgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Een wijk in je stad voor religieuze verering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: grote [ICON_Faith] geloofsbonus voor aangrenzende natuurlijke wonderen. Standaard [ICON_Faith] geloofsbonus voor iedere aangrenzende berg. Kleine [ICON_Faith] geloofsbonus voor aangrenzende wijkgebiedsdelen en onverbeterde bosgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Een wijk in je stad voor militaire faciliteiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Een wijk in je stad die erop is gericht je volk gelukkig te houden door uitbreiding van [ICON_Amenities] voorzieningen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Een wijk in je stad voor culturele vestigingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_THEATER_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: standaard [ICON_Culture] cultuurbonus voor ieder aangrenzend wonder. Kleine [ICON_Culture] cultuurbonus voor aangrenzende wijkgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Een wijk voor maritieme activiteiten in je stad. Verwijdert ook de [ICON_Movement] verplaatsingsstraf voor inschepen en aan land gaan van en naar dit gebiedsdeel. Moet worden gebouwd aan de kust of een meer nabij land.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] handelsroutecapaciteit</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: standaard [ICON_Gold] goudbonus voor iedere aangrenzende hulpbron aan de kust. Kleine [ICON_Gold] goudbonus voor aangrenzende wijkgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_NEIGHBORHOOD_DESCRIPTION">
+			<Text>Een wijk in je stad die voorziet in huisvesting gebaseerd op de aanlokkelijkheid van het gebiedsdeel:[NEWLINE]Adembenemend: +6 [ICON_Housing] huisvesting.[NEWLINE]Charmant: +5 [ICON_Housing] huisvesting.[NEWLINE]Gemiddeld: +4 [ICON_Housing] huisvesting.[NEWLINE]Onaantrekkelijk: +3 [ICON_Housing] huisvesting.[NEWLINE]Belabberd: +2 [ICON_Housing] huisvesting.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Een wijk in je stad voor industriële activiteiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: standaard [ICON_Production] productiebonus voor iedere aangrenzende mijn of groeve. Kleine [ICON_Production] productiebonus voor aangrenzende wijkgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Een wijk in je stad gespecialiseerd in financiën en handel.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] handelsroutecapaciteit</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: grote [ICON_Gold] goudbonus voor iedere aangrenzende havenwijk of gebiedsdeel met rivier aan de rand. Kleine [ICON_Gold] goudbonus voor aangrenzende wijkgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
+			<Text>Een wijk die de stad voorziet van zoet water van een aangrenzende rivier, meer, oase of berg. Steden die nog niet beschikken over zoet water ontvangen tot 6 [ICON_Housing] huisvesting. Steden met zoet water ontvangen in plaats daarvan +2 [ICON_Housing] huisvesting. Moet worden gebouwd naast het stadscentrum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_AERODROME_DESCRIPTION">
+			<Text>Een wijk die je de mogelijkheid geeft om vliegtuien te bouwen en onderdak te bieden. Kan niet worden gebouwd op een heuvel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION">
+			<Text>Een wijk die vereist is om wetenschappelijke projecten t.b.v. een wetenschappelijke overwinning te kunnen bouwen. Het betreft lanceren van satelliet, maanlanding en Marskolonie (bewoning en reactor). Kan niet worden gebouwd op een heuvel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION">
+			<Text>Een culturele wijk uniek voor Griekenland. Vervangt de theaterwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: stadaard [ICON_Culture] cultuurbonus voor aangrenzend stadscentrum. Standaard [ICON_Culture] cultuurbonus voor ieder aangrenzend wonder en aangrenzende wijk. Kan alleen worden gebouwd op een heuvel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_BATH_DESCRIPTION">
+			<Text>Een wijk uniek voor Rome t.b.v. stadsgroei. Vervangt de aquaductwijk.[NEWLINE][NEWLINE]Het voorziet de stad van een bron van zoet water van aangrenzende rivier, meer, oase of berg. Steden die nog niet beschikken over zoet water ontvangen tot 6 [ICON_Housing] huisvesting. Steden met zoet water ontvangen in plaats daarvan +2 [ICON_Housing] huisvesting. Moet worden gebouwd naast het stadscentrum. In ieder geval voorziet het badhuis in een extra bonus van +2 [ICON_Housing] huisvesting en +1 [ICON_Amenities] voorzieningen. Moet worden gebouwd naast het stadscentrum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HANSA_DESCRIPTION">
+			<Text>Een wijk uniek voor Duitsland voor industriële activiteiten. Vervangt de industriële wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: grote [ICON_Production] productiebonus indien grenzend aan commerciële wijk. Standaard [ICON_Production] productiebonus voor iedere aangrenzende hulpbron. Kleine [ICON_Production] productiebonus voor aangrenzende wijkgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
+			<Text>Een wijk uniek voor Rusland voor religieuze activiteit. Vervangt de Heilige Plaats-wijk.[NEWLINE][NEWLINE]Iedere keer dat een Belangrijk Persoon opdoemt, breidt je stad zich met een gebiedsdeel uit.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
+			<Text>Een wijk uniek voor Congo, alleen te bouwen in bos of regenwoud. Vervangt de buurtschap, maar is al eerder beschikbaar. Voorziet in +5 [ICON_Housing] huisvesting, +2 [ICON_Food] voedsel en +4 [ICON_Gold] goud, ongeacht lokkracht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Een wijk uniek voor Brazilië. Vervangt de uitgaanscentrum en voorziet in +2 [ICON_Amenities] voorzieningen. Ontsluit ook het project carnaval, dat zorgt voor een bijkomstige +1 [ICON_Amenities] voorziening tijdens werk eraan en een verscheidenheid van [ICON_GreatPerson] Belangrijk Persoon-punten wanneer eenmaal voltooid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
+			<Text>Een wijk uniek voor Engeland voor maritieme activiteit in je stad. Vervangt de havenwijk. Verwijdert ook de [ICON_Movement] verplaatsingsstraf voor inschepen en van boord gaan van en naar dit gebiedsdeel. Moet worden gebouwd aan kust op meer grenzend aan land.[NEWLINE][NEWLINE]+1 [ICON_Movement] verplaatsing voor alle maritieme eenheden gebouwd in scheepswerf[NEWLINE]+2 [ICON_Gold] goud indien gebouwd op buitenlands continent[NEWLINE]+1 [ICON_TradeRoute] handelsroutecapaciteit</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
+			<Text>Nabijheid: standaard [ICON_Gold] goudbonus voor iedere aangrenzende kusthulpbron. Kleine [ICON_Gold] goudbonus voor aangrenzende wijkgebiedsdelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_REQUIRE_DISTRICT_Adjacency">
+			<Text>Moet grenzen aan een bestaande wijk of stadscentrum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_REQUIRE_NOT_ADJACENT_TO_CITY">
+			<Text>Mag niet grenzen aan een stadscentrum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE1">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE2">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE3">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzende berg {1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE4">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE5">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzende berg {1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_JUNGLE_SCIENCE">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzend regenwoud{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_JUNGLE_2_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangrenzend regenwoud{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_JUNGLE_2_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzend regenwoud{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_JUNGLE_2_CULTURE">
+			<Text>+{1_num} [ICON_Culture] cultuur van aangrenzend regenwoud{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_JUNGLE_2_SCIENCE">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzend regenwoud{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE">
+			<Text>+{1_num} [ICON_Science] wetenschap van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende natuurlijke {1_Num : plural 1?wonder; other?wonderen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAIN_FAITH1">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAIN_FAITH2">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAIN_FAITH3">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAIN_FAITH4">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MOUNTAIN_FAITH5">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende berg{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzend bos{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_TUNDRA_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende toendra{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DESERT_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende woestijn{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_JUNGLE_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende regenwoud{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_STAVE_CHURCH_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van aangrenzende bos{1_Num : plural 1?gebiedsdeel; other?gebiedsdelen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_RIVER_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangrenzende rivier.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HARBOR_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangrenzende havenwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangrenzende Royal Navy Dockyard-wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_CITY_CENTER_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangenzende stadscentrumwijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_1_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_SEARESOURCE_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van aangrenzende sea {1_Num : plural 1?resource; other?resources;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_WONDER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] cultuur van aangrenzende {1_Num : plural 1?wonder; other?wonderen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] cultuur van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_1_CULTURE">
+			<Text>+{1_num} [ICON_Culture] cultuur van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_CULTURE_STANDARD">
+			<Text>+{1_num} [ICON_Culture] cultuur van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_CULTURE_CITY_CENTER">
+			<Text>+{1_num} [ICON_Culture] cultuur van aangrenzende stadscentrum.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_MINE_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] productie van aangrenzende {1_Num : plural 1?mijn; other?mijnen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_QUARRY_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] productie van aangrenzende {1_Num : plural 1?groeve; other?groeven;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] productie van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] productie van aangrenzende {1_Num : plural 1?wijk; other?wijken;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_COMMERCIAL_HUB_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] productie van aangrenzende commercieel centrum-wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_RESOURCE_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] productie van aangrenzende {1_Num : plural 1?hulpbron; other?hulpbronnen;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_APPEAL_SCIENCE">
+			<Text>+{1_num} [ICON_Science] wetenschap van lokkracht gebiedsdeel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_APPEAL_CULTURE">
+			<Text>+{1_num} [ICON_Culture] cultuur van lokkracht gebiedsdeel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_APPEAL_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] productie van lokkracht gebiedsdeel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_APPEAL_GOLD">
+			<Text>+{1_num} [ICON_Gold] goud van lokkracht gebiedsdeel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_APPEAL_FAITH">
+			<Text>+{1_num} [ICON_Faith] geloof van lokkracht gebiedsdeel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
+			<Text>[COLOR_RED]De verbetering zal worden verwijderd als je de wijk aanlegt. [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_BLOCKED_FEATURE_TECH">
+			<Text>[COLOR_RED]Je hebt {1_TechName} nodig om {2_FeatureName} te verwijderen en hier de wijk aan te leggen. [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_OK_REMOVE_FEATURE">
+			<Text>[COLOR_RED]De wijk hier aanleggen verwijdert {1_FeatureName}. [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_BLOCKED_HARVEST_TECH">
+			<Text>[COLOR_RED]Je hebt {1_TechName} nodig om {2_ResourceName} te verwijderen en hier de wijk aan te leggen. [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DISTRICT_OK_HARVEST_RESOURCE">
+			<Text>[COLOR_RED]De wijk hier aanleggen verwijdert {1_ResourceName}. [ENDCOLOR]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

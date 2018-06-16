@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_BUILDING">
+			<Text>Gebouw|Gebouwen</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_CITY">
+			<Text>Stad|Steden</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_DISTRICT">
+			<Text>Wijk|Wijken</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_GOVERNMENT">
+			<Text>Regering|Regeringen</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_PLAYER">
+			<Text>Speler|Spelers</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_PLAYER_CAPTURED_UNIT">
+			<Text>Gevangen eenheid|Gevangen eenheden</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_POLICY">
+			<Text>Beleidsoptie|Beleidsopties</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_TEAM">
+			<Text>Team|Teams</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_TECHNOLOGY">
+			<Text>Technologie|Technologieën</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_UNIT">
+			<Text>Eenheid|Eenheden</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MODIFIER_OBJECT_UNIT_PROMOTION">
+			<Text>Promotie eenheid|Promoties eenheid</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

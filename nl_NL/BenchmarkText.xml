@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_GRAPHICS">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Graphics Benchmark</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_AI">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">AI Benchmark</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_GRAPHICS_TT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Measure graphics performance on your computer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_AI_TT">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Measure AI and turn-processing performance on your computer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">[COLOR_RED]The Aztec Civilization Pack must be enabled in order to perform this benchmark.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_TIME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Time:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_TURN">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Turn:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Average Turn Time:</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
