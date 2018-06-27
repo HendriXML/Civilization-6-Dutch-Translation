@@ -533,7 +533,7 @@
 			<Text>Je [ICON_TradeRoute] handelsroutes naar een geallieerde stad voorzien in +2 [ICON_Food] voedsel en +2 [ICON_Production] productie voor beide steden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
-			<Text>+6 [ICON_Strength] stadsverdedingskracht. +5 [ICON_Ranged] stadsgevechtskracht op afstand.</Text>
+			<Text>+6 [ICON_Strength] stadsverdedigingskracht. +5 [ICON_Ranged] stadsgevechtskracht op afstand.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
 			<Text>+2 [ICON_Gold] goud van alle [ICON_TradeRoute] handelsroutes.</Text>
@@ -641,7 +641,7 @@
 			<Text>+10% [ICON_Science] wetenschap per stadstaat waar je suzerein van bent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
-			<Text>+100% [ICON_Production] productie richting maritieme eenheden uit het moderne, nucleaire in informatietijdperk, exclusief vliegdekschepen.</Text>
+			<Text>+100% [ICON_Production] productie richting zeevarende eenheden uit het moderne, nucleaire in informatietijdperk, exclusief vliegdekschepen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
 			<Text>+2 [ICON_GreatEngineer] Grote Ingenieur-punten per beurt.</Text>
@@ -677,7 +677,7 @@
 			<Text>+50% [ICON_Production] productie richting lichte en zware cavalerie-eenheden uit het oude en klassieke tijdperk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
-			<Text>+100% [ICON_Production] productie richting maritieme eenheden uit het oude en klassieke tijdperk.</Text>
+			<Text>+100% [ICON_Production] productie richting zeevarende eenheden uit het oude en klassieke tijdperk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
 			<Text>+1 [ICON_Gold] goud van je internationale [ICON_TradeRoute] handelsroutes per verbeterde luxe- en strategische hulpbron in de aankomstplaats; +2 [ICON_Culture] cultuur en +2 [ICON_Science] wetenschap.</Text>
@@ -737,7 +737,7 @@
 			<Text>Niveau vijandelijke spionnen met 2 verminderd in je land. Maar alle steden lijden een verlies van -1 [ICON_Amenities] voorzieningen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
-			<Text>100% [ICON_Production] productie richting maritieme eenheden uit Renaissance en industriële tijdperk.</Text>
+			<Text>100% [ICON_Production] productie richting zeevarende eenheden uit Renaissance en industriële tijdperk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
 			<Text>50% korting op alle eenhedenupgrades.</Text>
@@ -836,7 +836,7 @@
 			<Text>+4 Oligarchie-bonus</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_STARTED">
-			<Text>Voortgang gestart richting staatsbestel: {1_CivicName}</Text>
+			<Text>Voortgang gestart richting ontplooiing: {1_CivicName}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_COMPLETE">
 			<Text>Staatbestel voltooid: {1_CivicName}</Text>

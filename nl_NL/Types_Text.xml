@@ -485,7 +485,7 @@
 			<Text>Globalisering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_FUTURE_CIVIC_NAME">
-			<Text>Toekomstig staatsbestel</Text>
+			<Text>Toekomstig ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMERICA_NAME">
 			<Text>Amerika</Text>
@@ -1758,7 +1758,7 @@
 			<Text>Onteigening</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_FEUDAL_CONTRACT_NAME">
-			<Text>Feodaal contract</Text>
+			<Text>Horigen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_FINEST_HOUR_NAME">
 			<Text>Their Finest Hour</Text>
@@ -1842,7 +1842,7 @@
 			<Text>Manoeuvre</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_MARITIME_INDUSTRIES_NAME">
-			<Text>Maritieme industrie</Text>
+			<Text>Zeevarende industrie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_MARKET_ECONOMY_NAME">
 			<Text>Markteconomie</Text>
@@ -1878,7 +1878,7 @@
 			<Text>Natuurlijke filosofie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_NAME">
-			<Text>Maritieme infrastructuur</Text>
+			<Text>Zeevarende infrastructuur</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_NAVIGATION_NAME">
 			<Text>Navigatie</Text>
@@ -2313,7 +2313,7 @@
 			<Text>Belangrijk Persoon</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_SLOT_WILDCARD_NAME">
-			<Text>wildcard</Text>
+			<Text>vrije keuze</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_EMPTY_SLOT_ECONOMIC">
 			<Text>lege plaats economisch beleid</Text>
@@ -2325,7 +2325,7 @@
 			<Text>lege plaats diplomatiek beleid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_EMPTY_SLOT_WILDCARD">
-			<Text>lege plaats wildcard</Text>
+			<Text>lege vrije keuze</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_ADVANCED_BALLISTICS_NAME">
 			<Text>Moderne ballistiek</Text>
@@ -2385,7 +2385,7 @@
 			<Text>Economie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_EDUCATION_NAME">
-			<Text>Educatie</Text>
+			<Text>Onderwijs</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_ELECTRICITY_NAME">
 			<Text>Elektriciteit</Text>
@@ -2620,7 +2620,7 @@
 			<Text>Barbaarse bereden boogschutter</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_GALLEY_NAME">
-			<Text>Barbaars galjoen</Text>
+			<Text>Barbaars galei</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_BATTERING_RAM_NAME">
 			<Text>Stormram</Text>
@@ -2665,7 +2665,7 @@
 			<Text>Fregat</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_GALLEY_NAME">
-			<Text>Galjoen</Text>
+			<Text>Galei</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREAT_PERSON_CLASS_GENERAL_NAME">
 			<Text>Grote Generaal</Text>

@@ -494,37 +494,37 @@
 			<Text>Opens the Civilopedia</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
-			<Text>Unit Actions:</Text>
+			<Text>Eenheid acties:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
-			<Text>Found City</Text>
+			<Text>Stad gesticht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
-			<Text>Move To</Text>
+			<Text>Verplaats naar</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
-			<Text>Fortify</Text>
+			<Text>Ommantelen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
-			<Text>Delete Unit</Text>
+			<Text>Verwijder eenheid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
-			<Text>Attack</Text>
+			<Text>Aanvallen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
-			<Text>Ranged Attack</Text>
+			<Text>Afstandsaanval</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
-			<Text>Automate Exploration</Text>
+			<Text>Automatisch verkennen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
-			<Text>Skip Turn</Text>
+			<Text>Beurt overslaan</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
-			<Text>Sleep</Text>
+			<Text>Rust</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
-			<Text>Alert</Text>
+			<Text>Waakzaam</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
 			<Text>Performs the Found City action if the selected unit is a Settler.</Text>
@@ -533,10 +533,10 @@
 			<Text>Performs the Move To action with the selected unit.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
-			<Text>Fortifies the selected unit.</Text>
+			<Text>Ommanteld de geselecteerde eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
-			<Text>Deletes the selected unit.</Text>
+			<Text>Verwijderd de selecteerde eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
 			<Text>Performs the Attack action with the selected unit.</Text>

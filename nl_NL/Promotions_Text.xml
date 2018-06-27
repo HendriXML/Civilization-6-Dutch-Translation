@@ -386,7 +386,7 @@
 			<Text>+10 [ICON_Strength] gevechtskracht binnen een wijk of een fort.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
-			<Text>+7 [ICON_Ranged] kracht van afstand tegen maritieme en landeenheden.</Text>
+			<Text>+7 [ICON_Ranged] kracht van afstand tegen zeevarende en landeenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">
 			<Text>+7 [ICON_Ranged] kracht van afstand tegen wijkverdediging.</Text>
@@ -410,13 +410,13 @@
 			<Text>+5 [ICON_Strength] gevechtskracht tegen cavalerie-eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_THRUST_DESCRIPTION">
-			<Text>+10 [ICON_Strength] gevechtskracht tegen melee-eenheden.</Text>
+			<Text>+10 [ICON_Strength] gevechtskracht tegen nauwe strijd-eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SQUARE_DESCRIPTION">
 			<Text>Dubbele ondersteuningsbonus.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SCHILTRON_DESCRIPTION">
-			<Text>+10 [ICON_Strength] gevechtskracht bij verdediging tegen melee-eenheden.</Text>
+			<Text>+10 [ICON_Strength] gevechtskracht bij verdediging tegen nauwe strijd-eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REDEPLOY_DESCRIPTION">
 			<Text>+1 [ICON_Movement] verplaatsing.</Text>
@@ -434,7 +434,7 @@
 			<Text>+10 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION">
-			<Text>+10 [ICON_Strength] gevechtskracht tegen maritieme eenheden.</Text>
+			<Text>+10 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
 			<Text>+7 [ICON_Strength] gevechtskracht indien verdedigend in bos, jungle, heuvels of moeras.</Text>
@@ -512,7 +512,7 @@
 			<Text>+7 [ICON_Strength] gevechtskrachtbij verdediging tegen anti-air.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION">
-			<Text>+17 [ICON_Strength] gevechtskracht tegen maritieme eenheden.</Text>
+			<Text>+17 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION">
 			<Text>+12 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
@@ -527,7 +527,7 @@
 			<Text>Geen minimale gezondheid vereist voor luchtplundering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EMBOLON_DESCRIPTION">
-			<Text>+7 [ICON_Strength] gevechtskracht tegen maritieme eenheden.</Text>
+			<Text>+7 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION">
 			<Text>+10 [ICON_Strength] gevechtskracht bij verdediging tegen aanvallen van afstand.</Text>
@@ -551,7 +551,7 @@
 			<Text>Genezing buiten vriendschappelijk terrein.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
-			<Text>+7 [ICON_Strength] gevechtskracht tegen maritieme eenheden.</Text>
+			<Text>+7 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BOMBARDMENT_DESCRIPTION">
 			<Text>+7 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
@@ -602,7 +602,7 @@
 			<Text>+1 vergezicht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION">
-			<Text>+10 [ICON_Strength] gevechtskracht tegen maritieme eenheden.</Text>
+			<Text>+10 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION">
 			<Text>Kan verplaatsen na aanvallen.</Text>

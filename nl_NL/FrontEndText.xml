@@ -1314,7 +1314,7 @@
 			<Text>Een unieke landeenheid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_SEA">
-			<Text>Een unieke maritieme eenheid</Text>
+			<Text>Een unieke zeevarende eenheid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_AIR">
 			<Text>Een unieke luchteenheid</Text>

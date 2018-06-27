@@ -2,229 +2,229 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_TECHS">
-			<Text>Techs</Text>
+			<Text>Technologiën</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_CIVICS">
-			<Text>Civics</Text>
+			<Text>Ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_CITIES">
-			<Text>Cities</Text>
+			<Text>Steden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_UNITS">
-			<Text>Units</Text>
+			<Text>Eenheden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_GENERAL">
-			<Text>General</Text>
+			<Text>Algemeen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Wijken</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Gebouwen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_MOD">
-			<Text>Dependencies</Text>
+			<Text>Afhankelijkheden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_TAB_TEXT">
-			<Text>Text</Text>
+			<Text>Tekst</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
-			<Text>Add Player</Text>
+			<Text>Voeg speler toe</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
-			<Text>Add AI Player</Text>
+			<Text>Voeg cpu speler toe</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
-			<Text>Remove Player</Text>
+			<Text>Verwijder speler</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
-			<Text>Add City</Text>
+			<Text>Voeg stad toe</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
-			<Text>Remove City</Text>
+			<Text>Verwijder stad</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
-			<Text>Pillaged</Text>
+			<Text>Geplunderd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
-			<Text>Gold</Text>
+			<Text>Goud</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
-			<Text>Faith</Text>
+			<Text>Geloof</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
-			<Text>Garrison Damage</Text>
+			<Text>Bezettingsschade</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
-			<Text>Outer Damage</Text>
+			<Text>Onbezette schade</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
-			<Text>Population</Text>
+			<Text>Bevolking</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
-			<Text>Terrain</Text>
+			<Text>Terrein</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
-			<Text>Feature</Text>
+			<Text>Kenmerk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
-			<Text>Feature Direction</Text>
+			<Text>Kenmerk richting</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
-			<Text>Resource</Text>
+			<Text>Hulpbron</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
-			<Text>Resource Amount</Text>
+			<Text>Hulpbron hoeveelheid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
-			<Text>Improvement</Text>
+			<Text>Verbetering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
-			<Text>Improvement Pillaged</Text>
+			<Text>Geplunderde verbetering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
 			<Text>Route</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
-			<Text>Route Pilaged</Text>
+			<Text>Geplunderde route</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
-			<Text>Owner</Text>
+			<Text>Eigenaar</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
-			<Text>Terrain</Text>
+			<Text>Terrein</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
-			<Text>Features</Text>
+			<Text>Kenmerken</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
 			<Text>Continent</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
-			<Text>Rivers</Text>
+			<Text>Rivieren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
-			<Text>Cliffs</Text>
+			<Text>Rotswand</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
-			<Text>Resources</Text>
+			<Text>Hulpbronnen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
-			<Text>Cities</Text>
+			<Text>Steden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
 			<Text>Districts</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Gebouwen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
-			<Text>Units</Text>
+			<Text>Eenheden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
-			<Text>Improvements</Text>
+			<Text>Verbeteringen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
 			<Text>Routes</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
-			<Text>Start Positions</Text>
+			<Text>Start plaatsen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
-			<Text>Owner</Text>
+			<Text>Eigenaar</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
-			<Text>Terrain Visibility</Text>
+			<Text>Terrein zichtbaarheid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
-			<Text>Map Editor</Text>
+			<Text>Kaart bewerker</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
-			<Text>Player Editor</Text>
+			<Text>Speler bewerker</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
-			<Text>Left Click to place. Right Click to Remove.</Text>
+			<Text>Linksklik om te plaatsen. Rechtsklik om te verwijderen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
-			<Text>No plot selected</Text>
+			<Text>Geen plot geselecteerd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
 			<Text>ID</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
-			<Text>Generate New ID...</Text>
+			<Text>Genereer een nieuw ID...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
-			<Text>Width</Text>
+			<Text>Breedte</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
-			<Text>Height</Text>
+			<Text>Hoogte</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
-			<Text>Ruleset</Text>
+			<Text>Regels</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
-			<Text>Map Script</Text>
+			<Text>Kaartscript</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
-			<Text>Map is a Mod</Text>
+			<Text>Kaart is een Mod</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
-			<Text>If checked, the World Builder map is a self-contained Mod and can be used as a Map Type when starting a game.  If not checked, the map is assumed to be used as part of a larger Mod.</Text>
+			<Text>Indien aangevinkt, is de World Builder-kaart een op zichzelf staande Mod en kan deze als een Maptype worden gebruikt bij het starten van een game. Als dit niet is aangevinkt, wordt aangenomen dat de kaart wordt gebruikt als onderdeel van een grotere Mod.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
-			<Text>Untitled Map</Text>
+			<Text>Niet benoemde kaart</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
-			<Text>An Untitled Map made by World Builder</Text>
+			<Text>Niet benoemde kaart gemaakt door de wereldbouwer</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
-			<Text>Untitled Map Mod</Text>
+			<Text>Niet benoemde kaart Mod</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
-			<Text>A Map Mod made by World Builder</Text>
+			<Text>Niet benoemde kaart gemaakt door de wereldbouwer</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_ADD_BUTTON">
-			<Text>Add</Text>
+			<Text>Toevoegen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
-			<Text>Remove</Text>
+			<Text>Verwijderen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_NO_FEATURE">
-			<Text>No Feature</Text>
+			<Text>Geen kenmerk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_NO_DIRECTION">
-			<Text>No Direction</Text>
+			<Text>Geen richting</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
-			<Text>Northeast</Text>
+			<Text>Noordoost</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
-			<Text>East</Text>
+			<Text>Oost</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
-			<Text>Southeast</Text>
+			<Text>Zuidoost</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
-			<Text>Southwest</Text>
+			<Text>Zuidwest</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
 			<Text>West</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
-			<Text>Northwest</Text>
+			<Text>Noordwest</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_NO_RESOURCE">
-			<Text>No Resource</Text>
+			<Text>Geen hulpbron</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
-			<Text>No Improvement</Text>
+			<Text>Geen verbetering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_NO_ROUTE">
-			<Text>No Route</Text>
+			<Text>Geen route</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLDBUILDER_REVEAL_ALL">
-			<Text>Reveal All</Text>
+			<Text>Onthul alles</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

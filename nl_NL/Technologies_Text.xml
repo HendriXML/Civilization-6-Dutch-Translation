@@ -29,7 +29,7 @@
 			<Text>Maakt het inschepen van handelaren en het vangen van [ICON_RESOURCE_FISH] vis mogelijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
-			<Text>+1 [ICON_Movement] verplaatsing voor alle maritieme eenheden.</Text>
+			<Text>+1 [ICON_Movement] verplaatsing voor alle zeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
 			<Text>+1 [ICON_Production] productie voor de mijn.</Text>
@@ -38,7 +38,7 @@
 			<Text>Bonus [ICON_Culture] cultuur voor de nabijheid van de Grote Muur. Verwerf de mogelijkheid een spion te trainen als je speelt als Catherine de Medici.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
-			<Text>+1 [ICON_Gold] goud van de vissersboten. Alle maritieme en ingescheepte eenheden kunnen navigeren over oceaangebied. +1 [ICON_Movement] verplaatsing voor ingescheepte eenheden.</Text>
+			<Text>+1 [ICON_Gold] goud van de vissersboten. Alle zeevarende en ingescheepte eenheden kunnen navigeren over oceaangebied. +1 [ICON_Movement] verplaatsing voor ingescheepte eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_BANKING_DESCRIPTION">
 			<Text>+1 [ICON_Gold] goud van de groeve.</Text>
@@ -149,7 +149,7 @@
 			<Text>bouw drie mijnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
-			<Text>heb de staatsvorm Feudalisme.</Text>
+			<Text>ontplooi de Standenmaatschappij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MACHINERY">
 			<Text>bezit drie boogschutters.</Text>
@@ -170,7 +170,7 @@
 			<Text>bouw een houtmolen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_BANKING">
-			<Text>heb het staatsbestel Gilden.</Text>
+			<Text>ontplooi de Gilden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
 			<Text>bouw een wapenzaal.</Text>
@@ -194,7 +194,7 @@
 			<Text>bouw drie werkplaatsen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
-			<Text>heb de staatsvorm Verlichting.</Text>
+			<Text>ontplooi de Verlichting.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
 			<Text>heb twee forten in je gebied.</Text>
@@ -263,7 +263,7 @@
 			<Text>bezit 3 tanks.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
-			<Text>heb de staatsvorm Globalisering.</Text>
+			<Text>ontplooi de Globalisering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
 			<Text>bouw een aluminiummijn.</Text>

@@ -20,10 +20,10 @@
 			<Text>Productie in deze stad is voltooid. Kies wat nu te produceren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
-			<Text>Kies een staatsbestel</Text>
+			<Text>Kies een ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
-			<Text>Kies een nieuw staatsbestel om te ontwikkelen.</Text>
+			<Text>Kies een nieuwe ontplooiing om te ontwikkelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
 			<Text>Geef eenheden opdracht</Text>
@@ -35,7 +35,7 @@
 			<Text>Overweeg van regering te veranderen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
-			<Text>Je hebt een staatsbestel voltooid dat een nieuwe regering heeft ontsloten. Overweeg die regeringsvorm.</Text>
+			<Text>Je hebt een ontplooiing voltooid die een nieuwe regering heeft ontsloten. Overweeg die regeringsvorm.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
 			<Text>Houd de stad of brand hem plat</Text>
@@ -629,7 +629,7 @@
 			<Text>Scheepswrak ontdekt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
-			<Text>Je hebt de plaats van een oud scheepswrak ontdekt. Wanneer je het staatsbestel 'cultureel erfgoed' hebt omarmd kun je het gezonken artefact door een archeoloog naar boven laten halen.</Text>
+			<Text>Je hebt de plaats van een oud scheepswrak ontdekt. Wanneer je de ontplooiing 'cultureel erfgoed' hebt omarmd kun je het gezonken artefact door een archeoloog naar boven laten halen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
 			<Text>Tegenaanbod ontvangen</Text>

@@ -632,19 +632,19 @@
 			<Text>Je [ICON_TradeRoute] handelsroutes naar andere beschavingen voorzien in +4 [ICON_Gold] goud voor Egypte. [ICON_TradeRoute] Handelsroutes van andere beschavingen naar Egypte voorzien in +2 [ICON_Food] voedsel voor hen en +2 [ICON_Gold] goud voor Egypte.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
-			<Text>Landeenheden ontvangen +5 [ICON_Strength] gevechtskracht in landgebiedsdelen grenzend aan de kust; maritieme eenheden ontvangen +5 [ICON_Strength] gevechtskracht in ondiepe watergebiedsdelen. Bouwt kampementen, Heilige Stad en theaterwijken in de helft van de tijd.</Text>
+			<Text>Landeenheden ontvangen +5 [ICON_Strength] gevechtskracht in landgebiedsdelen grenzend aan de kust; zeevarende eenheden ontvangen +5 [ICON_Strength] gevechtskracht in ondiepe watergebiedsdelen. Bouwt kampementen, Heilige Stad en theaterwijken in de helft van de tijd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
 			<Text>Inquisiteurs kunnen een extra keer ketterij uitbannen. Gevechtseenheden hebben een bonus van +4 [ICON_Strength] gevechtskracht tegen spelers die een andere religie aanhangen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
-			<Text>Ontvangt [ICON_Science] wetenschap of [ICON_Culture] cultuur van [ICON_TradeRoute] handelsroutes naar beschavingen die voor liggen op Rusland (+1 per 3 technologieën of staatsvormen voor liggend).</Text>
+			<Text>Ontvangt [ICON_Science] wetenschap of [ICON_Culture] cultuur van [ICON_TradeRoute] handelsroutes naar beschavingen die voor liggen op Rusland (+1 per 3 technologieën of ontplooiingen voor liggend).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
 			<Text>Extra plaats voor militaire beleidsoptie. +7 [ICON_Strength] Gevechtskracht bij het aanvallen van stadstaten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
-			<Text>Alle gestichte of veroverde steden op een continent anders dan je thuiscontinent ontvangen een gratis melee-eenheid. Verwerf de unieke eenheid Redcoat wanneer militaire wetenschap is onderzocht.</Text>
+			<Text>Alle gestichte of veroverde steden op een continent anders dan je thuiscontinent ontvangen een gratis nauwe strijd-eenheid. Verwerf de unieke eenheid Redcoat wanneer militaire wetenschap is onderzocht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
 			<Text>Het aanbiddingsgebouw van hun religie kan door elke speler worden gekocht voor slechts eentiende van de gebruikelijke  [ICON_Faith] geloofskosten.  Dit gebouw is uitgebreid om 10% toe te voegen aan de output van [ICON_Science] wetenschap, [ICON_Faith] geloof en [ICON_Culture] cultuur van Arabische steden.</Text>
@@ -659,7 +659,7 @@
 			<Text>+5 [ICON_Faith] Geloof voor iedere onrmoete beschaving (inclusief India) die een religie heeft gesticht en momenteel geen oorlog voert. Tegenstanders lijden dubbel aan oorlogsmoeheid wanneer ze vechten tegen Gandhi.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
-			<Text>Staat kustovervallen aan alle maritieme melee-eenheden toe.</Text>
+			<Text>Staat kustovervallen aan alle zeevarende nauwe strijd-eenheden toe.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
 			<Text>Bij het bouwen van oude en klassieke wonderen kun je bouwer-ladingen uitgeven om 15% van de oorspronkelijke kosten van het wonder te voltooien. Bouwers ontvangen een extra lading.</Text>

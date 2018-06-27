@@ -50,7 +50,7 @@
 			<Text>Je {1_UnitName} ({2_Num} schade) heeft de vijandelijke stad {3_CityName} ({4_Num} schade) aangevallen!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
-			<Text>Onze {1_UnitName} heeft zich teruggetrokken uit de vijandelijke melee-aanval.</Text>
+			<Text>Onze {1_UnitName} heeft zich teruggetrokken uit de vijandelijke nauwe strijd-aanval.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
 			<Text>Je {1_UnitName} ({2_Num} schade) is aangevallen door een vijandelijke {3_EnUName} ({4_Num} schade)!</Text>

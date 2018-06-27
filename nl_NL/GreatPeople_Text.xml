@@ -56,7 +56,7 @@
 			<Text>Activeer bij een militaire landeenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_SEA_UNIT">
-			<Text>Activeer bij een militaire maritieme eenheid.</Text>
+			<Text>Activeer bij een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_AIR_UNIT">
 			<Text>Actieer bij een militaire luchteenheid.</Text>
@@ -200,37 +200,37 @@
 			<Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire landeenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor maritieme eenheden uit het klassieke en middeleeuwse tijdperk binnen 2 gebiedsdelen.</Text>
+			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het klassieke en middeleeuwse tijdperk binnen 2 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor maritieme eenheden uit het middeleeuwse en Renaissance-tijdperk binnen 2 gebiedsdelen.</Text>
+			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het middeleeuwse en Renaissance-tijdperk binnen 2 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor maritieme eenheden uit het Renaissance- en industriele tijdperk binnen 2 gebiedsdelen.</Text>
+			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het Renaissance- en industriele tijdperk binnen 2 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor maritieme eenheden uit het industriele en moderne tijdperk binnen 2 gebiedsdelen.</Text>
+			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het industriele en moderne tijdperk binnen 2 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor maritieme eenheden uit het moderne en atoomtijdperk binnen 2 gebiedsdelen.</Text>
+			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het moderne en atoomtijdperk binnen 2 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor maritieme eenheden uit het atoom- en informatietijdperk binnen 2 gebiedsdelen.</Text>
+			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het atoom- en informatietijdperk binnen 2 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor maritieme eenheden uit het informatietijdperk binnen 2 gebiedsdelen.</Text>
+			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het informatietijdperk binnen 2 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
-			<Text>Verleent 1 promotieniveau aan een militaire maritieme eenheid.</Text>
+			<Text>Verleent 1 promotieniveau aan een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GAIUS_DUILIUS_ACTIVE">
-			<Text>Vormt een vloot uit een militaire maritieme eenheid.</Text>
+			<Text>Vormt een vloot uit een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
 			<Text>Produceert onmiddelijk een galei.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
-			<Text>Maakt het alle maritieme eenheden mogelijk zich te verplaatsen over oceaangebiedsdelen zonder de daarvoor normaliter vereiste technologie.</Text>
+			<Text>Maakt het alle zeevarende eenheden mogelijk zich te verplaatsen over oceaangebiedsdelen zonder de daarvoor normaliter vereiste technologie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
 			<Text>Verdien 50 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +40% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
@@ -242,7 +242,7 @@
 			<Text>Verdien 75 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +50% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SANTA_CRUZ_ACTIVE">
-			<Text>Vormt een armada uit een militaire maritieme eenheid.</Text>
+			<Text>Vormt een armada uit een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_YI_SUN_SIN_ACTIVE">
 			<Text>Produceert onmiddellijk een pantserschip met 1 promotieniveau.</Text>
@@ -251,10 +251,10 @@
 			<Text>Verdien 100 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +60% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_HORATIO_NELSON_ACTIVE">
-			<Text>+50% flankeerbonus voor alle mmaritieme eenheden.</Text>
+			<Text>+50% flankeerbonus voor alle mzeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_LASKARINA_BOUBOULINA_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +50% gevechtservaring aan een militaire maritieme eenheid.</Text>
+			<Text>Verleent 1 promotieniveau en +50% gevechtservaring aan een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE">
 			<Text>Produceert onmiddellijk een slagschip met 1 promotieniveau.</Text>
@@ -263,7 +263,7 @@
 			<Text>Bouwt 25% minder oorlogsmoeheid op dan normaal.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +75% gevechtservaring aan een militaire maritieme eenheid.</Text>
+			<Text>Verleent 1 promotieniveau en +75% gevechtservaring aan een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHESTER_NIMITZ_ACTIVE">
 			<Text>+20% [ICON_Production] productie richting eenheden van de Naval Raider promotieklasse.</Text>
@@ -272,10 +272,10 @@
 			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het atoom- of informatietijdperk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SERGEY_GORSHKOV_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire maritieme eenheid.</Text>
+			<Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +200% gevechtservaring aan een militaire maritieme eenheid.</Text>
+			<Text>Verleent 1 promotieniveau en +200% gevechtservaring aan een militaire zeevarende eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
 			<Text>Laat deze stad 1 wijk meer aanleggen dan de bevolkingsgrootte toelaat.</Text>
@@ -473,13 +473,13 @@
 			<Text>Verdien {Amount} [ICON_Faith] geloof.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor 2 willekeurige technologieen en het [ICON_CivicBoosted] 'inspiratie'-moment voor 1 willekeurig staatsbestel uit de Renaissance of de middeleeuwen.</Text>
+			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor 2 willekeurige technologieen en het [ICON_CivicBoosted] 'inspiratie'-moment voor 1 willekeurig ontplooiing uit de Renaissance of de middeleeuwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
 			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit de Renaissance of middeleeuwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
-			<Text>Ontlokt het [ICON_CivicBoosted] 'inspiratie'-moment voor {Amount} willekeurige {Amount : plural 1?staatsvorm; other?staatsvormen;} uit Renaissance of middeleeuwen.</Text>
+			<Text>Ontlokt het [ICON_CivicBoosted] 'inspiratie'-moment voor {Amount} willekeurige {Amount : plural 1?ontplooiing; other?ontplooiingen;} uit Renaissance of middeleeuwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
 			<Text>Verdien 250 [ICON_Science] wetenschap (op standaardsnelheid) voor ieder aangrenzend berggebiedsdeel.</Text>

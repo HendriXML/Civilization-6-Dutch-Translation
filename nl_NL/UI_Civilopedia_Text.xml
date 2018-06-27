@@ -5,37 +5,37 @@
 			<Text>CIVILOPEDIA</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_CIVILIZATIONS">
-			<Text>Civilizations</Text>
+			<Text>Beschavingen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_GEOGRAPHY_AND_SOCIAL_DATA">
 			<Text>Geography &amp; Social Data</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PREFERENCES">
-			<Text>Preferences</Text>
+			<Text>Voorkeuren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_AGENDAS">
-			<Text>Agendas</Text>
+			<Text>Agenda's</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PREFERRED_RELIGION">
-			<Text>Religion</Text>
+			<Text>Religie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_LEADERS">
-			<Text>Leaders</Text>
+			<Text>Leiders</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PREFERS_RIVERS">
-			<Text>Rivers</Text>
+			<Text>Rivieren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PREFERS_RIVERS_FOOTNOTE">
-			<Text>(also prefers rivers)</Text>
+			<Text>(heeft voorkeur voor rivieren)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_SPECIAL_INFRASTRUCTURE">
-			<Text>Special Infrastructure</Text>
+			<Text>Speciale infrastructuur</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_SPECIAL_UNITS">
-			<Text>Special Units</Text>
+			<Text>Speciale eenheden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_SUZERAIN">
-			<Text>Become Suzerain Of</Text>
+			<Text>Suzerein over</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_START_BIAS">
 			<Text>Start Bias</Text>
@@ -44,13 +44,13 @@
 			<Text>Description</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_BELIEF_CLASS">
-			<Text>Belief Class</Text>
+			<Text>Geloofsklasse</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
-			<Text>Promotion Class</Text>
+			<Text>Promotie klasse</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TRAITS">
-			<Text>Traits</Text>
+			<Text>Eigenschappen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_MADE_OBSOLETE_BY">
 			<Text>Made obsolete by</Text>
@@ -59,229 +59,229 @@
 			<Text>Applies To</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REPLACES">
-			<Text>Replaces</Text>
+			<Text>Vervangt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REQUIRED_CIVICS">
-			<Text>Required Civics</Text>
+			<Text>Benodigde ontplooiingen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REQUIRED_TECHNOLOGIES">
-			<Text>Required Technologies</Text>
+			<Text>Benodigde technologiën</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_UNLOCKS">
-			<Text>Unlocks</Text>
+			<Text>Maakts vrij</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_BOOSTS">
 			<Text>Boosts</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_FOLLOWERS">
-			<Text>Followers</Text>
+			<Text>Volgers</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PROGRESSION">
-			<Text>Progression</Text>
+			<Text>Voortgang</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_LEADS_TO_CIVICS">
-			<Text>Leads to Civics</Text>
+			<Text>Leidt naar maatschappelijke vooruitgang</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_LEADS_TO_TECHS">
-			<Text>Leads to Technologies</Text>
+			<Text>Leidt naar technologie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PRODUCTION_COST">
-			<Text>Production Cost</Text>
+			<Text>Productiekosten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PURCHASE_COST">
-			<Text>Purchase Cost</Text>
+			<Text>Aankoopkosten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_MAITENANCE_COST">
-			<Text>Maintenance Cost</Text>
+			<Text>Onderhoudskosten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_CULTURE_COST">
-			<Text>Culture Cost</Text>
+			<Text>Culuuurkosten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_RESEARCH_COST">
-			<Text>Research Cost</Text>
+			<Text>Onderzoekskosten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_BASE_COST">
-			<Text>Base Cost: {1_Amount : number #} {2_YieldIcon} {3_YieldName}</Text>
+			<Text>Basale kosten: {1_Amount : number #} {2_YieldIcon} {3_YieldName}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REQUIREMENTS">
-			<Text>Requirements</Text>
+			<Text>Vereisten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_BUILD_CHARGES">
-			<Text>Build Charges</Text>
+			<Text>Bouw mogelijkheden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_HEAL_CHARGES">
-			<Text>Heal Charges</Text>
+			<Text>Genees mogelijkheden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_MOVEMENT_POINTS">
-			<Text>Movement Points</Text>
+			<Text>Verplaatsingen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_MELEE_STRENGTH">
-			<Text>Melee Strength</Text>
+			<Text>Nauwe strijd kracht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_RANGED_STRENGTH">
-			<Text>Ranged Strength</Text>
+			<Text>Afstand kracht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
-			<Text>Bombard Strength</Text>
+			<Text>Bombardeer kracht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
-			<Text>Religious Strength</Text>
+			<Text>Religieuze kracht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
-			<Text>Anti-air Strength</Text>
+			<Text>Luchtaanvalskracht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
-			<Text>Spread Charges</Text>
+			<Text>Verspreid kosten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_RANGE">
-			<Text>Range</Text>
+			<Text>Afstand</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REPLACED_BY">
-			<Text>Replaced By</Text>
+			<Text>Vervangen door</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_UNLOCKED_BY">
-			<Text>Unlocked By</Text>
+			<Text>Ontgrendeld door</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_BUILT_BY">
-			<Text>Built By</Text>
+			<Text>Gebouwd door</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_USAGE">
-			<Text>Usage</Text>
+			<Text>Gebruik</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_BUILDINGS">
-			<Text>Unlocks Buildings</Text>
+			<Text>Maakt gebouwen mogelijk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
-			<Text>Unlocks Units</Text>
+			<Text>Maakt eenheden mogelijk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
-			<Text>Can Construct</Text>
+			<Text>Kan bouwen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT">
-			<Text>Placement</Text>
+			<Text>Plaatsing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_ADJACENCY">
-			<Text>Adjacency</Text>
+			<Text>Nabijheid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
-			<Text>Mutually Exclusive With</Text>
+			<Text>Wederzijds exclusief met</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_COAST">
-			<Text>Must be placed on Coast, adjacent to land</Text>
+			<Text>Moet op de kust geplaatst worden, naast land</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_CITY">
-			<Text>Must be adjacent to the City Center, as well as an adjacent River, Lake, Oasis, or Mountain</Text>
+			<Text>Moet naast een stadscentrum geplaatst worden, maar ook naast een rivier, meer, oase of berg</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_NOT_ADJ_TO_CITY">
-			<Text>Cannot be adjacent to the City Center</Text>
+			<Text>Mag niet naast een stadscentrum geplaatst worden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
-			<Text>Adjacency Bonus</Text>
+			<Text>Nabijheids bonus</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
-			<Text>Citizen Yields (per citizen)</Text>
+			<Text>Inwoneropbrengsten (per inwoner)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TRADE_YIELDS">
-			<Text>Trade Yields</Text>
+			<Text>Handelsopbrengsten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TRADE_ORIGIN">
-			<Text>Origin</Text>
+			<Text>Oorsprong</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TRADE_DOMESTIC_DESTINATION">
-			<Text>Domestic Destination</Text>
+			<Text>Nationale bestemming</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TRADE_INTERNATIONAL_DESTINATION">
-			<Text>International Destination</Text>
+			<Text>Internationale bestemming</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_UPGRADES_TO">
-			<Text>Upgrades To</Text>
+			<Text>Waardert op tot</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_UPGRADE_FROM">
-			<Text>Upgrade From</Text>
+			<Text>Opwaardering van</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_UNIQUE_TO">
-			<Text>Unique To</Text>
+			<Text>Uniek voor</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
-			<Text>Unique Ability</Text>
+			<Text>Unieke bekwaamheid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PROMOTIONS">
-			<Text>Promotion(s)</Text>
+			<Text>Promotie(s)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PROJECTS">
-			<Text>Project(s)</Text>
+			<Text>Project(en)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_CITY_STATE_TYPE">
-			<Text>City-State Type</Text>
+			<Text>Stadsstaattype</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_CREATES">
-			<Text>Creates</Text>
+			<Text>Maakt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_CREATED_BY">
-			<Text>Created By</Text>
+			<Text>Gemaakt door</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_IMPROVED_BY">
-			<Text>Improved By</Text>
+			<Text>Verbeterd door</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_HARVEST">
-			<Text>Harvest</Text>
+			<Text>Ontgint</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REQUIRES">
-			<Text>Requires: {1_Name}</Text>
+			<Text>Vereist: {1_Name}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
 			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?charge; other?charges;})</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_GREAT_WORKS">
-			<Text>Great Works</Text>
+			<Text>Grootse werken</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
-			<Text>Mountains</Text>
+			<Text>Bergen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
-			<Text>Hills</Text>
+			<Text>Heuvels</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TERRAIN_WATER">
 			<Text>Water</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
-			<Text>Shallow Water</Text>
+			<Text>Ondiep water</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
-			<Text>Impassable</Text>
+			<Text>Ondoordringbaar</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
-			<Text>Inactive</Text>
+			<Text>Inactief</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
-			<Text>Special requirements must be met in order to activate.  See the description for more details.</Text>
+			<Text>Speciale vereisten om te activeren.  Zie voor de omschrijving voor details.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
-			<Text>Removed if game started after</Text>
+			<Text>Verwijderd in dien spel gestart na</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
-			<Text>Must be adjacent to a river</Text>
+			<Text>Moet naast een rivier geplaatst worden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
-			<Text>Must be adjacent to a mountain</Text>
+			<Text>Moet naast een berg geplaatst worden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
-			<Text>Must be built on coast</Text>
+			<Text>Moet aan de kust geplaatst worden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
-			<Text>Must be built on a lake</Text>
+			<Text>Moet op een meer geplaatst worden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
-			<Text>Cannot be built on a lake</Text>
+			<Text>Kan niet op een meer geplaatst worden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
-			<Text>Must have founded a religion</Text>
+			<Text>Moet een religie hebben gesticht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
-			<Text>Buildings (any)</Text>
+			<Text>Bouwwerken (iedere)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
-			<Text>[ICON_Movement] Movement Change: {1_Amount}</Text>
+			<Text>[ICON_Movement] Verplaatsing: {1_Amount}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

@@ -29,10 +29,10 @@
 			<Text>Bommenwerper</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
-			<Text>Maritiem nauwe strijd</Text>
+			<Text>Zeevarend nauwe strijd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
-			<Text>Maritiem op afstand</Text>
+			<Text>Zeevarend op afstand</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
 			<Text>Vliegdekschip</Text>
@@ -260,40 +260,40 @@
 			<Text>Snelle zware cavalerie-eenheid uit het moderne tijdperk, die controlezones negeert.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_GALLEY_DESCRIPTION">
-			<Text>Maritieme nauwe strijd-gevechtseenheid uit het oude tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
+			<Text>Zeevarende nauwe strijd-gevechtseenheid uit het oude tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
-			<Text>Maritieme afstandseenheid uit het klassieke tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
+			<Text>Zeevarende afstandseenheid uit het klassieke tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
-			<Text>Snelle maritieme nauwe strijd-verkenningseenheid uit Renaissance.</Text>
+			<Text>Snelle zeevarende nauwe strijd-verkenningseenheid uit Renaissance.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
-			<Text>Machtige gepantserde maritieme nauwe strijd-eenheid.</Text>
+			<Text>Machtige gepantserde zeevarende nauwe strijd-eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
-			<Text>Hoogst geavanceerde maritieme afstandseenheid uit het informatietijdperk die met nucleaire wapens kan worden uitgerust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
+			<Text>Hoogst geavanceerde zeevarende afstandseenheid uit het informatietijdperk die met nucleaire wapens kan worden uitgerust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
-			<Text>Moderne maritieme afstandseenheid. Is onzichtbaar totdat je je ernaast bevindt.</Text>
+			<Text>Moderne zeevarende afstandseenheid. Is onzichtbaar totdat je je ernaast bevindt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
-			<Text>Maritieme afstandseenheid uit Renaissance met de mogelijkheid van aanvallen op de kust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
+			<Text>Zeevarende afstandseenheid uit Renaissance met de mogelijkheid van aanvallen op de kust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
-			<Text>Maritieme afstandseenheid uit Renaissance.</Text>
+			<Text>Zeevarende afstandseenheid uit Renaissance.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
-			<Text>Maritieme nauwe strijd-eenheid uit atoomtijdperk die luchteenheden kan vervoeren.</Text>
+			<Text>Zeevarende nauwe strijd-eenheid uit atoomtijdperk die luchteenheden kan vervoeren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
-			<Text>Moderne maritieme afstandseenheid. Geeft dekking tegen lucht- en nucleaire aanvallen tot en met een gebiedsdeel vanaf de eenheid.</Text>
+			<Text>Moderne zeevarende afstandseenheid. Geeft dekking tegen lucht- en nucleaire aanvallen tot en met een gebiedsdeel vanaf de eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
-			<Text>Sterkste maritieme afstandseenheid, beschikbaar in het informatietijdperk.</Text>
+			<Text>Sterkste zeevarende afstandseenheid, beschikbaar in het informatietijdperk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
-			<Text>Sterkste maritieme nauwe strijd-eenheid. Onthult onderzeeboten binnen zichtafstand.</Text>
+			<Text>Sterkste zeevarende nauwe strijd-eenheid. Onthult onderzeeboten binnen zichtafstand.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
 			<Text>Eerste luchtgevechtseenheid, beschikbaar in het moderne tijdperk.</Text>
@@ -317,7 +317,7 @@
 			<Text>Primitieve bereden boogschutter uit oude tijdperk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
-			<Text>Primitieve maritieme nauwe strijd-eenheid uit oude tijdperk.</Text>
+			<Text>Primitieve zeevarende nauwe strijd-eenheid uit oude tijdperk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
 			<Text>Unieke Egyptische afstandseenheid uit het oude tijdperk die de zware strijdwagen vervangt. 4 [ICON_Movement] verplaatsing als gestart in open terrein.</Text>
@@ -347,7 +347,7 @@
 			<Text>Unieke Noorse middeleeuwse eenheid. 4 [ICON_Movement] verplaatsing indien gestart op vijandelijk gebied. +7 [ICON_Strength] gevechtskracht bij aanval en -7 [ICON_Strength] gevechtskracht bij verdediging.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
-			<Text>Unieke Noorse maritieme eenheid uit het oude tijdperk die de galei vervangt. Kan vijandelijke kusten plunderen en burgers aan de kust gevangen nemen. 4 [ICON_Movement] verplaatsing wanneer aan de kust.</Text>
+			<Text>Unieke Noorse zeevarende eenheid uit het oude tijdperk die de galei vervangt. Kan vijandelijke kusten plunderen en burgers aan de kust gevangen nemen. 4 [ICON_Movement] verplaatsing wanneer aan de kust.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
 			<Text>Unieke Chinese middeleeuwse afstandseenheid met een [ICON_Range] reikwijdte van 1 en grote gevechtskracht.</Text>
@@ -368,7 +368,7 @@
 			<Text>Unieke Arabische middeleeuwse eenheid die de ridder vervangt. Geneest aan het eind van elke beurt, zelfs na verplaatsen of aanvallen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
-			<Text>Unieke Engelse maritieme eenheid uit de Renaissance die de vrijbuiter vervangt. Kan vijandelijke schepen overnemen. Is onzichtbaar tot je ernaast bent.</Text>
+			<Text>Unieke Engelse zeevarende eenheid uit de Renaissance die de vrijbuiter vervangt. Kan vijandelijke schepen overnemen. Is onzichtbaar tot je ernaast bent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
 			<Text>Unieke Franse nauwe strijd-eenheid uit het industriële tijdperk. +10 [ICON_Strength] gevechtskracht wanneer vechtend op het continent van je hoofdstad. [ICON_GreatGeneral] Grote Generaal-punten voor het doden van eenheden.</Text>

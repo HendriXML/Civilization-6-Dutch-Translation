@@ -260,7 +260,7 @@
 			<Text>Onderhandel een deal met deze macht om een einde aan de huidige oorlog te maken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
-			<Text>Stuur een delegatie met een geschenk van [ICON_Gold] voor deze macht. Indien geaccepteerd zal de ontvanger een beetje vriendelijker en een niveau toegankelijker worden. Duurt totdat je de staatsvorm 'diplomatieke dienst' verkrijgt. </Text>
+			<Text>Stuur een delegatie met een geschenk van [ICON_Gold] voor deze macht. Indien geaccepteerd zal de ontvanger een beetje vriendelijker en een niveau toegankelijker worden. Duurt totdat je de ontplooiing 'diplomatieke dienst' verkrijgt. </Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
 			<Text>Formaliseer je bedoeling om een vriendschappelijke relatie te onderhouden met deze macht. Op deze manier kom je in aanmerking voor een bondgenootschap maar zul je deze macht geen oorlog kunnen verklaren.</Text>

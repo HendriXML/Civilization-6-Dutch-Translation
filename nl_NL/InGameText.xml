@@ -44,7 +44,7 @@
 			<Text>Je kunt daar niet heen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_INCORRECT_CIVIC">
-			<Text>Incorrect staatsbestel gekozen.</Text>
+			<Text>Incorrecte ontplooiing gekozen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_INCORRECT_GOVERNMENT">
 			<Text>Incorrect bestuur gekozen.</Text>
@@ -341,7 +341,7 @@
 			<Text>KIES GELOOF</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ACTION_PANEL_NEEDS_CIVIC">
-			<Text>KIES STAATSVORM</Text>
+			<Text>KIES ONTPLOOIING</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ACTION_PANEL_NEEDS_ORDERS">
 			<Text>EENHEID BEHOEFT OPDRACHT</Text>
@@ -392,13 +392,13 @@
 			<Text>Je dient een technologie te kiezen om te onderzoeken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ACTION_PANEL_NEEDS_CIVIC_TOOLTIP">
-			<Text>Kies een staatsbestel om verder te gaan.</Text>
+			<Text>Kies een ontplooiing om verder te gaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ACTION_PANEL_FILL_CIVIC_SLOT_TOOLTIP">
 			<Text>Een van je beleidsopties is verjaard en dient te worden vervangen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ACTION_PANEL_CONSIDER_GOVERNMENT_CHANGE_TOOLTIP">
-			<Text>Het staatsbestel dat je hebt voltooid heeft een nieuw bestuursmodel ontsloten. Overweeg hiernaar over te stappen in deze beurt.</Text>
+			<Text>De ontplooiing die je hebt voltooid heeft een nieuw bestuursmodel ontsloten. Overweeg hiernaar over te stappen in deze beurt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ACTION_PANEL_CONSIDER_RAZE_CITY_TOOLTIP">
 			<Text>Je hebt deze beurt een stad veroverd. Beslis of je hem houdt of platbrandt.</Text>
@@ -836,7 +836,7 @@
 			<Text>Vereist: {1_Tech} technologie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_CIVIC">
-			<Text>Vereist: staatsbestel {1_Civic}</Text>
+			<Text>Vereist: ontplooiing {1_Civic}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_ADJACENT_SAME_UNIT">
 			<Text>Vereist eenzelfde type eenheid naast je.</Text>
@@ -944,13 +944,13 @@
 			<Text>Voorzieningen berekend als {1_Amenitiy} voor {2_Citizens} burgers / {3_DivideValue}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_AMENITIES_CIVICS">
-			<Text>{1_Num} = voorzieningen van staatsbestel[NEWLINE]</Text>
+			<Text>{1_Num} = voorzieningen van ontplooiing[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_AMENITIES_ENTERTAINMENT">
 			<Text>{1_Num} = voorzieningen van vermaak[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_AMENITIES_FROM_CIVICS">
-			<Text>Voorzieningen van staatsbestel:</Text>
+			<Text>Voorzieningen van ontplooiing:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_AMENITIES_FROM_ENTERTAINMENT">
 			<Text>Voorzieningen van vermaak:</Text>
@@ -1067,7 +1067,7 @@
 			<Text>Huisvesting</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
-			<Text>water {1_Water}, gebouw {2_Buildings}, verbetering {3_Improvements}, buren {4_Districts}, staatsbestel {5_Civics}</Text>
+			<Text>water {1_Water}, gebouw {2_Buildings}, verbetering {3_Improvements}, buren {4_Districts}, ontplooiing {5_Civics}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_HOUSING_CAPACITY">
 			<Text>Huisvesting</Text>
@@ -1076,7 +1076,7 @@
 			<Text>Huisvesting van gebouwen:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_HOUSING_FROM_CIVICS">
-			<Text>Huisvesting van staatsbestel:</Text>
+			<Text>Huisvesting van ontplooiing:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CITY_HOUSING_FROM_DISTRICTS">
 			<Text>Huisvesting van wijken:</Text>
@@ -1787,10 +1787,10 @@
 			<Text>Wijzig onderzoek</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CHANGE_CIVICS">
-			<Text>Wijzig staatsbestel</Text>
+			<Text>Wijzig ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CHOOSE_CIVIC">
-			<Text>Kies staatsbestel</Text>
+			<Text>Kies ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_RESEARCH_TURNS">
 			<Text>Beurten:</Text>
@@ -1913,7 +1913,7 @@
 			<Text>De verzameling van wereldse wijsheid in je bibliotheek heeft nieuwe ideeën voor je volk opgeleverd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_BOOST_TEAMMATE">
-			<Text>Onze teamgenoot heeft een nieuw staatsbestel voltooid. Hun ervaring zal jouw voortgang bespoedigen.</Text>
+			<Text>Onze teamgenoot heeft een nieuwe ontplooiing voltooid. Hun ervaring zal jouw voortgang bespoedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_BOOST_CAPTURED_CITY">
 			<Text>Je hebt nieuwe culturele gideeen opgedaan door de inwoners van deze ingenomen stad.</Text>
@@ -2048,7 +2048,7 @@
 			<Text>Onderzoek</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HIDE_CIVICS_PANEL">
-			<Text>Staatsbestel</Text>
+			<Text>Ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HIDE_CHAT_PANEL">
 			<Text>Chat</Text>
@@ -2057,7 +2057,7 @@
 			<Text>Chat-panel ([ICON_New]{1_Number})</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLD_TRACKER_CHOOSE_CIVIC">
-			<Text>Kies staatsbestel</Text>
+			<Text>Kies ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_WORLD_TRACKER_CHOOSE_RESEARCH">
 			<Text>Kies onderzoek</Text>
@@ -2081,19 +2081,19 @@
 			<Text>Net voltooid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVICS_CHOOSER_CHOOSE_NEW_CIVIC">
-			<Text>Kies nieuw staatsbestel</Text>
+			<Text>Kies nieuwe ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVICS_CHOOSER_CHOOSE_CIVIC">
-			<Text>Kies staatsbestel</Text>
+			<Text>Kies ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVICS_CHOOSER_OPEN_CIVICS_TREE">
-			<Text>Open staatsbesteloverzicht</Text>
+			<Text>Ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVICS_CHOOSER_TURNS">
 			<Text>Beurten:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVICS_TREE_HEADER">
-			<Text>STRUCTUUR STAATSBESTEL</Text>
+			<Text>STRUCTUUR ONTPLOOIINGEN</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVICS_KEY_AVAILABLE">
 			<Text>Beschikbaar</Text>
@@ -2255,10 +2255,10 @@
 			<Text>Toon beleidsopties</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVT_CIVIC_REQUIRED">
-			<Text>Ontsloten wanneer staatsbestel {1_CivicName} is voltooid.</Text>
+			<Text>Ontsloten wanneer ontplooiing {1_CivicName} is voltooid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVT_NO_WILDCARD_SLOTS">
-			<Text>Deze regeringsvorm heeft geen wildcard-plaats voor beleid.</Text>
+			<Text>Deze regeringsvorm heeft geen vrije keuze-plaats voor beleid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVT_NO_MILITARY_SLOTS">
 			<Text>Deze regeringsvorm voorziet niet in militaire beleidsopties.</Text>
@@ -2414,7 +2414,7 @@
 			<Text>Luchthaven met {1_Amount} plaatsen voor vliegtuigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPERATION_PLANT_REQUIRES_CIVIC">
-			<Text>Vereist staatsbestel: {1_Civic}</Text>
+			<Text>Vereist ontplooiing: {1_Civic}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNITOPERATION_MOVE_TO_DESCRIPTION">
 			<Text>Verplaats naar</Text>
@@ -2630,7 +2630,7 @@
 			<Text>Moet op een gebiedsdeel zijn met een militaire landeenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_DOMAIN_TYPE_SEA">
-			<Text>Moet op een gebiedsdeel zijn met een maritieme militaire eenheid.</Text>
+			<Text>Moet op een gebiedsdeel zijn met een zeevarende militaire eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ADJACENT_BARBARIAN_UNIT">
 			<Text>Je moet je naast een barbaarse eenheid bevinden.</Text>
@@ -2777,7 +2777,7 @@
 			<Text>Invloedsontwikkeling</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVERNMENT_DOESNT_UNLOCK">
-			<Text>Regering [NEWLINE][NEWLINE]Ontsluit wanneer je het staatsbestel Wetgeving hebt voltooid.</Text>
+			<Text>Regering [NEWLINE][NEWLINE]Ontsluit wanneer je de ontplooiing Wetgeving hebt voltooid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVERNMENT_MANAGE_GOVERNMENT_AND_POLICIES">
 			<Text>Regering[NEWLINE][NEWLINE]Toon of manage je regeringskeuze en beleidskeuzes onder die regering.</Text>
@@ -3272,7 +3272,7 @@
 			<Text>Je archeoloog {1_UnitName} heeft een oud slagveld ontdekt bezaaid met items van {2_ActingCiv} en {3_TargetCiv}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_SHIP_SUNK">
-			<Text>Je archeoloog {1_UnitName} heeft een wrak gevonden achtergelaten bij een maritiem gevecht van {2_ActingCiv} en {3_TargetCiv}.</Text>
+			<Text>Je archeoloog {1_UnitName} heeft een wrak gevonden achtergelaten bij een zeevarend gevecht van {2_ActingCiv} en {3_TargetCiv}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CHOOSE_ARTIFACT_ERA_STRING">
 			<Text>De ontdekking blijkt te zijn begraven sinds het {1_EraName}.</Text>
@@ -3848,7 +3848,7 @@
 			<Text>Overwinning niet te behalen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CATEGORY_CIVICS_NAME">
-			<Text>Staatsvormen</Text>
+			<Text>Ontplooiingen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CATEGORY_CULTURE_NAME">
 			<Text>Cultuur</Text>
@@ -3902,7 +3902,7 @@
 			<Text>Wijzig regering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RESEARCH_COMPLETE_UNLOCKED_BY_CIVIC">
-			<Text>Ontsloten door dit staatsbestel ({1_Amount}):</Text>
+			<Text>Ontsloten door dit ontplooiing ({1_Amount}):</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RESEARCH_COMPLETE_UNLOCKED_BY_TECH">
 			<Text>Ontsloten door deze techniek ({1_Amount}):</Text>
@@ -4649,7 +4649,7 @@
 			<Text>Techniekoverzicht[NEWLINE][NEWLINE]Bekijk of manage je onderzoek.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_CIVICSTREE_TOOLTIP">
-			<Text>Overzicht staatsvormen[NEWLINE][NEWLINE]Bekijk of manage je je focus op het staatsbestel.</Text>
+			<Text>Overzicht ontplooiingen[NEWLINE][NEWLINE]Bekijk of manage je focus op ontplooiingen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_RELIGION_TOOLTIP">
 			<Text>Religie[NEWLINE][NEWLINE]Bekijk je Pantheon of religie en ook andere reeds gestichte religies.</Text>

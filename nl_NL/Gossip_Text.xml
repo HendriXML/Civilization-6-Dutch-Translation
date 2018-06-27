@@ -32,7 +32,7 @@
 			<Text>Wijken aangelegd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CULTURVATE_CIVIC">
-			<Text>Staatsvormen voltooid</Text>
+			<Text>Ontplooiing voltooid</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CITY_STATE_INFLUENCE">
 			<Text>Stadstaten beinvloed</Text>

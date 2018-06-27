@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
-			<Text>+50% gevechtservaring voor luchteenheden opgeleid in deze stad. +2 plaatsen voor luchteenheden in de vliegveldwijk. Maakt het mogelijk landeenheden door de lucht te vervoeren tussen vliegveldwijken met een vliegveld nadat het staatsbestel Snelle Ontplooiing is ontsloten.</Text>
+			<Text>+50% gevechtservaring voor luchteenheden opgeleid in deze stad. +2 plaatsen voor luchteenheden in de vliegveldwijk. Maakt het mogelijk landeenheden door de lucht te vervoeren tussen vliegveldwijken met een vliegveld nadat de ontplooiing Snelle Ontplooiing is ontsloten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
 			<Text>+25% gevechtservaring voor alle landeenheden getraind in deze stad.</Text>
@@ -26,7 +26,7 @@
 			<Text>+25% gevechtservaring voor luchteenheden getraind in deze stad. +2 plaatsen voor luchteenheden in de vliegveldwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
-			<Text>+25% gevechtservaring voor alle maritieme eenheden getraind in deze stad.</Text>
+			<Text>+25% gevechtservaring voor alle zeevarende eenheden getraind in deze stad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
 			<Text>Een gebouw uniek voor Arabië. Bonus [ICON_Faith] geloof gelijk aan de nabijheidsbonus van de campuswijk.</Text>
@@ -50,7 +50,7 @@
 			<Text>Bonus strekt zich uit naar ieder stadscentrum binnen 6 gebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
-			<Text>Snellere vloot- en armadatraining. +25% gevechtservaring voor alle in deze stad getrainde maritieme eenheden.</Text>
+			<Text>Snellere vloot- en armadatraining. +25% gevechtservaring voor alle in deze stad getrainde zeevarende eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
 			<Text>Maakt het kopen van missionarissen mogelijk. Deze kunnen worden gekocht met [ICON_Faith] geloof.</Text>
@@ -59,7 +59,7 @@
 			<Text>+25% gevechtservaring voor alle cavalerie-eenheden getraind in deze stad. Kan niet worden gebouwd in een legerplaats die al barakken heeft.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
-			<Text>+25% gevechtservaring voor alle maritieme eenheden getraind in deze stad. Bonus [ICON_Production] productie gelijk aan de nabijheidsbonus van de havenwijk.</Text>
+			<Text>+25% gevechtservaring voor alle zeevarende eenheden getraind in deze stad. Bonus [ICON_Production] productie gelijk aan de nabijheidsbonus van de havenwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
 			<Text>Bonus strekt zich uit naar ieder stadscentrum binnen 6 gebiedsdelen.</Text>
@@ -89,10 +89,10 @@
 			<Text>+1 plaats voor economisch beleid[NEWLINE][NEWLINE]Verdubbelt de inhoud van de schatkist. Moet aan een rivier worden gebouwd naast een commerciële wijk met een bank.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
-			<Text>Beloont je met 2 willekeurig gekozen gratis staatsvormen wanneer voltooid. Moet worden gebouwd op vlak land naast een theaterwijk.</Text>
+			<Text>Beloont je met 2 willekeurig gekozen gratis ontplooiingen wanneer voltooid. Moet worden gebouwd op vlak land naast een theaterwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
-			<Text>1 gratis willekeurige boost van een staatsbestel uit het atoomtijdperk. Moet worden gebouwd op vlak land naast een theaterwijk.</Text>
+			<Text>1 gratis willekeurige boost van een ontplooiing uit het atoomtijdperk. Moet worden gebouwd op vlak land naast een theaterwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
 			<Text>+2 [ICON_Culture] cultuur naar alle regenwoudgebiedsdelen voor deze stad. +1 [ICON_Production] productie naar alle regenwoudgebiedsdelen voor deze stad. Moet worden gebouwd in regenwoud.</Text>
@@ -104,7 +104,7 @@
 			<Text>+1 [ICON_TradeRoute] handelsroutecapaciteit. Gunt je een handelseenheid. Moet worden gebouwd aan de kust, naast land en een havenwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
-			<Text>[ICON_Tourism] toerisme-output van [ICON_GreatWork_Relic] relikwieën en Heilige Steden wordt niet verminderd door andere beschavingen die de staatsvorm Verlichting hebben onderzocht. Verdubbelt [ICON_Tourism] toerisme-output van verblijfsoorden aan zee in je beschaving. Moet worden gebouwd op een heuvel.</Text>
+			<Text>[ICON_Tourism] toerisme-output van [ICON_GreatWork_Relic] relikwieën en Heilige Steden wordt niet verminderd door andere beschavingen die de ontplooiing Verlichting hebben onderzocht. Verdubbelt [ICON_Tourism] toerisme-output van verblijfsoorden aan zee in je beschaving. Moet worden gebouwd op een heuvel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
 			<Text>Alle gebiedsdelen in je beschaving verdienen +2 lokkracht. Moet worden gebouwd op vlak land naast het stadscentrum.</Text>
@@ -113,13 +113,13 @@
 			<Text>+2 [ICON_Amenities] voorzieningen in iedere stad van je beschaving. Moet worden gebouwd op vlak land naast een uitgaanscentrum met een stadion.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
-			<Text>+1 plaats voor wildcard-beleidsoptie[NEWLINE][NEWLINE]Moet worden gebouwd op vlak land naast het stadscentrum.</Text>
+			<Text>+1 plaats voor vrije keuze beleidsoptie[NEWLINE][NEWLINE]Moet worden gebouwd op vlak land naast het stadscentrum.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
 			<Text>Ontvang voortgang bonussen voor alle technologieën uit het oude en klassieke tijdperk. Moet worden gebouwd op vlak land naast een campuswijk met een bibliotheek.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
-			<Text>+1 [ICON_Movement] verplaatsing voor alle maritieme eenheden[NEWLINE][NEWLINE]Moet aan de kust worden gebouwd op land naast een havenwijk met een vuurtoren.</Text>
+			<Text>+1 [ICON_Movement] verplaatsing voor alle zeevarende eenheden[NEWLINE][NEWLINE]Moet aan de kust worden gebouwd op land naast een havenwijk met een vuurtoren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] handelsroutecapaciteit[NEWLINE][NEWLINE]Je [ICON_TradeRoute] handelsroutes vanuit deze stad krijgen +2 [ICON_Gold] goud voor elke bonus-hulpbron binnen het stadsgebied. Moet gebouwd worden naast een commerciële wijk met een markt met [ICON_RESOURCE_CATTLE] vee in de nabijheid.</Text>
@@ -167,7 +167,7 @@
 			<Text>Alle huidige eenheden verdienen een promotie. Alle archeologen van de eigenaar mogen het buitenland betreden zonder open grenzen. Moet worden gebouwd op grasland of vlakte naast een legerplaats met barakken of een stal.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
-			<Text>Ontvang iedere keer als je een maritieme eenheid opleidt een tweede maritieme eenheid. Moet worden gebouwd aan de kust naast een industriewijk.</Text>
+			<Text>Ontvang iedere keer als je een zeevarende eenheid opleidt een tweede zeevarende eenheid. Moet worden gebouwd aan de kust naast een industriewijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_THEMINGBONUS_ART">
 			<Text>Themabonus verdubbelt output als objecten van hetzelfde type worden getoond van verschillende kunstenaars.</Text>

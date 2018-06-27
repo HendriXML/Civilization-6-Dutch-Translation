@@ -1124,7 +1124,7 @@
 			<Text>[NEWLINE][NEWLINE]Onderzoek technologie: {1_Techs}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_CITYPANEL_CULTUREVATE">
-			<Text>[NEWLINE][NEWLINE]Ontsluit staatsbestel: {1_Civics}</Text>
+			<Text>[NEWLINE][NEWLINE]Ontsluit ontplooiing: {1_Civics}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_53_BODY">
 			<Text>The symbols displayed inside the technology node represent new units, buildings, wonders, and abilities that are unlocked by the technology once it is completed. For example, once you have finished researching the Pottery technology, you will be able to construct the Granary building in all of your cities. Your Builders will also gain the ability to harvest Wheat resources near your city. While harvesting a Wheat resource gives you a large amount of [ICON_Food] Food, that resource is removed from the map. In most cases, it is better to nurture a Wheat resource by building a Farm improvement on it instead.</Text>

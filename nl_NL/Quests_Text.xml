@@ -50,7 +50,7 @@
 			<Text>Ontlok een [ICON_TechBoosted] Eureka-moment voor de technologie {1_TechnologyName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
-			<Text>Ontlok het [ICON_CivicBoosted] inspiratiemoment voor het staatsbestel {1_CivicName}.</Text>
+			<Text>Ontlok het [ICON_CivicBoosted] inspiratiemoment voor de ontplooiing {1_CivicName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
 			<Text>Rekruteer een {1_IconString} {2_GreatPersonClassName}.</Text>

@@ -283,7 +283,7 @@
 			<Text>Dynastic Cycle</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
-			<Text>[ICON_TechBoosted] Eureka's en [ICON_CivicBoosted] Inspiraties voorzien in 60% van staastvormen en technologieën in plaats van 50%.</Text>
+			<Text>[ICON_TechBoosted] Eureka's en [ICON_CivicBoosted] Inspiraties voorzien in 60% van ontplooiingen en technologieën in plaats van 50%.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
 			<Text>Inexpensive Builders</Text>
@@ -331,7 +331,7 @@
 			<Text>Plato's Republic</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
-			<Text>Een extra wildcard-beleidsoptie in iedere regering.</Text>
+			<Text>Een extra vrije keuze-beleidsoptie in iedere regering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
 			<Text>Mother Russia</Text>
@@ -391,7 +391,7 @@
 			<Text>Knarr</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
-			<Text>Eenheden kunnen oceaangebiedsdelen betreden na onderzoek van scheepsbouw. Maritieme melee-eenheden genezen op neutraal terrein. Eenheden negeren extra [ICON_Movement] verplaatsingeskosten vorr aan en van boord gaan.</Text>
+			<Text>Eenheden kunnen oceaangebiedsdelen betreden na onderzoek van scheepsbouw. Zeevarende melee-eenheden genezen op neutraal terrein. Eenheden negeren extra [ICON_Movement] verplaatsingeskosten vorr aan en van boord gaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVINFO_LOCATION">
 			<Text>Location</Text>

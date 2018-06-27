@@ -29,7 +29,7 @@
 			<Text>Nabijheid: standaard [ICON_Culture] cultuurbonus voor ieder aangrenzend wonder. Kleine [ICON_Culture] cultuurbonus voor aangrenzende wijkgebiedsdelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
-			<Text>Een wijk voor maritieme activiteiten in je stad. Verwijdert ook de [ICON_Movement] verplaatsingsstraf voor inschepen en aan land gaan van en naar dit gebiedsdeel. Moet worden gebouwd aan de kust of een meer nabij land.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] handelsroutecapaciteit</Text>
+			<Text>Een wijk voor zeevarende activiteiten in je stad. Verwijdert ook de [ICON_Movement] verplaatsingsstraf voor inschepen en aan land gaan van en naar dit gebiedsdeel. Moet worden gebouwd aan de kust of een meer nabij land.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] handelsroutecapaciteit</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
 			<Text>Nabijheid: standaard [ICON_Gold] goudbonus voor iedere aangrenzende hulpbron aan de kust. Kleine [ICON_Gold] goudbonus voor aangrenzende wijkgebiedsdelen.</Text>
@@ -83,7 +83,7 @@
 			<Text>Een wijk uniek voor Brazilië. Vervangt de uitgaanscentrum en voorziet in +2 [ICON_Amenities] voorzieningen. Ontsluit ook het project carnaval, dat zorgt voor een bijkomstige +1 [ICON_Amenities] voorziening tijdens werk eraan en een verscheidenheid van [ICON_GreatPerson] Belangrijk Persoon-punten wanneer eenmaal voltooid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
-			<Text>Een wijk uniek voor Engeland voor maritieme activiteit in je stad. Vervangt de havenwijk. Verwijdert ook de [ICON_Movement] verplaatsingsstraf voor inschepen en van boord gaan van en naar dit gebiedsdeel. Moet worden gebouwd aan kust op meer grenzend aan land.[NEWLINE][NEWLINE]+1 [ICON_Movement] verplaatsing voor alle maritieme eenheden gebouwd in scheepswerf[NEWLINE]+2 [ICON_Gold] goud indien gebouwd op buitenlands continent[NEWLINE]+1 [ICON_TradeRoute] handelsroutecapaciteit</Text>
+			<Text>Een wijk uniek voor Engeland voor zeevarende activiteit in je stad. Vervangt de havenwijk. Verwijdert ook de [ICON_Movement] verplaatsingsstraf voor inschepen en van boord gaan van en naar dit gebiedsdeel. Moet worden gebouwd aan kust op meer grenzend aan land.[NEWLINE][NEWLINE]+1 [ICON_Movement] verplaatsing voor alle zeevarende eenheden gebouwd in scheepswerf[NEWLINE]+2 [ICON_Gold] goud indien gebouwd op buitenlands continent[NEWLINE]+1 [ICON_TradeRoute] handelsroutecapaciteit</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
 			<Text>Nabijheid: standaard [ICON_Gold] goudbonus voor iedere aangrenzende kusthulpbron. Kleine [ICON_Gold] goudbonus voor aangrenzende wijkgebiedsdelen.</Text>
