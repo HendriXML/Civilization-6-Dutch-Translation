@@ -11,7 +11,7 @@
 			<Text>Gebouw (vervangt {1_BuildingName})</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_NAME">
-			<Text>Maatschappelijke vernieuwing</Text>
+			<Text>Ontplooiing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DISTRICT_NAME">
 			<Text>Wijk</Text>
