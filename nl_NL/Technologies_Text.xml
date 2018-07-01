@@ -92,7 +92,7 @@
 			<Text>+1 [ICON_Production] productie naar weiden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
-			<Text>Kan meermaals worden voltooid, je punten voor een score-overwinning vermeerderend.</Text>
+			<Text>Kan meerdere malen worden voltooid, je punten richting een score-overwinning opstapelend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_SAILING">
 			<Text>een stad gesticht aan de kust.</Text>
@@ -221,7 +221,7 @@
 			<Text>bezit drie musketiers.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>bouw een kolenmijn.</Text>
+			<Text>bouw een kolenmijn en een pantserschip.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
 			<Text>bezit drie vrijbuiters.</Text>

@@ -4507,7 +4507,10 @@
 		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TOTAL">
 			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} totaal</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_HEADER">
+    <Row Tag="LOC_ROUTECHOOSER_RELIGIOUS_PRESSURE_SOURCE_MAJORITY_RELIGION">
+      <Text>{1_PressureAmount} {2_PressureIconString} religieuze druk van {3_ReligionName} van de meerderheidsreligie in {4_CityName}.</Text>
+    </Row>
+    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_HEADER">
 			<Text>VERKLAAR OORLOG</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_ADVISOR_TEXT">

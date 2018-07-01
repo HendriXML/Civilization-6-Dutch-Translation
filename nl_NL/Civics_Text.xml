@@ -80,10 +80,10 @@
 			<Text>Maakt het transport van landeenheden tussen vliegveldwijken die een luchthaven hebben mogelijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] goud naar plantages. Kan meermalen worden voltooid, je punten richting een score-overwinning opstapelend.</Text>
+			<Text>+1 [ICON_Gold] goud naar plantages.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
-			<Text>Kan meermalen worden voltooid, je punten richting een score-overwinning opstapelend.</Text>
+			<Text>Kan meerdere malen worden voltooid, je punten richting een score-overwinning opstapelend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
 			<Text>Beloont je met {1_NumOfEnvoys} [ICON_Envoy] {1_NumOfEnvoys : plural 1?gezant; other?gezanten;}</Text>

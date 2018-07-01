@@ -101,7 +101,7 @@
 			<Text>Kan nieuwe steden stichten. Vermindert [ICON_Citizen] stadsbevolking met 1 als voltooid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_BUILDER_DESCRIPTION">
-			<Text>Kan gebiedsdeel verbeteren of zaken als bos of regenwoud verwijderen. Bouwers kunnen 3 keer worden gebruikt. Dit aantal kan worden verhoogd door beleid of wonderen als Piramiden.</Text>
+			<Text>Kan een gebiedsdeel verbeteren of zaken als bos of regenwoud verwijderen. Bouwers kunnen 3 keer worden gebruikt. Dit aantal kan worden verhoogd door beleid of wonderen als Piramiden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNIT_TRADER_DESCRIPTION">
 			<Text>Kan een enkele [ICON_TradeRoute] handelsroute aanleggen en onderhouden. Legt automatisch een weg aan op zijn tocht.</Text>

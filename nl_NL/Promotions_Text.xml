@@ -617,7 +617,7 @@
 			<Text>Verspreiding van geloof elimineert andere religies in de doelstad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TRANSLATOR_DESCRIPTION">
-			<Text>Religieuze verspreiding is driemaal zo krachtig in stden van andere beschavingen.</Text>
+			<Text>Religieuze verspreiding is driemaal zo krachtig in steden van andere beschavingen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PILGRIM_DESCRIPTION">
 			<Text>Verwerf 3 extra verspreidingen wannneer je je voor de eerste keer verplaatst naast een natuurlijk wonder.</Text>
