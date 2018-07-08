@@ -101,7 +101,7 @@
 			<Text>vind een natuurlijk wonder.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
-			<Text>bewerk een hulpbron.</Text>
+			<Text>bewerk een hulpbron (boerderij).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_ARCHERY">
 			<Text>dood een eenheid met een slingeraar.</Text>
@@ -269,7 +269,7 @@
 			<Text>bouw een aluminiummijn.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
-			<Text>boost naar Grote Wetenschapper of spion.</Text>
+			<Text>bespoediging naar Grote Wetenschapper of spion.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
 			<Text>Een stad aan de kust verkrijgen geeft je beschaving inzicht in navigatie.</Text>

@@ -1,560 +1,569 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-	<LocalizedText>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT">
-			<Text>Geactiveerd effect</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_CREATE_GREAT_WORK">
-			<Text>Creeer Groots Werk</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
-			<Text>Sticht religie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
-			<Text>Trek je terug</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_CHARGES">
-			<Text>{1_ChargeAmount} {1_ChargeAmount : plural 1?lading; other?ladingen;}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_FOUND_RELIGION">
-			<Text>Activeer in Heilige Stad-wijk of Stonehenge.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
-			<Text>Activeer in een wijk of wonder met een lege plaats voor een Groots Werk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNOWNED_TILE">
-			<Text>Activeer in een gebiedsdeel zonder eigenaar.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_DOES_NOT_NEED_OWNED_TILE">
-			<Text>Activeerbaar in gebiedsdelen die je niet bezit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OWNED_TILE">
-			<Text>Activeerbaar in een gebiedsdeel dat jouw eigendom is.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_BARBARIAN_UNIT">
-			<Text>Activeer naast barbaarse eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_MOUNTAIN">
-			<Text>Activeer naast een berg.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_TO_OWNED_TILE">
-			<Text>Activeer naast een gebiedsdeel in jouw bezit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_GREAT_WORK_OBJECT">
-			<Text>Activeer in een stad met een {1_GreatWorkObjectTypeName} &lt;&lt; {2_IconString}-Groots Werk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_COMPLETED_DISTRICT">
-			<Text>Activeer in een {1_DistrictName}-wijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_SPACE_RACE_PROJECT">
-			<Text>Activeer bij een ruimteraceproject in constructie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_WONDER">
-			<Text>Activeer bij een wonder in constructie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT">
-			<Text>Activeer bij een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_SEA_UNIT">
-			<Text>Activeer bij een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_AIR_UNIT">
-			<Text>Actieer bij een militaire luchteenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_NO_MILITARY_UNIT">
-			<Text>Activeer in een gebiedsdeel zonder militaire eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
-			<Text>Activeer in of naast een gebiedsdeel met {1_FeatureName}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_NATURAL_WONDER">
-			<Text>Activeer in of naast een natuurlijk wonder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION">
-			<Text>Activeer bij een militaire eenheid, niet zijnde een korps of leger.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION">
-			<Text>Activeer bij een korps.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION">
-			<Text>Activeer bij een leger.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_LUXURY_RESOURCE">
-			<Text>Activeer bij een luxegoederenbron.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ANYWHERE">
-			<Text>Activeer in een willekeurig gebiedsdeel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_OPEN_PLAYER_RELIC_SLOT">
-			<Text>Je moet een lege plaats voor een [ICON_GreatWork_Relic]-relikwie hebben in een van je steden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MISSING_BUILDING">
-			<Text>De stad mag niet al het {1_BuildingName}-gebouw hebben.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_GOLD_COST">
-			<Text>Actie kost {1_GoldAmount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_EFFECT_FOUND_RELIGION">
-			<Text>Sticht een religie en maakt van deze stad een Heilige Stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_EFFECT_GREAT_WORK_OBJECT">
-			<Text>{1_GreatWorkName} ({2_GreatWorkObjectIconString} {3_GreatWorkObjectName}).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_PASSIVE_NAME_DEFAULT">
-			<Text>Passieve effecten</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD">
-			<Text>Verwerf onmiddellijk {Amount} {YieldType}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMPUTERSTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor computertechnologie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het moderne tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>+5 [ICON_Strength] gevechtsbonus van Grote Generaal.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
-			<Text>+5 [ICON_Strength] gevechtsbonus van Grote Admiraal.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het klassieke en middeleeuwse tijdperk binnen twee gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_LAND">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het middeleeuwse en Renaissance-tijdperk binnen twee gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_LAND">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het industriele en Renaissance-tijdperk binnen twee gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_LAND">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het industriele en moderne tijdperk binnen twee gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_LAND">
-			<Text>+5 [ICON_Strength] gevechtskracht enCombat Strength and +1 [ICON_Movement] verplaatsing aan landeenheden uit het moderne en atoomtijdperk binnen twee gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_LAND">
-			<Text>+5 [ICON_Strength] gevechtskracht enCombat Strength and +1 [ICON_Movement] verplaatsing aan landeenheden uit het informatie- en atoomtijdperk binnen twee gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_LAND">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het informatietijdperk binnen twee gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
-			<Text>Brengt nabije barbaarse eenheden onder jouw controle.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_HANNIBAL_BARCA_ACTIVE">
-			<Text>Verleent 1 promotieniveau aan een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
-			<Text>Produceert onmiddellijk een ridder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EL_CID_ACTIVE">
-			<Text>Vormt een korps uit een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GENGHIS_KHAN_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +25% gevechtservaring aan een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GUSTAVUS_ADOLPHUS_ACTIVE">
-			<Text>Produceert onmiddellijk een bombardeereenheid met 1 promotieniveau.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOAN_OF_ARC_ACTIVE">
-			<Text>Produceert een [ICON_GreatWork_Relic] relikwie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ANA_NZINGA_ACTIVE">
-			<Text>Verwerf {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_NAPOLEON_BONAPARTE_ACTIVE">
-			<Text>Vormt een leger uit een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_RANI_LAKSHMIBAI_ACTIVE">
-			<Text>Produceert onmiddellijk een cavalerie-eenheid met 1 promotieniveau.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
-			<Text>Verwerf {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOHN_MONASH_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +75% gevechtservaring aan een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
-			<Text>De wijk in dit gebiedsdeel verwerft +1 luchteenheidplaatsen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
-			<Text>Produceert onmiddellijk een infanterie-eenheid met 1 promotieniveau.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_DWIGHT_EISENHOWER_ACTIVE">
-			<Text>+5% [ICON_Production] productie richting militaire eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GEORGY_ZHUKOV_ACTIVE">
-			<Text>+50% flankeerbonus voor alle landeenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_ACTIVE">
-			<Text>Produceert onmiddellijk een tank met 1 promotieniveau.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
-			<Text>Produceert onmiddellijk een moderne antitankeenheid met 1 promotieniveau.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire landeenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het klassieke en middeleeuwse tijdperk binnen 2 gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het middeleeuwse en Renaissance-tijdperk binnen 2 gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het Renaissance- en industriele tijdperk binnen 2 gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het industriele en moderne tijdperk binnen 2 gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het moderne en atoomtijdperk binnen 2 gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het atoom- en informatietijdperk binnen 2 gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
-			<Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het informatietijdperk binnen 2 gebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
-			<Text>Verleent 1 promotieniveau aan een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GAIUS_DUILIUS_ACTIVE">
-			<Text>Vormt een vloot uit een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
-			<Text>Produceert onmiddelijk een galei.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
-			<Text>Maakt het alle zeevarende eenheden mogelijk zich te verplaatsen over oceaangebiedsdelen zonder de daarvoor normaliter vereiste technologie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
-			<Text>Verdien 50 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +40% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ZHENG_HE_ACTIVE">
-			<Text>Verdien {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_FRANCIS_DRAKE_ACTIVE">
-			<Text>Verdien 75 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +50% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SANTA_CRUZ_ACTIVE">
-			<Text>Vormt een armada uit een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_YI_SUN_SIN_ACTIVE">
-			<Text>Produceert onmiddellijk een pantserschip met 1 promotieniveau.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHING_SHIH_ACTIVE">
-			<Text>Verdien 100 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +60% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_HORATIO_NELSON_ACTIVE">
-			<Text>+50% flankeerbonus voor alle mzeevarende eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_LASKARINA_BOUBOULINA_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +50% gevechtservaring aan een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE">
-			<Text>Produceert onmiddellijk een slagschip met 1 promotieniveau.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOAQUIM_MARQUES_LISBOA_ACTIVE">
-			<Text>Bouwt 25% minder oorlogsmoeheid op dan normaal.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +75% gevechtservaring aan een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHESTER_NIMITZ_ACTIVE">
-			<Text>+20% [ICON_Production] productie richting eenheden van de Naval Raider promotieklasse.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRACE_HOPPER_ACTIVE">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het atoom- of informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SERGEY_GORSHKOV_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
-			<Text>Verleent 1 promotieniveau en +200% gevechtservaring aan een militaire zeevarende eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
-			<Text>Laat deze stad 1 wijk meer aanleggen dan de bevolkingsgrootte toelaat.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor de printtechnologie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_MEDIEVAL">
-			<Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_JAMES_OF_ST_GEORGE_ACTIVE">
-			<Text>Bouwt onmiddelijk oude en middeleeuwse muren in deze stad en voorziet in genoeg [ICON_Gold] goud per beurt om hun onderhoud te betalen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_RENAISSANCE">
-			<Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_WORKSHOP_CULTURE">
-			<Text>Werkplaatsen voorzien in +{Amount} [ICON_Culture] cultuur.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_HOUSING_SMALL">
-			<Text>+{Amount} [ICON_Housing] huisvesting voor deze stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_AMENITIES_SMALL">
-			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?voorziening; other?voorzieningen;} voor deze stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INDUSTRIAL">
-			<Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_JAMES_WATT_ACTIVE">
-			<Text>Bouwt onmiddelijk een fabriek en een werkplaats in deze wijk. Fabrieken voorzien in +2 [ICON_Production] productie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
-			<Text>Deze stad voorziet in +{Amount} lokkracht voor elk gebiedsdeel in bezit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
-			<Text>De regionale gebouwen in deze wijk reiken {Amount} {Amount : plural 1?gebiedsdeel; other?gebiedsdelen;} verder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
-			<Text>De regionale gebouwen in deze wijk voorzien in +{Amount} [ICON_Production] productie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL">
-			<Text>+{Amount}% [ICON_Production] productie richting ruimteraceprojecten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor de rakettechnologie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
-			<Text>+{Amount} [ICON_Housing] huisvesting voor deze stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_HOUSING_LARGE">
-			<Text>+{Amount} [ICON_Housing] huisvesting voor deze stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_AMENITIES_LARGE">
-			<Text>+{Amount} [ICON_Amenities] {Amount : plural 1?voorziening; other?voorzieningen;} voor deze stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_EARLY_SPACE_RACE">
-			<Text>Verleent {Amount} [ICON_Production] productie zichting constructie ruimteraceproject.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
-			<Text>Deze stad voorziet in +{Amount} lokkracht voor elk gebiedsdeel in bezit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
-			<Text>De regionale gebouwen in deze wijk voorzien in +{Amount} [ICON_Amenities] {Amount : plural 1?voorziening; other?voorzieningen;}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INFORMATION">
-			<Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PLOT_RESOURCE">
-			<Text>Verleent {Amount} gratis {Amount : plural 1?kopie; other?kopieen;} van de luxegoederenbron in dit gebiedsdeel aan je [ICON_Capital] hoofdstad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_FAITH_SMALL">
-			<Text>Verdien {Amount} [ICON_Faith] geloof.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PLOT">
-			<Text>Je dichtsbijzijnde stad annexeert dit gebiedsdeel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_TINY">
-			<Text>Verdien {Amount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ZHANG_QIAN_ACTIVE">
-			<Text>Verhoogt [ICON_TradeRoute] handelsroutecapaciteit met 1. Buitenlandse [ICON_TradeRoute] handelsroutes naar deze stad voorzien in +2 [ICON_Gold] goud aan beide steden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_MARCO_POLO_ACTIVE">
-			<Text>Verleent deze stad een gratis handelseenheid en verhoogt [ICON_TradeRoute] handelsroutecapaciteit met 1. Buitenlandse [ICON_TradeRoute] handelsroutes naar deze stad voorzien in +2 [ICON_Gold] goud aan beide steden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_TO_INCOMING_FOREIGN_ROUTES">
-			<Text>Deze stad voorziet in +{Amount} [ICON_Gold] goud voor buitenlandse [ICON_TradeRoute] handelsroutes.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_FROM_INCOMING_FOREIGN_ROUTES">
-			<Text>Deze stad ontvangt +{Amount} [ICON_Gold] goud van buitenlandse [ICON_TradeRoute] handelsroutes.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_FREE_TRADER_UNIT">
-			<Text>Verdien een gratis handelseenheid in deze stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_TRADE_ROUTE_CAPACITY">
-			<Text>Verhoogt [ICON_TradeRoute] handelsroutecapaciteit met {Amount}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_SMALL">
-			<Text>Verdien {Amount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_SMALL">
-			<Text>Verdien {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GIOVANNI_DE_MEDICI_ACTIVE">
-			<Text>Bouwt onmiddellijk een bank en een markt in deze wijk. De bank krijgt twee vrije plaatsen voor welk Groots Werk dan ook.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_MARKET">
-			<Text>Bouwt onmiddellijk een markt in deze wijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_BANK">
-			<Text>Bouwt onmiddellijk een bank in deze wijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_BANK_GREAT_WORK_SLOTS">
-			<Text>Deze bank krijgt {Amount} vrije plaatsen voor Grootse Werken anders dan [ICON_GreatWork_Relic] relikwieen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_MEDIUM">
-			<Text>Verdien {Amount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_MEDIUM">
-			<Text>Verdien {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_SPECIALTY_DISTRICT">
-			<Text>Je [ICON_TradeRoute] handelsroutes naar je eigen steden verdienen +{Amount} [ICON_Gold] goud voor iedere gespecialiseerde wijk bij de bestemming.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ECONOMIC_POLICY_SLOT">
-			<Text>+1 lege plaats voor economische beleidsoptie in iedere regering.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_JEANS">
-			<Text>Verleent {Amount} [ICON_RESOURCE_JEANS] jeans, een unieke luxegoederenbron die je +4 [ICON_Amenities] voorzieningen biedt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_LARGE">
-			<Text>Verdien {Amount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PERFUME">
-			<Text>Verleent {Amount} [ICON_RESOURCE_PERFUME] parfum, een unieke luxegoederenbron die je +6 [ICON_Amenities] voorzieningen biedt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
-			<Text>Verleent 1 [ICON_RESOURCE_OIL] olie, een strategische hulpbron. Je [ICON_TradeRoute] handelsroutes verdienen +2 [ICON_Gold] goud voor iedere strategische hulpbron verbeterd door de stad van bestemming.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_OIL">
-			<Text>Verleent {Amount} [ICON_RESOURCE_OIL] olie, een strategische hulpbron.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
-			<Text>Je [ICON_TradeRoute] handelsroutes verdienen +{Amount} [ICON_Gold] goud voor iedere strategische hulpbron verbeterd door de stad van bestemming.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
-			<Text>+{Amount}% [ICON_Tourism] toerisme-ratio richting andere beschavingen waarnaar je een [ICON_TradeRoute] handelsroute hebt</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_COSMETICS">
-			<Text>Verleent {Amount} [ICON_RESOURCE_COSMETICS] cosmetica, een unieke luxegoederenbron die je +4 [ICON_Amenities] voorzieningen biedt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_DIPLO_VISIBILITY">
-			<Text>+{Amount} {Amount : plural 1?niveau; other?niveaus;} van diplomatieke zichtbaarheid bij alle andere beschavingen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_TOYS">
-			<Text>Verleent {Amount} [ICON_RESOURCE_TOYS] speelgoed, een unieke luxegoederenbron die je +4 [ICON_Amenities] voorzieningen biedt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_INDUSTRIAL_ZONE_TOURISM">
-			<Text>Industriele wijken voorzien in +{Amount} [ICON_Tourism] toerisme.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CAMPUS_TOURISM">
-			<Text>Campuswijken voorzien in +{Amount} [ICON_Tourism] toerisme.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;}  uit de middeleeuwen of het klassieke tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor wiskunde en 1 willekeurige technologie uit de middeleeuwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit de middeleeuwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_MATHTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor voor de technologie wiskunde.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_LIBRARY">
-			<Text>Bouwt onmiddellijk een bibliotheek in deze wijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_LIBRARY_FREE_MAINTENANCE">
-			<Text>+{Amount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITY">
-			<Text>Bouwt onmiddellijk een universiteit in deze wijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITY_FREE_MAINTENANCE">
-			<Text>+{Amount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCETECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit Renaissance of middeleeuwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
-			<Text>De nabijheids- [ICON_Faith] geloofsbonus van deze Heilige plaats voorziet ook in een [ICON_Science] wetenschapsbonus.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_FAITH">
-			<Text>Verdien {Amount} [ICON_Faith] geloof.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor 2 willekeurige technologieen en het [ICON_CivicBoosted] 'inspiratie'-moment voor 1 willekeurig ontplooiing uit de Renaissance of de middeleeuwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit de Renaissance of middeleeuwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
-			<Text>Ontlokt het [ICON_CivicBoosted] 'inspiratie'-moment voor {Amount} willekeurige {Amount : plural 1?ontplooiing; other?ontplooiingen;} uit Renaissance of middeleeuwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
-			<Text>Verdien 250 [ICON_Science] wetenschap (op standaardsnelheid) voor ieder aangrenzend berggebiedsdeel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_RESEARCH_LAB">
-			<Text>Bouwt onmiddellijk een onderzoekslaboratorium in deze wijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_RESEARCH_LAB_FREE_MAINTENANCE">
-			<Text>+{Amount} [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ISAAC_NEWTON_ACTIVE">
-			<Text>Bouwt onmiddelijk een universiteit en bibliotheek in deze wijk. Universiteiten voorzien in +2 [ICON_Science] wetenschap.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit de Renaissance of het industriele tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
-			<Text>Voegt {Amount} gratis [ICON_GreatPerson] Belangrijk Persoon-punten toe aan recrutering van alle huidige en toekomstige Belangrijke Personen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHARLES_DARWIN_ACTIVE">
-			<Text>Verdien 500 [ICON_Science] wetenschap (op standaardsnelheid) voor ieder gebiedsdeel hier of aangrenzend met een natuurlijk wonder.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_DMITRI_MENDELEEV_ACTIVE">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor chemie en 1 willekeurige technologie uit het industriele tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ALAN_TURING_ACTIVE">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor computers en 1 willekeurige technologie uit het moderne tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_1INDUSTRIALTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het industriele tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHEMISTRYTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor de technologie chemie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_LIBRARIES_SCIENCE">
-			<Text>Bibliotheken voorzien in +{Amount} [ICON_Science] wetenschap.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITIES_SMALL_SCIENCE">
-			<Text>Universiteiten voorzien in +{Amount} [ICON_Science] wetenschap.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITIES_BIG_SCIENCE">
-			<Text>Universiteiten voorzien in +{Amount} [ICON_Science] wetenschap.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MODERNATOMICTECHBOOST">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het moderne of atoomtijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_REVEAL_OIL">
-			<Text>Onthult [ICON_RESOURCE_OIL] olie zonder de normaliter vereiste technologie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_2INDUSTRIALMODERNTECHBOOSTS">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het industriele of moderne tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ADJACENT_RAINFOREST_SCIENCE">
-			<Text>Verdien {Amount} [ICON_Science] wetenschap voor ieder regenwoudgebiedsdeel hier of aangrenzend.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ARTIFACT_TOURISM_MODIFIER">
-			<Text>[ICON_GreatWork_Artifact] artefacten in al je steden genereren {ScalingFactor}% van hun normale [ICON_Tourism] toerisme.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ARTIFACT_SCIENCE">
-			<Text>Verdien {Amount} [ICON_Science] wetenschap voor ieder [ICON_GreatWork_Artifact] artefact in deze stad.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_3ATOMICINFORMATIONTECHBOOSTS">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het atoom- of informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ALLINFORMATIONTECHBOOSTS">
-			<Text>Ontlokt het [ICON_TechBoosted] 'Eureka'-moment voor alle technologieen uit het informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE">
-			<Text>Verleent {Amount} [ICON_Production] productie richting constructie van ruimteraceprojecten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_LARGE">
-			<Text>+{Amount}% [ICON_Production] productie richting ruimteraceprojecten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREATPERSON_ABU_AL_QASIM_AL_ZAHRAWI_ACTIVE">
-			<Text>Gewonde eenheden genezen iedere beurt +5 HP.</Text>
-		</Replace>
-	</LocalizedText>
+  <LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT">
+      <Text>Geactiveerd effect</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_CREATE_GREAT_WORK">
+      <Text>Creeer Groots Werk</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
+      <Text>Sticht religie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
+      <Text>Trek je terug</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_CHARGES">
+      <Text>{1_ChargeAmount} {1_ChargeAmount : plural 1?lading; other?ladingen;}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_FOUND_RELIGION">
+      <Text>Activeer in Heilige Stad-wijk of Stonehenge.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
+      <Text>Activeer in een wijk of wonder met een lege plaats voor een Groots Werk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNOWNED_TILE">
+      <Text>Activeer in een gebiedsdeel zonder eigenaar.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_DOES_NOT_NEED_OWNED_TILE">
+      <Text>Activeerbaar in gebiedsdelen die je niet bezit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OWNED_TILE">
+      <Text>Activeerbaar in een gebiedsdeel dat jouw eigendom is.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_BARBARIAN_UNIT">
+      <Text>Activeer naast barbaarse eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_MOUNTAIN">
+      <Text>Activeer naast een berg.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_TO_OWNED_TILE">
+      <Text>Activeer naast een gebiedsdeel in jouw bezit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_GREAT_WORK_OBJECT">
+      <Text>Activeer in een stad met een {1_GreatWorkObjectTypeName} &lt;&lt; {2_IconString}-Groots Werk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_COMPLETED_DISTRICT">
+      <Text>Activeer in een {1_DistrictName}-wijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_SPACE_RACE_PROJECT">
+      <Text>Activeer bij een ruimteraceproject in constructie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_WONDER">
+      <Text>Activeer bij een wonder in constructie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT">
+      <Text>Activeer bij een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_SEA_UNIT">
+      <Text>Activeer bij een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_AIR_UNIT">
+      <Text>Actieer bij een militaire luchteenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_NO_MILITARY_UNIT">
+      <Text>Activeer in een gebiedsdeel zonder militaire eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
+      <Text>Activeer in of naast een gebiedsdeel met {1_FeatureName}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_NATURAL_WONDER">
+      <Text>Activeer in of naast een natuurlijk wonder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION">
+      <Text>Activeer bij een militaire eenheid, niet zijnde een korps of leger.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION">
+      <Text>Activeer bij een korps.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION">
+      <Text>Activeer bij een leger.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_LUXURY_RESOURCE">
+      <Text>Activeer bij een luxegoederenbron.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ANYWHERE">
+      <Text>Activeer in een willekeurig gebiedsdeel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_OPEN_PLAYER_RELIC_SLOT">
+      <Text>Je moet een lege plaats voor een [ICON_GreatWork_Relic]-relikwie hebben in een van je steden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MISSING_BUILDING">
+      <Text>De stad mag niet al het {1_BuildingName}-gebouw hebben.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_GOLD_COST">
+      <Text>Actie kost {1_GoldAmount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_EFFECT_FOUND_RELIGION">
+      <Text>Sticht een religie en maakt van deze stad een Heilige Stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_EFFECT_GREAT_WORK_OBJECT">
+      <Text>{1_GreatWorkName} ({2_GreatWorkObjectIconString} {3_GreatWorkObjectName}).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_PASSIVE_NAME_DEFAULT">
+      <Text>Passieve effecten</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD">
+      <Text>Verwerf onmiddellijk {Amount} {YieldType}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMPUTERSTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van computertechnologie vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
+      <Text>Maakt [ICON_TechBoosted] bespoedigingen vrij voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het moderne tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
+      <Text>+5 [ICON_Strength] gevechtsbonus van Grote Generaal.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
+      <Text>+5 [ICON_Strength] gevechtsbonus van Grote Admiraal.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het klassieke en middeleeuwse tijdperk binnen twee gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_LAND">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het middeleeuwse en Renaissance-tijdperk binnen twee gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_LAND">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het industriele en Renaissance-tijdperk binnen twee gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_LAND">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het industriele en moderne tijdperk binnen twee gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_LAND">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het moderne en atoomtijdperk binnen twee gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_LAND">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het informatie- en atoomtijdperk binnen twee gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_LAND">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing aan landeenheden uit het informatietijdperk binnen twee gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
+      <Text>Brengt nabije barbaarse eenheden onder jouw controle.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_HANNIBAL_BARCA_ACTIVE">
+      <Text>Verleent 1 promotieniveau aan een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
+      <Text>Produceert onmiddellijk een ridder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_EL_CID_ACTIVE">
+      <Text>Vormt een korps uit een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GENGHIS_KHAN_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +25% gevechtservaring aan een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GUSTAVUS_ADOLPHUS_ACTIVE">
+      <Text>Produceert onmiddellijk een bombardeereenheid met 1 promotieniveau.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOAN_OF_ARC_ACTIVE">
+      <Text>Produceert een [ICON_GreatWork_Relic] relikwie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ANA_NZINGA_ACTIVE">
+      <Text>Verwerf {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_NAPOLEON_BONAPARTE_ACTIVE">
+      <Text>Vormt een leger uit een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_RANI_LAKSHMIBAI_ACTIVE">
+      <Text>Produceert onmiddellijk een cavalerie-eenheid met 1 promotieniveau.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
+      <Text>Verwerf {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOHN_MONASH_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +75% gevechtservaring aan een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
+      <Text>De wijk in dit gebiedsdeel verwerft +1 luchteenheidplaatsen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
+      <Text>Produceert onmiddellijk een infanterie-eenheid met 1 promotieniveau.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_DWIGHT_EISENHOWER_ACTIVE">
+      <Text>+5% [ICON_Production] productie richting militaire eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GEORGY_ZHUKOV_ACTIVE">
+      <Text>+50% flankeerbonus voor alle landeenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_ACTIVE">
+      <Text>Produceert onmiddellijk een tank met 1 promotieniveau.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
+      <Text>Produceert onmiddellijk een moderne antitankeenheid met 1 promotieniveau.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire landeenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het klassieke en middeleeuwse tijdperk binnen 2 gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het middeleeuwse en Renaissance-tijdperk binnen 2 gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het Renaissance- en industriele tijdperk binnen 2 gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het industriele en moderne tijdperk binnen 2 gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het moderne en atoomtijdperk binnen 2 gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het atoom- en informatietijdperk binnen 2 gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
+      <Text>+5 [ICON_Strength] gevechtskracht en +1 [ICON_Movement] verplaatsing voor zeevarende eenheden uit het informatietijdperk binnen 2 gebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
+      <Text>Verleent 1 promotieniveau aan een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GAIUS_DUILIUS_ACTIVE">
+      <Text>Vormt een vloot uit een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
+      <Text>Produceert onmiddelijk een galei.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
+      <Text>Maakt het alle zeevarende eenheden mogelijk zich te verplaatsen over oceaangebiedsdelen zonder de daarvoor normaliter vereiste technologie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
+      <Text>Verdien 50 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +40% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ZHENG_HE_ACTIVE">
+      <Text>Verdien {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_FRANCIS_DRAKE_ACTIVE">
+      <Text>Verdien 75 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +50% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_SANTA_CRUZ_ACTIVE">
+      <Text>Vormt een armada uit een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_YI_SUN_SIN_ACTIVE">
+      <Text>Produceert onmiddellijk een pantserschip met 1 promotieniveau.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHING_SHIH_ACTIVE">
+      <Text>Verdien 100 [ICON_Gold] goud (op standaardsnelheid). Militaire eenheden krijgen +60% voor het plunderen van [ICON_TradeRoute] handelsroutes over zee.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_HORATIO_NELSON_ACTIVE">
+      <Text>+50% flankeerbonus voor alle mzeevarende eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_LASKARINA_BOUBOULINA_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +50% gevechtservaring aan een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE">
+      <Text>Produceert onmiddellijk een slagschip met 1 promotieniveau.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOAQUIM_MARQUES_LISBOA_ACTIVE">
+      <Text>Bouwt 25% minder oorlogsmoeheid op dan normaal.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +75% gevechtservaring aan een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHESTER_NIMITZ_ACTIVE">
+      <Text>+20% [ICON_Production] productie richting eenheden van de Naval Raider promotieklasse.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRACE_HOPPER_ACTIVE">
+      <Text>Maakt [ICON_TechBoosted] bespoedigingen vrij voor {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het atoom- of informatietijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_SERGEY_GORSHKOV_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +100% gevechtservaring aan een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
+      <Text>Verleent 1 promotieniveau en +200% gevechtservaring aan een militaire zeevarende eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
+      <Text>Laat deze stad 1 wijk meer aanleggen dan de bevolkingsgrootte toelaat.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van printtechnologie vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_MEDIEVAL">
+      <Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_JAMES_OF_ST_GEORGE_ACTIVE">
+      <Text>Bouwt onmiddelijk oude en middeleeuwse muren in deze stad en voorziet in genoeg [ICON_Gold] goud per beurt om hun onderhoud te betalen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_RENAISSANCE">
+      <Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_WORKSHOP_CULTURE">
+      <Text>Werkplaatsen voorzien in +{Amount} [ICON_Culture] cultuur.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_HOUSING_SMALL">
+      <Text>+{Amount} [ICON_Housing] huisvesting voor deze stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_AMENITIES_SMALL">
+      <Text>+{Amount} [ICON_Amenities] {Amount : plural 1?voorziening; other?voorzieningen;} voor deze stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INDUSTRIAL">
+      <Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_JAMES_WATT_ACTIVE">
+      <Text>Bouwt onmiddelijk een fabriek en een werkplaats in deze wijk. Fabrieken voorzien in +2 [ICON_Production] productie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
+      <Text>Deze stad voorziet in +{Amount} lokkracht voor elk gebiedsdeel in bezit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
+      <Text>De regionale gebouwen in deze wijk reiken {Amount} {Amount : plural 1?gebiedsdeel; other?gebiedsdelen;} verder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
+      <Text>De regionale gebouwen in deze wijk voorzien in +{Amount} [ICON_Production] productie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL">
+      <Text>+{Amount}% [ICON_Production] productie richting ruimteraceprojecten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van rakettechnologie vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
+      <Text>+{Amount} [ICON_Housing] huisvesting voor deze stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_HOUSING_LARGE">
+      <Text>+{Amount} [ICON_Housing] huisvesting voor deze stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_AMENITIES_LARGE">
+      <Text>+{Amount} [ICON_Amenities] {Amount : plural 1?voorziening; other?voorzieningen;} voor deze stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_EARLY_SPACE_RACE">
+      <Text>Verleent {Amount} [ICON_Production] productie zichting constructie ruimteraceproject.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
+      <Text>Deze stad voorziet in +{Amount} lokkracht voor elk gebiedsdeel in bezit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
+      <Text>De regionale gebouwen in deze wijk voorzien in +{Amount} [ICON_Amenities] {Amount : plural 1?voorziening; other?voorzieningen;}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INFORMATION">
+      <Text>Verleent {Amount} [ICON_Production] productie richting constructie van een wonder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PLOT_RESOURCE">
+      <Text>Verleent {Amount} gratis {Amount : plural 1?kopie; other?kopieen;} van de luxegoederenbron in dit gebiedsdeel aan je [ICON_Capital] hoofdstad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_FAITH_SMALL">
+      <Text>Verdien {Amount} [ICON_Faith] geloof.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PLOT">
+      <Text>Je dichtsbijzijnde stad annexeert dit gebiedsdeel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_TINY">
+      <Text>Verdien {Amount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ZHANG_QIAN_ACTIVE">
+      <Text>Verhoogt [ICON_TradeRoute] handelsroutecapaciteit met 1. Buitenlandse [ICON_TradeRoute] handelsroutes naar deze stad voorzien in +2 [ICON_Gold] goud aan beide steden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_MARCO_POLO_ACTIVE">
+      <Text>Verleent deze stad een gratis handelseenheid en verhoogt [ICON_TradeRoute] handelsroutecapaciteit met 1. Buitenlandse [ICON_TradeRoute] handelsroutes naar deze stad voorzien in +2 [ICON_Gold] goud aan beide steden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_TO_INCOMING_FOREIGN_ROUTES">
+      <Text>Deze stad voorziet in +{Amount} [ICON_Gold] goud voor buitenlandse [ICON_TradeRoute] handelsroutes.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_FROM_INCOMING_FOREIGN_ROUTES">
+      <Text>Deze stad ontvangt +{Amount} [ICON_Gold] goud van buitenlandse [ICON_TradeRoute] handelsroutes.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_FREE_TRADER_UNIT">
+      <Text>Verdien een gratis handelseenheid in deze stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_EXTRA_TRADE_ROUTE_CAPACITY">
+      <Text>Verhoogt [ICON_TradeRoute] handelsroutecapaciteit met {Amount}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_SMALL">
+      <Text>Verdien {Amount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_SMALL">
+      <Text>Verdien {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GIOVANNI_DE_MEDICI_ACTIVE">
+      <Text>Bouwt onmiddellijk een bank en een markt in deze wijk. De bank krijgt twee vrije plaatsen voor welk Groots Werk dan ook.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_MARKET">
+      <Text>Bouwt onmiddellijk een markt in deze wijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_BANK">
+      <Text>Bouwt onmiddellijk een bank in deze wijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_BANK_GREAT_WORK_SLOTS">
+      <Text>Deze bank krijgt {Amount} vrije plaatsen voor Grootse Werken anders dan [ICON_GreatWork_Relic] relikwieen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_MEDIUM">
+      <Text>Verdien {Amount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_MEDIUM">
+      <Text>Verdien {Amount} [ICON_Envoy] {Amount : plural 1?gezant; other?gezanten;}.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_SPECIALTY_DISTRICT">
+      <Text>Je [ICON_TradeRoute] handelsroutes naar je eigen steden verdienen +{Amount} [ICON_Gold] goud voor iedere gespecialiseerde wijk bij de bestemming.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ECONOMIC_POLICY_SLOT">
+      <Text>+1 lege plaats voor economische beleidsoptie in iedere regering.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_JEANS">
+      <Text>Verleent {Amount} [ICON_RESOURCE_JEANS] jeans, een unieke luxegoederenbron die je +4 [ICON_Amenities] voorzieningen biedt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GOLD_LARGE">
+      <Text>Verdien {Amount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PERFUME">
+      <Text>Verleent {Amount} [ICON_RESOURCE_PERFUME] parfum, een unieke luxegoederenbron die je +6 [ICON_Amenities] voorzieningen biedt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
+      <Text>Verleent 1 [ICON_RESOURCE_OIL] olie, een strategische hulpbron. Je [ICON_TradeRoute] handelsroutes verdienen +2 [ICON_Gold] goud voor iedere strategische hulpbron verbeterd door de stad van bestemming.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_OIL">
+      <Text>Verleent {Amount} [ICON_RESOURCE_OIL] olie, een strategische hulpbron.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
+      <Text>Je [ICON_TradeRoute] handelsroutes verdienen +{Amount} [ICON_Gold] goud voor iedere strategische hulpbron verbeterd door de stad van bestemming.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
+      <Text>+{Amount}% [ICON_Tourism] toerisme-ratio richting andere beschavingen waarnaar je een [ICON_TradeRoute] handelsroute hebt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_COSMETICS">
+      <Text>Verleent {Amount} [ICON_RESOURCE_COSMETICS] cosmetica, een unieke luxegoederenbron die je +4 [ICON_Amenities] voorzieningen biedt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_DIPLO_VISIBILITY">
+      <Text>+{Amount} {Amount : plural 1?niveau; other?niveaus;} van diplomatieke zichtbaarheid bij alle andere beschavingen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_TOYS">
+      <Text>Verleent {Amount} [ICON_RESOURCE_TOYS] speelgoed, een unieke luxegoederenbron die je +4 [ICON_Amenities] voorzieningen biedt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_INDUSTRIAL_ZONE_TOURISM">
+      <Text>Industriele wijken voorzien in +{Amount} [ICON_Tourism] toerisme.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CAMPUS_TOURISM">
+      <Text>Campuswijken voorzien in +{Amount} [ICON_Tourism] toerisme.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;}  uit de middeleeuwen of het klassieke tijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van wiskunde en 1 willekeurige technologie uit de middeleeuwen vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] van willekeurige {Amount : plural 1?technologie; other?technologieen;} uit de middeleeuwen vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_MATHTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van wiskunde vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_LIBRARY">
+      <Text>Bouwt onmiddellijk een bibliotheek in deze wijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_LIBRARY_FREE_MAINTENANCE">
+      <Text>+{Amount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITY">
+      <Text>Bouwt onmiddellijk een universiteit in deze wijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITY_FREE_MAINTENANCE">
+      <Text>+{Amount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCETECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit Renaissance of middeleeuwen vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
+      <Text>De nabijheids- [ICON_Faith] geloofsbonus van deze Heilige plaats voorziet ook in een [ICON_Science] wetenschapsbonus.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_FAITH">
+      <Text>Verdien {Amount} [ICON_Faith] geloof.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
+      <Text>Maakt de bespoediging van 2 willekeurige technologieen [ICON_TechBoosted] en van 1 willekeurig [ICON_CivicBoosted] ontplooiing uit de Renaissance of de middeleeuwen vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit de Renaissance of middeleeuwen vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?ontplooiing; other?ontplooiingen;} uit Renaissance of middeleeuwen vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
+      <Text>Verdien 250 [ICON_Science] wetenschap (op standaardsnelheid) voor ieder aangrenzend berggebiedsdeel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_RESEARCH_LAB">
+      <Text>Bouwt onmiddellijk een onderzoekslaboratorium in deze wijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_RESEARCH_LAB_FREE_MAINTENANCE">
+      <Text>+{Amount} [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ISAAC_NEWTON_ACTIVE">
+      <Text>Bouwt onmiddelijk een universiteit en bibliotheek in deze wijk. Universiteiten voorzien in +2 [ICON_Science] wetenschap.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit de Renaissance of het industriele tijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
+      <Text>Voegt {Amount} gratis [ICON_GreatPerson] Belangrijk Persoon-punten toe aan recrutering van alle huidige en toekomstige Belangrijke Personen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHARLES_DARWIN_ACTIVE">
+      <Text>Verdien 500 [ICON_Science] wetenschap (op standaardsnelheid) voor ieder gebiedsdeel hier of aangrenzend met een natuurlijk wonder.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_DMITRI_MENDELEEV_ACTIVE">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van chemie en 1 willekeurige technologie uit het industriele tijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ALAN_TURING_ACTIVE">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van computers en 1 willekeurige technologie uit het moderne tijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_1INDUSTRIALTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het industriele tijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_CHEMISTRYTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van chemie vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_LIBRARIES_SCIENCE">
+      <Text>Bibliotheken voorzien in +{Amount} [ICON_Science] wetenschap.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITIES_SMALL_SCIENCE">
+      <Text>Universiteiten voorzien in +{Amount} [ICON_Science] wetenschap.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_UNIVERSITIES_BIG_SCIENCE">
+      <Text>Universiteiten voorzien in +{Amount} [ICON_Science] wetenschap.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_1MODERNATOMICTECHBOOST">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het moderne of atoomtijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_REVEAL_OIL">
+      <Text>Onthult [ICON_RESOURCE_OIL] olie zonder de normaliter vereiste technologie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_2INDUSTRIALMODERNTECHBOOSTS">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het industriele of moderne tijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ADJACENT_RAINFOREST_SCIENCE">
+      <Text>Verdien {Amount} [ICON_Science] wetenschap voor ieder regenwoudgebiedsdeel hier of aangrenzend.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ARTIFACT_TOURISM_MODIFIER">
+      <Text>[ICON_GreatWork_Artifact] artefacten in al je steden genereren {ScalingFactor}% van hun normale [ICON_Tourism] toerisme.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ARTIFACT_SCIENCE">
+      <Text>Verdien {Amount} [ICON_Science] wetenschap voor ieder [ICON_GreatWork_Artifact] artefact in deze stad.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_3ATOMICINFORMATIONTECHBOOSTS">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van {Amount} willekeurige {Amount : plural 1?technologie; other?technologieen;} uit het atoom- of informatietijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ALLINFORMATIONTECHBOOSTS">
+      <Text>Maakt de [ICON_TechBoosted] bespoediging van alle technologieen uit het informatietijdperk vrij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE">
+      <Text>Verleent {Amount} [ICON_Production] productie richting constructie van ruimteraceprojecten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_LARGE">
+      <Text>+{Amount}% [ICON_Production] productie richting ruimteraceprojecten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ABU_AL_QASIM_AL_ZAHRAWI_ACTIVE">
+      <Text>Gewonde eenheden genezen iedere beurt +5 HP.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION_SEA">
+      <Text>Activeer op een armada.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION_SEA">
+      <Text>Activeer op een vloot.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION_SEA">
+      <Text>Activeer op militaire eenheid die geen armada of vloot is.</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

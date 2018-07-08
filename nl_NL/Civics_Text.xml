@@ -443,7 +443,7 @@
 			<Text>Landeenheden verdienen +4 [ICON_Strength] gevechtskracht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
-			<Text>Bescherming van Belangrijke Personen kost 50% minder goud.</Text>
+			<Text>Aanwinnen van Belangrijke Personen kost 50% minder goud.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
 			<Text>Geen bonus.</Text>
@@ -716,7 +716,7 @@
 			<Text>+100% bonus voor nabijheid havenwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatAdmiral] Grote Generaal-punten per beurt.</Text>
+			<Text>+2 [ICON_GreatAdmiral] Grote Admiraal-punten per beurt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
 			<Text>+4 [ICON_Housing] huisvesting, +2 [ICON_Amenities] voorzieningen en -8 [ICON_Gold] goud naar alle steden met ten minste drie gespecialiseerde wijken.</Text>
@@ -725,7 +725,7 @@
 			<Text>+4 [ICON_GreatScientist] Grote Wetenschapper-punten per beurt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
-			<Text>Spionnen die een techniek versnelling bonus stelen zonder ontdekt te worden verdienen een extra boost.</Text>
+			<Text>Spionnen die een technologische bespoediging stelen zonder ontdekt te worden verdienen een extra vooruitgang.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
 			<Text>+50% [ICON_Tourism] toerisme-output voor beschavingen naar wie je een [ICON_TradeRoute] handelsroute hebt.</Text>

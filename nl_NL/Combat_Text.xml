@@ -1,221 +1,254 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-	<LocalizedText>
-		<Replace Language="nl_NL" Tag="LOC_GRAMMAR_A_AN">
-			<Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?a {1};}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GRAMMAR_A_AN_WITH_ICON">
-			<Text>{1: gender *:an?an {2} {1}; *:the?the {2} {1}; *:no_article?{2} {1}; other?a {2} {1};}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GRAMMAR_UPPER_A_AN">
-			<Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?A {1};}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GRAMMAR_UPPER_A_AN_WITH_ICON">
-			<Text>{1: gender *:an?An {2} {1}; *:the?The {2} {1}; *:no_article?{2} {1}; other?A {2} {1};}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_CITY_MAKE_RANGED_ATTACK">
-			<Text>Val aan met je stad!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
-			<Text>In verdediging heeft je {2_UnitName} ({5_Num} schade) een {3_EnemyAdjective} {4_EnemyUnitName} gedood!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
-			<Text>In verdediging heeft je stad {2_CityName} ({5_Num} schade) een {3_EnemyAdjective} {4_EnemyUnitName} gedood!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
-			<Text>Je stad {1_CityName} is ingenomen door een vijandelijke {2_UnitName}!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
-			<Text>Je {1_UnitName} ({2_Num} schade) heeft de vijandelijke stad {3_CityName} ingenomen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
-			<Text>Je {1_UnitName} heeft een vijandelijke {2_UnitName} gevangengenomen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
-			<Text>Je {1_UnitName} is gevangengenomen door een vijandelijke {2_UnitName}!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
-			<Text>Je {1_UnitName} ({2_Num} schade) heeft een vijandelijke {3_UnitName} vernietigd!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
-			<Text>Je {1_UnitName} is gesneuveld bij een aanval op een vijandelijke {2_EnUName} ({3_Num} schade)!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
-			<Text>Je {1_UnitName} is gesneuveld bij een aanval op de vijandelijke stad {2_EnUName} ({3_Num} schade)!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
-			<Text>Je {1_UnitName} ({2_Num} schade) heeft een vijandelijke {3_EnUName} ({4_Num} schade) aangevallen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
-			<Text>Je {1_UnitName} ({2_Num} schade) heeft de vijandelijke stad {3_CityName} ({4_Num} schade) aangevallen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
-			<Text>Onze {1_UnitName} heeft zich teruggetrokken uit de vijandelijke nauwe strijd-aanval.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
-			<Text>Je {1_UnitName} ({2_Num} schade) is aangevallen door een vijandelijke {3_EnUName} ({4_Num} schade)!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
-			<Text>Zich verdedigend is je {2_UnitName} vernietigd door een {3_EnemyAdjective} {4_EnemyUnitName} ({5_Num} schade)!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
-			<Text>Je {1_UnitName} heeft op een vijandelijke {2_EnUName} geschoten en {3_Num} schade veroorzaakt!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
-			<Text>Je {1_UnitName} heeft een vijandelijke {2_EnUName} gebombardeerd en {3_Num} schade veroorzaakt!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
-			<Text>Je {1_UnitName} is beschoten door een vijandelijke {2_EnUName} en heeft daarbij {3_Num} schade opgelopen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
-			<Text>Je {1_UnitName} heeft een vijandelijke {2_EnUName} gebombardeerd en {3_Num} schade veroorzaakt!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
-			<Text>Je {1_UnitName} is door een vijandelijke {2_EnUName} gebombardeerd en heeft daarbij {3_Num} schade opgelopen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_SURVIVED_INTERCEPT">
-			<Text>Je {1_UnitName} heeft een WMD-interceptie overleefd en daarbij {2_Num} schade opgelopen door een {3_EnemyAdjective} {4_EnemyUnitName} en {5_Num} schade uitgedeeld!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_FAILED">
-			<Text>Je {1_UnitName} is er niet in geslaagd een WMD-aanval te onderscheppen door {2_Num} schade uit te delen aan een {3_EnemyAdjective} {4_EnemyUnitName} en daarbij {5_Num} schade op te lopen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_FAILED_DUE_TO_INTERCEPT">
-			<Text>Je {1_UnitName} is er niet in geslaagd een WMD-aanval uit te voeren. Deze is onderschept, daarbij {2_Num} schade oplopend door een {3_EnemyAdjective} {4_EnemyUnitName} en zelf {5_Num} schade uitdelend!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_SUCCEEDED">
-			<Text>Je {1_UnitName} heeft een WMD-aanval onderschept door {2_Num} schade uit te delen aan een {3_EnemyAdjective} {4_EnemyUnitName}, waarbij zelf {5_Num} schade opgelopen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
-			<Text>Zich verdedigend is je {1_UnitName} vernietigd door een vermomde {2_EnUName} ({3_Num} schade)!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
-			<Text>Je {1_UnitName} heeft een vijandelijke {2_Name} aangevallen en {3_Num} schade veroorzaakt!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
-			<Text>Je {1_Name} is aangevallen door een vijandelijke {2_EnUName} en heeft daarbij {3_Num} schade opgelopen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
-			<Text>Je {1_UnitName} heeft een vijandelijke {2_Name} aangevallen ({3_Num} {2_Name} schade, {4_Num} defensieve schade)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
-			<Text>Je {1_Name} is aangevallen door een vijandelijke {2_EnUName} ({3_Num} {2_Name} schade, {4_Num} defensieve schade)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
-			<Text>{1_Name} heeft een vijandelijke {2_EnUName} gebombardeerd! ({3_Damage} schade)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
-			<Text>{1_Name} heeft een vijandelijke {2_EnUName} gebombardeerd! ({3_Damage} schade)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
-			<Text>Je {1_Name} is gebombardeerd door een vijandelijke {2_EnUName} en heeft daarbij {3_Num} schade opgelopen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_COMBAT_ICBM_DESTROYED">
-			<Text>ICBM onderschept en vernietigd.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PLUNDER_UNIT_HEALED">
-			<Text>Geplunderde buit heeft je {1_Name} genezen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PLUNDER_CULTURE">
-			<Text>Je ontvangt {1_Num} [ICON_Culture] cultuur van je geplunderde buit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PLUNDER_FAITH">
-			<Text>Je ontvangt {1_Num} [ICON_Faith] geloof van je geplunderde buit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PLUNDER_GOLD">
-			<Text>Je ontvangt {1_Num} [ICON_Gold] goud van je geplunderde buit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PLUNDER_SCIENCE">
-			<Text>Je ontvangt {1_Num} [ICON_Science] wetenschap van je geplunderde buit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_KILL_CULTURE">
-			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_KILL_FAITH">
-			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_KILL_FAITH_PLUS">
-			<Text>[COLOR_FLOAT_FAITH]+{1_Num} {2_Religion}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_KILL_FAITH_MINUS">
-			<Text>[COLOR_RED]-{1_Num} {2_Religion}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_KILL_GOLD">
-			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_KILL_SCIENCE">
-			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_KILL_GREATPERSON_BONUS">
-			<Text>[COLOR_FLOAT_FOOD]+{1_Num} {2_GreatPerson}-punten[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
-			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] gezondheid</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] gezondheid</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
-			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] defensie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] defensie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_HEADER">
-			<Text>STAD INGENOMEN</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_TRADED">
-			<Text>STAD GEKREGEN</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_NAME_LABEL">
-			<Text>Naam stad:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_POPULATION_LABEL">
-			<Text>Bevolking:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
-			<Text>Aantal wijken aanwezig:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
-			<Text>Een bevrijde stad zal weer in handen komen van hun vorige eigenaren, wat hun beschaving mogelijk terugbrengt in het spel.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
-			<Text>Het bevrijden van een stad voorziet in een [COLOR_GREEN]FLINKE REDUCTIE[ENDCOLOR]  van eerder opgelopen straf voor oorlogszucht.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
-			<Text>Houd deze stad voorlopig binnen je rijk.  Het zal een minder productieve, bezette stad zijn, totdat het naoorlogse eigendom ervan aan de vredestafel is bediscussieerd.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
-			<Text>Houd deze stad in je rijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
-			<Text>\Straf voor oorlogszucht als je deze stad houdt: {1_WarmongerLevel}[NEWLINE][NEWLINE]Straf zal ongedaan worden gemaakt of verdubbeld op het eind van de oorlog, alnaargelang je de stad wel of niet houdt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
-			<Text>Straf voor oorlogszucht als je de laatste stad van een speler houdt is gebaseerd op de straf voor een verassingsoorlog voor dit tijdperk. Deze waarde wordt [COLOR_RED]VERDUBBELD[ENDCOLOR] als het innemen van deze stad een majeure beschaving elimineert (geen stadstaat).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
-			<Text>Brand de stad plat en veeg alle wijken en gebouwen van de kaart. Voor deze optie moet worden gekozen in de beurt dat de stad veroverd wordt.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
-			<Text>Straf oorlogszucht is [COLOR_RED]VERDRIEDUBBELD[ENDCOLOR] voor het platbranden van een stad.[NEWLINE][NEWLINE]Straf vooroorlogszucht voor het platbranden van deze stad is: {1_WarmongerLevel}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
-			<Text>		Straf voor oorlogszucht is [COLOR_RED]DRIEMAAL[ENDCOLOR] de straf voor een formele oorlog in dit tijdperk wanneer je de laatste stad van een speler platbrandt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
-			<Text>Je kunt de oorspronkelijke hoofdstad van een majeure beschaving niet platbranden, evenmin als een stad die jij of een bondgenoot heeft gesticht of in eigendom heeft gehad bij de aanvan van de oorlog.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
-			<Text>Bevrijden en aan stichter ({1_CivName}) overdragen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
-			<Text>Bevrijden en aan vooroorlogse eigenaar {1_CivName}) overdragen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
-			<Text>Houd stad</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
-			<Text>Brand de stad plat</Text>
-		</Replace>
-	</LocalizedText>
+  <LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_GRAMMAR_A_AN">
+      <Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?a {1};}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GRAMMAR_A_AN_WITH_ICON">
+      <Text>{1: gender *:an?an {2} {1}; *:the?the {2} {1}; *:no_article?{2} {1}; other?a {2} {1};}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GRAMMAR_UPPER_A_AN">
+      <Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?A {1};}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_GRAMMAR_UPPER_A_AN_WITH_ICON">
+      <Text>{1: gender *:an?An {2} {1}; *:the?The {2} {1}; *:no_article?{2} {1}; other?A {2} {1};}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_CITY_MAKE_RANGED_ATTACK">
+      <Text>Val aan met je stad!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
+      <Text>In verdediging heeft je {2_UnitName} ({5_Num} schade) een {3_EnemyAdjective} {4_EnemyUnitName} gedood!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
+      <Text>In verdediging heeft je stad {2_CityName} ({5_Num} schade) een {3_EnemyAdjective} {4_EnemyUnitName} gedood!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
+      <Text>Je stad {1_CityName} is ingenomen door een vijandelijke {2_UnitName}!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
+      <Text>Je {1_UnitName} ({2_Num} schade) heeft de vijandelijke stad {3_CityName} ingenomen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
+      <Text>Je {1_UnitName} heeft een vijandelijke {2_UnitName} gevangengenomen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
+      <Text>Je {1_UnitName} is gevangengenomen door een vijandelijke {2_UnitName}!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
+      <Text>Je {1_UnitName} ({2_Num} schade) heeft een vijandelijke {3_UnitName} vernietigd!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
+      <Text>Je {1_UnitName} is gesneuveld bij een aanval op een vijandelijke {2_EnUName} ({3_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
+      <Text>Je {1_UnitName} is gesneuveld bij een aanval op de vijandelijke stad {2_EnUName} ({3_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
+      <Text>Je {1_UnitName} ({2_Num} schade) heeft een vijandelijke {3_EnUName} ({4_Num} schade) aangevallen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
+      <Text>Je {1_UnitName} ({2_Num} schade) heeft de vijandelijke stad {3_CityName} ({4_Num} schade) aangevallen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
+      <Text>Onze {1_UnitName} heeft zich teruggetrokken uit de vijandelijke nauwe strijd-aanval.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
+      <Text>Je {1_UnitName} ({2_Num} schade) is aangevallen door een vijandelijke {3_EnUName} ({4_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
+      <Text>Zich verdedigend is je {2_UnitName} vernietigd door een {3_EnemyAdjective} {4_EnemyUnitName} ({5_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
+      <Text>Je {1_UnitName} heeft op een vijandelijke {2_EnUName} geschoten en {3_Num} schade veroorzaakt!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
+      <Text>Je {1_UnitName} heeft een vijandelijke {2_EnUName} gebombardeerd en {3_Num} schade veroorzaakt!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
+      <Text>Je {1_UnitName} is beschoten door een vijandelijke {2_EnUName} en heeft daarbij {3_Num} schade opgelopen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
+      <Text>Je {1_UnitName} heeft een vijandelijke {2_EnUName} gebombardeerd en {3_Num} schade veroorzaakt!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
+      <Text>Je {1_UnitName} is door een vijandelijke {2_EnUName} gebombardeerd en heeft daarbij {3_Num} schade opgelopen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_SURVIVED_INTERCEPT">
+      <Text>Je {1_UnitName} heeft een WMD-interceptie overleefd en daarbij {2_Num} schade opgelopen door een {3_EnemyAdjective} {4_EnemyUnitName} en {5_Num} schade uitgedeeld!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_FAILED">
+      <Text>Je {1_UnitName} is er niet in geslaagd een WMD-aanval te onderscheppen door {2_Num} schade uit te delen aan een {3_EnemyAdjective} {4_EnemyUnitName} en daarbij {5_Num} schade op te lopen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_FAILED_DUE_TO_INTERCEPT">
+      <Text>Je {1_UnitName} is er niet in geslaagd een WMD-aanval uit te voeren. Deze is onderschept, daarbij {2_Num} schade oplopend door een {3_EnemyAdjective} {4_EnemyUnitName} en zelf {5_Num} schade uitdelend!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_SUCCEEDED">
+      <Text>Je {1_UnitName} heeft een WMD-aanval onderschept door {2_Num} schade uit te delen aan een {3_EnemyAdjective} {4_EnemyUnitName}, waarbij zelf {5_Num} schade opgelopen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
+      <Text>Zich verdedigend is je {1_UnitName} vernietigd door een vermomde {2_EnUName} ({3_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
+      <Text>Je {1_UnitName} heeft een vijandelijke {2_Name} aangevallen en {3_Num} schade veroorzaakt!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
+      <Text>Je {1_Name} is aangevallen door een vijandelijke {2_EnUName} en heeft daarbij {3_Num} schade opgelopen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
+      <Text>Je {1_UnitName} heeft een vijandelijke {2_Name} aangevallen ({3_Num} {2_Name} schade, {4_Num} defensieve schade)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
+      <Text>Je {1_Name} is aangevallen door een vijandelijke {2_EnUName} ({3_Num} {2_Name} schade, {4_Num} defensieve schade)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
+      <Text>{1_Name} heeft een vijandelijke {2_EnUName} gebombardeerd! ({3_Damage} schade)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
+      <Text>{1_Name} heeft een vijandelijke {2_EnUName} gebombardeerd! ({3_Damage} schade)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
+      <Text>Je {1_Name} is gebombardeerd door een vijandelijke {2_EnUName} en heeft daarbij {3_Num} schade opgelopen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_ICBM_DESTROYED">
+      <Text>ICBM onderschept en vernietigd.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PLUNDER_UNIT_HEALED">
+      <Text>Geplunderde buit heeft je {1_Name} genezen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PLUNDER_CULTURE">
+      <Text>Je ontvangt {1_Num} [ICON_Culture] cultuur van je geplunderde buit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PLUNDER_FAITH">
+      <Text>Je ontvangt {1_Num} [ICON_Faith] geloof van je geplunderde buit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PLUNDER_GOLD">
+      <Text>Je ontvangt {1_Num} [ICON_Gold] goud van je geplunderde buit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PLUNDER_SCIENCE">
+      <Text>Je ontvangt {1_Num} [ICON_Science] wetenschap van je geplunderde buit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_KILL_CULTURE">
+      <Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_KILL_FAITH">
+      <Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_KILL_FAITH_PLUS">
+      <Text>[COLOR_FLOAT_FAITH]+{1_Num} {2_Religion}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_KILL_FAITH_MINUS">
+      <Text>[COLOR_RED]-{1_Num} {2_Religion}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_KILL_GOLD">
+      <Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_KILL_SCIENCE">
+      <Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_KILL_GREATPERSON_BONUS">
+      <Text>[COLOR_FLOAT_FOOD]+{1_Num} {2_GreatPerson}-punten[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
+      <Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] gezondheid</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
+      <Text>[COLOR_RED]{1_Num}[ENDCOLOR] gezondheid</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
+      <Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] defensie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
+      <Text>[COLOR_RED]{1_Num}[ENDCOLOR] defensie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_HEADER">
+      <Text>STAD INGENOMEN</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_TRADED">
+      <Text>STAD GEKREGEN</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_NAME_LABEL">
+      <Text>Naam stad:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_POPULATION_LABEL">
+      <Text>Bevolking:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
+      <Text>Aantal wijken aanwezig:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+      <Text>Een bevrijde stad zal weer in handen komen van hun vorige eigenaren, wat hun beschaving mogelijk terugbrengt in het spel.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+      <Text>Het bevrijden van een stad voorziet in een [COLOR_GREEN]FLINKE REDUCTIE[ENDCOLOR]  van eerder opgelopen straf voor oorlogszucht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
+      <Text>Houd deze stad voorlopig binnen je rijk.  Het zal een minder productieve, bezette stad zijn, totdat het naoorlogse eigendom ervan aan de vredestafel is bediscussieerd.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
+      <Text>Houd deze stad in je rijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+      <Text>\Straf voor oorlogszucht als je deze stad houdt: {1_WarmongerLevel}[NEWLINE][NEWLINE]Straf zal ongedaan worden gemaakt of verdubbeld op het eind van de oorlog, alnaargelang je de stad wel of niet houdt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+      <Text>Straf voor oorlogszucht als je de laatste stad van een speler houdt is gebaseerd op de straf voor een verassingsoorlog voor dit tijdperk. Deze waarde wordt [COLOR_RED]VERDUBBELD[ENDCOLOR] als het innemen van deze stad een majeure beschaving elimineert (geen stadstaat).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
+      <Text>Brand de stad plat en veeg alle wijken en gebouwen van de kaart. Voor deze optie moet worden gekozen in de beurt dat de stad veroverd wordt.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+      <Text>Straf oorlogszucht is [COLOR_RED]VERDRIEDUBBELD[ENDCOLOR] voor het platbranden van een stad.[NEWLINE][NEWLINE]Straf vooroorlogszucht voor het platbranden van deze stad is: {1_WarmongerLevel}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+      <Text>		Straf voor oorlogszucht is [COLOR_RED]DRIEMAAL[ENDCOLOR] de straf voor een formele oorlog in dit tijdperk wanneer je de laatste stad van een speler platbrandt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
+      <Text>Je kunt de oorspronkelijke hoofdstad van een majeure beschaving niet platbranden, evenmin als een stad die jij of een bondgenoot heeft gesticht of in eigendom heeft gehad bij de aanvan van de oorlog.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
+      <Text>Bevrijden en aan stichter ({1_CivName}) overdragen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
+      <Text>Bevrijden en aan vooroorlogse eigenaar {1_CivName}) overdragen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
+      <Text>Houd stad</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
+      <Text>Brand de stad plat</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+      <Text>Je {1_UnitName} ({2_Num} damage) onderschepte een vijandelijke {3_EnUName} ({4_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+      <Text>Je stopte {LOC_GRAMMAR_A_AN &lt;&lt; {1_EnemyAdjective}} {2_EnemyUnitName} WMD aanval door het toebrengen van {3_Num} schade!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+      <Text>Je kon een {LOC_GRAMMAR_A_AN &lt;&lt; {1_EnemyAdjective}} {2_EnemyUnitName} WMD aanval niet voorkomen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+      <Text>Je {1_UnitName} veroorzaakte aan {2_EnUName}({3_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+      <Text>Je aanvallende {1_UnitName} stierf vanwege {2_EnUName}!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+      <Text>Je aanvallende {1_UnitName} stierf door de onderschepping van {2_EnUName} ({3_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+      <Text>Gedurende de gepoogde onderschepping van je {2_UnitName} is deze vernietigd door {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+      <Text>Je aanvallende {2_UnitName} ({3_Num} damage) was vernietigd door {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName}!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+      <Text>Je aanvallende {2_UnitName} ({3_Num} damage) was onderschept door {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} schade)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+      <Text>Je {1_UnitName} WMD aanval faalde vanwege hoge schade.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+      <Text>Je {1_UnitName} WMD was succesvol!</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

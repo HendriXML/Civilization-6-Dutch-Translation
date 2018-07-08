@@ -1,1157 +1,1223 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-	<LocalizedText>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TITLE">
-			<Text>OPTIES</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
-			<Text>Dit zet ALLE opties op hun standaardwaarde.[NEWLINE][NEWLINE][COLOR_RED]Sommige wijzigingen hebben pas efffect na het herstarten van de applicatie.[ENDCOLOR][NEWLINE][NEWLINE]Opties resetten?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
-			<Text>Sommige wijzigingen hebben pas efffect na het herstarten van de applicatie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
-			<Text>Sommige wijzigingen hebben pas efffect na het herstarten van het huidige spel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_RESOLUTION_OK">
-			<Text>Wil je de huidige resolutie-instellingen behouden?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
-			<Text>OK</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
-			<Text>Ja</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
-			<Text>Nee</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_ENABLED">
-			<Text>Ingeschakeld</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_DISABLED">
-			<Text>Uitgeschakeld</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MINIMUM">
-			<Text>Minimum</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LOW">
-			<Text>Laag</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MEDIUM">
-			<Text>Medium</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HIGH">
-			<Text>Hoog</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_ULTRA">
-			<Text>Ultra</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CUSTOM">
-			<Text>Aangepast</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_NONE">
-			<Text>Geen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_REAL_LIFE">
-			<Text>Match plaatselijke tijd</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_X_TURNS">
-			<Text>Iedere {1_num} beurten</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_10_TURNS">
-			<Text>Iedere 10 beurten</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
-			<Text>Zoals de tijd voortschrijdt</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_NEVER">
-			<Text>Nooit</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_ALWAYS">
-			<Text>Altijd</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
-			<Text>Nieuw in Civilization VI</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
-			<Text>Nieuw in Civilization</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
-			<Text>Nieuw in turn-based strategy</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
-			<Text>Geanimeerde tijd van de dag:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
-			<Text>30 FPS</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TICK_INTERVAL_20_FPS">
-			<Text>20 FPS</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
-			<Text>60 FPS</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
-			<Text>In venster</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
-			<Text>Volledig scherm</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
-			<Text>Randloos venster</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_2X">
-			<Text>MSAA 2X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_4X">
-			<Text>MSAA 4X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_8X">
-			<Text>MSAA 8X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_16X">
-			<Text>MSAA 16X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_32X">
-			<Text>MSAA 32X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_FULL">
-			<Text>MSAA Full</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_2X">
-			<Text>CSAA 2X / 4X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_4X">
-			<Text>CSAA 4X / 8X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_8X">
-			<Text>CSAA 8X / 16X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_16X">
-			<Text>CSAA 16X / 32X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_32X">
-			<Text>CSAA 32X / 64X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_FULL">
-			<Text>CSAA Full</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_2X">
-			<Text>EQAA 2X / 4X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_4X">
-			<Text>EQAA 4X / 8X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_8X">
-			<Text>EQAA 8X / 16X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_16X">
-			<Text>EQAA 16X / 32X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_32X">
-			<Text>EQAA 32X / 64X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_FULL">
-			<Text>EQAA Full</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
-			<Text>Laag (Memory-Optimized)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
-			<Text>Laag (Performance-Optimized)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
-			<Text>Medium (Memory-Optimized)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
-			<Text>Medium (Performance-Optimized)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_1PASS">
-			<Text>1 Pass</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_2PASSES">
-			<Text>2 Passes</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_3PASSES">
-			<Text>3 Passes</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_4PASSES">
-			<Text>4 Passes</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_100_PERCENT">
-			<Text>100%</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_150_PERCENT">
-			<Text>150%</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_200_PERCENT">
-			<Text>200%</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
-			<Text>GPU Selectie:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
-			<Text>Tells the game which graphics card to use.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT">
-			<Text>Split-screen multi-GPU</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP">
-			<Text>Only available on DX12 multi-GPU setups.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
-			<Text>Resolutie:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP">
-			<Text>Sets the resolution the game renders at.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
-			<Text>UI Upscaling</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
-			<Text>Increases the size of the user interface.[NEWLINE](Only available at certain resolutions.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT">
-			<Text>Schermmodus:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP">
-			<Text>Modifies how the game's window is displayed.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT">
-			<Text>Invloed op presteren:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP">
-			<Text>Changes advanced settings to match the desired performance impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MEMORY_TEXT">
-			<Text>Invloed op geheugen:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
-			<Text>Changes advanced settings to match the desired memory impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
-			<Text>Toon geavanceerde opties</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
-			<Text>Verberg geavanceerde opties</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
-			<Text>Geavanceerde grafische instellingen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT">
-			<Text>Vertical Sync</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP">
-			<Text>Prevents visual tearing.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT">
-			<Text>Frame Limiter:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP">
-			<Text>Limits the rate at which the game renders.[NEWLINE][NEWLINE]Might increase battery life on portable devices when enabled.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MSAA_TEXT">
-			<Text>Anti-Aliasing:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MSAA_TOOLTIP">
-			<Text>Smooths out jagged edges.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT">
-			<Text>High-Resolution Asset Textures</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP">
-			<Text>Uses high-detail textures for game assets.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT">
-			<Text>High-Quality Visual Effects:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
-			<Text>Spawns more particle effects.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING">
-			<Text>Lighting</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT">
-			<Text>Ambient Occlusion</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP">
-			<Text>Darkens areas of objects that are less exposed to ambient light.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT">
-			<Text>Ambient Occlusion Depth Resolution:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP">
-			<Text>Changes the ambient occlusion detail.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT">
-			<Text>Ambient Occlusion Render Resolution:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP">
-			<Text>Changes the ambient occlusion quality.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT">
-			<Text>Bloom</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP">
-			<Text>Adds glow to bright lights and reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT">
-			<Text>Dynamic Lighting</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
-			<Text>Adds light sources other than the sun.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS">
-			<Text>Shadows</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TEXT">
-			<Text>Shadows</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP">
-			<Text>Add dark areas where light is blocked by an object.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT">
-			<Text>Shadow Resolution:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
-			<Text>Changes the sharpness and detail of shadows.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_OVERLAY">
-			<Text>Overlay</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TEXT">
-			<Text>Overlay Resolution:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TOOLTIP">
-			<Text>Changes the sharpness and detail of overlays.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT">
-			<Text>Screen-Space Overlay</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
-			<Text>Draws the overlays on top of everything, not just on top of the terrain.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN">
-			<Text>Terrain</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TEXT">
-			<Text>Quality:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP">
-			<Text>Changes the terrain detail.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and/or [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT">
-			<Text>High-Resolution Geometry</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP">
-			<Text>Terrain geometry becomes sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TEXT">
-			<Text>High-Resolution Textures</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TOOLTIP">
-			<Text>Terrain textures become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT">
-			<Text>High-Quality Shader</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP">
-			<Text>Changes the terrain lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT">
-			<Text>High-Detail Clutter</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
-			<Text>Increases the amount of trees and ice chunks.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER">
-			<Text>Water</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT">
-			<Text>High-Resolution Water</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP">
-			<Text>Water waves and highlights become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT">
-			<Text>High-Quality Shader</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP">
-			<Text>Changes the water lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT">
-			<Text>Reflections:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
-			<Text>Control the quality of water reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADERS">
-			<Text>Animated Leaders</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADER_QUALITY_TEXT">
-			<Text>Quality:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
-			<Text>Changes the appearance of leaders.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR] and lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
-			<Text>Toon introductievideo:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
-			<Text>Maak muis vast aan venster:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
-			<Text>Scroll als muis bij schermrand:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
-			<Text>Klokformaat:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_12HOUR">
-			<Text>12-uurs</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_24HOUR">
-			<Text>24-uurs</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
-			<Text>Gedrag tijd van de dag:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
-			<Text>Auto eenhedenwisseling:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
-			<Text>Vertraging tooltips:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
-			<Text>{1_Value : number #.##}s</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
-			<Text>User Interface:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
-			<Text>Toggle Tech Tree</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
-			<Text>Toggle Civics Tree</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
-			<Text>Toggle Government Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
-			<Text>Toggle Religion Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
-			<Text>Toggle Great People Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
-			<Text>Toggle Great Works Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
-			<Text>Toggle Rankings Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
-			<Text>Toggle City-States Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
-			<Text>Toggle Espionage Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
-			<Text>Toggle Trade Routes Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
-			<Text>Open the Civilopedia</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
-			<Text>Toggles visibility of the Tech Tree</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
-			<Text>Toggles visibility of the Civics Tree</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
-			<Text>Toggles visibility of the Government Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP">
-			<Text>Toggles visibility of the Religion Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP">
-			<Text>Toggles visibility of the Great People Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP">
-			<Text>Toggles visibility of the Great Works Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP">
-			<Text>Toggles visibility of the Rankings Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP">
-			<Text>Toggles visibility of the City-States Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP">
-			<Text>Toggles visibility of the Espionage Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP">
-			<Text>Toggles visibility of the Trade Routes Screen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP">
-			<Text>Opens the Civilopedia</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
-			<Text>Eenheid acties:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
-			<Text>Stad gesticht</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
-			<Text>Verplaats naar</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
-			<Text>Ommantelen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
-			<Text>Verwijder eenheid</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
-			<Text>Aanvallen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
-			<Text>Afstandsaanval</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
-			<Text>Automatisch verkennen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
-			<Text>Beurt overslaan</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
-			<Text>Rust</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
-			<Text>Waakzaam</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
-			<Text>Performs the Found City action if the selected unit is a Settler.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP">
-			<Text>Performs the Move To action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
-			<Text>Ommanteld de geselecteerde eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
-			<Text>Verwijderd de selecteerde eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
-			<Text>Performs the Attack action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP">
-			<Text>Performs the Ranged Attack action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP">
-			<Text>Enables auto-explore on the selected unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP">
-			<Text>The selected unit skips the current turn.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
-			<Text>Performs the Sleep action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP">
-			<Text>Performs the Alert action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
-			<Text>Globale acties:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
-			<Text>Volgende actie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID">
-			<Text>Rooster aan/uit</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU">
-			<Text>Spelmenu</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE">
-			<Text>QuickSave</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
-			<Text>QuickLoad</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT">
-			<Text>Volgende beschikbare eenheid</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT">
-			<Text>Vorige beschikbare eenheid</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD">
-			<Text>Oogstpictogrammen aan/uit</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP">
-			<Text>Beeld onhoog</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN">
-			<Text>Beeld omlaag</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT">
-			<Text>Beeld naar links</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
-			<Text>Beeld naar rechts</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
-			<Text>Volgende stad</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY">
-			<Text>Vorige stad</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
-			<Text>Ends the player's turn if possible.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP">
-			<Text>Toggles a grid overlay over the terrain.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP">
-			<Text>Brings up the in-game menu.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP">
-			<Text>Performs a quick save.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
-			<Text>Loads the most recent quick save, if one exists.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
-			<Text>Switches to the next ready unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT_HELP">
-			<Text>Switches to the previous ready unit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP">
-			<Text>Toggles the visibility of the yield icons.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP">
-			<Text>Pans the view of the map up</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN_HELP">
-			<Text>Pans the view of the map down</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT_HELP">
-			<Text>Pans the view of the map left</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT_HELP">
-			<Text>Pans the view of the map right</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP">
-			<Text>Switches to the next city.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
-			<Text>Switches to the previous city.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
-			<Text>Toggles the visibility of the resource icons.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
-			<Text>Online Actions:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
-			<Text>Online Pause</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
-			<Text>Pauses an Online game.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
-			<Text>Lenzen:</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
-			<Text>Religie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT">
-			<Text>Continent</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL">
-			<Text>Lokkracht</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER">
-			<Text>Kolonist</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT">
-			<Text>Regering</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
-			<Text>Beleid</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM">
-			<Text>Toerisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
-			<Text>Toggles the Religion lens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP">
-			<Text>Toggles the Continent lens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
-			<Text>Toggles the Appeal lens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
-			<Text>Toggles the Settler lens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT_HELP">
-			<Text>Toggles the Government lens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
-			<Text>Toggles the Political lens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP">
-			<Text>Toggles the Tourism lens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_UNDERSCORE">
-			<Text>_</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_A">
-			<Text>A</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_B">
-			<Text>B</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_C">
-			<Text>C</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_D">
-			<Text>D</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_E">
-			<Text>E</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F">
-			<Text>F</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_G">
-			<Text>G</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_H">
-			<Text>H</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_I">
-			<Text>I</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_J">
-			<Text>J</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_K">
-			<Text>K</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_L">
-			<Text>L</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_M">
-			<Text>M</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_N">
-			<Text>N</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_O">
-			<Text>O</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_P">
-			<Text>P</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_Q">
-			<Text>Q</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_R">
-			<Text>R</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_S">
-			<Text>S</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_T">
-			<Text>T</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_U">
-			<Text>U</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_V">
-			<Text>V</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_W">
-			<Text>W</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_X">
-			<Text>X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_Y">
-			<Text>Y</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_Z">
-			<Text>Z</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_0">
-			<Text>0</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_1">
-			<Text>1</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_2">
-			<Text>2</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_3">
-			<Text>3</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_4">
-			<Text>4</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_5">
-			<Text>5</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_6">
-			<Text>6</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_7">
-			<Text>7</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_8">
-			<Text>8</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_9">
-			<Text>9</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_0">
-			<Text>0 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_1">
-			<Text>1 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_2">
-			<Text>2 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_3">
-			<Text>3 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_4">
-			<Text>4 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_5">
-			<Text>5 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_6">
-			<Text>6 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_7">
-			<Text>7 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_8">
-			<Text>8 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_9">
-			<Text>9 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
-			<Text>* (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_PLUS">
-			<Text>+ (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_MINUS">
-			<Text>- (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
-			<Text>. (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
-			<Text>/ (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_CENTER">
-			<Text>Center (Number Pad)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F1">
-			<Text>F1</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F2">
-			<Text>F2</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F3">
-			<Text>F3</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F4">
-			<Text>F4</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F5">
-			<Text>F5</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F6">
-			<Text>F6</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F7">
-			<Text>F7</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F8">
-			<Text>F8</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F9">
-			<Text>F9</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F10">
-			<Text>F10</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F11">
-			<Text>F11</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F12">
-			<Text>F12</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F13">
-			<Text>F13</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F14">
-			<Text>F14</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F15">
-			<Text>F15</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F16">
-			<Text>F16</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F17">
-			<Text>F17</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F18">
-			<Text>F18</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F19">
-			<Text>F19</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F20">
-			<Text>F20</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F21">
-			<Text>F21</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F22">
-			<Text>F22</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F23">
-			<Text>F23</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F24">
-			<Text>F24</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_INSERT">
-			<Text>Insert</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_HOME">
-			<Text>Home</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PAGEUP">
-			<Text>Page Up</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_DELETE">
-			<Text>Delete</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_END">
-			<Text>End</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PAGEDOWN">
-			<Text>Page Down</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LEFT">
-			<Text>Left Arrow</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_UP">
-			<Text>Up Arrow</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RIGHT">
-			<Text>Right Arrow</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_DOWN">
-			<Text>Down Arrow</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SEMICOLON">
-			<Text>;</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PLUS">
-			<Text>+</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_COMMA">
-			<Text>,</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MINUS">
-			<Text>-</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PERIOD">
-			<Text>.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SLASH">
-			<Text>/</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_TILDE">
-			<Text>~</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LBRACKET">
-			<Text>[</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BACKSLASH">
-			<Text>\</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RBRACKET">
-			<Text>]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_QUOTE">
-			<Text>"</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
-			<Text>Print Scrn</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PAUSE">
-			<Text>Pause</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SPACE">
-			<Text>Space</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_TAB">
-			<Text>Tab</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RETURN">
-			<Text>Return</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_ESCAPE">
-			<Text>Esc</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BACKSPACE">
-			<Text>Backspace</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_CANCEL">
-			<Text>Cancel</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SHIFT">
-			<Text>Shift</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_CONTROL">
-			<Text>Control</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_ALT">
-			<Text>Alt</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LSHIFT">
-			<Text>Left Shift</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LCONTROL">
-			<Text>Left Control</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LALT">
-			<Text>Left Alt</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RSHIFT">
-			<Text>Right Shift</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RCONTROL">
-			<Text>Right Control</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RALT">
-			<Text>Right Alt</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LBUTTON">
-			<Text>Left Mouse Button</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RBUTTON">
-			<Text>Right Mouse Button</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MBUTTON">
-			<Text>Middle Mouse Button</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_CAPSLOCK">
-			<Text>Caps Lock</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NUMLOCK">
-			<Text>Num Lock</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
-			<Text>Scroll Lock</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LWIN">
-			<Text>Left Win</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RWIN">
-			<Text>Right Win</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_APPS">
-			<Text>Apps</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_DANOMITE">
-			<Text/>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_IGNORE">
-			<Text/>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_A">
-			<Text>Pad A</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_B">
-			<Text>Pad B</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_X">
-			<Text>Pad X</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_Y">
-			<Text>Pad Y</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_RSHOULDER">
-			<Text>Pad RB</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_LSHOULDER">
-			<Text>Pad LB</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_LTRIGGER">
-			<Text>Pad LT</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_RTRIGGER">
-			<Text>Pad RT</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_UP">
-			<Text>Pad Dpad Up</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
-			<Text>Pad Dpad Down</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
-			<Text>Pad Dpad Left</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
-			<Text>Pad Dpad Right</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_START">
-			<Text>Pad Start</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_BACK">
-			<Text>Pad Back</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
-			<Text>Pad LStick</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
-			<Text>Pad RStick</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
-			<Text>Mute</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_VOLUME_DOWN">
-			<Text>Vol. Down</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_VOLUME_UP">
-			<Text>Vol. Up</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK">
-			<Text>Next Track</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_PREV_TRACK">
-			<Text>Prev Track</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_STOP">
-			<Text>Stop</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
-			<Text>Play / Pause</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NUM_KEYS">
-			<Text>Num Keys</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SUBTITLES">
-			<Text>Cinematic Subtitles:</Text>
-		</Replace>
-	</LocalizedText>
+  <LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TITLE">
+      <Text>OPTIES</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
+      <Text>Dit zet ALLE opties op hun standaardwaarde.[NEWLINE][NEWLINE][COLOR_RED]Sommige wijzigingen hebben pas efffect na het herstarten van de applicatie.[ENDCOLOR][NEWLINE][NEWLINE]Opties resetten?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
+      <Text>Sommige wijzigingen hebben pas efffect na het herstarten van de applicatie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
+      <Text>Sommige wijzigingen hebben pas efffect na het herstarten van het huidige spel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_RESOLUTION_OK">
+      <Text>Wil je de huidige resolutie-instellingen behouden?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
+      <Text>OK</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
+      <Text>Ja</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
+      <Text>Nee</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_ENABLED">
+      <Text>Ingeschakeld</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_DISABLED">
+      <Text>Uitgeschakeld</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MINIMUM">
+      <Text>Minimum</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LOW">
+      <Text>Laag</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MEDIUM">
+      <Text>Medium</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HIGH">
+      <Text>Hoog</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_ULTRA">
+      <Text>Ultra</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CUSTOM">
+      <Text>Aangepast</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_NONE">
+      <Text>Geen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_REAL_LIFE">
+      <Text>Match plaatselijke tijd</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_X_TURNS">
+      <Text>Iedere {1_num} beurten</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_10_TURNS">
+      <Text>Iedere 10 beurten</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
+      <Text>Zoals de tijd voortschrijdt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_NEVER">
+      <Text>Nooit</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_ALWAYS">
+      <Text>Altijd</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
+      <Text>Nieuw in Civilization VI</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
+      <Text>Nieuw in Civilization</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
+      <Text>Nieuw in turn-based strategy</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
+      <Text>Geanimeerde tijd van de dag:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
+      <Text>30 FPS</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TICK_INTERVAL_20_FPS">
+      <Text>20 FPS</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
+      <Text>60 FPS</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
+      <Text>In venster</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
+      <Text>Volledig scherm</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
+      <Text>Randloos venster</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_2X">
+      <Text>MSAA 2X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_4X">
+      <Text>MSAA 4X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_8X">
+      <Text>MSAA 8X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_16X">
+      <Text>MSAA 16X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_32X">
+      <Text>MSAA 32X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MSAA_FULL">
+      <Text>MSAA Full</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_2X">
+      <Text>CSAA 2X / 4X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_4X">
+      <Text>CSAA 4X / 8X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_8X">
+      <Text>CSAA 8X / 16X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_16X">
+      <Text>CSAA 16X / 32X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_32X">
+      <Text>CSAA 32X / 64X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CSAA_FULL">
+      <Text>CSAA Full</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_2X">
+      <Text>EQAA 2X / 4X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_4X">
+      <Text>EQAA 4X / 8X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_8X">
+      <Text>EQAA 8X / 16X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_16X">
+      <Text>EQAA 16X / 32X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_32X">
+      <Text>EQAA 32X / 64X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_EQAA_FULL">
+      <Text>EQAA Full</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
+      <Text>Laag (Memory-Optimized)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
+      <Text>Laag (Performance-Optimized)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
+      <Text>Medium (Memory-Optimized)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
+      <Text>Medium (Performance-Optimized)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_1PASS">
+      <Text>1 Pass</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_2PASSES">
+      <Text>2 Passes</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_3PASSES">
+      <Text>3 Passes</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_REFLECTION_4PASSES">
+      <Text>4 Passes</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_100_PERCENT">
+      <Text>100%</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_150_PERCENT">
+      <Text>150%</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_200_PERCENT">
+      <Text>200%</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
+      <Text>GPU Selectie:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
+      <Text>Tells the game which graphics card to use.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT">
+      <Text>Split-screen multi-GPU</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP">
+      <Text>Only available on DX12 multi-GPU setups.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
+      <Text>Resolutie:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP">
+      <Text>Sets the resolution the game renders at.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
+      <Text>UI Upscaling</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
+      <Text>Increases the size of the user interface.[NEWLINE](Only available at certain resolutions.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT">
+      <Text>Schermmodus:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP">
+      <Text>Modifies how the game's window is displayed.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT">
+      <Text>Invloed op presteren:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP">
+      <Text>Changes advanced settings to match the desired performance impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MEMORY_TEXT">
+      <Text>Invloed op geheugen:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
+      <Text>Changes advanced settings to match the desired memory impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
+      <Text>Toon geavanceerde opties</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
+      <Text>Verberg geavanceerde opties</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
+      <Text>Geavanceerde grafische instellingen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT">
+      <Text>Vertical Sync</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP">
+      <Text>Prevents visual tearing.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT">
+      <Text>Frame Limiter:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP">
+      <Text>Limits the rate at which the game renders.[NEWLINE][NEWLINE]Might increase battery life on portable devices when enabled.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MSAA_TEXT">
+      <Text>Anti-Aliasing:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_MSAA_TOOLTIP">
+      <Text>Smooths out jagged edges.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT">
+      <Text>High-Resolution Asset Textures</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP">
+      <Text>Uses high-detail textures for game assets.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT">
+      <Text>High-Quality Visual Effects:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
+      <Text>Spawns more particle effects.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING">
+      <Text>Lighting</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT">
+      <Text>Ambient Occlusion</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP">
+      <Text>Darkens areas of objects that are less exposed to ambient light.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT">
+      <Text>Ambient Occlusion Depth Resolution:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP">
+      <Text>Changes the ambient occlusion detail.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT">
+      <Text>Ambient Occlusion Render Resolution:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP">
+      <Text>Changes the ambient occlusion quality.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT">
+      <Text>Bloom</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP">
+      <Text>Adds glow to bright lights and reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT">
+      <Text>Dynamic Lighting</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
+      <Text>Adds light sources other than the sun.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS">
+      <Text>Shadows</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TEXT">
+      <Text>Shadows</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP">
+      <Text>Add dark areas where light is blocked by an object.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT">
+      <Text>Shadow Resolution:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
+      <Text>Changes the sharpness and detail of shadows.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_OVERLAY">
+      <Text>Overlay</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TEXT">
+      <Text>Overlay Resolution:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TOOLTIP">
+      <Text>Changes the sharpness and detail of overlays.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT">
+      <Text>Screen-Space Overlay</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
+      <Text>Draws the overlays on top of everything, not just on top of the terrain.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN">
+      <Text>Terrain</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TEXT">
+      <Text>Quality:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP">
+      <Text>Changes the terrain detail.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and/or [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT">
+      <Text>High-Resolution Geometry</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP">
+      <Text>Terrain geometry becomes sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TEXT">
+      <Text>High-Resolution Textures</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TOOLTIP">
+      <Text>Terrain textures become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT">
+      <Text>High-Quality Shader</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP">
+      <Text>Changes the terrain lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT">
+      <Text>High-Detail Clutter</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
+      <Text>Increases the amount of trees and ice chunks.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER">
+      <Text>Water</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT">
+      <Text>High-Resolution Water</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP">
+      <Text>Water waves and highlights become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT">
+      <Text>High-Quality Shader</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP">
+      <Text>Changes the water lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT">
+      <Text>Reflections:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
+      <Text>Control the quality of water reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADERS">
+      <Text>Animated Leaders</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADER_QUALITY_TEXT">
+      <Text>Quality:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
+      <Text>Changes the appearance of leaders.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR] and lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
+      <Text>Toon introductievideo:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
+      <Text>Maak muis vast aan venster:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
+      <Text>Scroll als muis bij schermrand:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
+      <Text>Klokformaat:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_12HOUR">
+      <Text>12-uurs</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_24HOUR">
+      <Text>24-uurs</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
+      <Text>Gedrag tijd van de dag:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
+      <Text>Auto eenhedenwisseling:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
+      <Text>Vertraging tooltips:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
+      <Text>{1_Value : number #.##}s</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
+      <Text>User Interface:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
+      <Text>Toggle Tech Tree</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
+      <Text>Toggle Civics Tree</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
+      <Text>Toggle Government Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
+      <Text>Toggle Religion Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
+      <Text>Toggle Great People Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
+      <Text>Toggle Great Works Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
+      <Text>Toggle Rankings Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
+      <Text>Toggle City-States Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
+      <Text>Toggle Espionage Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
+      <Text>Toggle Trade Routes Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
+      <Text>Open the Civilopedia</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
+      <Text>Toggles visibility of the Tech Tree</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
+      <Text>Toggles visibility of the Civics Tree</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
+      <Text>Toggles visibility of the Government Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP">
+      <Text>Toggles visibility of the Religion Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP">
+      <Text>Toggles visibility of the Great People Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP">
+      <Text>Toggles visibility of the Great Works Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP">
+      <Text>Toggles visibility of the Rankings Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP">
+      <Text>Toggles visibility of the City-States Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP">
+      <Text>Toggles visibility of the Espionage Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP">
+      <Text>Toggles visibility of the Trade Routes Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP">
+      <Text>Opens the Civilopedia</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
+      <Text>Eenheid acties:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
+      <Text>Stad gesticht</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
+      <Text>Verplaats naar</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
+      <Text>Ommantelen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
+      <Text>Verwijder eenheid</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
+      <Text>Aanvallen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
+      <Text>Afstandsaanval</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
+      <Text>Automatisch verkennen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
+      <Text>Beurt overslaan</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
+      <Text>Rust</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
+      <Text>Waakzaam</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
+      <Text>Performs the Found City action if the selected unit is a Settler.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP">
+      <Text>Performs the Move To action with the selected unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
+      <Text>Ommanteld de geselecteerde eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
+      <Text>Verwijderd de selecteerde eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
+      <Text>Performs the Attack action with the selected unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP">
+      <Text>Performs the Ranged Attack action with the selected unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP">
+      <Text>Enables auto-explore on the selected unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP">
+      <Text>The selected unit skips the current turn.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
+      <Text>Performs the Sleep action with the selected unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP">
+      <Text>Performs the Alert action with the selected unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
+      <Text>Globale acties:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
+      <Text>Volgende actie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID">
+      <Text>Rooster aan/uit</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU">
+      <Text>Spelmenu</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE">
+      <Text>QuickSave</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
+      <Text>QuickLoad</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT">
+      <Text>Volgende beschikbare eenheid</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT">
+      <Text>Vorige beschikbare eenheid</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD">
+      <Text>Oogstpictogrammen aan/uit</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP">
+      <Text>Beeld onhoog</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN">
+      <Text>Beeld omlaag</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT">
+      <Text>Beeld naar links</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
+      <Text>Beeld naar rechts</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
+      <Text>Volgende stad</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY">
+      <Text>Vorige stad</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
+      <Text>Ends the player's turn if possible.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP">
+      <Text>Toggles a grid overlay over the terrain.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP">
+      <Text>Brings up the in-game menu.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP">
+      <Text>Performs a quick save.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
+      <Text>Loads the most recent quick save, if one exists.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
+      <Text>Switches to the next ready unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT_HELP">
+      <Text>Switches to the previous ready unit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP">
+      <Text>Toggles the visibility of the yield icons.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP">
+      <Text>Pans the view of the map up</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN_HELP">
+      <Text>Pans the view of the map down</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT_HELP">
+      <Text>Pans the view of the map left</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT_HELP">
+      <Text>Pans the view of the map right</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP">
+      <Text>Switches to the next city.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
+      <Text>Switches to the previous city.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
+      <Text>Toggles the visibility of the resource icons.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
+      <Text>Online Actions:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
+      <Text>Online Pause</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
+      <Text>Pauses an Online game.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
+      <Text>Lenzen:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
+      <Text>Religie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT">
+      <Text>Continent</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL">
+      <Text>Lokkracht</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER">
+      <Text>Kolonist</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT">
+      <Text>Regering</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
+      <Text>Beleid</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM">
+      <Text>Toerisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
+      <Text>Toggles the Religion lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP">
+      <Text>Toggles the Continent lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
+      <Text>Toggles the Appeal lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
+      <Text>Toggles the Settler lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT_HELP">
+      <Text>Toggles the Government lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
+      <Text>Toggles the Political lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP">
+      <Text>Toggles the Tourism lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_UNDERSCORE">
+      <Text>_</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_A">
+      <Text>A</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_B">
+      <Text>B</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_C">
+      <Text>C</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_D">
+      <Text>D</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_E">
+      <Text>E</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F">
+      <Text>F</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_G">
+      <Text>G</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_H">
+      <Text>H</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_I">
+      <Text>I</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_J">
+      <Text>J</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_K">
+      <Text>K</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_L">
+      <Text>L</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_M">
+      <Text>M</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_N">
+      <Text>N</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_O">
+      <Text>O</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_P">
+      <Text>P</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_Q">
+      <Text>Q</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_R">
+      <Text>R</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_S">
+      <Text>S</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_T">
+      <Text>T</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_U">
+      <Text>U</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_V">
+      <Text>V</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_W">
+      <Text>W</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_X">
+      <Text>X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_Y">
+      <Text>Y</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_Z">
+      <Text>Z</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_0">
+      <Text>0</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_1">
+      <Text>1</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_2">
+      <Text>2</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_3">
+      <Text>3</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_4">
+      <Text>4</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_5">
+      <Text>5</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_6">
+      <Text>6</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_7">
+      <Text>7</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_8">
+      <Text>8</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_9">
+      <Text>9</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_0">
+      <Text>0 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_1">
+      <Text>1 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_2">
+      <Text>2 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_3">
+      <Text>3 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_4">
+      <Text>4 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_5">
+      <Text>5 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_6">
+      <Text>6 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_7">
+      <Text>7 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_8">
+      <Text>8 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_9">
+      <Text>9 (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
+      <Text>* (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_PLUS">
+      <Text>+ (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_MINUS">
+      <Text>- (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
+      <Text>. (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
+      <Text>/ (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NP_CENTER">
+      <Text>Center (Number Pad)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F1">
+      <Text>F1</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F2">
+      <Text>F2</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F3">
+      <Text>F3</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F4">
+      <Text>F4</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F5">
+      <Text>F5</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F6">
+      <Text>F6</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F7">
+      <Text>F7</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F8">
+      <Text>F8</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F9">
+      <Text>F9</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F10">
+      <Text>F10</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F11">
+      <Text>F11</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F12">
+      <Text>F12</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F13">
+      <Text>F13</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F14">
+      <Text>F14</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F15">
+      <Text>F15</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F16">
+      <Text>F16</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F17">
+      <Text>F17</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F18">
+      <Text>F18</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F19">
+      <Text>F19</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F20">
+      <Text>F20</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F21">
+      <Text>F21</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F22">
+      <Text>F22</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F23">
+      <Text>F23</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_F24">
+      <Text>F24</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_INSERT">
+      <Text>Insert</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_HOME">
+      <Text>Home</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PAGEUP">
+      <Text>Page Up</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_DELETE">
+      <Text>Delete</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_END">
+      <Text>End</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PAGEDOWN">
+      <Text>Page Down</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LEFT">
+      <Text>Left Arrow</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_UP">
+      <Text>Up Arrow</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RIGHT">
+      <Text>Right Arrow</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_DOWN">
+      <Text>Down Arrow</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SEMICOLON">
+      <Text>;</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PLUS">
+      <Text>+</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_COMMA">
+      <Text>,</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MINUS">
+      <Text>-</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PERIOD">
+      <Text>.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SLASH">
+      <Text>/</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_TILDE">
+      <Text>~</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LBRACKET">
+      <Text>[</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BACKSLASH">
+      <Text>\</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RBRACKET">
+      <Text>]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_QUOTE">
+      <Text>"</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
+      <Text>Print Scrn</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_PAUSE">
+      <Text>Pause</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SPACE">
+      <Text>Space</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_TAB">
+      <Text>Tab</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RETURN">
+      <Text>Return</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_ESCAPE">
+      <Text>Esc</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BACKSPACE">
+      <Text>Backspace</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_CANCEL">
+      <Text>Cancel</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SHIFT">
+      <Text>Shift</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_CONTROL">
+      <Text>Control</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_ALT">
+      <Text>Alt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LSHIFT">
+      <Text>Left Shift</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LCONTROL">
+      <Text>Left Control</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LALT">
+      <Text>Left Alt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RSHIFT">
+      <Text>Right Shift</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RCONTROL">
+      <Text>Right Control</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RALT">
+      <Text>Right Alt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LBUTTON">
+      <Text>Left Mouse Button</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RBUTTON">
+      <Text>Right Mouse Button</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MBUTTON">
+      <Text>Middle Mouse Button</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_CAPSLOCK">
+      <Text>Caps Lock</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NUMLOCK">
+      <Text>Num Lock</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
+      <Text>Scroll Lock</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_LWIN">
+      <Text>Left Win</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_RWIN">
+      <Text>Right Win</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_APPS">
+      <Text>Apps</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_DANOMITE">
+      <Text/>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_IGNORE">
+      <Text/>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_A">
+      <Text>Pad A</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_B">
+      <Text>Pad B</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_X">
+      <Text>Pad X</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_Y">
+      <Text>Pad Y</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_RSHOULDER">
+      <Text>Pad RB</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_LSHOULDER">
+      <Text>Pad LB</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_LTRIGGER">
+      <Text>Pad LT</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_RTRIGGER">
+      <Text>Pad RT</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_UP">
+      <Text>Pad Dpad Up</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
+      <Text>Pad Dpad Down</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
+      <Text>Pad Dpad Left</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
+      <Text>Pad Dpad Right</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_START">
+      <Text>Pad Start</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_BACK">
+      <Text>Pad Back</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
+      <Text>Pad LStick</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
+      <Text>Pad RStick</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
+      <Text>Mute</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_VOLUME_DOWN">
+      <Text>Vol. Down</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_VOLUME_UP">
+      <Text>Vol. Up</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK">
+      <Text>Next Track</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_PREV_TRACK">
+      <Text>Prev Track</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_STOP">
+      <Text>Stop</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
+      <Text>Play / Pause</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_NUM_KEYS">
+      <Text>Num Keys</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SUBTITLES">
+      <Text>Cinematic Subtitles:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HISTORIC_MOMENT_ANIMATION">
+      <Text>Historic Moment Reveal Animation:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP1">
+      <Text>User Interface (Rise and Fall):</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY">
+      <Text>Capital City</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY_HELP">
+      <Text>Switches to the Capital City</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW">
+      <Text>Toggle Strategic View</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP">
+      <Text>Toggles the game between standard and strategic (2D) views.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES">
+      <Text>Toggle Resource Icons</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMIN">
+      <Text>Zoom in</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMOUT">
+      <Text>Zoom out</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY">
+      <Text>Loyalty</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY_HELP">
+      <Text>Toggles the Loyalty lens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS">
+      <Text>Toggle Era Progress Panel</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS_HELP">
+      <Text>Toggles visibility of the Era Progress Panel</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS">
+      <Text>Toggle Governors Popup</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS_HELP">
+      <Text>Toggles visibility of the Governors Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE">
+      <Text>Toggle Timeline Popup</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE_HELP">
+      <Text>Toggles visibility of the Historic Timeline Screen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_MINIMAP_SIZE">
+      <Text>Minimap Size:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TEXT">
+      <Text>Motion Blur</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TOOLTIP">
+      <Text>Enable motion blur on leaders.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_EXPERIENCED_PLAYER">
+      <Text>Experienced Player</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP1">
+      <Text>New to Civilization VI - Rise and Fall</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

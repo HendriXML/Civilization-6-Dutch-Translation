@@ -1,374 +1,446 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-	<LocalizedText>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_PANTHEON">
-			<Text>Pantheon</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_BUDDHISM">
-			<Text>boeddhisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_CATHOLICISM">
-			<Text>katholicisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_CONFUCIANISM">
-			<Text>confucianisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_HINDUISM">
-			<Text>hindoeisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_ISLAM">
-			<Text>islam</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_JUDAISM">
-			<Text>judaisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_ORTHODOXY">
-			<Text>orthodoxe kerk</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_PROTESTANTISM">
-			<Text>protestantisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_SHINTO">
-			<Text>shinto</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_SIKHISM">
-			<Text>sikhisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_TAOISM">
-			<Text>taoisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_ZOROASTRIANISM">
-			<Text>zoroastrianisme</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
-			<Text>Pantheon</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
-			<Text>Aanhanger</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
-			<Text>Verering</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
-			<Text>Stichter</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
-			<Text>Versterker</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_RELIGION_MARTYRED_APOSTLE">
-			<Text>Gemartelde apostel</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
-			<Text>Dance of the Aurora</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
-			<Text>Desert Folklore</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_SACRED_PATH_NAME">
-			<Text>Sacred Path</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
-			<Text>River Goddess</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
-			<Text>Monument to the Gods</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
-			<Text>Divine Spark</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
-			<Text>Lady of the Reeds and Marshes</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
-			<Text>God of the Sea</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
-			<Text>God of the Open Sky</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
-			<Text>Goddess of the Hunt</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
-			<Text>Stone Circles</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
-			<Text>Religious Idols</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
-			<Text>God of Craftsmen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
-			<Text>Goddess of Festivals</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
-			<Text>Oral Tradition</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
-			<Text>God of the Forge</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
-			<Text>God of War</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_INITIATION_RITES_NAME">
-			<Text>Initiation Rites</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
-			<Text>God of Healing</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
-			<Text>Fertility Rites</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
-			<Text>Religious Settlements</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
-			<Text>Goddess of the Harvest</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CATHEDRAL_NAME">
-			<Text>Kathedraal</Text>
-		</Replace>
+  <LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_PANTHEON">
+      <Text>Pantheon</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_BUDDHISM">
+      <Text>boeddhisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_CATHOLICISM">
+      <Text>katholicisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_CONFUCIANISM">
+      <Text>confucianisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_HINDUISM">
+      <Text>hindoeisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_ISLAM">
+      <Text>islam</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_JUDAISM">
+      <Text>judaisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_ORTHODOXY">
+      <Text>orthodoxe kerk</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_PROTESTANTISM">
+      <Text>protestantisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_SHINTO">
+      <Text>shinto</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_SIKHISM">
+      <Text>sikhisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_TAOISM">
+      <Text>taoisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_ZOROASTRIANISM">
+      <Text>zoroastrianisme</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
+      <Text>Pantheon</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
+      <Text>Aanhanger</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
+      <Text>Verering</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
+      <Text>Stichter</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
+      <Text>Versterker</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_RELIGION_MARTYRED_APOSTLE">
+      <Text>Gemartelde apostel</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
+      <Text>Dance of the Aurora</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
+      <Text>Desert Folklore</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_SACRED_PATH_NAME">
+      <Text>Sacred Path</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
+      <Text>River Goddess</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
+      <Text>Monument to the Gods</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
+      <Text>Divine Spark</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
+      <Text>Lady of the Reeds and Marshes</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
+      <Text>God of the Sea</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
+      <Text>God of the Open Sky</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
+      <Text>Goddess of the Hunt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
+      <Text>Stone Circles</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
+      <Text>Religious Idols</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
+      <Text>God of Craftsmen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
+      <Text>Goddess of Festivals</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
+      <Text>Oral Tradition</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
+      <Text>God of the Forge</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
+      <Text>God of War</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_INITIATION_RITES_NAME">
+      <Text>Initiation Rites</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
+      <Text>God of Healing</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
+      <Text>Fertility Rites</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
+      <Text>Religious Settlements</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
+      <Text>Goddess of the Harvest</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CATHEDRAL_NAME">
+      <Text>Kathedraal</Text>
+    </Replace>
     <Replace Language="nl_NL" Tag="LOC_BELIEF_GURDWARA_NAME">
-			<Text>Gurdwara</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
-			<Text>Ontmoetingsruimte</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MOSQUE_NAME">
-			<Text>Moskee</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_PAGODA_NAME">
-			<Text>Pagode</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
-			<Text>Synagoge</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_WAT_NAME">
-			<Text>Wat</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
-			<Text>Divine Inspiration</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
-			<Text>Feed the World</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
-			<Text>Jesuit Education</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIQUARIES_NAME">
-			<Text>Reliquaries</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
-			<Text>Religious Community</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_WORK_ETHIC_NAME">
-			<Text>Work Ethic</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
-			<Text>Zen Meditation</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
-			<Text>Church Property</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
-			<Text>Lay Ministry</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
-			<Text>Papal Primacy</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
-			<Text>Pilgrimage</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_STEWARDSHIP_NAME">
-			<Text>Stewardship</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_TITHE_NAME">
-			<Text>Tithe</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
-			<Text>World Church</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
-			<Text>Defender of the Faith</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_HOLY_ORDER_NAME">
-			<Text>Holy Order</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
-			<Text>Itinerant Preachers</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_JUST_WAR_NAME">
-			<Text>Crusade</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
-			<Text>Missionary Zeal</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
-			<Text>Monastic Isolation</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_SCRIPTURE_NAME">
-			<Text>Scripture</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
-			<Text>Heilige Plaats-wijken krijgen +1 [ICON_Faith] geloof van aangrenzende toendragebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
-			<Text>Heilige Plaats-wijken krijgen +1 [ICON_Faith] geloof van aangenzende woestijngebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
-			<Text>Heilige Plaats-wijken krijgen +1 [ICON_Faith] geloof van aangrenzende regenwoudgebiedsdelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] voorzieningen naar steden die een Heilige Plaats-wijk hebben langs een rivier.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
-			<Text>+15% [ICON_Production] productie richting wonderen uit het oude en klassieke tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
-			<Text>+1 Belangrijk Persoon-punten van Heilige Plaats (profeet), campus (wetenschapper) en theatercomplex (schrijver).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
-			<Text>+1 [ICON_Production] productie van moeras, oase en watervlakten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
-			<Text>+1 [ICON_Production] productie van vissersboten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
-			<Text>+1 [ICON_Culture] cultuur van weiden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
-			<Text>+1 [ICON_Food] voedsel van kampen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
-			<Text>+2 [ICON_Faith] geloof van groeven.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>+1 [ICON_Faith] geloof van mijnen op luxegoederen- en bonushulpbronnen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
-			<Text>+1 [ICON_Production] productie van mijnen op strategische hulpbronnen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
-			<Text>+1 [ICON_Food] voedsel van [ICON_RESOURCE_WINE] wijn-, [ICON_RESOURCE_INCENSE] wierook-, [ICON_RESOURCE_COCOA] cacao-, [ICON_RESOURCE_TOBACCO] tabak-, [ICON_RESOURCE_COFFEE] koffie- en [ICON_RESOURCE_TEA] theeplantages.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
-			<Text>+1 [ICON_Culture] cultuur van [ICON_RESOURCE_BANANAS] bananen-, [ICON_RESOURCE_CITRUS] citrusvruchten-, [ICON_RESOURCE_COTTON] katoen-, [ICON_RESOURCE_DYES] verstoffen-, [ICON_RESOURCE_SILK] zijde-, [ICON_RESOURCE_SPICES] Specerijen- en [ICON_RESOURCE_SUGAR] suikerplantages.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
-			<Text>+25% [ICON_Production] productie richting militaire eenheden uit oude en klassieke tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
-			<Text>Versnelt genezing met +30 in je Heilige Plaats-wijk of ieder aangrenzend gebiedsdeel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Bonus [ICON_Faith] geloof gelijk aan 50% van de kracht van iedere vijand gedood binnen 8 gebiedsdelen van een Heilige Plaats-wijk in jouw bezit.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
-			<Text>+50 [ICON_Faith] geloof voor iedere schoongeveegde barbaarse buitenpost.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
-			<Text>\Ratio stadsgroei is 10% hoger.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
-			<Text>Ratio grensuitbreiding is 15% hoger.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
-			<Text>Oogst van hulpbron of verwijdering van een gebiedskenmerk levert [ICON_Faith] geloof op gelijk aan de oogsthoeveelheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
-			<Text>Maakt de bouw van kathedralen (+3 [ICON_Faith] geloof mogelijk, 1 plaats voor religieuze kunst).</Text>
-		</Replace>
-    <Replace Language="nl_NL"  Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
+      <Text>Gurdwara</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
+      <Text>Kapel</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MOSQUE_NAME">
+      <Text>Moskee</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_PAGODA_NAME">
+      <Text>Pagode</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
+      <Text>Synagoge</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WAT_NAME">
+      <Text>Wat</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
+      <Text>Divine Inspiration</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
+      <Text>Feed the World</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
+      <Text>Jesuit Education</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIQUARIES_NAME">
+      <Text>Reliquaries</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
+      <Text>Religious Community</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WORK_ETHIC_NAME">
+      <Text>Work Ethic</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
+      <Text>Zen Meditation</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
+      <Text>Church Property</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
+      <Text>Lay Ministry</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
+      <Text>Papal Primacy</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
+      <Text>Pilgrimage</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_STEWARDSHIP_NAME">
+      <Text>Stewardship</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_TITHE_NAME">
+      <Text>Tithe</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
+      <Text>World Church</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
+      <Text>Defender of the Faith</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_HOLY_ORDER_NAME">
+      <Text>Holy Order</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
+      <Text>Itinerant Preachers</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_JUST_WAR_NAME">
+      <Text>Crusade</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
+      <Text>Missionary Zeal</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
+      <Text>Monastic Isolation</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_SCRIPTURE_NAME">
+      <Text>Scripture</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
+      <Text>Heilige Plaats-wijken krijgen +1 [ICON_Faith] geloof van aangrenzende toendragebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
+      <Text>Heilige Plaats-wijken krijgen +1 [ICON_Faith] geloof van aangenzende woestijngebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
+      <Text>Heilige Plaats-wijken krijgen +1 [ICON_Faith] geloof van aangrenzende regenwoudgebiedsdelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
+      <Text>+1 [ICON_Amenities] voorzieningen naar steden die een Heilige Plaats-wijk hebben langs een rivier.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
+      <Text>+15% [ICON_Production] productie richting wonderen uit het oude en klassieke tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
+      <Text>+1 Belangrijk Persoon-punten van Heilige Plaats (profeet), campus (wetenschapper) en theatercomplex (schrijver).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
+      <Text>+1 [ICON_Production] productie van moeras, oase en watervlakten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
+      <Text>+1 [ICON_Production] productie van vissersboten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+      <Text>+1 [ICON_Culture] cultuur van weiden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
+      <Text>+1 [ICON_Food] voedsel van kampen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
+      <Text>+2 [ICON_Faith] geloof van groeven.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
+      <Text>+1 [ICON_Faith] geloof van mijnen op luxegoederen- en bonushulpbronnen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
+      <Text>+1 [ICON_Production] productie van mijnen op strategische hulpbronnen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+      <Text>+1 [ICON_Food] voedsel van [ICON_RESOURCE_WINE] wijn-, [ICON_RESOURCE_INCENSE] wierook-, [ICON_RESOURCE_COCOA] cacao-, [ICON_RESOURCE_TOBACCO] tabak-, [ICON_RESOURCE_COFFEE] koffie- en [ICON_RESOURCE_TEA] theeplantages.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
+      <Text>+1 [ICON_Culture] cultuur van [ICON_RESOURCE_BANANAS] bananen-, [ICON_RESOURCE_CITRUS] citrusvruchten-, [ICON_RESOURCE_COTTON] katoen-, [ICON_RESOURCE_DYES] verstoffen-, [ICON_RESOURCE_SILK] zijde-, [ICON_RESOURCE_SPICES] Specerijen- en [ICON_RESOURCE_SUGAR] suikerplantages.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
+      <Text>+25% [ICON_Production] productie richting militaire eenheden uit oude en klassieke tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
+      <Text>Versnelt genezing met +30 in je Heilige Plaats-wijk of ieder aangrenzend gebiedsdeel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
+      <Text>Bonus [ICON_Faith] geloof gelijk aan 50% van de kracht van iedere vijand gedood binnen 8 gebiedsdelen van een Heilige Plaats-wijk in jouw bezit.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
+      <Text>+50 [ICON_Faith] geloof voor iedere schoongeveegde barbaarse buitenpost.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
+      <Text>\Ratio stadsgroei is 10% hoger.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
+      <Text>Ratio grensuitbreiding is 15% hoger.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
+      <Text>Oogst van hulpbron of verwijdering van een gebiedskenmerk levert [ICON_Faith] geloof op gelijk aan de oogsthoeveelheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
+      <Text>Maakt de bouw van kathedralen (+3 [ICON_Faith] geloof mogelijk, 1 plaats voor religieuze kunst).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
       <Text>Maakt de bouw van Dar-e Mehrs (+3 [ICON_Faith] geloof mogelijk, +1 extra [ICON_FAITH] geloof voor ieder era sinds gebouwd of laatst gerepareerd).</Text>
     </Replace>
     <Replace Language="nl_NL" Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
       <Text>+1 extra [ICON_FAITH] geloof voor ieder era sinds gebouwd of laatst gerepareerd.</Text>
     </Replace>
     <Replace Language="nl_NL" Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
-			<Text>Maakt de bouw van gurdwara's (+3 [ICON_Faith] geloof mogelijk, +2 [ICON_Food] voedsel).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
-			<Text>Maakt de bouw van ontmoetingsruimtes (+3 [ICON_Faith] geloof mogelijk, +2 [ICON_Production] productie).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
-			<Text>Maakt de bouw van moskee (+3 [ICON_Faith] geloof). Missionarissen en apostelen +1 verspreiding.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
-			<Text>Maakt de bouw van Pagode's (+3 [ICON_Faith] geloof mogelijk, +1 [ICON_Housing] huisvesting).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
-			<Text>Maakt de bouw van synagoges (+5 [ICON_Faith] geloof).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_WAT_DESCRIPTION">
-			<Text>Maakt de bouw van Wat (+3 [ICON_Faith] geloof, +2 [ICON_Science] wetenschap).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
-			<Text>Alle wereldwonderen voorzien in +4 [ICON_Faith] geloof.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
-			<Text>Heiligdommen en tempels voorzien in [ICON_Food] voedsel gelijk aan hun intrinsieke [ICON_Faith] output van geloof.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
-			<Text>Kan campus- en theatercomplexgebouwen kopen met [ICON_Faith] geloof.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
-			<Text>[ICON_GreatWork_Relic] Relikwien hegbben een driedubbele opbrengst van zowel [ICON_Faith] geloof als [ICON_Tourism] toerisme.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
-			<Text>Heiligdommen en tempels voorzien ieder in +1 [ICON_Housing] huisvesting.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
-			<Text>+1% [ICON_Production] productie voor iedere aanhanger.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] voorziening in steden met 2 gespecialiseerde wijken.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
-			<Text>+2 [ICON_Gold] goud voor iedere stad die deze religie aanhangt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
-			<Text>Iedere Heilige Plaats- of theaterwijk in een stad die deze religie aanhangt voorziet in +1 [ICON_Faith] geloof respectievelijk +1 [ICON_Culture] cultuur.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
-			<Text>Typebonussen van stadstaten die deze religie aanhangen zijn 50% machtiger.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
-			<Text>+2 [ICON_Faith] geloof voor iedere stad die deze religie aanhangt in andere beschavingen en stadstaten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
-			<Text>Iedere campus- of commerciele wijk in een stad die deze religie aanhangt voorziet in +1 [ICON_Science] wetenschap respectievelijk +1 [ICON_Gold] goud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_TITHE_DESCRIPTION">
-			<Text>+1 [ICON_Gold] goud voor elke 4 aanhangers van deze religie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
-			<Text>+1 [ICON_Culture] cultuur voor iedere 5 aanhangers van deze religie in andere beschavingen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
-			<Text>Gevechtseenheden verdienen +10 [ICON_Strength] gevechtskracht binnen de grenzen van vriendschappelijke steden die deze religie aanhangen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
-			<Text>Missionarissen apostelen zijn 30% goedkoper.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
-			<Text>Religie verspreid naar steden 30% verder weg.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
-			<Text>Gevechtseenheden verdienen +10 [ICON_Strength] gevechtskracht nabij buitenlandse steden die deze religie aanhangen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
-			<Text>Religieuze eenheden negeren [ICON_Movement] verplaatsingskosten van terrein en de gesteldheid daarvan.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
-			<Text>Je religieuze overtuigingskracht daalt nooit als gevolg van verliezen in theologische strijd.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
-			<Text>Religieuze verspreidingsdruk van aangrenzende stad is 25% sterker. Geboost naar 50% wanneer printen is onderzocht.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
-			<Text>+{1_Value} Geloof "verdediger van het geloof"</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
-			<Text>+{1_Value} "Geloof "kruistocht"</Text>
-		</Replace>
-	</LocalizedText>
+      <Text>Maakt de bouw van Gurdwara's (+3 [ICON_Faith] geloof mogelijk, +2 [ICON_Food] voedsel).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
+      <Text>Maakt de bouw van Kapellen (+3 [ICON_Faith] geloof mogelijk, +2 [ICON_Production] productie).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
+      <Text>Maakt de bouw van Moskeeën (+3 [ICON_Faith] geloof). Missionarissen en apostelen +1 verspreiding.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+      <Text>Maakt de bouw van Pagode's (+3 [ICON_Faith] geloof mogelijk, +1 [ICON_Housing] huisvesting).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
+      <Text>Maakt de bouw van synagoges (+5 [ICON_Faith] geloof).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WAT_DESCRIPTION">
+      <Text>Maakt de bouw van Wats (+3 [ICON_Faith] geloof, +2 [ICON_Science] wetenschap).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
+      <Text>Alle wereldwonderen voorzien in +4 [ICON_Faith] geloof.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
+      <Text>Heiligdommen en tempels voorzien in [ICON_Food] voedsel gelijk aan hun intrinsieke [ICON_Faith] output van geloof.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
+      <Text>Kan campus- en theatercomplexgebouwen kopen met [ICON_Faith] geloof.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
+      <Text>[ICON_GreatWork_Relic] Relikwieën hegbben een driedubbele opbrengst van zowel [ICON_Faith] geloof als [ICON_Tourism] toerisme.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
+      <Text>Heiligdommen en tempels voorzien ieder in +1 [ICON_Housing] huisvesting.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
+      <Text>+1% [ICON_Production] productie voor iedere aanhanger.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
+      <Text>+1 [ICON_Amenities] voorziening in steden met 2 gespecialiseerde wijken.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
+      <Text>+2 [ICON_Gold] goud voor iedere stad die deze religie aanhangt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
+      <Text>Iedere Heilige Plaats- of theaterwijk in een stad die deze religie aanhangt voorziet in +1 [ICON_Faith] geloof respectievelijk +1 [ICON_Culture] cultuur.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+      <Text>Typebonussen van stadstaten die deze religie aanhangen zijn 50% machtiger.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
+      <Text>+2 [ICON_Faith] geloof voor iedere stad die deze religie aanhangt in andere beschavingen en stadstaten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
+      <Text>Iedere campus- of commerciele wijk in een stad die deze religie aanhangt voorziet in +1 [ICON_Science] wetenschap respectievelijk +1 [ICON_Gold] goud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_TITHE_DESCRIPTION">
+      <Text>+1 [ICON_Gold] goud voor elke 4 aanhangers van deze religie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
+      <Text>+1 [ICON_Culture] cultuur voor iedere 5 aanhangers van deze religie in andere beschavingen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
+      <Text>Gevechtseenheden verdienen +10 [ICON_Strength] gevechtskracht binnen de grenzen van vriendschappelijke steden die deze religie aanhangen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
+      <Text>Missionarissen apostelen zijn 30% goedkoper.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
+      <Text>Religie verspreid naar steden 30% verder weg.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
+      <Text>Gevechtseenheden verdienen +10 [ICON_Strength] gevechtskracht nabij buitenlandse steden die deze religie aanhangen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
+      <Text>Religieuze eenheden negeren [ICON_Movement] verplaatsingskosten van terrein en de gesteldheid daarvan.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
+      <Text>Je religieuze overtuigingskracht daalt nooit als gevolg van verliezen in theologische strijd.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
+      <Text>Religieuze verspreidingsinvloed van aangrenzende stad is 25% sterker. Geboost naar 50% wanneer printen is onderzocht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
+      <Text>+{1_Value} Geloof "verdediger van het geloof"</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
+      <Text>+{1_Value} "Geloof "kruistocht"</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
+      <Text>Cultuur bom aangrenzende tegels bij het voltooien van een heilige site.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
+      <Text>Begraafplaats</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
+      <Text>Heiligdommen en Tempels bieden [ICON_Culture] cultuur gelijk aan hun intrinsieke [ICON_Faith] geloofuitvoer.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
+      <Text>Koormuziek</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
+      <Text>+ 25% [ICON_Production] Productie naar districten in steden zonder een specialiteitendistrict.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
+      <Text>City Patron Goddess</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
+      <Text>+1 [ICON_Science] Wetenschap voor elke 5 volgers van deze religie in andere beschavingen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_NAME">
+      <Text>Multiculturele dialoog</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
+      <Text>Dar-e Mehr</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
+      <Text>+1 Geloof [ICON_Faith] van tegels met Charming of beter aantrekkingskracht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
+      <Text>Godin van de Aarde</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
+      <Text>Steden beginnen met deze religie als deze is opgericht door een speler die dit als hun religie heeft.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
+      <Text>Religieuze kolonisatie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION">
+      <Text>+1 [ICON_Envoy] Gezant in elke stadstaat wanneer deze religie voor het eerst wordt geadopteerd, in aanvulling op een gezant van een opdracht van een stadstaat.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
+      <Text>Religieuze eenheid</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_STUPA_DESCRIPTION">
+      <Text>Staat de constructie van Stupas toe (+3 [ICON_Faith] geloof, +1 [ICON_Amenities] voorzieningen).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_STUPA_NAME">
+      <Text>Stupa</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
+      <Text>Laat [ICON_Faith] geloof doorbrengen met het trainen van Oorlog monniken, middeleeuwse landgevechtseenheden met een unieke promotiestructuur. Kan alleen worden gekocht in een stad met een tempel op zijn heilige plaats.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
+      <Text>Oorlog monniken</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP">
+      <Text>{1_ReligionName}:[NEWLINE]{2_Followers} volgers, {3_TotalPressure} invloed</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP_HEADER">
+      <Text>Volgers / Totale invloed ontvangen:</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_CITY_BANNER_INCOMING_RELIGION_PRESSURE">
+      <Text>Inkomende invloed per beurt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_CITY_BANNER_OUTGOING_RELIGION_PRESSURE">
+      <Text>Uitgaande invloed per beurt</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_CITY_BANNER_PREDOMINANT_RELIGION">
+      <Text>{1_ReligionName} (Overheersend)</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

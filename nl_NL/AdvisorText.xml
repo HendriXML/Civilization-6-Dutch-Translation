@@ -1738,5 +1738,8 @@
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_7_ALT_2">
 			<Text>We have spotted another friendly village nearby. Perhaps we should send a Scout to investigate.</Text>
 		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ADVISOR_BUTTON_TAKE_ME_THERE">
+			<Text>Breng me er heen</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

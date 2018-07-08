@@ -1,266 +1,278 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-	<LocalizedText>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY">
-			<Text>Deze situatie zal gaan verslechteren voordat het iets beter wordt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MVEMBA_ANY">
-			<Text>Ik heb niets verkeerd gedaan en het volk van Congo verdient je laster niet.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>De glorie en macht van Frankrijk zal niet worden aangetast door zulke duidelijke leugens.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
-			<Text>Je waagt het de New Isis te beledigen?!? Dat zul je betreuren!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-			<Text>Ik zou je met mijn zwaard moeten bantwoorden...misschien doe ik dat ook wel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Text>Je leugens zullen niet worden geloofd door de wijzen en de dwazen zullen hun lesje leren.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GILGAMESH_ANY">
-			<Text>Ha! Gilgamesh is sterker dan jouw foute woorden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GORGO_ANY">
-			<Text>Je woorden zijn betekenisloos vergeleken met je daden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Text>Ha, ik heb koninkrijken platgebrand om minder beledigingen. Dit zet ik je betaald.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HOJO_ANY">
-			<Text>Lege woorden zijn geen bedreigingen. Toon me actie, doelen, discipline!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PEDRO_ANY">
-			<Text>Deze situatie zal gaan verslechteren voordat het iets beter wordt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PERICLES_ANY">
-			<Text>Alle leiders worden gehaat of zijn impopulair; als je een groot doel nastreeft moet je deze last accepteren.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
-			<Text>Mijn volk heeft strengere winters meegemaakt dan jouw leger. Denk je dat we bang zijn voor je bedreigingen?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-			<Text>Er bestaat geen grotere zonde dan de gezalfde dienaar van de Heer te trotseren. Je zult daarvoor flink boeten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY">
-			<Text>Een insect waagt het dus een draak te bedreigen. Dat is niet erg slim.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SALADIN_ANY">
-			<Text>Iedereen is kritisch op de tekortkomingen van anderen, maar blind voor zijn eigen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-			<Text>Hoe durf je!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMYRIS_ANY">
-			<Text>Niemand zal je holle leugens geloven. Tomyris is een goede vriend voor hen die het waard zijn.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TRAJAN_ANY">
-			<Text>Het is dus waar: iemand vol van nijd geringschat alles, goed of slecht.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ANY">
-			<Text>De koningin wenst hen te waarschuwen die geen respect voor haar volk hebben en voor de problemen die daarvan het gevolg zijn.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY">
-			<Text>De wereld dient kennis te nemen van je overtredingen (Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MVEMBA_ANY">
-			<Text>Je bent het kwaad op deze wereld, je naam zal eeuwenlang vervloekt worden. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Het bevalt me niet wat ik van je zie. Wat zullen je vrienden van deze informatie denken? (Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY">
-			<Text>Je bent erger dan Brutus en Cassius samen. De wereld zal de waarheid horen! (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BARBAROSSA_ANY">
-			<Text>De wereld zal kennis nemen van je verraad en je zult veroordeeld worden. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GANDHI_ANY">
-			<Text>Je bent onbetrouwbaar; dat is het ergste soort geweld. (Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GILGAMESH_ANY">
-			<Text>Laat de wereld mijn woorden horen: je bent even verradelijk als Ishtar.(Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GORGO_ANY">
-			<Text>Je bent nog erger dan een drogredenaar, dat mag de rest van de wereld best weten. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARDRADA_ANY">
-			<Text>Er zal voor jou geen plaats zijn aan Odin’s tafel, Je bent in ongenade gevallen.(Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HOJO_ANY">
-			<Text>Je bent een dwaze leider, simpel van geest. Je volk hoort deze waarheid te weten. (Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PEDRO_ANY">
-			<Text>De wereld dient kennis te nemen van je overtredingen (Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>Tirannen als jij zijn een gruwel. Je volk zal de waarheid van  mijn woorden leren kennen. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PETER_GREAT_ANY">
-			<Text>Ik heb veel gezien in mijn leven, maar nog nooit zo'n wansmakelijke leider. Je moet je schamen en dat zul je ook. (Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PHILIP_II_ANY">
-			<Text>Je bent een Judas, gekomen om de Heer te verraden. (Klaagt je aan).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY">
-			<Text>Je reputatie is voor eeuwig bezoedeld. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SALADIN_ANY">
-			<Text>Door mijn volk wordt gezegd dat het huis van een tiran een ruïne is...en ik zie alleen maaar een ruïne om je heen. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-			<Text>Ik kan een leider zonder waardigheid niet velen en de wereld moet dat weten. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>Je bent een ellendige leugenaar en kan niet worden vertrouwd. Je bent de ergste in je soort. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TRAJAN_ANY">
-			<Text>Hoe corrupter de staat, hoe meer wetten. En kijk eens hoeveel jij er hebt! (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ANY">
-			<Text>We hebben niets met je bestuur te maken. Je bent hierbij aangeklaagd. (Klaagt je aan)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_OPPORTUNITY">
-			<Text>(Is waarschijnlijk van plan oorlog te verklaren.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ARCHAEOLOGY">
-			<Text>(Je hebt een van hun artefacten opgegraven.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_BROKEN_PROMISE">
-			<Text>(Je hebt een belofte aan hen verbroken.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NO_PROMISE">
-			<Text>(Je wilde hen geen belofte doen.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CONVERTED_CITY">
-			<Text>(Je hebt een van hun steden bekeerd.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CULTURE_BOMB">
-			<Text>(Je hebt een van hun steden met cultuur gebombardeerd.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DEMAND">
-			<Text>(Je hebt handelsgoederen van hen geeist.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DENOUNCED">
-			<Text>(Je hebt hen aangeklaagd)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ESPIONAGE">
-			<Text>(Je hebt spionnen op hun dak gestuurd.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_GOVERNMENT_DIFFERENT">
-			<Text>(Jullie hebben verschillende regeringen.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_INCURSION">
-			<Text>(Je strijdmacht is hun land te ver binnengedrongen.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NEAR_BORDER_WARNING">
-			<Text> (Je hebt troepen aan hun grens gehouden.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_CITY">
-			<Text>(Je bezet een van hun steden.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_FRIENDLY_CITY">
-			<Text>(J bezet een stad van een bondgenoot van hen.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RANDOM">
-			<Text>(Ze mogen je gewoon niet.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RAZED_MY_CITY">
-			<Text>(Je hebt een van hun steden platgebrand.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_SETTLED_CITIES">
-			<Text>(Je hebt je in een regio gevestigd die zij als de hunne beschouwen.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
-			<Text>(Ze vinden je oorlogszuchtig.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
-			<Text>(Je hebt hun vriend aangeklaagd.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_AYYUBID_DYNASTY">
-			<Text>(Je mist zijn religieuze gebouw in een stad.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BACKSTAB_AVERSE_SURPRISE_WAR">
-			<Text>(Je hebt een verrassingsoorlog verklaard.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BLACK_QUEEN">
-			<Text>(Je bent zwak in spioneren.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BUSHIDO">
-			<Text>(Je loopt achter qua geloof en cultuur.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CONTINENT_ATTACKED">
-			<Text>(Je hebt een speler aangevallen op hun continent.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HAS_DESIRED_LUXURY">
-			<Text>(Je hebt een luxegoederenbron die zij begeren.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAST_VIKING_KING">
-			<Text>(Je zeemacht is zwak.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_GREAT_PEOPLE">
-			<Text>(Je hebt meer Belangrijke Personen dan zij.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LAGS_PROGRESS">
-			<Text>(Je loopt achter qua wetenschap en cultuur.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_WONDERS">
-			<Text>(Je hebt meer wonderen dan zij.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_NEVER_AT_WAR">
-			<Text>(Je hebt geen oorlog gevoerd.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_PAID_FOR_PEACE">
-			<Text>(Je hebt betaald voor vrede.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_WARMONGER">
-			<Text>(Je bent oorlogszuchtig.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_ENCROACHING_RELIGION">
-			<Text>(Je bekeert hun steden tot jouw religie.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
-			<Text>(Je wedijvert met hen om stadstaten.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_RELIGION_NOT_RECEIVED">
-			<Text>(Je hebt je religie niet naar hen verspreid.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_CONQUERING_ALLYING_MINORS">
-			<Text>(Je hebt stadstaten veroverd of je ermee verbonden.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_OPTIMUS_PRINCEPS">
-			<Text>(Je controleert erg weinig land.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_QUEEN_OF_NILE">
-			<Text>(Je bent zwak.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SUN_SETS_NEW_CONTINENT">
-			<Text>(Je hebt je gevestigd op een continent waarop zij aanwezig willen zijn.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
-			<Text>(Je cultuur is te gering.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
-			<Text>(Je productie is te laag.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
-			<Text>(Je mensen ontberen voorzieningen.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
-			<Text>(Je inkomen is te laag.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
-			<Text>(Je bevolking is te klein.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
-			<Text>(Je wetenschap is te laag.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
-			<Text>(Je leger is te klein.)</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PARANOID">
-			<Text>(Ze zijn bang voor je.)</Text>
-		</Replace>
-	</LocalizedText>
+  <LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY">
+      <Text>Deze situatie zal gaan verslechteren voordat het iets beter wordt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MVEMBA_ANY">
+      <Text>Ik heb niets verkeerd gedaan en het volk van Congo verdient je laster niet.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+      <Text>De glorie en macht van Frankrijk zal niet worden aangetast door zulke duidelijke leugens.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+      <Text>Je waagt het de New Isis te beledigen?!? Dat zul je betreuren!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+      <Text>Ik zou je met mijn zwaard moeten bantwoorden...misschien doe ik dat ook wel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GANDHI_ANY">
+      <Text>Je leugens zullen niet worden geloofd door de wijzen en de dwazen zullen hun lesje leren.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+      <Text>Ha! Gilgamesh is sterker dan jouw foute woorden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GORGO_ANY">
+      <Text>Je woorden zijn betekenisloos vergeleken met je daden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARDRADA_ANY">
+      <Text>Ha, ik heb koninkrijken platgebrand om minder beledigingen. Dit zet ik je betaald.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HOJO_ANY">
+      <Text>Lege woorden zijn geen bedreigingen. Toon me actie, doelen, discipline!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PEDRO_ANY">
+      <Text>Deze situatie zal gaan verslechteren voordat het iets beter wordt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PERICLES_ANY">
+      <Text>Alle leiders worden gehaat of zijn impopulair; als je een groot doel nastreeft moet je deze last accepteren.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+      <Text>Mijn volk heeft strengere winters meegemaakt dan jouw leger. Denk je dat we bang zijn voor je bedreigingen?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+      <Text>Er bestaat geen grotere zonde dan de gezalfde dienaar van de Heer te trotseren. Je zult daarvoor flink boeten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY">
+      <Text>Een insect waagt het dus een draak te bedreigen. Dat is niet erg slim.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SALADIN_ANY">
+      <Text>Iedereen is kritisch op de tekortkomingen van anderen, maar blind voor zijn eigen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+      <Text>Hoe durf je!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+      <Text>Niemand zal je holle leugens geloven. Tomyris is een goede vriend voor hen die het waard zijn.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TRAJAN_ANY">
+      <Text>Het is dus waar: iemand vol van nijd geringschat alles, goed of slecht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ANY">
+      <Text>De koningin wenst hen te waarschuwen die geen respect voor haar volk hebben en voor de problemen die daarvan het gevolg zijn.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY">
+      <Text>De wereld dient kennis te nemen van je overtredingen (Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MVEMBA_ANY">
+      <Text>Je bent het kwaad op deze wereld, je naam zal eeuwenlang vervloekt worden. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+      <Text>Het bevalt me niet wat ik van je zie. Wat zullen je vrienden van deze informatie denken? (Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+      <Text>Je bent erger dan Brutus en Cassius samen. De wereld zal de waarheid horen! (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+      <Text>De wereld zal kennis nemen van je verraad en je zult veroordeeld worden. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GANDHI_ANY">
+      <Text>Je bent onbetrouwbaar; dat is het ergste soort geweld. (Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GILGAMESH_ANY">
+      <Text>Laat de wereld mijn woorden horen: je bent even verradelijk als Ishtar.(Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GORGO_ANY">
+      <Text>Je bent nog erger dan een drogredenaar, dat mag de rest van de wereld best weten. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARDRADA_ANY">
+      <Text>Er zal voor jou geen plaats zijn aan Odin’s tafel, Je bent in ongenade gevallen.(Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HOJO_ANY">
+      <Text>Je bent een dwaze leider, simpel van geest. Je volk hoort deze waarheid te weten. (Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PEDRO_ANY">
+      <Text>De wereld dient kennis te nemen van je overtredingen (Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PERICLES_ANY">
+      <Text>Tirannen als jij zijn een gruwel. Je volk zal de waarheid van  mijn woorden leren kennen. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+      <Text>Ik heb veel gezien in mijn leven, maar nog nooit zo'n wansmakelijke leider. Je moet je schamen en dat zul je ook. (Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PHILIP_II_ANY">
+      <Text>Je bent een Judas, gekomen om de Heer te verraden. (Klaagt je aan).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY">
+      <Text>Je reputatie is voor eeuwig bezoedeld. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SALADIN_ANY">
+      <Text>Door mijn volk wordt gezegd dat het huis van een tiran een ruïne is...en ik zie alleen maaar een ruïne om je heen. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+      <Text>Ik kan een leider zonder waardigheid niet velen en de wereld moet dat weten. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMYRIS_ANY">
+      <Text>Je bent een ellendige leugenaar en kan niet worden vertrouwd. Je bent de ergste in je soort. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TRAJAN_ANY">
+      <Text>Hoe corrupter de staat, hoe meer wetten. En kijk eens hoeveel jij er hebt! (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ANY">
+      <Text>We hebben niets met je bestuur te maken. Je bent hierbij aangeklaagd. (Klaagt je aan)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_OPPORTUNITY">
+      <Text>(Is waarschijnlijk van plan oorlog te verklaren.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ARCHAEOLOGY">
+      <Text>(Je hebt een van hun artefacten opgegraven.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_BROKEN_PROMISE">
+      <Text>(Je hebt een belofte aan hen verbroken.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NO_PROMISE">
+      <Text>(Je wilde hen geen belofte doen.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CONVERTED_CITY">
+      <Text>(Je hebt een van hun steden bekeerd.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CULTURE_BOMB">
+      <Text>(Je hebt een van hun steden met cultuur gebombardeerd.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DEMAND">
+      <Text>(Je hebt handelsgoederen van hen geeist.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DENOUNCED">
+      <Text>(Je hebt hen aangeklaagd)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ESPIONAGE">
+      <Text>(Je hebt spionnen op hun dak gestuurd.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_GOVERNMENT_DIFFERENT">
+      <Text>(Jullie hebben verschillende regeringen.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_INCURSION">
+      <Text>(Je strijdmacht is hun land te ver binnengedrongen.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NEAR_BORDER_WARNING">
+      <Text> (Je hebt troepen aan hun grens gehouden.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_CITY">
+      <Text>(Je bezet een van hun steden.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_FRIENDLY_CITY">
+      <Text>(J bezet een stad van een bondgenoot van hen.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RANDOM">
+      <Text>(Ze mogen je gewoon niet.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RAZED_MY_CITY">
+      <Text>(Je hebt een van hun steden platgebrand.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_SETTLED_CITIES">
+      <Text>(Je hebt je in een regio gevestigd die zij als de hunne beschouwen.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
+      <Text>(Ze vinden je oorlogszuchtig.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+      <Text>(Je hebt hun vriend aangeklaagd.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_AYYUBID_DYNASTY">
+      <Text>(Je mist zijn religieuze gebouw in een stad.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BACKSTAB_AVERSE_SURPRISE_WAR">
+      <Text>(Je hebt een verrassingsoorlog verklaard.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BLACK_QUEEN">
+      <Text>(Je bent zwak in spioneren.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BUSHIDO">
+      <Text>(Je loopt achter qua geloof en cultuur.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CONTINENT_ATTACKED">
+      <Text>(Je hebt een speler aangevallen op hun continent.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HAS_DESIRED_LUXURY">
+      <Text>(Je hebt een luxegoederenbron die zij begeren.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAST_VIKING_KING">
+      <Text>(Je zeemacht is zwak.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_GREAT_PEOPLE">
+      <Text>(Je hebt meer Belangrijke Personen dan zij.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LAGS_PROGRESS">
+      <Text>(Je loopt achter qua wetenschap en cultuur.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_WONDERS">
+      <Text>(Je hebt meer wonderen dan zij.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_NEVER_AT_WAR">
+      <Text>(Je hebt geen oorlog gevoerd.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_PAID_FOR_PEACE">
+      <Text>(Je hebt betaald voor vrede.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_WARMONGER">
+      <Text>(Je bent oorlogszuchtig.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_ENCROACHING_RELIGION">
+      <Text>(Je bekeert hun steden tot jouw religie.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+      <Text>(Je wedijvert met hen om stadstaten.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_RELIGION_NOT_RECEIVED">
+      <Text>(Je hebt je religie niet naar hen verspreid.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_CONQUERING_ALLYING_MINORS">
+      <Text>(Je hebt stadstaten veroverd of je ermee verbonden.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_OPTIMUS_PRINCEPS">
+      <Text>(Je controleert erg weinig land.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_QUEEN_OF_NILE">
+      <Text>(Je bent zwak.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SUN_SETS_NEW_CONTINENT">
+      <Text>(Je hebt je gevestigd op een continent waarop zij aanwezig willen zijn.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+      <Text>(Je cultuur is te gering.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+      <Text>(Je productie is te laag.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+      <Text>(Je mensen ontberen voorzieningen.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+      <Text>(Je inkomen is te laag.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+      <Text>(Je bevolking is te klein.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+      <Text>(Je wetenschap is te laag.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+      <Text>(Je leger is te klein.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PARANOID">
+      <Text>(Ze wantrouwen je.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_ENEMY">
+      <Text>(Je bent geallieerd met hun vijand.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_ENEMY">
+      <Text>(Je bent een vriend van hun vijand.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_FRIEND">
+      <Text>(Je bent met hun vriend in oorlog gegaan.)</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_FRIEND">
+      <Text>(Je hebt hun vriend veroordeeld.)</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

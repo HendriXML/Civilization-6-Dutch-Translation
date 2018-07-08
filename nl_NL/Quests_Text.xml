@@ -8,10 +8,10 @@
 			<Text>Leg een {1_DistrictName} aan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
-			<Text>Ontlok een 'Eureka'voor {1_TechName}.</Text>
+			<Text>Maak de [ICON_TechBoosted] bespoediging van {1_TechName} vrij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
-			<Text>Ontlok inspiratie voor {1_CivicName}.</Text>
+			<Text>Maak de [ICON_CivicBoosted] bespoediging van {1_CivicName} vrij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
 			<Text>Rekruteer een {1_GreatPersonClassName}.</Text>
@@ -32,10 +32,10 @@
 			<Text>Leg een willekeurig gekozen gespecialiseerde [ICON_District] wijk aan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
-			<Text>Ontlok een willekeurig geselecteerd [ICON_TechBoosted] Eureka-moment.</Text>
+			<Text>Maak een willekeurige [ICON_TechBoosted] technologische bespoediging vrij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
-			<Text>Ontlok een willekeurig geselecteerd [ICON_CivicBoosted] inspiratiemoment.</Text>
+			<Text>Maak een willekeurige [ICON_CivicBoosted] bespoediging vrij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
 			<Text>Rekruteer een willekeurig geselecteerde klasse van [ICON_GreatPerson] Belangrijk Persoon.</Text>
@@ -47,10 +47,10 @@
 			<Text>Leg een {1_DistrictName} wijk aan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
-			<Text>Ontlok een [ICON_TechBoosted] Eureka-moment voor de technologie {1_TechnologyName}.</Text>
+			<Text>Maak de [ICON_TechBoosted] bespoediging van de technologie {1_TechnologyName} vrij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
-			<Text>Ontlok het [ICON_CivicBoosted] inspiratiemoment voor de ontplooiing {1_CivicName}.</Text>
+			<Text>Maak de [ICON_CivicBoosted] bespoediging van de ontplooiing {1_CivicName} vrij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
 			<Text>Rekruteer een {1_IconString} {2_GreatPersonClassName}.</Text>

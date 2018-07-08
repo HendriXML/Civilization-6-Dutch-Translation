@@ -7,7 +7,7 @@
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_WASHINGTON">
 			<Text>Washington</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_NEW_YORK">
+    <Replace Language="nl_NL" Tag="LOC_CITY_NAME_NEW_YORK">
 			<Text>New York</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_PHILADELPHIA">
@@ -607,8 +607,8 @@
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_CAMBRIDGE">
 			<Text>Cambridge</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_NEWCASTLE">
-			<Text>Newcastle</Text>
+		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_NEWCASTLE_UPON_TYNE">
+			<Text>Newcastle upon Tyne</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_PARIS">
 			<Text>Parijs</Text>
@@ -712,7 +712,7 @@
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_AACHEN">
 			<Text>Aken</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_COLOGNE">
+		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_KEULEN">
 			<Text>Keulen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_FRANKFURT">
@@ -1897,5 +1897,8 @@
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_ZANZIBAR">
 			<Text>Zanzibar</Text>
 		</Replace>
-	</LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_CITY_NAME_BANDAR_BRUNEI">
+      <Text>Bandar Seri Begawan</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

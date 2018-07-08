@@ -68,10 +68,10 @@
 			<Text>Benodigde technologiën</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_UNLOCKS">
-			<Text>Maakts vrij</Text>
+			<Text>Maakt vrij</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_BOOSTS">
-			<Text>Boosts</Text>
+			<Text>Bespoedigingen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_PEDIA_FOLLOWERS">
 			<Text>Volgers</Text>

@@ -1,120 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-	<LocalizedText>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_RECON_NAME">
-			<Text>Verkennen</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
-			<Text>Nauwe strijd</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
-			<Text>Van afstand</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
-			<Text>Belegering</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
-			<Text>Anti-cavalerie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
-			<Text>Lichte cavalerie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
-			<Text>Zware cavalerie</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
-			<Text>Jachtvliegtuig</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
-			<Text>Bommenwerper</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
-			<Text>Zeevarend nauwe strijd</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
-			<Text>Zeevarend op afstand</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
-			<Text>Vliegdekschip</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
-			<Text>Kaperschip</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
-			<Text>Religieuze apostel</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
-			<Text>Religieuze inquisiteur</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
-			<Text>Ondersteuning</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_SPY_NAME">
-			<Text>Spionage</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_AIR_NAME">
-			<Text>Luchtgevecht</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
-			<Text>Civiel</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
-			<Text>Landgevecht</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
-			<Text>Zeegevecht</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
-			<Text>Ondersteuning</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
-			<Text>+{1_Num}</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
-			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
-			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
-			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*PROMOTIE BESCHIKBAAR*[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
-			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
-			<Text>[COLOR_FLOAT_FOOD]+{1_Num}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
-			<Text>[COLOR_FLOAT_GOLD]+{1_Num}[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SETTLER_DESCRIPTION">
-			<Text>Kan nieuwe steden stichten. Vermindert [ICON_Citizen] stadsbevolking met 1 als voltooid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BUILDER_DESCRIPTION">
-			<Text>Kan een gebiedsdeel verbeteren of zaken als bos of regenwoud verwijderen. Bouwers kunnen 3 keer worden gebruikt. Dit aantal kan worden verhoogd door beleid of wonderen als Piramiden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_TRADER_DESCRIPTION">
-			<Text>Kan een enkele [ICON_TradeRoute] handelsroute aanleggen en onderhouden. Legt automatisch een weg aan op zijn tocht.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
-			<Text>Kan [ICON_Citizen] burgers bekeren tot hun religie. Kan geen theologische strijd beginnen met eenheden van andere religies (maar kan wel verdedigen).</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
-			<Text>Kan [ICON_Citizen] burgers bekeren tot hun religie en theologische strijd beginnen met eenheden van een andere religie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
-			<Text>Kan de aanwezigheid van andere religies in hun gebied uitwissen en theologische strijd beginnen met eenheden van een andere religie.</Text>
-		</Replace>
+  <LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_RECON_NAME">
+      <Text>Verkennen</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
+      <Text>Nauwe strijd</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
+      <Text>Van afstand</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
+      <Text>Belegering</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
+      <Text>Anti-cavalerie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
+      <Text>Lichte cavalerie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
+      <Text>Zware cavalerie</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
+      <Text>Jachtvliegtuig</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
+      <Text>Bommenwerper</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
+      <Text>Zeevarend nauwe strijd</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
+      <Text>Zeevarend op afstand</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
+      <Text>Vliegdekschip</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
+      <Text>Kaperschip</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
+      <Text>Religieuze apostel</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
+      <Text>Religieuze inquisiteur</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
+      <Text>Ondersteuning</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_SPY_NAME">
+      <Text>Spionage</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_AIR_NAME">
+      <Text>Luchtgevecht</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
+      <Text>Civiel</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
+      <Text>Landgevecht</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
+      <Text>Zeegevecht</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
+      <Text>Ondersteuning</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
+      <Text>+{1_Num}</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
+      <Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
+      <Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
+      <Text>[COLOR_LIGHTBLUE]+{1_Num}XP[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
+      <Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*PROMOTIE BESCHIKBAAR*[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
+      <Text>[COLOR_FLOAT_PRODUCTION]+{1_Num}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
+      <Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
+      <Text>[COLOR_FLOAT_FOOD]+{1_Num}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
+      <Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
+      <Text>[COLOR_FLOAT_GOLD]+{1_Num}[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SETTLER_DESCRIPTION">
+      <Text>Kan nieuwe steden stichten. Vermindert [ICON_Citizen] stadsbevolking met 1 als voltooid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BUILDER_DESCRIPTION">
+      <Text>Kan een gebiedsdeel verbeteren of zaken als bos of regenwoud verwijderen. Bouwers kunnen 3 keer worden gebruikt. Dit aantal kan worden verhoogd door beleid of wonderen als Piramiden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_TRADER_DESCRIPTION">
+      <Text>Kan een enkele [ICON_TradeRoute] handelsroute aanleggen en onderhouden. Legt automatisch een weg aan op zijn tocht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
+      <Text>Kan [ICON_Citizen] burgers bekeren tot hun religie. Kan geen theologische strijd beginnen met eenheden van andere religies (maar kan wel verdedigen).</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
+      <Text>Kan [ICON_Citizen] burgers bekeren tot hun religie en theologische strijd beginnen met eenheden van een andere religie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
+      <Text>Kan de aanwezigheid van andere religies in hun gebied uitwissen en theologische strijd beginnen met eenheden van een andere religie.</Text>
+    </Replace>
     <Replace Language="nl_NL" Tag="LOC_UNIT_GURU_DESCRIPTION">
       <Text>Kan een lading gebruiken om zichzelf en alle aangrenzende vriendelijke religieuze eenheden te genezen. Mag geen theologische strijd beginnen met eenheden van andere religies (maar kan verdedigen).</Text>
     </Replace>
@@ -122,265 +122,268 @@
       <Text>Snel bewegende landgevechtseenheid met een unieke promotiestructuur.</Text>
     </Replace>
     <Replace Language="nl_NL" Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
-			<Text>Vindt en graaft [ICON_GreatWork_Artifact] artefacten uit van [ICON_RESOURCE_ANTIQUITY_SITE] eeuwenoude plaatsen om in het museum van de eigen stad tentoon te stellen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SPY_DESCRIPTION">
-			<Text>Voert geheime missies uit in buitenlandse steden en beschermt jouw steden tegen vijandelijke spionnen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
-			<Text>Een burger laat in het spel die een nationaal park kan aanleggen om [ICON_Tourism] toeristen te lokken. Moet worden gekocht met [ICON_Faith] geloof.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
-			<Text>Iedere [ICON_GreatGeneral] Grote Generaal heeft unieke bekwaamheden, inclusief een passief effect en een terugtrekkingseffect. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
-			<Text>Iedere [ICON_GreatAdmiral] Grote Admiraal heeft unieke bekwaamheden, inclusief een passief effect en een terugtrekkingseffect. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
-			<Text>Iedere [ICON_GreatEngineer] Grote Ingenieur heeft unieke bekwaamheden wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
-			<Text>Iedere [ICON_GreatMerchant] Grote Koopman heeft unieke bekwaamheden wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
-			<Text>Grote [ICON_GreatProphet] Profeten kunnen een religie stichten wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
-			<Text>Iedere [ICON_GreatScientist] Grote Wetenschapper heeft unieke bekwaamheden wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
-			<Text>Iedere [ICON_GreatWriter] Grote Schrijver genereert een [ICON_GreatWork_Writing] Groot Boekwerk wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
-			<Text>Iedere [ICON_GreatArtist] Grote Artiest genereert een [ICON_GreatWork_Landscape] Groot Kunstwerk wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
-			<Text>Iedere [ICON_GreatMusician] Grote Muzikant produceert een [ICON_GreatWork_Music] Groot Muziekwerk wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SCOUT_DESCRIPTION">
-			<Text>Snelle verkenningseenheid uit het oude tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_RANGER_DESCRIPTION">
-			<Text>Snelle verkenningseenheid uit het industriële tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
-			<Text>Zwakke nauwe strijd-eenheid uit oude tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
-			<Text>Nauwe strijd-eenheid uit oude tijdperk, effectief tegen bereden eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
-			<Text>Sterke nauwe strijd-eenheid uit klassieke tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
-			<Text>Nauwe strijd-eenheid uit middeleeuwen, sterk tegen bereden eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
-			<Text>Nauwe strijd-eenheid uit Renaissance.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
-			<Text>Moderne nauwe strijd-eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
-			<Text>Nauwe strijd-eenheid uit informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
-			<Text>Moderne eenheden tegen cavalerieklasse.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
-			<Text>Eenheden uit informatietijdperk tegen cavalerie eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SLINGER_DESCRIPTION">
-			<Text>Zwakke afstandseenheid uit oude tijdperk. Beter in aanval dan in verdediging.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ARCHER_DESCRIPTION">
-			<Text>Eerste afstandseenheid uit oude tijdperk met een [ICON_Range] reikwijdte van 2.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
-			<Text>Middeleeuwse afstandseenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
-			<Text>Afstandseenheid uit industriële tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
-			<Text>Afstandseenheid uit atoomtijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
-			<Text>Snelle lichte cavalerie-eenheid uit klassieke tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
-			<Text>Snelle lichte cavalerie-eenheid uit industriële tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
-			<Text>Snelle lichte cavalerie-eenheid uit atoomtijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
-			<Text>Bombardeereenheid uit het klassieke tijdperk, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
-			<Text>Bombardeereenheid uit de Renaissance, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
-			<Text>Bombardeereenheid uit het moderne tijdperk, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
-			<Text>Bombardeereenheid uit het informatietijdperk, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
-			<Text>Ondersteuningseenheid uit oude tijdperk. Wanneer naast een stad doen aanvallende nauwe strijd-eenheden volledige schade aan de stadsmuren.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
-			<Text>Ondersteuningseenheid uit klassieke tijdperk. Wanneer naast een stad negeren aanvallende nauwe strijd-eenheden stadsmuren en vallen meteen de stad aan.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MEDIC_DESCRIPTION">
-			<Text>Ondersteuningseenheid uit industriële tijdperk. Kan nabije eenheden genezen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
-			<Text>Ondersteuningseenheid uit moderne tijdperk. Voegt +1 [ICON_Range] reikwijdte toe aan nabije bombardeereenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
-			<Text>Ondersteuningseenheid uit middeleeuwen. Vereist een wapenzaal om te produceren. Kan weg-, fort- en landingsbaanverbeteringen bouwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
-			<Text>Luchtafweereenheid uit atoomtijdperk. Geeft dekking tegen luchtaanvallen tot en met een gebiedsdeel vanaf het wapen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
-			<Text>Luchtafweereenheid uit het informatietijdperk. Geeft dekking tegen lucht- en nucleaire aanvallen tot en met een gebiedsdeel vanaf het wapen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
-			<Text>Zware cavalerie-eenheid uit het oude tijdperk. Verdient 1 [ICON_Movement] verplaatsingsbonus als beurt begint op vlak terrein zonder bos, regenwoud of heuvel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
-			<Text>Zware cavalerie-eenheid uit de middeleeuwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
-			<Text>Snelle en sterke cavalerie-eenheid uit het informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_TANK_DESCRIPTION">
-			<Text>Snelle zware cavalerie-eenheid uit het moderne tijdperk, die controlezones negeert.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GALLEY_DESCRIPTION">
-			<Text>Zeevarende nauwe strijd-gevechtseenheid uit het oude tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
-			<Text>Zeevarende afstandseenheid uit het klassieke tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
-			<Text>Snelle zeevarende nauwe strijd-verkenningseenheid uit Renaissance.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
-			<Text>Machtige gepantserde zeevarende nauwe strijd-eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
-			<Text>Hoogst geavanceerde zeevarende afstandseenheid uit het informatietijdperk die met nucleaire wapens kan worden uitgerust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
-			<Text>Moderne zeevarende afstandseenheid. Is onzichtbaar totdat je je ernaast bevindt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
-			<Text>Zeevarende afstandseenheid uit Renaissance met de mogelijkheid van aanvallen op de kust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
-			<Text>Zeevarende afstandseenheid uit Renaissance.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
-			<Text>Zeevarende nauwe strijd-eenheid uit atoomtijdperk die luchteenheden kan vervoeren.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
-			<Text>Moderne zeevarende afstandseenheid. Geeft dekking tegen lucht- en nucleaire aanvallen tot en met een gebiedsdeel vanaf de eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
-			<Text>Sterkste zeevarende afstandseenheid, beschikbaar in het informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
-			<Text>Sterkste zeevarende nauwe strijd-eenheid. Onthult onderzeeboten binnen zichtafstand.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
-			<Text>Eerste luchtgevechtseenheid, beschikbaar in het moderne tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
-			<Text>Upgrade van dubbeldekker in atoomtijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BOMBER_DESCRIPTION">
-			<Text>Eerste bommenwerper, beschikbaar in het atoomtijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
-			<Text>Jachtvliegtuig (upgrade) in informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
-			<Text>Bommenwerper (upgrade) in informatietijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
-			<Text>Primitieve bereden strijder uit oude tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
-			<Text>Primitieve bereden boogschutter uit oude tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
-			<Text>Primitieve zeevarende nauwe strijd-eenheid uit oude tijdperk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
-			<Text>Unieke Egyptische afstandseenheid uit het oude tijdperk die de zware strijdwagen vervangt. 4 [ICON_Movement] verplaatsing als gestart in open terrein.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
-			<Text>Unieke Griekse eenheid uit het oude tijdperk die de speerwerper vervangt. +10 [ICON_Strength] gevechtskracht als minstens 1 nabije hopliet-eenheid.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
-			<Text>Unieke Scythische eenheid uit het klassieke tijdperk. Afstandseenheid met 4 [ICON_Movement] verplaatsing met een [ICON_Range] reikwijdte van 1.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
-			<Text>Unieke Soemerische eenheid uit het oude tijdperk. Sterker dan alle andere startende eenheden. Geen straf tegen anti-cavalerie-eenheden. 4 [ICON_Movement] Verplaatsing als de eenheid start op open terrein.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
-			<Text>Unieke Engelse eenheid uit het industriële tijdperk toen Victoria hun leider was. +10 [ICON_Strength] gevechtskracht op een ander continent dan dat van je hoofdstad. Geen kosten bij aan land gaan.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
-			<Text>Unieke moderne Amerikaanse eenheid toen Teddy Roosevelt hun leider was. [ICON_Culture] cultuur wordt verdiend van overwinningen op het continent van de eigen [ICON_Capital] hoofdstad. +10 [ICON_Strength] gevechtskracht bij gevecht op heuvel. Lagere onderhoudskosten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
-			<Text>Unieke Romeinse nauwe strijd-eenheid uit het klassieke tijdperk, die de zwaardvechter vervangt. Kan een Romeins fort bouwen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
-			<Text>Unieke Japanse middeleeuwse nauwe strijd-eenheid. Heeft geen last van straffen wanneer beschadigd.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
-			<Text>Unieke Noorse middeleeuwse eenheid. 4 [ICON_Movement] verplaatsing indien gestart op vijandelijk gebied. +7 [ICON_Strength] gevechtskracht bij aanval en -7 [ICON_Strength] gevechtskracht bij verdediging.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
-			<Text>Unieke Noorse zeevarende eenheid uit het oude tijdperk die de galei vervangt. Kan vijandelijke kusten plunderen en burgers aan de kust gevangen nemen. 4 [ICON_Movement] verplaatsing wanneer aan de kust.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
-			<Text>Unieke Chinese middeleeuwse afstandseenheid met een [ICON_Range] reikwijdte van 1 en grote gevechtskracht.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
-			<Text>Unieke Spaanse eenheid ui de Renaissance die de musketier vervangt. +10 [ICON_Strength] gevechtskracht als er een missionaris, inquisiteur of apostel in hetzelfde gebiedsdeel is. Als deze eenheid een stad inneemt of naast een stad is wanneer gevangen, zal de stad automatisch het geloof van de conquistador overnemen als dominante religie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
-			<Text>Unieke Russische eenheid uit het industriële tijdperk die cavalerie vervangt. Sterker dan cavalerie en verdient +5 [ICON_Strength] gevechtskracht indien vechtend in of in nabijheid van zijn thuisland. Kan zich verplaatsen na aanval als [ICON_Movement] verplaatsingspunten resteren.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
-			<Text>Unieke Indiase eenheid uit het klassieke tijdperk die de ruiter vervangt. -5 [ICON_Strength] gevechtskracht voor alle nabije vijandelijke eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
-			<Text>Unieke Kongolese eenheid uit klassieke tijdperk die de zwaardvechter vervangt. +10 [ICON_Strength] gevechtskracht wanneer verdedigend tegen aanvallen van afstand. Kan zich verplaatsen en kijken door bos en regenwoud.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
-			<Text>Unieke Arabische middeleeuwse eenheid die de ridder vervangt. Geneest aan het eind van elke beurt, zelfs na verplaatsen of aanvallen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
-			<Text>Unieke Engelse zeevarende eenheid uit de Renaissance die de vrijbuiter vervangt. Kan vijandelijke schepen overnemen. Is onzichtbaar tot je ernaast bent.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
-			<Text>Unieke Franse nauwe strijd-eenheid uit het industriële tijdperk. +10 [ICON_Strength] gevechtskracht wanneer vechtend op het continent van je hoofdstad. [ICON_GreatGeneral] Grote Generaal-punten voor het doden van eenheden.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
-			<Text>Unieke moderne Duitse marine eenheid die de onderzeeboot vervangt. Goedkoper te produceren, +1 zicht, en +10 [ICON_Strength] gevechtskracht op oceaangebiedsdelen. In staat andere stealth-eenheden te onthullen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
-			<Text>Unieke moderne Amerikaanse luchteenheid die het jachtvliegtuig vervangt. Verdient +5 aanval tegen jachtvliegtuigen, heeft +2 vluchtreikwijdte en verdient +50% ervaring.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
-			<Text>Unieke moderne Braziliaanse eenheid die het oorlogsschip vervangt. Sterker dan het oorlogsschip. Ontsloten door Nationalisme.</Text>
-		</Replace>
-	</LocalizedText>
+      <Text>Vindt en graaft [ICON_GreatWork_Artifact] artefacten uit van [ICON_RESOURCE_ANTIQUITY_SITE] eeuwenoude plaatsen om in het museum van de eigen stad tentoon te stellen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SPY_DESCRIPTION">
+      <Text>Voert geheime missies uit in buitenlandse steden en beschermt jouw steden tegen vijandelijke spionnen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
+      <Text>Een burger laat in het spel die een nationaal park kan aanleggen om [ICON_Tourism] toeristen te lokken. Moet worden gekocht met [ICON_Faith] geloof.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
+      <Text>Iedere [ICON_GreatGeneral] Grote Generaal heeft unieke bekwaamheden, inclusief een passief effect en een terugtrekkingseffect. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
+      <Text>Iedere [ICON_GreatAdmiral] Grote Admiraal heeft unieke bekwaamheden, inclusief een passief effect en een terugtrekkingseffect. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
+      <Text>Iedere [ICON_GreatEngineer] Grote Ingenieur heeft unieke bekwaamheden wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
+      <Text>Iedere [ICON_GreatMerchant] Grote Koopman heeft unieke bekwaamheden wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
+      <Text>Grote [ICON_GreatProphet] Profeten kunnen een religie stichten wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
+      <Text>Iedere [ICON_GreatScientist] Grote Wetenschapper heeft unieke bekwaamheden wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
+      <Text>Iedere [ICON_GreatWriter] Grote Schrijver genereert een [ICON_GreatWork_Writing] Groot Boekwerk wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
+      <Text>Iedere [ICON_GreatArtist] Grote Artiest genereert een [ICON_GreatWork_Landscape] Groot Kunstwerk wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
+      <Text>Iedere [ICON_GreatMusician] Grote Muzikant produceert een [ICON_GreatWork_Music] Groot Muziekwerk wanneer geactiveerd. Bezoek het Belangrijke Personen-panel om wijzer te worden en de voortgang te volgen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SCOUT_DESCRIPTION">
+      <Text>Snelle verkenningseenheid uit het oude tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_RANGER_DESCRIPTION">
+      <Text>Snelle verkenningseenheid uit het industriële tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
+      <Text>Zwakke nauwe strijd-eenheid uit oude tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
+      <Text>Nauwe strijd-eenheid uit oude tijdperk, effectief tegen bereden eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
+      <Text>Sterke nauwe strijd-eenheid uit klassieke tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
+      <Text>Nauwe strijd-eenheid uit middeleeuwen, sterk tegen bereden eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
+      <Text>Nauwe strijd-eenheid uit Renaissance.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+      <Text>Moderne nauwe strijd-eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+      <Text>Nauwe strijd-eenheid uit informatietijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+      <Text>Moderne eenheden tegen cavalerieklasse.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
+      <Text>Eenheden uit informatietijdperk tegen cavalerie eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SLINGER_DESCRIPTION">
+      <Text>Zwakke afstandseenheid uit oude tijdperk. Beter in aanval dan in verdediging.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ARCHER_DESCRIPTION">
+      <Text>Eerste afstandseenheid uit oude tijdperk met een [ICON_Range] reikwijdte van 2.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
+      <Text>Middeleeuwse afstandseenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
+      <Text>Afstandseenheid uit industriële tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+      <Text>Afstandseenheid uit atoomtijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
+      <Text>Snelle lichte cavalerie-eenheid uit klassieke tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
+      <Text>Snelle lichte cavalerie-eenheid uit industriële tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+      <Text>Snelle lichte cavalerie-eenheid uit atoomtijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
+      <Text>Bombardeereenheid uit het klassieke tijdperk, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
+      <Text>Bombardeereenheid uit de Renaissance, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
+      <Text>Bombardeereenheid uit het moderne tijdperk, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+      <Text>Bombardeereenheid uit het informatietijdperk, ideaal om steden aan te vallen. Kan zich niet verplaatsen en aanvallen in dezelfde beurt, tenzij ze de promotie 'expert crew' hebben verdiend.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
+      <Text>Ondersteuningseenheid uit oude tijdperk. Wanneer naast een stad doen aanvallende nauwe strijd-eenheden volledige schade aan de stadsmuren.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
+      <Text>Ondersteuningseenheid uit klassieke tijdperk. Wanneer naast een stad negeren aanvallende nauwe strijd-eenheden stadsmuren en vallen meteen de stad aan.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MEDIC_DESCRIPTION">
+      <Text>Ondersteuningseenheid uit industriële tijdperk. Kan nabije eenheden genezen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+      <Text>Ondersteuningseenheid uit moderne tijdperk. Voegt +1 [ICON_Range] reikwijdte toe aan nabije bombardeereenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+      <Text>Ondersteuningseenheid uit middeleeuwen. Vereist een wapenzaal om te produceren. Kan weg-, fort- en landingsbaanverbeteringen bouwen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+      <Text>Luchtafweereenheid uit atoomtijdperk. Geeft dekking tegen luchtaanvallen tot en met een gebiedsdeel vanaf het wapen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+      <Text>Luchtafweereenheid uit het informatietijdperk. Geeft dekking tegen lucht- en nucleaire aanvallen tot en met een gebiedsdeel vanaf het wapen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
+      <Text>Zware cavalerie-eenheid uit het oude tijdperk. Verdient 1 [ICON_Movement] verplaatsingsbonus als beurt begint op vlak terrein zonder bos, regenwoud of heuvel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
+      <Text>Zware cavalerie-eenheid uit de middeleeuwen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
+      <Text>Snelle en sterke cavalerie-eenheid uit het informatietijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_TANK_DESCRIPTION">
+      <Text>Snelle zware cavalerie-eenheid uit het moderne tijdperk, die controlezones negeert.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GALLEY_DESCRIPTION">
+      <Text>Zeevarende nauwe strijd-gevechtseenheid uit het oude tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
+      <Text>Zeevarende afstandseenheid uit het klassieke tijdperk. Kan alleen aan de kust opereren, totdat cartografie is onderzocht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+      <Text>Snelle zeevarende nauwe strijd-verkenningseenheid uit Renaissance.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
+      <Text>Machtige gepantserde zeevarende nauwe strijd-eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
+      <Text>Hoogst geavanceerde zeevarende afstandseenheid uit het informatietijdperk die met nucleaire wapens kan worden uitgerust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
+      <Text>Moderne zeevarende afstandseenheid. Is onzichtbaar totdat je je ernaast bevindt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
+      <Text>Zeevarende afstandseenheid uit Renaissance met de mogelijkheid van aanvallen op de kust. Is onzichtbaar totdat je je ernaast bevindt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
+      <Text>Zeevarende afstandseenheid uit Renaissance.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+      <Text>Zeevarende nauwe strijd-eenheid uit atoomtijdperk die luchteenheden kan vervoeren.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+      <Text>Moderne zeevarende afstandseenheid. Geeft dekking tegen lucht- en nucleaire aanvallen tot en met een gebiedsdeel vanaf de eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+      <Text>Sterkste zeevarende afstandseenheid, beschikbaar in het informatietijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+      <Text>Sterkste zeevarende nauwe strijd-eenheid. Onthult onderzeeboten binnen zichtafstand.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
+      <Text>Eerste luchtgevechtseenheid, beschikbaar in het moderne tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+      <Text>Upgrade van dubbeldekker in atoomtijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+      <Text>Eerste bommenwerper, beschikbaar in het atoomtijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
+      <Text>Jachtvliegtuig (upgrade) in informatietijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
+      <Text>Bommenwerper (upgrade) in informatietijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
+      <Text>Primitieve bereden strijder uit oude tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
+      <Text>Primitieve bereden boogschutter uit oude tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
+      <Text>Primitieve zeevarende nauwe strijd-eenheid uit oude tijdperk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
+      <Text>Unieke Egyptische afstandseenheid uit het oude tijdperk die de zware strijdwagen vervangt. 4 [ICON_Movement] verplaatsing als gestart in open terrein.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
+      <Text>Unieke Griekse eenheid uit het oude tijdperk die de speerwerper vervangt. +10 [ICON_Strength] gevechtskracht als minstens 1 nabije hopliet-eenheid.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
+      <Text>Unieke Scythische eenheid uit het klassieke tijdperk. Afstandseenheid met 4 [ICON_Movement] verplaatsing met een [ICON_Range] reikwijdte van 1.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
+      <Text>Unieke Soemerische eenheid uit het oude tijdperk. Sterker dan alle andere startende eenheden. Geen straf tegen anti-cavalerie-eenheden. 4 [ICON_Movement] Verplaatsing als de eenheid start op open terrein.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
+      <Text>Unieke Engelse eenheid uit het industriële tijdperk toen Victoria hun leider was. +10 [ICON_Strength] gevechtskracht op een ander continent dan dat van je hoofdstad. Geen kosten bij aan land gaan.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
+      <Text>Unieke moderne Amerikaanse eenheid toen Teddy Roosevelt hun leider was. [ICON_Culture] cultuur wordt verdiend van overwinningen op het continent van de eigen [ICON_Capital] hoofdstad. +10 [ICON_Strength] gevechtskracht bij gevecht op heuvel. Lagere onderhoudskosten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
+      <Text>Unieke Romeinse nauwe strijd-eenheid uit het klassieke tijdperk, die de zwaardvechter vervangt. Kan een Romeins fort bouwen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
+      <Text>Unieke Japanse middeleeuwse nauwe strijd-eenheid. Heeft geen last van straffen wanneer beschadigd.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
+      <Text>Unieke Noorse middeleeuwse eenheid. 4 [ICON_Movement] verplaatsing indien gestart op vijandelijk gebied. +7 [ICON_Strength] gevechtskracht bij aanval en -7 [ICON_Strength] gevechtskracht bij verdediging.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
+      <Text>Unieke Noorse zeevarende eenheid uit het oude tijdperk die de galei vervangt. Kan vijandelijke kusten plunderen en burgers aan de kust gevangen nemen. 4 [ICON_Movement] verplaatsing wanneer aan de kust.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
+      <Text>Unieke Chinese middeleeuwse afstandseenheid met een [ICON_Range] reikwijdte van 1 en grote gevechtskracht.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
+      <Text>Unieke Spaanse eenheid ui de Renaissance die de musketier vervangt. +10 [ICON_Strength] gevechtskracht als er een missionaris, inquisiteur of apostel in hetzelfde gebiedsdeel is. Als deze eenheid een stad inneemt of naast een stad is wanneer gevangen, zal de stad automatisch het geloof van de conquistador overnemen als dominante religie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
+      <Text>Unieke Russische eenheid uit het industriële tijdperk die cavalerie vervangt. Sterker dan cavalerie en verdient +5 [ICON_Strength] gevechtskracht indien vechtend in of in nabijheid van zijn thuisland. Kan zich verplaatsen na aanval als [ICON_Movement] verplaatsingspunten resteren.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+      <Text>Unieke Indiase eenheid uit het klassieke tijdperk die de ruiter vervangt. -5 [ICON_Strength] gevechtskracht voor alle nabije vijandelijke eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
+      <Text>Unieke Kongolese eenheid uit klassieke tijdperk die de zwaardvechter vervangt. +10 [ICON_Strength] gevechtskracht wanneer verdedigend tegen aanvallen van afstand. Kan zich verplaatsen en kijken door bos en regenwoud.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
+      <Text>Unieke Arabische middeleeuwse eenheid die de ridder vervangt. Geneest aan het eind van elke beurt, zelfs na verplaatsen of aanvallen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
+      <Text>Unieke Engelse zeevarende eenheid uit de Renaissance die de vrijbuiter vervangt. Kan vijandelijke schepen overnemen. Is onzichtbaar tot je ernaast bent.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
+      <Text>Unieke Franse nauwe strijd-eenheid uit het industriële tijdperk. +10 [ICON_Strength] gevechtskracht wanneer vechtend op het continent van je hoofdstad. [ICON_GreatGeneral] Grote Generaal-punten voor het doden van eenheden.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
+      <Text>Unieke moderne Duitse marine eenheid die de onderzeeboot vervangt. Goedkoper te produceren, +1 zicht, en +10 [ICON_Strength] gevechtskracht op oceaangebiedsdelen. In staat andere stealth-eenheden te onthullen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
+      <Text>Unieke moderne Amerikaanse luchteenheid die het jachtvliegtuig vervangt. Verdient +5 aanval tegen jachtvliegtuigen, heeft +2 vluchtreikwijdte en verdient +50% ervaring.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
+      <Text>Unieke moderne Braziliaanse eenheid die het oorlogsschip vervangt. Sterker dan het oorlogsschip. Ontsloten door Nationalisme.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_MONK_NAME">
+      <Text>Ooorlogsmonnik</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

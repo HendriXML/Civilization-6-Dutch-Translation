@@ -1,179 +1,182 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-	<LocalizedText>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Mijn oprechte verontschuldigingen! Ik had niet in de gaten dat je stad zo dichtbij was.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Mijn mensen hebben land nodig. Wie ben jij om ze dat te ontzeggen?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY">
-			<Text>Je mensen vestigen zich te dichtbij! Je zou kunnen overwegen ergens anders land te zoeken.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Bedankt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Als je geen respect voor ons land kan opbrengen, kan ik dat ook niet voor jou.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Mijn verontschuldiging, we waren op zoek naar barbaren om ze een beetje lastig te vallen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Ik laat mijn troepen graag rondmarcheren, het toont hoe machtig ik ben, snap je.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Ja, je hebt gelijk. Ik betreur dat ik me tot dergelijke tactieken heb moeten wenden. Het zal niet weer gebeuren.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Ha! Waarom zou ik zo'n soort belofte doen?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Ik had me niet gerealiseerd dat je een claim had op dit land. Het was een foutje.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>De mysteries van het verleden zijn gratis voor iedereen. Je kunt ze niet claimen!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Hoewel ik respect heb voor je wensen, ben ik teleurgeteld dat je de fout van je handelwijze niet inziet.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Nee, nee. Dit is echt het beste. Je zult het zien, dat verzeker ik je.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY">
-			<Text>Je troepen komen te dicht bij mijn grenzen.Ik hoop dat je alleen maar ons pittoreske landschap komt bewonderen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MVEMBA_ANY">
-			<Text>Je leger staat voor mijn deur. Denk je dat we blind zijn? Verplaats het, of we zijn gedwongen tot actie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Denk je dat je ons intimideert met je machtsvertoon? Dit loopt helemaal niet goed voor je af.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY">
-			<Text>Net als het Oog van Ra zie ik alles. Denk je dat ik je leger aan mijn grenzen niet heb opgemerkt? Ik stel voor dat je het verplaatst.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BARBAROSSA_ANY">
-			<Text>Als je denkt dat we je leger niet zien, ben je naief. Verplaats ze uit Duitsland of ervaar de consequenties.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GANDHI_ANY">
-			<Text>Vriend, verplaats je soldaten alsjeblieft van mijn grenzen. Ze maken een vredelievend man als ik nerveus.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GILGAMESH_ANY">
-			<Text>Gilgamesh zal je leger met blote handen uiteenscheuren als je het niet verplaatst.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORGO_ANY">
-			<Text>Verplaats je leger van onze grenzen, anders doen wij het wel.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY">
-			<Text>Ik kan me een uitnodiging van je troepen niet herinneren, heb je soms zin in oorlog?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HOJO_ANY">
-			<Text>Laat me je mes niet zien, tenzij je van plan bent me te steken. Verplaats je soldaten van mijn land.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PEDRO_ANY">
-			<Text>Je troepen komen te dicht bij mijn grenzen. Ik hoop dat je alleen maar ons pittoreske landschap komt bewonderen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PERICLES_ANY">
-			<Text>Je probeert me te intimideren met je leger, maar dat werkt niet. Verplaats het of ervaar de consequenties.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PETER_GREAT_ANY">
-			<Text>Je legermacht bedreigt mijn grenzen...Verwacht je echt dat ik hier stil blijf zitten?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PHILIP_II_ANY">
-			<Text>Geloof maar niet dat je je soldaten aan mijn grenzen kunt houden. Verplaats ze onmiddellijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY">
-			<Text>Je leger heeft het voordeel van verrassing teniet gedaan. Trek je troepen tergug en bedenk een nieuwe strategie.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SALADIN_ANY">
-			<Text>Hoe zou ik je leger nou niet voor me kunnen zien. Verplaats het alsjeblieft van onze grenzen, tenzij je een oorlog van plan bent?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ANY">
-			<Text>Je laat je troepen zo dicht langs onze grenzen marcheren dat ik over je integriteit begin te twijfelen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMYRIS_ANY">
-			<Text>YJe troepen komen te dicht bij mijn grenzen. Ik hoop dat je alleen maar ons pittoreske landschap komt bewonderen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TRAJAN_ANY">
-			<Text>Je soldaten zijn maar een paar stappen verwijderd van het zijn van indringers. Verplaats ze onmiddelijk!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY">
-			<Text>Je leger is niet welkom aan onze grenzen. Verplaats het onmiddellijk.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Bedankt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
-			<Text>Ik had moeten weten dat je je zou verlagen tot het bespioneren van me. Verwijder je spionnen onmiddellijk!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Bedankt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Ik zal deze belediging niet vergeten, daar kun je zeker van zijn!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
-			<Text>Het is niet aan jullie om onze culturele geschiedenis te plunderen. Het is tijd voor je om uit ons land te vertrekken!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Bedankt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Als je ons land niet respecteert zal ik jou niet respecteren.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
-			<Text>Je bekeerders zijn niet welkom onder mijn volk. Ik moet je verzoeken hen onmiddelijk te verwijderen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-			<Text>Bedankt.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-			<Text>Ik verzeker je dat dit gevolgen zal hebben - als niet nu, dan later.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
-			<Text>Mijn mensen zullen zich hier vestigen als ze daar zin in hebben!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
-			<Text>Sorry, ik zal voortaan ergens anders kijken.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_NEGATIVE">
-			<Text>Je hebt je terecht zorgen gemaakt (verkaar oorlog)!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_POSITIVE">
-			<Text>Mijn troepen lopen alleen maar voorbij.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
-			<Text>Dat kan ik niet beloven.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
-			<Text>Sorry, ik zal deze operatie meteen stopzetten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
-			<Text>Je kunt geen claim op de geschiedenis leggen. Ik graaf wanneer ik daar zijn in heb.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
-			<Text>Sorry, ik stuur mijn archeologen wel ergens anders heen.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
-			<Text>Als het God's wil is dat je mensen op onze manier geloven, wie ben ik dan om ze te stoppen?</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
-			<Text>Sorry, ik dacht dat mijn mensen welkom waren. Ik heb me vergist.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
-			<Text>Het zetten van deze stap zal een oorlog ontketenen met {1_CivName}!</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
-			<Text>Het zetten van deze stap zal terugslaan op je eigen gebied.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
-			<Text>Deze aanval zal consequenties hebben voor een van je bondgenoten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
-			<Text>Deze blinde aanval kan resulteren in onbedoelde consequenties.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
-			<Text>Weet je zeker dat je dit wilt?</Text>
-		</Replace>
-	</LocalizedText>
+  <LocalizedText>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Mijn oprechte verontschuldigingen! Ik had niet in de gaten dat je stad zo dichtbij was.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Mijn mensen hebben land nodig. Wie ben jij om ze dat te ontzeggen?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY">
+      <Text>Je mensen vestigen zich te dichtbij! Je zou kunnen overwegen ergens anders land te zoeken.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Bedankt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Als je geen respect voor ons land kan opbrengen, kan ik dat ook niet voor jou.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Mijn verontschuldiging, we waren op zoek naar barbaren om ze een beetje lastig te vallen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Ik laat mijn troepen graag rondmarcheren, het toont hoe machtig ik ben, snap je.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Ja, je hebt gelijk. Ik betreur dat ik me tot dergelijke tactieken heb moeten wenden. Het zal niet weer gebeuren.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Ha! Waarom zou ik zo'n soort belofte doen?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Ik had me niet gerealiseerd dat je een claim had op dit land. Het was een foutje.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>De mysteries van het verleden zijn gratis voor iedereen. Je kunt ze niet claimen!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Hoewel ik respect heb voor je wensen, ben ik teleurgeteld dat je de fout van je handelwijze niet inziet.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Nee, nee. Dit is echt het beste. Je zult het zien, dat verzeker ik je.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY">
+      <Text>Je troepen komen te dicht bij mijn grenzen.Ik hoop dat je alleen maar ons pittoreske landschap komt bewonderen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MVEMBA_ANY">
+      <Text>Je leger staat voor mijn deur. Denk je dat we blind zijn? Verplaats het, of we zijn gedwongen tot actie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ANY">
+      <Text>Denk je dat je ons intimideert met je machtsvertoon? Dit loopt helemaal niet goed voor je af.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY">
+      <Text>Net als het Oog van Ra zie ik alles. Denk je dat ik je leger aan mijn grenzen niet heb opgemerkt? Ik stel voor dat je het verplaatst.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BARBAROSSA_ANY">
+      <Text>Als je denkt dat we je leger niet zien, ben je naief. Verplaats ze uit Duitsland of ervaar de consequenties.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GANDHI_ANY">
+      <Text>Vriend, verplaats je soldaten alsjeblieft van mijn grenzen. Ze maken een vredelievend man als ik nerveus.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GILGAMESH_ANY">
+      <Text>Gilgamesh zal je leger met blote handen uiteenscheuren als je het niet verplaatst.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORGO_ANY">
+      <Text>Verplaats je leger van onze grenzen, anders doen wij het wel.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY">
+      <Text>Ik kan me een uitnodiging van je troepen niet herinneren, heb je soms zin in oorlog?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HOJO_ANY">
+      <Text>Laat me je mes niet zien, tenzij je van plan bent me te steken. Verplaats je soldaten van mijn land.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PEDRO_ANY">
+      <Text>Je troepen komen te dicht bij mijn grenzen. Ik hoop dat je alleen maar ons pittoreske landschap komt bewonderen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PERICLES_ANY">
+      <Text>Je probeert me te intimideren met je leger, maar dat werkt niet. Verplaats het of ervaar de consequenties.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PETER_GREAT_ANY">
+      <Text>Je legermacht bedreigt mijn grenzen...Verwacht je echt dat ik hier stil blijf zitten?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PHILIP_II_ANY">
+      <Text>Geloof maar niet dat je je soldaten aan mijn grenzen kunt houden. Verplaats ze onmiddellijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY">
+      <Text>Je leger heeft het voordeel van verrassing teniet gedaan. Trek je troepen tergug en bedenk een nieuwe strategie.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SALADIN_ANY">
+      <Text>Hoe zou ik je leger nou niet voor me kunnen zien. Verplaats het alsjeblieft van onze grenzen, tenzij je een oorlog van plan bent?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ANY">
+      <Text>Je laat je troepen zo dicht langs onze grenzen marcheren dat ik over je integriteit begin te twijfelen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMYRIS_ANY">
+      <Text>Je troepen komen te dicht bij mijn grenzen. Ik hoop dat je alleen maar ons pittoreske landschap komt bewonderen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TRAJAN_ANY">
+      <Text>Je soldaten zijn maar een paar stappen verwijderd van het zijn van indringers. Verplaats ze onmiddelijk!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY">
+      <Text>Je leger is niet welkom aan onze grenzen. Verplaats het onmiddellijk.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Bedankt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
+      <Text>Ik had moeten weten dat je je zou verlagen tot het bespioneren van me. Verwijder je spionnen onmiddellijk!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Bedankt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Ik zal deze belediging niet vergeten, daar kun je zeker van zijn!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
+      <Text>Het is niet aan jullie om onze culturele geschiedenis te plunderen. Het is tijd voor je om uit ons land te vertrekken!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Bedankt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Als je ons land niet respecteert zal ik jou niet respecteren.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
+      <Text>Je bekeerders zijn niet welkom onder mijn volk. Ik moet je verzoeken hen onmiddelijk te verwijderen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+      <Text>Bedankt.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+      <Text>Ik verzeker je dat dit gevolgen zal hebben - als niet nu, dan later.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
+      <Text>Mijn mensen zullen zich hier vestigen als ze daar zin in hebben!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
+      <Text>Sorry, ik zal voortaan ergens anders kijken.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_NEGATIVE">
+      <Text>Je hebt je terecht zorgen gemaakt (verkaar oorlog)!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_POSITIVE">
+      <Text>Mijn troepen lopen alleen maar voorbij.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+      <Text>Dat kan ik niet beloven.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+      <Text>Sorry, ik zal deze operatie meteen stopzetten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+      <Text>Je kunt geen claim op de geschiedenis leggen. Ik graaf wanneer ik daar zijn in heb.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+      <Text>Sorry, ik stuur mijn archeologen wel ergens anders heen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+      <Text>Als het God's wil is dat je mensen op onze manier geloven, wie ben ik dan om ze te stoppen?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+      <Text>Sorry, ik dacht dat mijn mensen welkom waren. Ik heb me vergist.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
+      <Text>Het zetten van deze stap zal een oorlog ontketenen met {1_CivName}!</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
+      <Text>Het zetten van deze stap zal terugslaan op je eigen gebied.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
+      <Text>Deze aanval zal consequenties hebben voor een van je bondgenoten.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
+      <Text>Deze blinde aanval kan resulteren in onbedoelde consequenties.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
+      <Text>Weet je zeker dat je dit wilt?</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO_MULTIPLE">
+      <Text>Als je deze zet doet, begin je een oorlog met:</Text>
+    </Replace>
+  </LocalizedText>
 </GameData>

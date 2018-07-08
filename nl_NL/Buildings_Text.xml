@@ -92,7 +92,7 @@
 			<Text>Beloont je met 2 willekeurig gekozen gratis ontplooiingen wanneer voltooid. Moet worden gebouwd op vlak land naast een theaterwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
-			<Text>1 gratis willekeurige boost van een ontplooiing uit het atoomtijdperk. Moet worden gebouwd op vlak land naast een theaterwijk.</Text>
+			<Text>1 gratis willekeurige bespoediging van een ontplooiing uit het atoomtijdperk. Moet worden gebouwd op vlak land naast een theaterwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
 			<Text>+2 [ICON_Culture] cultuur naar alle regenwoudgebiedsdelen voor deze stad. +1 [ICON_Production] productie naar alle regenwoudgebiedsdelen voor deze stad. Moet worden gebouwd in regenwoud.</Text>
