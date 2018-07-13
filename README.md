@@ -1,6 +1,8 @@
-Een project om Civilization 6 in het Nederlands te vertalen. 
+#Nederlandse vertaling voor Civilization 6#
 
-De installatie schrijft niet de bestaande tekst bestanden over, maar levert vervangende vertalingen. Dit zorgt er tevens voor dat uitbreidingen blijven werken, maar dan met de ontbrekende delen in het Engels.
+Een project dat vertaalbestanden voor Civilization 6 bevat. 
+
+De installatie schrijft niet de bestaande tekst bestanden over, maar levert vervangende vertalingen. Dit zorgt er bijvoorbeeld voor dat uitbreidingen blijven werken, maar dan met de ontbrekende delen in het Engels.
 
 Om te beginnen maak hier een map "Text" aan: -> 
 C:\Users\{Jouw gebruikersnaam}\Documents\My Games\Sid Meier's Civilization VI\Text  
