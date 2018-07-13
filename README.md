@@ -1,4 +1,4 @@
-#Nederlandse vertaling voor Civilization 6#
+# Nederlandse vertaling voor Civilization
 
 Een project dat vertaalbestanden voor Civilization 6 bevat. 
 
