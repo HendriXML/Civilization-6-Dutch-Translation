@@ -19,4 +19,4 @@ Waarvoor dank!
 
 Zelf heb ik het een en ander via Word op spelling en tikfouten gechecked. In dat proces heb ik ook wat termen extra vertaald.
 
-Inmiddels heb ik ook met google translate meer tekst vertaald. De Civilopedia en wat kleine zaken staan wellicht nog te gebeuren.
+Inmiddels heb ik ook met behulp van Google Translate nog meer tekst vertaald. De Civilopedia en wat kleine zaken staan wellicht nog te gebeuren.
