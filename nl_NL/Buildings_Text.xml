@@ -37,10 +37,10 @@
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
 			<Text>Hier gecreëerde missionarissen en apostelen hebben +1 verspreiding.</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
-      <Text>+1 extra [ICON_FAITH] geloof voor ieder era sinds bouw of laatste keer gerepareerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+		<Replace Language="nl_NL" Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+			<Text>+1 extra [ICON_FAITH] geloof voor ieder era sinds bouw of laatste keer gerepareerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
 			<Text>Bevat [ICON_GreatWork_Landscape] Grote Kunstwerken. Kan niet worden gebouwd in een theaterwijk die al een archeologisch museum heeft.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">

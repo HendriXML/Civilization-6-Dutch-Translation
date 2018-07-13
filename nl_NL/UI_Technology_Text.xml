@@ -2,16 +2,16 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
-			<Text>RESEARCH COMPLETE</Text>
+			<Text>ONDERZOEK VOLTOOID</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
-			<Text>Congratulations!  You've researched {1_TechnologyName}!</Text>
+			<Text>Hartelijk gefeliciteerd! U heeft {1_TechnologyName} onderzocht!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
-			<Text>CIVIC COMPLETE</Text>
+			<Text>ONTPLOOIING VOLTOOID</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
-			<Text>With your people enthused to try {1_CivicName}, government and social policy changes are FREE this turn.</Text>
+			<Text>Met uw mensen enthousiast om {1_CivicName} te proberen, zijn wijzigingen in het overheidsbeleid en het sociale beleid deze beurt GRATIS.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

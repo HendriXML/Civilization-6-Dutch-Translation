@@ -1,830 +1,830 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_MESSAGE">
-      <Text>Kies artefact</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_SUMMARY">
-      <Text>Je hebt een eeuwenoude plaats uitgegraven. Kies een artefact om naar je museum terug te brengen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_TECH_MESSAGE">
-      <Text>Kies een technologie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_TECH_SUMMARY">
-      <Text>Kies een nieuwe technologie om te onderzoeken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_MESSAGE">
-      <Text>Kies productie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_SUMMARY">
-      <Text>Productie in deze stad is voltooid. Kies wat nu te produceren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
-      <Text>Kies een ontplooiing</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
-      <Text>Kies een nieuwe ontplooiing om te ontwikkelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
-      <Text>Geef eenheden opdracht</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
-      <Text>Verplaats een eenheid of laat hem iets doen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
-      <Text>Overweeg van regering te veranderen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
-      <Text>Je hebt een ontplooiing voltooid die een nieuwe regering heeft ontsloten. Overweeg die regeringsvorm.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
-      <Text>Houd de stad of brand hem plat</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY">
-      <Text>Je hebt deze beurt een stad veroverd. Beslis over bevrijden, platbranden of houden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_MESSAGE">
-      <Text>Vul plaats met beleidsoptie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_SUMMARY">
-      <Text>Een beleidsoptie moet worden toegevoegd aan onze regering.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_PANTHEON_MESSAGE">
-      <Text>Kies Pantheon</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_RELIGION_MESSAGE">
-      <Text>Kies religie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_BELIEF_MESSAGE">
-      <Text>Kies geloof</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
-      <Text>Claim Belangrijk Persoon</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
-      <Text>Stuur gezant</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
-      <Text>Je hebt een [ICON_Envoy] gezant verdiend; je kunt deze naar een stadstaat sturen voor bonussen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_DIED">
-      <Text>Eenheid gedood</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_DISBANDED_MESSAGE">
-      <Text>Eenheid ontslagen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_DISBANDED_SUMMARY">
-      <Text>Je [ICON_Gold] goudbalans is negatief. Je {1_UnitName} is ontslagen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_MESSAGE">
-      <Text>Eenheid beschikbaar voor promotie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_SUMMARY">
-      <Text>{1_UnitName} is beschikbaar voor promotie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_MESSAGE">
-      <Text>Verslagen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_SUMMARY">
-      <Text>{1_leader} is verslagen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_BY_SUMMARY">
-      <Text>{1_leader} is verslagen door {2_leader}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_MESSAGE">
-      <Text>Verslagen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
-      <Text>Een niet ontmoete speler is verslagen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
-      <Text>Je hebt een {1_UnitName}-eenheid verloren door vijandelijke bezetting.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
-      <Text>Een vijandelijke bezetting heeft je gedwongen je {1_UnitName}-eenheid terug te trekken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
-      <Text>Oorlogsverklaring</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
-      <Text>{1_leader} heeft oorlog verklaard aan {2_leader}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
-      <Text>Vrede onderhandeld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
-      <Text>{1_leader} heeft vrede gesloten met {2_leader}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
-      <Text>Je hebt een nieuwe beschaving ontmoet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CITY_STATE">
-      <Text>Je hebt een nieuwe stadstaat ontmoet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
-      <Text>Je hebt {1_leader} van {2_CivDesc} ontmoet.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE">
-      <Text>{1_leader} houdt zich aan grenzen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_SUMMARY">
-      <Text>{1_leader} versterkt de grenzen. Je eenheden binnen hun rijk zijn verplaatst naar een gebiedsdeel net buiten hun land.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_MESSAGE">
-      <Text>Vriendschap verlopen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
-      <Text>Je vriendschap met {1_leader} heeft zijn loop gehad en dient te worden vernieuwd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
-      <Text>Bondgenootschap verlopen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
-      <Text>Je bondgenootschap met {1_leader} heeft zijn loop gehad en dient te worden vernieuwd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
-      <Text>Casus belli verworven</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_SUMMARY">
-      <Text>Je hebt een casus belli verworven waarmee je een {1_WarType} kunt verklaren aan {2_leader}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_COLONIAL">
-      <Text>Koloniale oorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_HOLY">
-      <Text>Heilige oorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_LIBERATION">
-      <Text>Bevrijdingsoorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_PROTECTORATE">
-      <Text>Beschermingsoorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_RECONQUEST">
-      <Text>Heroveringsoorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_TERRITORIAL_EXPANSION">
-      <Text>Oorlog van territoriale expansie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">
-      <Text>Kies ontsnappingsroute</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CHOOSE_DRAGNET_PRIORITY_MESSAGE">
-      <Text>Kies prioriteit achtervolging</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_SUMMARY">
-      <Text>Je agent {1_unitName} in {2_CityName} is erin geslaagd het Grootse Werk "{3_Work}" te stelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_MESSAGE">
-      <Text>Stelen Groots Werk succesvol afgerond</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_SUMMARY">
-      <Text>Een vijandelijke spion in {1_CityName} is erin geslaagd het Grootse Werk "{2_Work}" te stelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_MESSAGE">
-      <Text>Vijand heeft Groots Werk gestolen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_SUMMARY">
-      <Text>Je agent {1_unitName} is erin geslaagd sabotage te plegen in het industriegebied van de stad {2_cityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_MESSAGE">
-      <Text>Sabotage productie succesvol</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_SUMMARY">
-      <Text>Een vijandelijke spion is erin geslaagd sabotage te plegen in het industriegebied van de stad {1_cityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_MESSAGE">
-      <Text>Vijandelijke spion heeft productie gesaboteerd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_SUMMARY">
-      <Text>Je agent {1_unitName} is erin geslaagd {2_Amount} [ICON_Gold] goud weg te sluizen uit de stad {3_cityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_MESSAGE">
-      <Text>Wegsluizen goud geslaagd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_SUMMARY">
-      <Text>Een vijandelijke spion is erin geslaagd {1_Amount} [ICON_Gold] goud weg te sluizen uit de stad {2_cityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_MESSAGE">
-      <Text>Wegsluizen goud door vijandelijke spion</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
-      <Text>Je agent {1_unitName} in {2_CityName} is erin geslaagd de bespoediging naar {3_Tech} te stelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
-      <Text>Stelen technologische bespoediging succesvol</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
-      <Text>Een vijandelijke spion in {1_CityName} is erin geslaagd de bespoediging naar {2_Tech} te stelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
-      <Text>Vijand heeft technologische bespoediging gestolen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
-      <Text>Je agent {1_unitName} in {2_CityName} is erin geslaagd partizanen te rekruteren die hun stad willen heroveren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
-      <Text>Rekrutering partizanen geslaagd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
-      <Text>Een vijandelijke spion in {1_CityName} is erin geslaagd partizanen te rekruteren die nu jouw stad bedreigen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
-      <Text>Vijand heeft partizanen gerekruteerd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
-      <Text>Je agent {1_unitName} is erin geslaagd de ruimtehaven te plunderen in de stad {2_cityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_MESSAGE">
-      <Text>Ruimtevaart succesvol ontwricht</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_SUMMARY">
-      <Text>Een vijandelijke spion is erin geslaagd de ruimtehaven van de stad {1_cityName} te plunderen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_MESSAGE">
-      <Text>Vijandelijke spion ontwricht ruimtevaart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_SUMMARY">
-      <Text>Je agent {1_unitName} heeft bronnen verzameld met kennis over het functioneren van {2_CityName}. Jouw spionnen in die stad zullen {3_Levels} niveaus hoger opereren gedurende {4_Turns} beurten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_MESSAGE">
-      <Text>Bronnen verzameld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_SUMMARY">
-      <Text>Je agent {1_unitName} heeft de benodigde tijd op de afluisterpost in {2_CityName} afgesloten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_MESSAGE">
-      <Text>Afluisterpost voltooid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_SUMMARY">
-      <Text>Je agent {1_unitName} is de stad {2_CityName} ontvlucht na de machtswisseling.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
-      <Text>Spion ontvlucht stad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
-      <Text>Je agent {1_unitName} heeft gefaald bij de missie "{2_mission}" in de stad {3_cityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_MESSAGE">
-      <Text>Spion gefaald</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CAPTURED_SUMMARY">
-      <Text>Je agent {1_unitName} is opgepakt tijdens de missie "{2_mission}" in de stad {3_cityName}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CAPTURED_MESSAGE">
-      <Text>Spion opgepakt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_SUMMARY">
-      <Text>Een spion van {1_civName} is opgepakt tijdens de missie "{2_mission}" in de stad {3_cityName}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_MESSAGE">
-      <Text>Vijandelijke spion opgepakt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_KILLED_SUMMARY">
-      <Text>Je agent {1_unitName} is gesneuveld tijdens de missie "{2_mission}" in de stad {3_cityName}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_KILLED_MESSAGE">
-      <Text>Spion gesneuveld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
-      <Text>Een spion van {1_civName} is gesneuveld tijdens de missiw "{2_mission}" in de stad {3_cityName}. {4_CounterspyAssist}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
-      <Text>Vijandelijke spion gesneuveld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
-      <Text>Je agent {1_unitName} heeft de missie "{2_mission}" afgebroken in de stad {3_cityName}. Het missiedoel is niet langer geldig.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_MESSAGE">
-      <Text>Missie spion afgebroken</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_SUMMARY">
-      <Text>Vanwege de rol gespeeld bij het stoppen van de vijandelijke missie "{1_mission}" in de stad {2_cityName}, is je spion {3_unitName} gepromoveerd!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_MESSAGE">
-      <Text>Contraspion gepromoveerd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_ASSIST">
-      <Text>Je contraspion {1_unitName} was van wezenlijk belang in deze overwinning van je veilgheidsdienst.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
-      <Text>Je spion {1_unitName} is aan gevangenneming ontsnapt en zal naar je hoofdstad terugkeren in {2_turns} beurten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
-      <Text>Spion ontsnapt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
-      <Text>Nieuwe queeste stadstaat</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_SUMMARY">
-      <Text>De {1_CityStateName} heeft je een nieuwe queeeste gegeven: {2_QuestName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_MESSAGE">
-      <Text>Queeste stadstaat voltooid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_SUMMARY">
-      <Text>Je hebt een queeste voor de {1_CityStateName} voltooid en als beloning verdiend: {2_RewardText}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
-      <Text>Ontmoetingsbonus stadstaat</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
-      <Text>Als eerste majeure beschaving die de {1_CityStateName} heeft ontmoet, heb je daar {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?gezant; other?gezanten;} verdiend.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
-      <Text>Status van suzerein verloren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_SUMMARY">
-      <Text>Na een wisseling van [ICON_Envoy] gezanten ben je niet langer suzerein van de {1_CityStateName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_MESSAGE">
-      <Text>Handelsroute geplunderd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_NO_ROUTE">
-      <Text>{1_PlayerName} heeft je handelseenheid geplunderd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_ACTIVE_ROUTE">
-      <Text>{1_PlayerName} heeft je handelseenheid geplunderd. Je [ICON_TradeRoute] handelsroute van {2_OriginCityName} naar {3_DestinationCityName} is niet langer actief.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_MESSAGE">
-      <Text>Handelspost opgericht</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_SUMMARY">
-      <Text>Voltooiing van een [ICON_TradeRoute] handelsroute heeft een [ICON_TradingPost] handelspost voor je opgeleverd in de stad {1_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_MESSAGE">
-      <Text>Handelsroutecapaciteit vergroot</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_SUMMARY">
-      <Text>Je bent nu in staat meer [ICON_TradeRoute] handelsroutes aan te leggen en te onderhouden dan tevoren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
-      <Text>Rebellie!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
-      <Text>Het gebrek aan [ICON_Amenities] voorzieningen in {1_CityName} heeft mensen de wapens doen oppakken tegen ons en {2_NumUnits} vijandige eenheden doen uitspuwen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_MESSAGE">
-      <Text>Meer voorzieningen nodig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
-      <Text>{1_CityName} heeft meer [ICON_Amenities] voorzieningen nodig om het productief te houden. Als het verder verslechtert komen de mensen in opstand tegen ons!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
-      <Text>Meer huisvesting nodig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
-      <Text>{1_CityName} heeft meer [ICON_Housing] huiisvesting nodig om te blijven groeien. Als het zo doorgaat zullen we moeilijk nieuwe [ICON_Citizen] burgers krijgen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
-      <Text>Stad in hongersnood!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_STARVING_SUMMARY">
-      <Text>{1_CityName} voorziet niet in genoeg [ICON_Food] voedsel voor zijn inwoners. Als het zo doorgaat zal het [ICON_Citizen] inwoners verliezen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_MESSAGE">
-      <Text>Stad heeft voedsel nodig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
-      <Text>{1_CityName} vorziet niet in genoeg [ICON_Food] voedsel voor zijn inwoners om te groeien. Overweeg je stad zich te laten focussen op [ICON_Food] voedsel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
-      <Text>Schatkist failliet!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY">
-      <Text>We hebben geen [ICON_Gold] goud meer en onze kosten zijn hoger dan ons inkomen. Als het zo doorgaat zullen onze steden [ICON_Amenities] voorzieningen verliezen en onze eenheden ons verlaten!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
-      <Text>Kan kopen met geloof</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
-      <Text>Je hebt genoeg [ICON_Faith] geloof verzameld om een {1_ItemName} te kopen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
-      <Text>{1_playerName} Joining</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTING_TT">
-      <Text>{1_playerName} is joining the game.  This process might take a few minutes.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTED">
-      <Text>{1_playerName} Joined</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTED_TT">
-      <Text>{1_playerName} has finished joining the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT">
-      <Text>{1_playerName} Disconnected</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT_TT">
-      <Text>{1_playerName} has disconnected from the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_KICKED">
-      <Text>{1_playerName} Kicked</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
-      <Text>{1_playerName} has been kicked from the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS">
-      <Text>{1_playerName} download mods</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
-      <Text>{1_playerName} is de voor het spel vereiste mods aan het downloaden. ({2 : number} van {3 : number} in totaal)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_MIGRATION">
-      <Text>Host Migration</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_MIGRATION_TT">
-      <Text>The game is migrating to a new game host.  The game will resume shortly.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_CHANGED">
-      <Text>Host Migrated</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_CHANGED_TT">
-      <Text>{1_playerName} is the new game host.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WRONG_PHASE_TT">
-      <Text>[color:Civ6Red]Wrong Phase[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS">
-      <Text>Simultaneous Turns</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
-      <Text>Your war with a human player has ended. Your turns will be played simultaneously with all non-warring civilizations.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
-      <Text>Sequential Turns</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
-      <Text>You are at war with a human player.  Your turns will be played sequentially with all warring civilizations until the conflict is over.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
-      <Text>{1_playerName} Desynced</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DESYNCED_TT">
-      <Text>{1_playerName}'s game has deviated from the host's.  They are reloading to correct the problem.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE">
-      <Text>{1_playerName} Resync Complete</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
-      <Text>{1_playerName} has finished loading.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
-      <Text>Relikwie gecreëerd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_RELIC_CREATED_SUMMARY">
-      <Text>Het [ICON_GreatWork_Relic] heilige relikwie {1_RelicName} is geplaatst in een {2_BuildingName} in {3_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
-      <Text>Nieuw continent ontdekt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
-      <Text>We hebben een nieuw continent ontdekt. Onze verkenner geeft het als naam {1_ContinentName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
-      <Text>Klein dorpje ontdekt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
-      <Text>Je hebt een dorpje gevonden bewoond door een vriendelijke stam.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_MESSAGE">
-      <Text>Natuurlijk wonder ontdekt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_SUMMARY">
-      <Text>Je verkenners hebben het natuurlijk wonder {1_NaturalWonderName} ontdekt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_MESSAGE">
-      <Text>Hulpbron ontdekt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_SUMMARY">
-      <Text>We hebben een nieuwe bron van {1_ResourceName} ontdekt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_MESSAGE">
-      <Text>Nadering van barbaren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
-      <Text>We hebben barbaren gespot die onze stad {1_CityName} naderen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
-      <Text>Jouw cultuur dominant</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_SUMMARY">
-      <Text>Je hebt genoeg [ICON_Tourism] toerisme aangetrokken om je cultuur te laten domineren over {1_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_MESSAGE">
-      <Text>Buitenlandse cultuur dominant</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_SUMMARY">
-      <Text>{1_CivName} heeft genoeg [ICON_Tourism] toerisme aangetrokken om hun cultuur te laten domineren over die van jou.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_MESSAGE">
-      <Text>Je culturele overwinning op handen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_SUMMARY">
-      <Text>Je cultuur is dominant geworden over op een na alle buitenlandse beschavingen. Een culturele overwinning is binnen je bereik.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_MESSAGE">
-      <Text>Buitenlandse culturele overwinning op handen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_SUMMARY">
-      <Text>{1_CivName} hoeft alleen nog maar over een speler te domineren om een culturele overwinning te behalen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_MESSAGE">
-      <Text>Nieuwe casus belli beschikbaar</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_SUMMARY">
-      <Text>We hebben nu een rechtvaardiging om een {1_WarType} te verklaren aan {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_MESSAGE">
-      <Text>Stadsaanval op afstand</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_SUMMARY">
-      <Text>De stad {1_CityName} heeft vijandelijke troepen op schootsafstand.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_MESSAGE">
-      <Text>Kampementaaval op afstand</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_SUMMARY">
-      <Text>Het kampement buiten de stad {1_CityName} heeft vijandelijke troepen op schootsafstand.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
-      <Text>Nucleair apparaat ontploft</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
-      <Text>{1_CivName} heeft een nucleair apparaat laten ontploffen nabij de stad {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
-      <Text>Thermonucleair apparaat ontploft</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
-      <Text>{1_CivName} heeft een verwoestend thermomucleair apparaat laten onploffen nabij de stad {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
-      <Text>Kan spion opleiden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_SUMMARY">
-      <Text>Je kunt nu een extra spion opleiden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_CAPTURED_MESSAGE">
-      <Text>Eenheid gevangengenomen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_CAPTURED_SUMMARY">
-      <Text>Je {1_UnitType} is gevangengenomen door een {2_EnemyUnitType} van het {3_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_ATTACKED_MESSAGE">
-      <Text>Eenheid aangevallen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_ATTACKED_SUMMARY">
-      <Text>Je {1_UnitType} is aangevallen door {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_MESSAGE">
-      <Text>Wonder voltooid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_SUMMARY">
-      <Text>{1_CivName} heeft de constructie van het wereldwonder {2_WonderName} voltooid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_HOTSEAT_CURRENT_PLAYER_SUMMARY">
-      <Text>Je hebt de constructie van het wereldwonder {1_WonderName} voltooid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
-      <Text>Een niet ontmoete speler heeft de constructie van het wereldwonder {1_WonderName} voltooid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
-      <Text>Stad ingenomen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOST_SUMMARY">
-      <Text>De stad {1_CityName} is ingenomen door {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_MESSAGE">
-      <Text>Stadsmuren verbrijzeld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_SUMMARY">
-      <Text>De muren van de stad {1_CityName} zijn verbrijzeld door krachten van {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
-      <Text>Hoofdstad ingenomen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
-      <Text>De hoofdstad van {1_CivName} is ingenomen door {2_CivName}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
-      <Text>Hoofdstad teruggevorderd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
-      <Text>{1_CivName} heeeft hun hoofdstad teruggevorderd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
-      <Text>Vijand binnen grenzen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_SUMMARY">
-      <Text>Vijandelijke troepen zijn gespot binnen onze grenzen nabij de stad {1_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_MESSAGE">
-      <Text>Eeuwenoude plaats ontdekt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_SUMMARY">
-      <Text>Je hebt een nieuwe eeuwenoude plaats ontdekt. Stuur een archeoloog om het artefact op te graven.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_MESSAGE">
-      <Text>Scheepswrak ontdekt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
-      <Text>Je hebt de plaats van een oud scheepswrak ontdekt. Wanneer je de ontplooiing 'cultureel erfgoed' hebt omarmd kun je het gezonken artefact door een archeoloog naar boven laten halen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
-      <Text>Tegenaanbod ontvangen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_SUMMARY">
-      <Text>{1_CivName} heeft een tegenaanbod gedaan op jouw voorstel voor een deal.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_MESSAGE">
-      <Text>Deal voorgesteld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_SUMMARY">
-      <Text>Door {1_CivName} is je een deal voorgesteld.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_MESSAGE">
-      <Text>De aanklacht tegen jou is verlopen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_SUMMARY">
-      <Text>De aanklacht tegen jou van {1_CivName} is verlopen. Ze zullen deze opnieuw moeten indienen als ze een formele oorlogsverklaring willen afleggen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_MESSAGE">
-      <Text>Je aanklacht is verlopen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_SUMMARY">
-      <Text>Je aanklacht tegen {1_CivName} is verlopen en zal hernieuwd moeten worden als je een formele oorlogsverklaring wilt afleggen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_MESSAGE">
-      <Text>Belofte ingelost</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_SUMMARY">
-      <Text>De jou door het {1_CivName} gedane belofte '{2_PromiseType}' is ingelost.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_MESSAGE">
-      <Text>Je belofte ingelost</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_SUMMARY">
-      <Text>Jouw aan het {1_CivName} gedane belofte '{2_PromiseType}' is ingelost.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_MESSAGE">
-      <Text>Belofte aan jou gebroken</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
-      <Text>De door het {1_CivName} aan jou gedane belofte '{2_PromiseType}' is gebroken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_MESSAGE">
-      <Text>Je belofte gebroken</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
-      <Text>Je aan het {1_CivName} gedane belofte '{2_PromiseType}' is gebroken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_ARTIFACTS">
-      <Text>stop uitgraven artefacten</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_ON_BORDER">
-      <Text>verplaats de troepen aan de grens</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
-      <Text>stop steden te bekeren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
-      <Text>stop vestiging vlakbij</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_SPYING">
-      <Text>stop spioneren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_MESSAGE">
-      <Text>Deal verlopen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_SUMMARY">
-      <Text>Een met {1_CivName} gemaakte afspraak is verlopen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
-      <Text>Wijk geplunderd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
-      <Text>Je {1_DistrictName} in {2_CityName} is geplunderd door {3_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_MESSAGE">
-      <Text>Verbetering geplunderd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_SUMMARY">
-      <Text>Je {1_ImprovementName} in {2_CityName} is geplunderd door {3_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_MESSAGE">
-      <Text>Gebouw geplunderd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_SUMMARY">
-      <Text>Je {1_BuildingName} in {2_CityName} is geplunderd door {3_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_MESSAGE">
-      <Text>Weg geplunderd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_SUMMARY">
-      <Text>Een (gebieds)deel van de weg {1_RoadName} nabij {2_CityName} is geplunderd door {3_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_MESSAGE">
-      <Text>Speler herrezen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_SUMMARY">
-      <Text>{1_civName} heeft een stad herwonnen en leeft weer.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_MESSAGE">
-      <Text>Speler uitgeschakeld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_SUMMARY">
-      <Text>{1_civName} uitgeschakeld.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROADS_UPGRADED_MESSAGE">
-      <Text>Wegen geupdatet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROADS_UPGRADED_SUMMARY">
-      <Text>{1_RoadName} is ontsloten, wat een update betekent voor al je wegen in je gebied ({2_MovementCost} [ICON_Movement] verplaatsings{2_MovementCost : plural 1?punt; other?punten;} ongeacht terrein).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_MESSAGE">
-      <Text>Eerste religieuze eenheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
-      <Text>Dankzij de ambitie van je volk om greep te krijgen op het stichten van een nieuwe religie, heb je je eerste {1_UnitName} grats ontvangen. Gebruik [ICON_Faith] geloof om in de toekomst anderen te kopen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
-      <Text>Eerste spion</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
-      <Text>Dankzij de opwinding over je nieuwe spionagenetwerk heb je je eerste {1_UnitName} gratis ontvangen. Wanneer je de mogelijkheid ontsluit om er meer te construeren, leid ze dan op in je steden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
-      <Text>Stad onder beleg</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
-      <Text>{1_CityName} is onder beleg. Totdat de verwerende eenheden controle hebben over alle gebiedsdelen rond je stad zal deze niet genezen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
-      <Text>Land verloren gegaan</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
-      <Text>We hebben land verloren door een cultuurbombardement van {1_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_MESSAGE">
-      <Text>Luchtbasis overlopen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_SUMMARY">
-      <Text>{1_AirUnit} kan zichzelf niet opnieuw baseren en is vernietigd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_MESSAGE">
-      <Text>Vliegtuig geforceerd om opnieuw te baseren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_SUMMARY">
-      <Text>{1_AirUnit} location has been compromised and has been forced to re-base.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_MESSAGE">
-      <Text>Stads afstandsaanval</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_SUMMARY">
-      <Text>Je stad kan een afstandsaanval doen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
-      <Text>Ontplooiing bespoediging</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
-      <Text>Ontplooiing bespoedigd: {1_Name}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_MESSAGE">
-      <Text>Ontdekt {1_Name}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_SUMMARY">
-      <Text>Je hebt {1_Name} ontdekt!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_MESSAGE">
-      <Text>Vijandelijke spion is ontsnapt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_SUMMARY">
-      <Text>Een vijandelijke spion van een onbekende beschaving is ontsnapt uit jouw stad {1_cityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_TO_CAPITAL">
-      <Text>Je spion {1_unitName} heeft zijn reis afgebroken sinds de doelstad van eigenaar veranderde. Je kunt hem in je hoofdstad vinden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_BOOST_MESSAGE">
-      <Text>Technologie bespoediging</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
-      <Text>Technologie bespoedigd: {1_Name}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_DISCOVERED_MESSAGE">
-      <Text>Ontdekking van {1_Name}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_DISCOVERED_SUMMARY">
-      <Text>Je hebt {1_Name} ontdekt!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNMET_CITY_STATE_DEFEATED_SUMMARY">
-      <Text>Een niet ontmoette stadstaat is verloren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_FAILED_MESSAGE">
-      <Text>Productie geborgen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_FAILED_SUMMARY">
-      <Text>Je bent niet in staat geweest om het wereldwonder {1_WonderName} op tijd af te ronden. {2_Productie} [ICON_Production] Productie is echter gered van de poging en toegekend aan de stad {3_CityName}.</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_MESSAGE">
+			<Text>Kies artefact</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_SUMMARY">
+			<Text>Je hebt een eeuwenoude plaats uitgegraven. Kies een artefact om naar je museum terug te brengen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_TECH_MESSAGE">
+			<Text>Kies een technologie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_TECH_SUMMARY">
+			<Text>Kies een nieuwe technologie om te onderzoeken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_MESSAGE">
+			<Text>Kies productie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_SUMMARY">
+			<Text>Productie in deze stad is voltooid. Kies wat nu te produceren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
+			<Text>Kies een ontplooiing</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
+			<Text>Kies een nieuwe ontplooiing om te ontwikkelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
+			<Text>Geef eenheden opdracht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
+			<Text>Verplaats een eenheid of laat hem iets doen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
+			<Text>Overweeg van regering te veranderen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
+			<Text>Je hebt een ontplooiing voltooid die een nieuwe regering heeft ontsloten. Overweeg die regeringsvorm.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
+			<Text>Houd de stad of brand hem plat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY">
+			<Text>Je hebt deze beurt een stad veroverd. Beslis over bevrijden, platbranden of houden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_MESSAGE">
+			<Text>Vul plaats met beleidsoptie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_SUMMARY">
+			<Text>Een beleidsoptie moet worden toegevoegd aan onze regering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_PANTHEON_MESSAGE">
+			<Text>Kies Pantheon</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_RELIGION_MESSAGE">
+			<Text>Kies religie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CHOOSE_BELIEF_MESSAGE">
+			<Text>Kies geloof</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
+			<Text>Claim Belangrijk Persoon</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
+			<Text>Stuur gezant</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
+			<Text>Je hebt een [ICON_Envoy] gezant verdiend; je kunt deze naar een stadstaat sturen voor bonussen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_DIED">
+			<Text>Eenheid gedood</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_DISBANDED_MESSAGE">
+			<Text>Eenheid ontslagen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_DISBANDED_SUMMARY">
+			<Text>Je [ICON_Gold] goudbalans is negatief. Je {1_UnitName} is ontslagen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Eenheid beschikbaar voor promotie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>{1_UnitName} is beschikbaar voor promotie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_MESSAGE">
+			<Text>Verslagen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_SUMMARY">
+			<Text>{1_leader} is verslagen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_BY_SUMMARY">
+			<Text>{1_leader} is verslagen door {2_leader}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_MESSAGE">
+			<Text>Verslagen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
+			<Text>Een niet ontmoete speler is verslagen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
+			<Text>Je hebt een {1_UnitName}-eenheid verloren door vijandelijke bezetting.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
+			<Text>Een vijandelijke bezetting heeft je gedwongen je {1_UnitName}-eenheid terug te trekken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
+			<Text>Oorlogsverklaring</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
+			<Text>{1_leader} heeft oorlog verklaard aan {2_leader}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
+			<Text>Vrede onderhandeld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
+			<Text>{1_leader} heeft vrede gesloten met {2_leader}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
+			<Text>Je hebt een nieuwe beschaving ontmoet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CITY_STATE">
+			<Text>Je hebt een nieuwe stadstaat ontmoet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
+			<Text>Je hebt {1_leader} van {2_CivDesc} ontmoet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE">
+			<Text>{1_leader} houdt zich aan grenzen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_SUMMARY">
+			<Text>{1_leader} versterkt de grenzen. Je eenheden binnen hun rijk zijn verplaatst naar een gebiedsdeel net buiten hun land.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_MESSAGE">
+			<Text>Vriendschap verlopen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
+			<Text>Je vriendschap met {1_leader} heeft zijn loop gehad en dient te worden vernieuwd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>Bondgenootschap verlopen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>Je bondgenootschap met {1_leader} heeft zijn loop gehad en dient te worden vernieuwd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
+			<Text>Casus belli verworven</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_SUMMARY">
+			<Text>Je hebt een casus belli verworven waarmee je een {1_WarType} kunt verklaren aan {2_leader}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_COLONIAL">
+			<Text>Koloniale oorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_HOLY">
+			<Text>Heilige oorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_LIBERATION">
+			<Text>Bevrijdingsoorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_PROTECTORATE">
+			<Text>Beschermingsoorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_RECONQUEST">
+			<Text>Heroveringsoorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WAR_TYPE_TERRITORIAL_EXPANSION">
+			<Text>Oorlog van territoriale expansie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">
+			<Text>Kies ontsnappingsroute</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CHOOSE_DRAGNET_PRIORITY_MESSAGE">
+			<Text>Kies prioriteit achtervolging</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>Je agent {1_unitName} in {2_CityName} is erin geslaagd het Grootse Werk "{3_Work}" te stelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Stelen Groots Werk succesvol afgerond</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>Een vijandelijke spion in {1_CityName} is erin geslaagd het Grootse Werk "{2_Work}" te stelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Vijand heeft Groots Werk gestolen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>Je agent {1_unitName} is erin geslaagd sabotage te plegen in het industriegebied van de stad {2_cityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Sabotage productie succesvol</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>Een vijandelijke spion is erin geslaagd sabotage te plegen in het industriegebied van de stad {1_cityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Vijandelijke spion heeft productie gesaboteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_SUMMARY">
+			<Text>Je agent {1_unitName} is erin geslaagd {2_Amount} [ICON_Gold] goud weg te sluizen uit de stad {3_cityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Wegsluizen goud geslaagd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_SUMMARY">
+			<Text>Een vijandelijke spion is erin geslaagd {1_Amount} [ICON_Gold] goud weg te sluizen uit de stad {2_cityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Wegsluizen goud door vijandelijke spion</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Je agent {1_unitName} in {2_CityName} is erin geslaagd de bespoediging naar {3_Tech} te stelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Stelen technologische bespoediging succesvol</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Een vijandelijke spion in {1_CityName} is erin geslaagd de bespoediging naar {2_Tech} te stelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Vijand heeft technologische bespoediging gestolen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Je agent {1_unitName} in {2_CityName} is erin geslaagd partizanen te rekruteren die hun stad willen heroveren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Rekrutering partizanen geslaagd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Een vijandelijke spion in {1_CityName} is erin geslaagd partizanen te rekruteren die nu jouw stad bedreigen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Vijand heeft partizanen gerekruteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Je agent {1_unitName} is erin geslaagd de ruimtehaven te plunderen in de stad {2_cityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Ruimtevaart succesvol ontwricht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Een vijandelijke spion is erin geslaagd de ruimtehaven van de stad {1_cityName} te plunderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Vijandelijke spion ontwricht ruimtevaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_SUMMARY">
+			<Text>Je agent {1_unitName} heeft bronnen verzameld met kennis over het functioneren van {2_CityName}. Jouw spionnen in die stad zullen {3_Levels} niveaus hoger opereren gedurende {4_Turns} beurten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_MESSAGE">
+			<Text>Bronnen verzameld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_SUMMARY">
+			<Text>Je agent {1_unitName} heeft de benodigde tijd op de afluisterpost in {2_CityName} afgesloten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_MESSAGE">
+			<Text>Afluisterpost voltooid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_SUMMARY">
+			<Text>Je agent {1_unitName} is de stad {2_CityName} ontvlucht na de machtswisseling.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
+			<Text>Spion ontvlucht stad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
+			<Text>Je agent {1_unitName} heeft gefaald bij de missie "{2_mission}" in de stad {3_cityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_MESSAGE">
+			<Text>Spion gefaald</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CAPTURED_SUMMARY">
+			<Text>Je agent {1_unitName} is opgepakt tijdens de missie "{2_mission}" in de stad {3_cityName}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_CAPTURED_MESSAGE">
+			<Text>Spion opgepakt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_SUMMARY">
+			<Text>Een spion van {1_civName} is opgepakt tijdens de missie "{2_mission}" in de stad {3_cityName}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_MESSAGE">
+			<Text>Vijandelijke spion opgepakt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_KILLED_SUMMARY">
+			<Text>Je agent {1_unitName} is gesneuveld tijdens de missie "{2_mission}" in de stad {3_cityName}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_KILLED_MESSAGE">
+			<Text>Spion gesneuveld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
+			<Text>Een spion van {1_civName} is gesneuveld tijdens de missiw "{2_mission}" in de stad {3_cityName}. {4_CounterspyAssist}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
+			<Text>Vijandelijke spion gesneuveld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
+			<Text>Je agent {1_unitName} heeft de missie "{2_mission}" afgebroken in de stad {3_cityName}. Het missiedoel is niet langer geldig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_MESSAGE">
+			<Text>Missie spion afgebroken</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_SUMMARY">
+			<Text>Vanwege de rol gespeeld bij het stoppen van de vijandelijke missie "{1_mission}" in de stad {2_cityName}, is je spion {3_unitName} gepromoveerd!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_MESSAGE">
+			<Text>Contraspion gepromoveerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_ASSIST">
+			<Text>Je contraspion {1_unitName} was van wezenlijk belang in deze overwinning van je veilgheidsdienst.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Je spion {1_unitName} is aan gevangenneming ontsnapt en zal naar je hoofdstad terugkeren in {2_turns} beurten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Spion ontsnapt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
+			<Text>Nieuwe queeste stadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_SUMMARY">
+			<Text>De {1_CityStateName} heeft je een nieuwe queeeste gegeven: {2_QuestName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_MESSAGE">
+			<Text>Queeste stadstaat voltooid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_SUMMARY">
+			<Text>Je hebt een queeste voor de {1_CityStateName} voltooid en als beloning verdiend: {2_RewardText}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
+			<Text>Ontmoetingsbonus stadstaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
+			<Text>Als eerste majeure beschaving die de {1_CityStateName} heeft ontmoet, heb je daar {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?gezant; other?gezanten;} verdiend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
+			<Text>Status van suzerein verloren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_SUMMARY">
+			<Text>Na een wisseling van [ICON_Envoy] gezanten ben je niet langer suzerein van de {1_CityStateName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_MESSAGE">
+			<Text>Handelsroute geplunderd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_NO_ROUTE">
+			<Text>{1_PlayerName} heeft je handelseenheid geplunderd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_ACTIVE_ROUTE">
+			<Text>{1_PlayerName} heeft je handelseenheid geplunderd. Je [ICON_TradeRoute] handelsroute van {2_OriginCityName} naar {3_DestinationCityName} is niet langer actief.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_MESSAGE">
+			<Text>Handelspost opgericht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_SUMMARY">
+			<Text>Voltooiing van een [ICON_TradeRoute] handelsroute heeft een [ICON_TradingPost] handelspost voor je opgeleverd in de stad {1_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_MESSAGE">
+			<Text>Handelsroutecapaciteit vergroot</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_SUMMARY">
+			<Text>Je bent nu in staat meer [ICON_TradeRoute] handelsroutes aan te leggen en te onderhouden dan tevoren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
+			<Text>Rebellie!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
+			<Text>Het gebrek aan [ICON_Amenities] voorzieningen in {1_CityName} heeft mensen de wapens doen oppakken tegen ons en {2_NumUnits} vijandige eenheden doen uitspuwen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_MESSAGE">
+			<Text>Meer voorzieningen nodig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
+			<Text>{1_CityName} heeft meer [ICON_Amenities] voorzieningen nodig om het productief te houden. Als het verder verslechtert komen de mensen in opstand tegen ons!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
+			<Text>Meer huisvesting nodig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
+			<Text>{1_CityName} heeft meer [ICON_Housing] huiisvesting nodig om te blijven groeien. Als het zo doorgaat zullen we moeilijk nieuwe [ICON_Citizen] burgers krijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
+			<Text>Stad in hongersnood!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_STARVING_SUMMARY">
+			<Text>{1_CityName} voorziet niet in genoeg [ICON_Food] voedsel voor zijn inwoners. Als het zo doorgaat zal het [ICON_Citizen] inwoners verliezen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_MESSAGE">
+			<Text>Stad heeft voedsel nodig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
+			<Text>{1_CityName} vorziet niet in genoeg [ICON_Food] voedsel voor zijn inwoners om te groeien. Overweeg je stad zich te laten focussen op [ICON_Food] voedsel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
+			<Text>Schatkist failliet!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY">
+			<Text>We hebben geen [ICON_Gold] goud meer en onze kosten zijn hoger dan ons inkomen. Als het zo doorgaat zullen onze steden [ICON_Amenities] voorzieningen verliezen en onze eenheden ons verlaten!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>Kan kopen met geloof</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>Je hebt genoeg [ICON_Faith] geloof verzameld om een {1_ItemName} te kopen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
+			<Text>{1_playerName} Joining</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTING_TT">
+			<Text>{1_playerName} is joining the game.  This process might take a few minutes.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTED">
+			<Text>{1_playerName} Joined</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_CONNECTED_TT">
+			<Text>{1_playerName} has finished joining the game.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT">
+			<Text>{1_playerName} Disconnected</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT_TT">
+			<Text>{1_playerName} has disconnected from the game.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_KICKED">
+			<Text>{1_playerName} Kicked</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
+			<Text>{1_playerName} has been kicked from the game.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS">
+			<Text>{1_playerName} download mods</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
+			<Text>{1_playerName} is de voor het spel vereiste mods aan het downloaden. ({2 : number} van {3 : number} in totaal)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_MIGRATION">
+			<Text>Host Migration</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_MIGRATION_TT">
+			<Text>The game is migrating to a new game host.  The game will resume shortly.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_CHANGED">
+			<Text>Host Migrated</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFCATION_HOST_CHANGED_TT">
+			<Text>{1_playerName} is the new game host.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WRONG_PHASE_TT">
+			<Text>[color:Civ6Red]Wrong Phase[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS">
+			<Text>Simultaneous Turns</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
+			<Text>Your war with a human player has ended. Your turns will be played simultaneously with all non-warring civilizations.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
+			<Text>Sequential Turns</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
+			<Text>You are at war with a human player.  Your turns will be played sequentially with all warring civilizations until the conflict is over.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
+			<Text>{1_playerName} Desynced</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_DESYNCED_TT">
+			<Text>{1_playerName}'s game has deviated from the host's.  They are reloading to correct the problem.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE">
+			<Text>{1_playerName} Resync Complete</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
+			<Text>{1_playerName} has finished loading.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
+			<Text>Relikwie gecreëerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_RELIC_CREATED_SUMMARY">
+			<Text>Het [ICON_GreatWork_Relic] heilige relikwie {1_RelicName} is geplaatst in een {2_BuildingName} in {3_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
+			<Text>Nieuw continent ontdekt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
+			<Text>We hebben een nieuw continent ontdekt. Onze verkenner geeft het als naam {1_ContinentName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Klein dorpje ontdekt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Je hebt een dorpje gevonden bewoond door een vriendelijke stam.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_MESSAGE">
+			<Text>Natuurlijk wonder ontdekt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_SUMMARY">
+			<Text>Je verkenners hebben het natuurlijk wonder {1_NaturalWonderName} ontdekt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_MESSAGE">
+			<Text>Hulpbron ontdekt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_SUMMARY">
+			<Text>We hebben een nieuwe bron van {1_ResourceName} ontdekt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_MESSAGE">
+			<Text>Nadering van barbaren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
+			<Text>We hebben barbaren gespot die onze stad {1_CityName} naderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
+			<Text>Jouw cultuur dominant</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_SUMMARY">
+			<Text>Je hebt genoeg [ICON_Tourism] toerisme aangetrokken om je cultuur te laten domineren over {1_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_MESSAGE">
+			<Text>Buitenlandse cultuur dominant</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_SUMMARY">
+			<Text>{1_CivName} heeft genoeg [ICON_Tourism] toerisme aangetrokken om hun cultuur te laten domineren over die van jou.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Je culturele overwinning op handen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>Je cultuur is dominant geworden over op een na alle buitenlandse beschavingen. Een culturele overwinning is binnen je bereik.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Buitenlandse culturele overwinning op handen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>{1_CivName} hoeft alleen nog maar over een speler te domineren om een culturele overwinning te behalen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_MESSAGE">
+			<Text>Nieuwe casus belli beschikbaar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_SUMMARY">
+			<Text>We hebben nu een rechtvaardiging om een {1_WarType} te verklaren aan {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_MESSAGE">
+			<Text>Stadsaanval op afstand</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_SUMMARY">
+			<Text>De stad {1_CityName} heeft vijandelijke troepen op schootsafstand.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_MESSAGE">
+			<Text>Kampementaaval op afstand</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_SUMMARY">
+			<Text>Het kampement buiten de stad {1_CityName} heeft vijandelijke troepen op schootsafstand.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
+			<Text>Nucleair apparaat ontploft</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
+			<Text>{1_CivName} heeft een nucleair apparaat laten ontploffen nabij de stad {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
+			<Text>Thermonucleair apparaat ontploft</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
+			<Text>{1_CivName} heeft een verwoestend thermomucleair apparaat laten onploffen nabij de stad {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
+			<Text>Kan spion opleiden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_SUMMARY">
+			<Text>Je kunt nu een extra spion opleiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_CAPTURED_MESSAGE">
+			<Text>Eenheid gevangengenomen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_CAPTURED_SUMMARY">
+			<Text>Je {1_UnitType} is gevangengenomen door een {2_EnemyUnitType} van het {3_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_ATTACKED_MESSAGE">
+			<Text>Eenheid aangevallen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNIT_ATTACKED_SUMMARY">
+			<Text>Je {1_UnitType} is aangevallen door {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_MESSAGE">
+			<Text>Wonder voltooid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_SUMMARY">
+			<Text>{1_CivName} heeft de constructie van het wereldwonder {2_WonderName} voltooid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_HOTSEAT_CURRENT_PLAYER_SUMMARY">
+			<Text>Je hebt de constructie van het wereldwonder {1_WonderName} voltooid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
+			<Text>Een niet ontmoete speler heeft de constructie van het wereldwonder {1_WonderName} voltooid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
+			<Text>Stad ingenomen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_LOST_SUMMARY">
+			<Text>De stad {1_CityName} is ingenomen door {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_MESSAGE">
+			<Text>Stadsmuren verbrijzeld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_SUMMARY">
+			<Text>De muren van de stad {1_CityName} zijn verbrijzeld door krachten van {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
+			<Text>Hoofdstad ingenomen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
+			<Text>De hoofdstad van {1_CivName} is ingenomen door {2_CivName}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
+			<Text>Hoofdstad teruggevorderd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
+			<Text>{1_CivName} heeeft hun hoofdstad teruggevorderd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
+			<Text>Vijand binnen grenzen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_SUMMARY">
+			<Text>Vijandelijke troepen zijn gespot binnen onze grenzen nabij de stad {1_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_MESSAGE">
+			<Text>Eeuwenoude plaats ontdekt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_SUMMARY">
+			<Text>Je hebt een nieuwe eeuwenoude plaats ontdekt. Stuur een archeoloog om het artefact op te graven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_MESSAGE">
+			<Text>Scheepswrak ontdekt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
+			<Text>Je hebt de plaats van een oud scheepswrak ontdekt. Wanneer je de ontplooiing 'cultureel erfgoed' hebt omarmd kun je het gezonken artefact door een archeoloog naar boven laten halen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
+			<Text>Tegenaanbod ontvangen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_SUMMARY">
+			<Text>{1_CivName} heeft een tegenaanbod gedaan op jouw voorstel voor een deal.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_MESSAGE">
+			<Text>Deal voorgesteld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_SUMMARY">
+			<Text>Door {1_CivName} is je een deal voorgesteld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_MESSAGE">
+			<Text>De aanklacht tegen jou is verlopen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_SUMMARY">
+			<Text>De aanklacht tegen jou van {1_CivName} is verlopen. Ze zullen deze opnieuw moeten indienen als ze een formele oorlogsverklaring willen afleggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_MESSAGE">
+			<Text>Je aanklacht is verlopen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_SUMMARY">
+			<Text>Je aanklacht tegen {1_CivName} is verlopen en zal hernieuwd moeten worden als je een formele oorlogsverklaring wilt afleggen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_MESSAGE">
+			<Text>Belofte ingelost</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_SUMMARY">
+			<Text>De jou door het {1_CivName} gedane belofte '{2_PromiseType}' is ingelost.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_MESSAGE">
+			<Text>Je belofte ingelost</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_SUMMARY">
+			<Text>Jouw aan het {1_CivName} gedane belofte '{2_PromiseType}' is ingelost.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_MESSAGE">
+			<Text>Belofte aan jou gebroken</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+			<Text>De door het {1_CivName} aan jou gedane belofte '{2_PromiseType}' is gebroken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_MESSAGE">
+			<Text>Je belofte gebroken</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+			<Text>Je aan het {1_CivName} gedane belofte '{2_PromiseType}' is gebroken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_ARTIFACTS">
+			<Text>stop uitgraven artefacten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_ON_BORDER">
+			<Text>verplaats de troepen aan de grens</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
+			<Text>stop steden te bekeren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
+			<Text>stop vestiging vlakbij</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PROMISE_TYPE_SPYING">
+			<Text>stop spioneren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_MESSAGE">
+			<Text>Deal verlopen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_SUMMARY">
+			<Text>Een met {1_CivName} gemaakte afspraak is verlopen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
+			<Text>Wijk geplunderd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
+			<Text>Je {1_DistrictName} in {2_CityName} is geplunderd door {3_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_MESSAGE">
+			<Text>Verbetering geplunderd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_SUMMARY">
+			<Text>Je {1_ImprovementName} in {2_CityName} is geplunderd door {3_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_MESSAGE">
+			<Text>Gebouw geplunderd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_SUMMARY">
+			<Text>Je {1_BuildingName} in {2_CityName} is geplunderd door {3_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_MESSAGE">
+			<Text>Weg geplunderd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_SUMMARY">
+			<Text>Een (gebieds)deel van de weg {1_RoadName} nabij {2_CityName} is geplunderd door {3_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_MESSAGE">
+			<Text>Speler herrezen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_SUMMARY">
+			<Text>{1_civName} heeft een stad herwonnen en leeft weer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_MESSAGE">
+			<Text>Speler uitgeschakeld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_SUMMARY">
+			<Text>{1_civName} uitgeschakeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROADS_UPGRADED_MESSAGE">
+			<Text>Wegen geupdatet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_ROADS_UPGRADED_SUMMARY">
+			<Text>{1_RoadName} is ontsloten, wat een update betekent voor al je wegen in je gebied ({2_MovementCost} [ICON_Movement] verplaatsings{2_MovementCost : plural 1?punt; other?punten;} ongeacht terrein).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_MESSAGE">
+			<Text>Eerste religieuze eenheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
+			<Text>Dankzij de ambitie van je volk om greep te krijgen op het stichten van een nieuwe religie, heb je je eerste {1_UnitName} grats ontvangen. Gebruik [ICON_Faith] geloof om in de toekomst anderen te kopen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
+			<Text>Eerste spion</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
+			<Text>Dankzij de opwinding over je nieuwe spionagenetwerk heb je je eerste {1_UnitName} gratis ontvangen. Wanneer je de mogelijkheid ontsluit om er meer te construeren, leid ze dan op in je steden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
+			<Text>Stad onder beleg</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
+			<Text>{1_CityName} is onder beleg. Totdat de verwerende eenheden controle hebben over alle gebiedsdelen rond je stad zal deze niet genezen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
+			<Text>Land verloren gegaan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
+			<Text>We hebben land verloren door een cultuurbombardement van {1_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_MESSAGE">
+			<Text>Luchtbasis overlopen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_SUMMARY">
+			<Text>{1_AirUnit} kan zichzelf niet opnieuw baseren en is vernietigd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_MESSAGE">
+			<Text>Vliegtuig geforceerd om opnieuw te baseren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_SUMMARY">
+			<Text>{1_AirUnit} location has been compromised and has been forced to re-base.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_MESSAGE">
+			<Text>Stads afstandsaanval</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_SUMMARY">
+			<Text>Je stad kan een afstandsaanval doen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
+			<Text>Ontplooiing bespoediging</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
+			<Text>Ontplooiing bespoedigd: {1_Name}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_MESSAGE">
+			<Text>Ontdekt {1_Name}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_SUMMARY">
+			<Text>Je hebt {1_Name} ontdekt!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Vijandelijke spion is ontsnapt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Een vijandelijke spion van een onbekende beschaving is ontsnapt uit jouw stad {1_cityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_TO_CAPITAL">
+			<Text>Je spion {1_unitName} heeft zijn reis afgebroken sinds de doelstad van eigenaar veranderde. Je kunt hem in je hoofdstad vinden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_BOOST_MESSAGE">
+			<Text>Technologie bespoediging</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
+			<Text>Technologie bespoedigd: {1_Name}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_DISCOVERED_MESSAGE">
+			<Text>Ontdekking van {1_Name}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_TECH_DISCOVERED_SUMMARY">
+			<Text>Je hebt {1_Name} ontdekt!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_UNMET_CITY_STATE_DEFEATED_SUMMARY">
+			<Text>Een niet ontmoette stadstaat is verloren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_FAILED_MESSAGE">
+			<Text>Productie geborgen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_WONDER_FAILED_SUMMARY">
+			<Text>Je bent niet in staat geweest om het wereldwonder {1_WonderName} op tijd af te ronden. {2_Productie} [ICON_Production] Productie is echter gered van de poging en toegekend aan de stad {3_CityName}.</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

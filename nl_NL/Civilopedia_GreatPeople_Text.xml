@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<GameData  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_GREATPEOPLE_PAGE_INTRO_CHAPTER_CONTENT_PARA_1">
 			<Text>Great People are the artists, merchants, engineers, scientists, generals, or admirals who can, single-handedly, change the course of a civilization. In Civilization VI, each Great Person is an individual with their own name and effect based on their historical influence. There are seven types of Great People: Great Artists (or Writers or Musicians), Great Engineers, Great Merchants, Great Scientists, Great Prophets, Great Admirals, and Great Generals.</Text>

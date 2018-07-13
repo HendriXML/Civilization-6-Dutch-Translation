@@ -1,365 +1,365 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_VISIBILITY_NONE_NAME">
-      <Text>Geen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VISIBILITY_LIMITED_NAME">
-      <Text>Beperkt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VISIBILITY_FULL_NAME">
-      <Text>Open</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VISIBILITY_SECRET_NAME">
-      <Text>Geheim</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VISIBILITY_TOP_SECRET_NAME">
-      <Text>Topgeheim</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_FULL_STRING">
-      <Text>{1_SourceText} {2GossipText}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_ALLIED">
-      <Text>Bondgenootschappen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CHANGE_GOVERNMENT">
-      <Text>Regeringswisselingen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CONQUER_CITY">
-      <Text>Stadsveroveringens</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CONSTRUCT_DISTRICT">
-      <Text>Wijken aangelegd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CULTURVATE_CIVIC">
-      <Text>Ontplooiing voltooid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CITY_STATE_INFLUENCE">
-      <Text>Stadstaten beinvloed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_DENOUNCED">
-      <Text>Aanklachten</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_FOUND_CITY">
-      <Text>Gestichte steden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_FOUND_RELIGION">
-      <Text>Gestichte religies</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_GREATPERSON_CREATED">
-      <Text>Gerekruteerde Belangrijke Personen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_MAKE_DOW">
-      <Text>Oorlogsverklaringen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_POLICY_ENACTED">
-      <Text>Verborgen agenda's onthuld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_RESEARCH_TECH">
-      <Text>Technologie onderzocht</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_TRADE_DEAL">
-      <Text>Handelsdeals gemaakt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_TRADE_RENEGE">
-      <Text>Handelsdeals teruggetrokken</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_TRAIN_SETTLER">
-      <Text>Kolonist opgeleid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WMD_BUILT">
-      <Text>Massavernietigingswapen gebouwd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WMD_STRIKE">
-      <Text>Aanval massavernietigingswapen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WONDER_STARTED">
-      <Text>Wonderen gestart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_ATTACK_LAUNCHED">
-      <Text>Aanvallen gelanceerd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_PROJECT_STARTED">
-      <Text>Projecten gestart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_SPACE_RACE_PROJECT_COMPLETED">
-      <Text>Ruimtewedloop voltooid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_VICTORY_STRATEGY_CHANGED">
-      <Text>Overwinningsstrategie gewijzigd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WAR_PREPARATION">
-      <Text>Oorlogsvoorbereidingen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_AGENDA_KUDOS">
-      <Text>{1_LeaderName} heeft {2_Leadername} bedankt voor samenwerking op de agenda '{3_AgendaName}'.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_AGENDA_WARNING">
-      <Text>{1_LeaderName} heeft {2_Leadername} gewaarschuwd voor inmenging in de agenda '{3_AgendaName}'.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_ALLIED">
-      <Text>{1_CivName} is zojuist een bondgenootschap aangegaan met {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_ANARCHY_BEGINS">
-      <Text>Er heeft een staatsgreep plaatsgevonden in {1_CivName} waarbij het regiem van {2_Government} is afgezet. Anarchie is begonnen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_ARTIFACT_EXTRACTED">
-      <Text>{1_CivName} heeft een nieuw archeologisch werk opgegraven: {2_GreatWork}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_BARBARIAN_INVASION_STARTED">
-      <Text>{1_CivName} wordt geconfronteerd met een invasie van barbaren bij {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_BARBARIAN_RAID_STARTED">
-      <Text>{1_CivName} wordt geconfronteerd met een overval van barbaren bij {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_BEACH_RESORT_CREATED">
-      <Text>{1_CivName} heeft gehoord dat je uitstekend kunt zonnebaden in het nieuwe verblijfsoord aan de kust buiten {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CHANGE_GOVERNMENT">
-      <Text>{1_CivName} is van regering geswitched naar {2_Government}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_BESIEGED">
-      <Text>{1_CityName} wordt belegerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_LIBERATED">
-      <Text>{1_CivName} heeft zojuist {2_CityName} bevrijd en teruggegeven aan {3_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_RAZED">
-      <Text>{1_CivName} heeft zojuist een stad platgebrand die oorspronkelijk was gesticht door {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CLEAR_CAMP">
-      <Text>{1_CivName} heeft een {2_UnitName} gebruikt om een {3_ImprovementName} te zuiveren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_STATE_INFLUENCE">
-      <Text>{1_CivName} heeft een gezant gestuurd naar {2_CityState}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CONQUER_CITY">
-      <Text>{1_CivName} heeft {2_CityName} veroverd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CONSTRUCT_BUILDING">
-      <Text>{1_CivName} heeft {2_BuildingName} gebouwd in {3_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CONSTRUCT_DISTRICT">
-      <Text>{1_CivName} heeft een {2_DistrictName} aangelegd in {3_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CREATE_PANTHEON">
-      <Text>{1_CivName} is in aanbidding van een Pantheon van de goden gefocust op het geloof '{2_BeliefName}'.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CULTURVATE_CIVIC">
-      <Text>{1_CivName} heeft de ontwikkeling van {2_CivicName} voltooid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_DECLARED_FRIENDSHIP">
-      <Text>{1_CivName} heeft vriendschap verklaard aan {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_DELEGATION">
-      <Text>{1_CivName} heeft onlangs een buitenlandse delegatie ontvangen. Het blijkt dat ze uit {2_CivName} kwamen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_DENOUNCED">
-      <Text>{1_CivName} heeft de kwaadaardige verrichtingen van {2_CivName} aangeklaagd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_EMBASSY">
-      <Text>Een nieuw gebouw is verschenen in de hoofdstad van {1_CivName}: een permanente ambassade van {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_ERA_CHANGED">
-      <Text>{1_CivName} is vanuit het {2_OldEra} ingetreden in het {3_NewEra}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_FIND_NATURAL_WONDER">
-      <Text>{1_CivName} is onlangs gestuit op het natuurlijke wonder {2_NWName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_FOUND_CITY">
-      <Text>{1_CivName} breidt zich uit met de nieuwe nederzetting {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_FOUND_RELIGION">
-      <Text>{1_CivName} heeft een nieuwe religie '{2_ReligionName}' gesticht.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_GREATPERSON_CREATED">
-      <Text>{1_CivName} heeft de {2_unit} {3_GreatPerson} verdiend.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_LAUNCHING_ATTACK">
-      <Text>{1_CivName} is een militaire aanval op {2_CivName} begonnen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_WAR_PREPARATION">
-      <Text>{1_CivName} overweegt een oorlog tegen {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_INQUISITION_LAUNCHED">
-      <Text>{1_CivName} heeft een inquisitie gelanceerd om verkettering van {2_ReligionName} uit te roeien.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_LAND_UNIT_LEVEL">
-      <Text>{1_CivName} heeft een {2_UnitName} die onlangs de promotie '{3_PromotionName}' heeft verdiend.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_MAKE_DOW">
-      <Text>{1_CivName} heeft zojuist de oorlog verklaard aan {2_OtherPlayer}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_NATIONAL_PARK_CREATED">
-      <Text>{1_CivName} heeft onlangs een {2_NationalParkName} aangelegd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_NAVAL_UNIT_LEVEL">
-      <Text>{1_CivName} heeft een {2_UnitName} die onlangs de promotie '{3_PromotionName}' heeft verdiend.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_NEW_RELIGIOUS_MAJORITY">
-      <Text>Een meerderheid van de steden in {1_CivName} hangt nu de religie '{2_ReligionName}' aan.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_PILLAGE">
-      <Text>{1_CivName} heeft een vijandelijke {2_TargetName} geplunderd met een {3_UnitName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_POLICY_ENACTED">
-      <Text>{1_CivName} heeft de {2_SlotName}-beleidsoptie {3_PolicyName} geadopteerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_RECEIVE_DOW">
-      <Text>{1_CivName} is het doelwit geworden van een oorlogsverklaring van {2_OtherPlayer}!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_RELIC_RECEIVED">
-      <Text>Pelgrims in {1_CivName} stromen samen om het heilige relikwie '{2_RelicName}' te aanschouwen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_RESEARCH_AGREEMENT">
-      <Text>Wetenschappers van {1_CivName} en {2_CivName} hebben een partnership gevormd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_RESEARCH_TECH">
-      <Text>{1_CivName} cheeft het onderzoek naar {2_TechName} voltooid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_DETECTED">
-      <Text>De ruimtehaven van {1_CivName} in {2_CityName} is gesaboteerd door een spion van {3_SpyPlayer}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_UNDETECTED">
-      <Text>De ruimtehaven van {1_CivName} in {2_CityName} is gesaboteerd door een onbekende spion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_DETECTED">
-      <Text>Een Groots Werk van {1_CivName} in {2_CityName} is gestolen door een spion van {3_SpyPlayer}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_UNDETECTED">
-      <Text>Een Groots Werk van {1_CivName} in {2_CityName} is gestolen door een onbekende spion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_DETECTED">
-      <Text>{1_CivName} probeert partizanen neer te slaan in {2_CityName}, die zijn gerekruteerd door {3_SpyPlayer}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_UNDETECTED">
-      <Text>{1_CivName} probeert partizanen neer te slaan in {2_CityName}, die zijn gerekruteerd door een onbekende spion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_DETECTED">
-      <Text>Het industriegebied van {1_CivName} in {2_CityName} is gesaboteerd door een spion van {3_SpyPlayer}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_UNDETECTED">
-      <Text>Het industriegebied van {1_CivName} in {2_CityName} is gesaboteerd door een onbekende spion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_DETECTED">
-      <Text>Fondsen van {1_CivName} zijn in {2_CityName} gestolen door een spion van {3_SpyPlayer}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_UNDETECTED">
-      <Text>Fondsen van {1_CivName} zijn in {2_CityName} gestolen door een onbekende spion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_DETECTED">
-      <Text>Technologische plannen van {1_CivName} zijn in {2_CityName} gestolen door een spion van {3_SpyPlayer}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_UNDETECTED">
-      <Text>Technologische plannen van {1_CivName} zijn in {2_CityName} gestolen door een onbekende spion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_TRADE_DEAL">
-      <Text>{1_CivName} drijft handel met {2_CivName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_TRADE_RENEGE">
-      <Text>{1_CivName} heeft een deal met {2_CivName} herroepen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_TRAIN_SETTLER">
-      <Text>{1_CivName} zoekt een plaats om een stad te stichten met hun vers getrainde {2_UnitName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_TRAIN_UNIT">
-      <Text>{1_CivName} is net klaar met de training van 's werelds eerste {2_UnitName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_TRAIN_UNIQUE_UNIT">
-      <Text>{1_CivName} heeft een unieke eenheid getraind, een {2_UnitName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_PROJECT_STARTED">
-      <Text>{1_CivName} is begonnen met het project '{2_ProjectType}'.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SPACE_RACE_PROJECT_COMPLETED">
-      <Text>{1_CivName} heeft in de ruimtewedloop het project {2_ProjectType} voltooid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_START_VICTORY_STRATEGY">
-      <Text>{1_CivName} streeft een {2_VictoryName} na.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_STOP_VICTORY_STRATEGY">
-      <Text>{1_CivName} streeft niet langer een {2_VictoryType} na.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_WMD_BUILT">
-      <Text>{1_CivName} heeft onlangs {2_WMDCount} massavernietigingswapens (WMD's) gebouwd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_WMD_STRIKE">
-      <Text>{1_CivName} heeft zojuist een massavernietigingswapen gelanceerd! Een {2_UnitName}! Bukken en dekking zoeken!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_WONDER_STARTED">
-      <Text>{1_CivName} heeft land gezuiverd in {2_CityName} voor een {3_BuildingName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_RUMOR">
-      <Text>Het gerucht gaat:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_TECH">
-      <Text>Een recent nieuwsartikel heeft onthuld:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_TRADER">
-      <Text>Je handelaar, {1_Name}, heeft gehoord:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_DELEGATE">
-      <Text>Je gedelegeerde, {1_Name}, heeft vernomen:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_TRAIT">
-      <Text>Je hofdame, {1_Name}, heeft tijdens het hofbal gehoord:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_ALLY">
-      <Text>Een bondgenoot rapporteert:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_SPY">
-      <Text>Je spion, {1_Name}, heeft ontdekt:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_GREAT_PERSON_JOURNALISM">
-      <Text>Je onverschrokken reporter, {1_Name}, heeft ontdekt:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_LOST_CITY">
-      <Text>een 'verloren' stad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_TECH">
-      <Text>Printtechnologie onderzocht</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_TRADER">
-      <Text>Handelsroute gerealiseerd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_DELEGATE">
-      <Text>Gedelegeerde of ambassadeur gestuurd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_TRAIT">
-      <Text>Catherine's Flying Squadron</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ALLY">
-      <Text>Bondgenootschap gereed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_SPY">
-      <Text>Spion op zijn plaats</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_GREAT_PERSON_JOURNALISM">
-      <Text>Mary Katherine Goddard's Grote Koopman-effect</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_TECH">
-      <Text>Onderzoek de printtechnologie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_TRADER">
-      <Text>Realiseer een handelsroute.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_DELEGATE">
-      <Text>Stuur een delegatie of richt een ambassade op.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_TRAIT">
-      <Text>Speel als Catherine de Medici.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_ALLY">
-      <Text>Word bondgenoten (vereist civiele diensten).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_SPY">
-      <Text>Stuur een spion op afluisterpostmissie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_GREAT_PERSON_JOURNALISM">
-      <Text>Gebruik het vermogen van Mary Katherine Goddard's Grote Koopman.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOSSIP_CONQUER_CAPITAL_CITY">
-      <Text>{1_CivName} heeft de oorspronkelijke {2_CivAdjective} hoofdstad van {3_CityName} veroverd.</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_VISIBILITY_NONE_NAME">
+			<Text>Geen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VISIBILITY_LIMITED_NAME">
+			<Text>Beperkt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VISIBILITY_FULL_NAME">
+			<Text>Open</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VISIBILITY_SECRET_NAME">
+			<Text>Geheim</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VISIBILITY_TOP_SECRET_NAME">
+			<Text>Topgeheim</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_FULL_STRING">
+			<Text>{1_SourceText} {2GossipText}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_ALLIED">
+			<Text>Bondgenootschappen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CHANGE_GOVERNMENT">
+			<Text>Regeringswisselingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CONQUER_CITY">
+			<Text>Stadsveroveringens</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CONSTRUCT_DISTRICT">
+			<Text>Wijken aangelegd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CULTURVATE_CIVIC">
+			<Text>Ontplooiing voltooid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_CITY_STATE_INFLUENCE">
+			<Text>Stadstaten beinvloed</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_DENOUNCED">
+			<Text>Aanklachten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_FOUND_CITY">
+			<Text>Gestichte steden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_FOUND_RELIGION">
+			<Text>Gestichte religies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_GREATPERSON_CREATED">
+			<Text>Gerekruteerde Belangrijke Personen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_MAKE_DOW">
+			<Text>Oorlogsverklaringen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_POLICY_ENACTED">
+			<Text>Verborgen agenda's onthuld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_RESEARCH_TECH">
+			<Text>Technologie onderzocht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_TRADE_DEAL">
+			<Text>Handelsdeals gemaakt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_TRADE_RENEGE">
+			<Text>Handelsdeals teruggetrokken</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_TRAIN_SETTLER">
+			<Text>Kolonist opgeleid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WMD_BUILT">
+			<Text>Massavernietigingswapen gebouwd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WMD_STRIKE">
+			<Text>Aanval massavernietigingswapen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WONDER_STARTED">
+			<Text>Wonderen gestart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_ATTACK_LAUNCHED">
+			<Text>Aanvallen gelanceerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_PROJECT_STARTED">
+			<Text>Projecten gestart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_SPACE_RACE_PROJECT_COMPLETED">
+			<Text>Ruimtewedloop voltooid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_VICTORY_STRATEGY_CHANGED">
+			<Text>Overwinningsstrategie gewijzigd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIPDESC_WAR_PREPARATION">
+			<Text>Oorlogsvoorbereidingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_AGENDA_KUDOS">
+			<Text>{1_LeaderName} heeft {2_Leadername} bedankt voor samenwerking op de agenda '{3_AgendaName}'.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_AGENDA_WARNING">
+			<Text>{1_LeaderName} heeft {2_Leadername} gewaarschuwd voor inmenging in de agenda '{3_AgendaName}'.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_ALLIED">
+			<Text>{1_CivName} is zojuist een bondgenootschap aangegaan met {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_ANARCHY_BEGINS">
+			<Text>Er heeft een staatsgreep plaatsgevonden in {1_CivName} waarbij het regiem van {2_Government} is afgezet. Anarchie is begonnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_ARTIFACT_EXTRACTED">
+			<Text>{1_CivName} heeft een nieuw archeologisch werk opgegraven: {2_GreatWork}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_BARBARIAN_INVASION_STARTED">
+			<Text>{1_CivName} wordt geconfronteerd met een invasie van barbaren bij {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_BARBARIAN_RAID_STARTED">
+			<Text>{1_CivName} wordt geconfronteerd met een overval van barbaren bij {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_BEACH_RESORT_CREATED">
+			<Text>{1_CivName} heeft gehoord dat je uitstekend kunt zonnebaden in het nieuwe verblijfsoord aan de kust buiten {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CHANGE_GOVERNMENT">
+			<Text>{1_CivName} is van regering geswitched naar {2_Government}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_BESIEGED">
+			<Text>{1_CityName} wordt belegerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_LIBERATED">
+			<Text>{1_CivName} heeft zojuist {2_CityName} bevrijd en teruggegeven aan {3_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_RAZED">
+			<Text>{1_CivName} heeft zojuist een stad platgebrand die oorspronkelijk was gesticht door {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CLEAR_CAMP">
+			<Text>{1_CivName} heeft een {2_UnitName} gebruikt om een {3_ImprovementName} te zuiveren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CITY_STATE_INFLUENCE">
+			<Text>{1_CivName} heeft een gezant gestuurd naar {2_CityState}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CONQUER_CITY">
+			<Text>{1_CivName} heeft {2_CityName} veroverd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CONSTRUCT_BUILDING">
+			<Text>{1_CivName} heeft {2_BuildingName} gebouwd in {3_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CONSTRUCT_DISTRICT">
+			<Text>{1_CivName} heeft een {2_DistrictName} aangelegd in {3_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CREATE_PANTHEON">
+			<Text>{1_CivName} is in aanbidding van een Pantheon van de goden gefocust op het geloof '{2_BeliefName}'.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CULTURVATE_CIVIC">
+			<Text>{1_CivName} heeft de ontwikkeling van {2_CivicName} voltooid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_DECLARED_FRIENDSHIP">
+			<Text>{1_CivName} heeft vriendschap verklaard aan {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_DELEGATION">
+			<Text>{1_CivName} heeft onlangs een buitenlandse delegatie ontvangen. Het blijkt dat ze uit {2_CivName} kwamen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_DENOUNCED">
+			<Text>{1_CivName} heeft de kwaadaardige verrichtingen van {2_CivName} aangeklaagd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_EMBASSY">
+			<Text>Een nieuw gebouw is verschenen in de hoofdstad van {1_CivName}: een permanente ambassade van {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_ERA_CHANGED">
+			<Text>{1_CivName} is vanuit het {2_OldEra} ingetreden in het {3_NewEra}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_FIND_NATURAL_WONDER">
+			<Text>{1_CivName} is onlangs gestuit op het natuurlijke wonder {2_NWName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_FOUND_CITY">
+			<Text>{1_CivName} breidt zich uit met de nieuwe nederzetting {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_FOUND_RELIGION">
+			<Text>{1_CivName} heeft een nieuwe religie '{2_ReligionName}' gesticht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_GREATPERSON_CREATED">
+			<Text>{1_CivName} heeft de {2_unit} {3_GreatPerson} verdiend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_LAUNCHING_ATTACK">
+			<Text>{1_CivName} is een militaire aanval op {2_CivName} begonnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_WAR_PREPARATION">
+			<Text>{1_CivName} overweegt een oorlog tegen {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_INQUISITION_LAUNCHED">
+			<Text>{1_CivName} heeft een inquisitie gelanceerd om verkettering van {2_ReligionName} uit te roeien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_LAND_UNIT_LEVEL">
+			<Text>{1_CivName} heeft een {2_UnitName} die onlangs de promotie '{3_PromotionName}' heeft verdiend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_MAKE_DOW">
+			<Text>{1_CivName} heeft zojuist de oorlog verklaard aan {2_OtherPlayer}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_NATIONAL_PARK_CREATED">
+			<Text>{1_CivName} heeft onlangs een {2_NationalParkName} aangelegd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_NAVAL_UNIT_LEVEL">
+			<Text>{1_CivName} heeft een {2_UnitName} die onlangs de promotie '{3_PromotionName}' heeft verdiend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_NEW_RELIGIOUS_MAJORITY">
+			<Text>Een meerderheid van de steden in {1_CivName} hangt nu de religie '{2_ReligionName}' aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_PILLAGE">
+			<Text>{1_CivName} heeft een vijandelijke {2_TargetName} geplunderd met een {3_UnitName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_POLICY_ENACTED">
+			<Text>{1_CivName} heeft de {2_SlotName}-beleidsoptie {3_PolicyName} geadopteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_RECEIVE_DOW">
+			<Text>{1_CivName} is het doelwit geworden van een oorlogsverklaring van {2_OtherPlayer}!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_RELIC_RECEIVED">
+			<Text>Pelgrims in {1_CivName} stromen samen om het heilige relikwie '{2_RelicName}' te aanschouwen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_RESEARCH_AGREEMENT">
+			<Text>Wetenschappers van {1_CivName} en {2_CivName} hebben een partnership gevormd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_RESEARCH_TECH">
+			<Text>{1_CivName} cheeft het onderzoek naar {2_TechName} voltooid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_DETECTED">
+			<Text>De ruimtehaven van {1_CivName} in {2_CityName} is gesaboteerd door een spion van {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_UNDETECTED">
+			<Text>De ruimtehaven van {1_CivName} in {2_CityName} is gesaboteerd door een onbekende spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_DETECTED">
+			<Text>Een Groots Werk van {1_CivName} in {2_CityName} is gestolen door een spion van {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_UNDETECTED">
+			<Text>Een Groots Werk van {1_CivName} in {2_CityName} is gestolen door een onbekende spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_DETECTED">
+			<Text>{1_CivName} probeert partizanen neer te slaan in {2_CityName}, die zijn gerekruteerd door {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_UNDETECTED">
+			<Text>{1_CivName} probeert partizanen neer te slaan in {2_CityName}, die zijn gerekruteerd door een onbekende spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_DETECTED">
+			<Text>Het industriegebied van {1_CivName} in {2_CityName} is gesaboteerd door een spion van {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_UNDETECTED">
+			<Text>Het industriegebied van {1_CivName} in {2_CityName} is gesaboteerd door een onbekende spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_DETECTED">
+			<Text>Fondsen van {1_CivName} zijn in {2_CityName} gestolen door een spion van {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_UNDETECTED">
+			<Text>Fondsen van {1_CivName} zijn in {2_CityName} gestolen door een onbekende spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_DETECTED">
+			<Text>Technologische plannen van {1_CivName} zijn in {2_CityName} gestolen door een spion van {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_UNDETECTED">
+			<Text>Technologische plannen van {1_CivName} zijn in {2_CityName} gestolen door een onbekende spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_TRADE_DEAL">
+			<Text>{1_CivName} drijft handel met {2_CivName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_TRADE_RENEGE">
+			<Text>{1_CivName} heeft een deal met {2_CivName} herroepen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_TRAIN_SETTLER">
+			<Text>{1_CivName} zoekt een plaats om een stad te stichten met hun vers getrainde {2_UnitName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_TRAIN_UNIT">
+			<Text>{1_CivName} is net klaar met de training van 's werelds eerste {2_UnitName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_TRAIN_UNIQUE_UNIT">
+			<Text>{1_CivName} heeft een unieke eenheid getraind, een {2_UnitName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_PROJECT_STARTED">
+			<Text>{1_CivName} is begonnen met het project '{2_ProjectType}'.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SPACE_RACE_PROJECT_COMPLETED">
+			<Text>{1_CivName} heeft in de ruimtewedloop het project {2_ProjectType} voltooid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_START_VICTORY_STRATEGY">
+			<Text>{1_CivName} streeft een {2_VictoryName} na.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_STOP_VICTORY_STRATEGY">
+			<Text>{1_CivName} streeft niet langer een {2_VictoryType} na.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_WMD_BUILT">
+			<Text>{1_CivName} heeft onlangs {2_WMDCount} massavernietigingswapens (WMD's) gebouwd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_WMD_STRIKE">
+			<Text>{1_CivName} heeft zojuist een massavernietigingswapen gelanceerd! Een {2_UnitName}! Bukken en dekking zoeken!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_WONDER_STARTED">
+			<Text>{1_CivName} heeft land gezuiverd in {2_CityName} voor een {3_BuildingName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_RUMOR">
+			<Text>Het gerucht gaat:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_TECH">
+			<Text>Een recent nieuwsartikel heeft onthuld:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_TRADER">
+			<Text>Je handelaar, {1_Name}, heeft gehoord:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_DELEGATE">
+			<Text>Je gedelegeerde, {1_Name}, heeft vernomen:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_TRAIT">
+			<Text>Je hofdame, {1_Name}, heeft tijdens het hofbal gehoord:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_ALLY">
+			<Text>Een bondgenoot rapporteert:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_SPY">
+			<Text>Je spion, {1_Name}, heeft ontdekt:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_SOURCE_GREAT_PERSON_JOURNALISM">
+			<Text>Je onverschrokken reporter, {1_Name}, heeft ontdekt:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_LOST_CITY">
+			<Text>een 'verloren' stad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_TECH">
+			<Text>Printtechnologie onderzocht</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_TRADER">
+			<Text>Handelsroute gerealiseerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_DELEGATE">
+			<Text>Gedelegeerde of ambassadeur gestuurd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_TRAIT">
+			<Text>Catherine's Flying Squadron</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ALLY">
+			<Text>Bondgenootschap gereed</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_SPY">
+			<Text>Spion op zijn plaats</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_GREAT_PERSON_JOURNALISM">
+			<Text>Mary Katherine Goddard's Grote Koopman-effect</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_TECH">
+			<Text>Onderzoek de printtechnologie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_TRADER">
+			<Text>Realiseer een handelsroute.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_DELEGATE">
+			<Text>Stuur een delegatie of richt een ambassade op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_TRAIT">
+			<Text>Speel als Catherine de Medici.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_ALLY">
+			<Text>Word bondgenoten (vereist civiele diensten).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_SPY">
+			<Text>Stuur een spion op afluisterpostmissie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VIZSOURCE_ACTION_GREAT_PERSON_JOURNALISM">
+			<Text>Gebruik het vermogen van Mary Katherine Goddard's Grote Koopman.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOSSIP_CONQUER_CAPITAL_CITY">
+			<Text>{1_CivName} heeft de oorspronkelijke {2_CivAdjective} hoofdstad van {3_CityName} veroverd.</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

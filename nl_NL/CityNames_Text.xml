@@ -7,7 +7,7 @@
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_WASHINGTON">
 			<Text>Washington</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_CITY_NAME_NEW_YORK">
+		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_NEW_YORK">
 			<Text>New York</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_PHILADELPHIA">
@@ -1897,8 +1897,8 @@
 		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_ZANZIBAR">
 			<Text>Zanzibar</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_CITY_NAME_BANDAR_BRUNEI">
-      <Text>Bandar Seri Begawan</Text>
-    </Replace>
-  </LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_CITY_NAME_BANDAR_BRUNEI">
+			<Text>Bandar Seri Begawan</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

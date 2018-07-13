@@ -2,37 +2,37 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
-			<Text>Anti-Cavalry</Text>
+			<Text>Anti-cavalerie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
-			<Text>Heavy Chariot</Text>
+			<Text>Zware strijdwagen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
-			<Text>Ignore Terrain Cost</Text>
+			<Text>Negeer terreinkosten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
-			<Text>Ignore Crossing Rivers Cost</Text>
+			<Text>De kosten van Overstekende rivieren negeren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
-			<Text>Ignore ZOC</Text>
+			<Text>Negeer ZOC</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
-			<Text>Light Chariot</Text>
+			<Text>Lichte strijdwagen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
-			<Text>No Move and Shoot</Text>
+			<Text>Geen beweging en schieten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_OCEAN_NAME">
-			<Text>Coastal Only</Text>
+			<Text>Alleen kust</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CANNOT_ATTACK">
-			<Text>Cannot Attack</Text>
+			<Text>Kan niet aanvallen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
 			<Text>Friendly Territory Bonus</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
-			<Text>Enables Wall Attack</Text>
+			<Text>Maakt mmuraanval mogelijk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
 			<Text>Bypass Walls</Text>
@@ -44,94 +44,94 @@
 			<Text>Target Spotting</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
-			<Text>Unobstructed View</Text>
+			<Text>Onbelemmerd zicht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
-			<Text>Oligarchy Melee</Text>
+			<Text>Oligarchie nauwe ruimte</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
-			<Text>Theocracy</Text>
+			<Text>Theocratie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
-			<Text>Religious Orders</Text>
+			<Text>Religieuze ordes</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
-			<Text>Fascism Attack</Text>
+			<Text>Fascisme Aanval</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
-			<Text>Communism Land Defense</Text>
+			<Text>Communisme Land Defensie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
-			<Text>Medic Healing</Text>
+			<Text>Medic genezing</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_STEALTH_NAME">
 			<Text>Stealth</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
-			<Text>Reveal Stealth</Text>
+			<Text>Onthul Stealth</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COASTAL_RAID_NAME">
-			<Text>Coastal Raid</Text>
+			<Text>Kustplundering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
-			<Text>Thunderbolt Coastal Raid</Text>
+			<Text>Thunderbolt Kustplundering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
-			<Text>Directed Attack</Text>
+			<Text>Gerichte aanval</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
-			<Text>Heal Neutral Territory</Text>
+			<Text>Genees Neutraal Grondgebied</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
-			<Text>Plunder Immunity at Sea</Text>
+			<Text>Plunder immuniteit op zee</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
-			<Text>Berserker Rage</Text>
+			<Text>Berserker woede</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
-			<Text>Berserker Movement</Text>
+			<Text>Berserker-beweging</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
-			<Text>Longship Movement</Text>
+			<Text>Longship beweging</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
-			<Text>Prize Ships</Text>
+			<Text>Prijzen schepen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
-			<Text>Captive Workers</Text>
+			<Text>Gevangenen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
-			<Text>Balkan Cavalry</Text>
+			<Text>Balkan cavalerie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
-			<Text>Altitude Training</Text>
+			<Text>Hoogtetraining</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COSSACK_NAME">
-			<Text>And Quiet Flows the Don</Text>
+			<Text>En Quiet Flows de Don</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_REDCOAT_NAME">
-			<Text>Global Army</Text>
+			<Text>Wereldwijd leger</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_VARU_NAME">
-			<Text>Fear</Text>
+			<Text>Angst</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NAGAO_NAME">
 			<Text>Forest Fighter</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CONQUISTADOR_NAME">
-			<Text>Forced Conversion</Text>
+			<Text>Geforceerde conversie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_GARDE_NAME">
 			<Text>Napoleon's Elite</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HOPLITE_NAME">
-			<Text>Phalanx</Text>
+			<Text>vingerkootje</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_UBOAT_NAME">
 			<Text>Wolfsrudel</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
-			<Text>Teddy's Rough Rider</Text>
+			<Text>Teddy's Wilde Ruiter</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_MUSTANG_NAME">
 			<Text>Mustang</Text>
@@ -140,310 +140,310 @@
 			<Text>Furusiyya</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_SAMURAI_NAME">
-			<Text>Samurai</Text>
+			<Text>samoerai</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
-			<Text>Domestic Spread</Text>
+			<Text>Binnenlandse verspreiding</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
-			<Text>Enter Foreign Lands</Text>
+			<Text>Voer buitenlandse landen in</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
-			<Text>Peacekeeper</Text>
+			<Text>Vredestichter</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
-			<Text>Friendly Territory Advantage</Text>
+			<Text>Voordeel vriendelijk teritorium </Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
-			<Text>Ignores Borders</Text>
+			<Text>Negeert randen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
 			<Text>Walk on Air</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
-			<Text>+14 [ICON_Strength] Combat Strength against light cavalry and heavy cavalry units.</Text>
+			<Text>+14 [ICON_Strength] Gevechtskracht tegen lichte cavalerie en zware cavalerie-eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength against anti-cavalry units.</Text>
+			<Text>+10 [ICON_Strength] Gevechtskracht tegen eenheden tegen cavalerie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Movement if starting in Desert, Plains, Grassland, or Tundra.</Text>
+			<Text>+1 [ICON_Movement] Beweging bij het starten in de woestijn, vlaktes, grasland of toendra.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
-			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Movement. Unlocked by the Missionary Zeal belief.</Text>
+			<Text>Forest, Jungle, Hills en Marsh nemen slechts één [ICON_Movement] -beweging. Ontsloten door het geloof van de Missionary Zeal.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
-			<Text>Not affected by enemy zone of control.</Text>
+			<Text>Niet beïnvloed door vijandige zone van controle.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Movement if starting in Desert, Plains, Grassland, or Tundra.</Text>
+			<Text>+2 [ICON_Movement] Beweging bij het starten in de woestijn, vlaktes, grasland of toendra.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
-			<Text>Cannot move and attack in the same turn.</Text>
+			<Text>Kan niet in dezelfde beurt bewegen en aanvallen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
-			<Text>Cannot enter ocean hexes.</Text>
+			<Text>Kan geen oceaanplaatsen betreden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
-			<Text>May not attack enemies; can only defend.</Text>
+			<Text>Mag geen vijanden aanvallen; kan alleen verdedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
-			<Text>Combat bonus in friendly territory.</Text>
+			<Text>Gevechtsbonus in vriendelijk gebied.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
-			<Text>When adjacent to an enemy city, melee units do full damage to the city's Walls.</Text>
+			<Text>Wanneer ze naast een vijandige stad liggen, raken de eenheden van de vijand de muren van de stad volledig beschadigd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
-			<Text>When adjacent to an enemy city, friendly melee units can bypass the city walls and attack the city directly.</Text>
+			<Text>Wanneer ze naast een vijandelijke stad liggen, kunnen vriendelijke eenheden de stadsmuren omzeilen en de stad rechtstreeks aanvallen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
 			<Text>+5 [ICON_Strength] Combat Strength vs. Spearmen and Pikemen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
-			<Text>+1 [ICON_Range] Range to nearby ranged siege units.</Text>
+			<Text>+1 [ICON_Range] Bereik naar nabijgelegen ranged belegeringseenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
-			<Text>Sight range unobstructed by terrain.</Text>
+			<Text>Kijkbereik onbelemmerd door het terrein.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
-			<Text>+4 [ICON_Strength] Combat Strength from the Oligarchy government.</Text>
+			<Text>+4 [ICON_Strength] Gevechtskracht van de regering van de Oligarchie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
-			<Text>+5 [ICON_Religion] Religious Strength from the Theocracy government.</Text>
+			<Text>+5 [ICON_Religion] Religieuze kracht van de regering van de Theocratie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
-			<Text>+5 [ICON_Religion] Religious Strength from the Religious Orders policy.</Text>
+			<Text>+5 [ICON_Religion] Religieuze kracht van het beleid voor religieuze orders.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Combat Strength when attacking from the Fascism government.</Text>
+			<Text>+5 [ICON_Strength] Gevechtskracht bij aanvallen vanuit de fascistische regering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
-			<Text>+6 [ICON_Strength] Combat Strength when defending from the Communism government.</Text>
+			<Text>+6 [ICON_Strength] Gevechtskracht bij het verdedigen van de communistische regering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
-			<Text>+20 HP healing for the player's units within 1 tile.</Text>
+			<Text>+20 HP healing voor de eenheden van de speler binnen 1 tegel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
-			<Text>Remains hidden from units more than 1 hex away.</Text>
+			<Text>Blijft verborgen van eenheden die zich op meer dan één afstand van elkaar bevinden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
-			<Text>Reveal stealth units on the map when this unit on an adjacent tile.</Text>
+			<Text>Onthul stealth-eenheden op de kaart wanneer dit toestel op een aangrenzende tegel staat.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
-			<Text>Harald Hardrada's naval melee units can pillage buildings and improvements and capture civilian units on coastal lands.</Text>
+			<Text>De zeevarende eenheden van Harald Hardrada kunnen gebouwen en verbeteringen plunderen en civiele eenheden op kustgebieden veroveren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
-			<Text>Attack support units directly even if they are in a formation with a combat unit.</Text>
+			<Text>Aanvallen ondersteuningseenheden direct, zelfs als ze zich in een formatie met een gevechtseenheid bevinden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
-			<Text>Can heal in neutral territory.</Text>
+			<Text>Kan genezen op neutraal terrein.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
-			<Text>While on a water tile, its [ICON_TradeRoute] Trade Route cannot be plundered by enemy units. Obtained when Suzerain of Lisbon city-state.</Text>
+			<Text>Op een watertegel kan zijn [ICON_TradeRoute] handelsroute niet worden geplunderd door vijandelijke eenheden. Verkregen wanneer Suzerain van de stadstaat van Lissabon.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
-			<Text>+7 [ICON_Strength]Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending.</Text>
+			<Text>+7 [ICON_Strength] aanvalskracht bij aanvallen, en -7 [ICON_Strength] aanvalskracht bij verdedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Movement if this unit starts in enemy territory.</Text>
+			<Text>+2 [ICON_Movement] Beweging als dit toestel in vijandelijk gebied begint.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Movement while in coastal waters.</Text>
+			<Text>+1 [ICON_Movement] Beweging in kustwateren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
-			<Text>Can capture defeated enemy naval vessels.</Text>
+			<Text>Kan verslagen vijandelijke zeevarende schepen vangen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
-			<Text>Can capture defeated enemy civilization combat units and convert them to Builders.</Text>
+			<Text>Kan verslagen gevechtseenheden van vijandelijke beschavingen vangen en ze omzetten in bouwers.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Combat Strength to heavy and light cavalry on Hills when Suzerain of Preslav city-state.</Text>
+			<Text>+5 [ICON_Strength] Gevechtskracht voor zware en lichte cavalerie op heuvels als Suzerain van de stadstaat Preslav.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
-			<Text>Missionaries, Inquisitors, and Apostles can move over Hills faster after moving adjacent to the Mount Everest natural wonder.</Text>
+			<Text>Zendelingen, inquisiteurs en apostelen kunnen sneller heuvels oversteken nadat ze naast het natuurlijke wonder van Mount Everest zijn gaan wonen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
-			<Text>Can move after attacking. +5 [ICON_Strength] Combat Strength in your territory or adjacent to your territory.</Text>
+			<Text>Kan bewegen na aanvallen. +5 [ICON_Strength] Gevechtskracht in je territorium of grenzend aan je territorium.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when fighting on a continent other than that of your [ICON_Capital] Capital's. No disembark cost.</Text>
+			<Text>+10 [ICON_Strength] Gevechtskracht wanneer je vecht op een ander continent dan dat van je [ICON_Capital] Capital's. Geen uitstapkosten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_VARU_DESCRIPTION">
-			<Text>-5 [ICON_Strength] Combat Strength to adjacent enemy units.</Text>
+			<Text>-5 [ICON_Strength] Gevechtskracht aan aangrenzende vijandelijke eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when defending against ranged units, can see through features, and can move through Woods and Rainforest without [ICON_Movement] Movement penalty.</Text>
+			<Text>+10 [ICON_Strength] Gevechtskracht wanneer je verdedigt tegen afstands-eenheden, door functies heen kunt kijken en door Woods en Rainforest kunt bewegen zonder [ICON_Movement] bewegingsstraf.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when there is a religious unit in the same hex. If this unit captures a city or is adjacent to a city when it's captured, the city will automatically convert to the Conquistador player's majority Religion.</Text>
+			<Text>+10 [ICON_Strength] Gevechtskracht als er een religieuze eenheid in dezelfde hex is. Als deze eenheid een stad vangt of grenst aan een stad wanneer deze wordt vastgelegd, zal de stad automatisch converteren naar de meerderheidsreligie van de Conquistador-speler.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_GARDE_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength when on the same continent as the [ICON_Capital] Capital. +10 Great General points for kills.</Text>
+			<Text>+10 [ICON_Strength] Gevechtskracht op hetzelfde continent als de [ICON_Capital] hoofdstad. +10 Grote algemene punten voor moorden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
-			<Text>+10 [ICON_Strength] Combat Strength if there is at least one Hoplite adjacent.</Text>
+			<Text>+10 [ICON_Strength] Gevechtskracht als er ten minste één Hoplite naast ligt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
 			<Text>+10 [ICON_Strength] Combat Strength in Ocean combat.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
-			<Text>When defeating an enemy unit, gain [ICON_Culture] Culture equal to 50% that unit's base [ICON_Strength] Combat Strength when fighting on your [ICON_Capital] Capital's continent. +10 [ICON_Strength] Combat Strength when fighting on Hills.</Text>
+			<Text>Als je een vijandelijke eenheid verslaat, verkrijg dan [ICON_Culture] Cultuur gelijk aan 50% van die basis [ICON_Sengeste] gevechtssterkte wanneer je vecht op het continent van je [ICON_Capital] hoofdstad. +10 [ICON_Strength] Gevechtskracht bij gevechten op heuvels.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
-			<Text>Receives a Combat bonus vs. Fighters, has an extended attack range, and earns more experience from combat.</Text>
+			<Text>Ontvangt een gevechtsbonus tegen vechters, heeft een uitgebreid aanvalsbereik en verdient meer ervaring met gevechten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
-			<Text>This unit heals every turn, even after moving or combat.</Text>
+			<Text>Deze eenheid geneest elke draai, zelfs na een beweging of een gevecht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
-			<Text>This unit does not suffer combat penalties when damaged.</Text>
+			<Text>Deze eenheid heeft geen last van vechtsancties als deze beschadigd is.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COMBAT_DIFFICULTY_SCALING">
-			<Text>+{Amount} bonus due to difficulty.</Text>
+			<Text>+ {Bedrag} bonus vanwege moeilijkheidsgraad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
-			<Text>+10 against cavalry</Text>
+			<Text>+10 tegen cavalerie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
-			<Text>+5 against fighter aircraft</Text>
+			<Text>+5 tegen jachtvliegtuigen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
-			<Text>+1 MP when start in open terrain.</Text>
+			<Text>+1 MP wanneer starten op open terrein.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
-			<Text>All terrain costs 1 [ICON_Movement] Movement.</Text>
+			<Text>Alle terreinkosten kosten 1 [ICON_Movement] beweging.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
-			<Text>Not affected by ZOC.</Text>
+			<Text>Niet beïnvloed door ZOC.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
-			<Text>+2 MP when start in open terrain.</Text>
+			<Text>+2 MP wanneer starten op open terrein.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
-			<Text>Cannot move then attack.</Text>
+			<Text>Kan niet bewegen en aanvallen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
-			<Text>Cannot enter ocean hexes.</Text>
+			<Text>Kan geen oceaanstenen betreden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
-			<Text>Prevents the unit from attacking.</Text>
+			<Text>Voorkomt dat de eenheid aanvalt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>Bonus in combat in friendly territory.</Text>
+			<Text>Bonus in gevechten in vriendelijk gebied.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
-			<Text>Allows melee units to attack walls.</Text>
+			<Text>Hiermee kunnen gevechtseenheden muren aanvallen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
-			<Text>Allows melee units to bypass walls.</Text>
+			<Text>Staat melee eenheden toe om muren te mijden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
-			<Text>+10 Combat vs. anti-cavalry units.</Text>
+			<Text>+10 Combat versus anti-cavalerie eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
-			<Text>+1 Attack Range to nearby siege artillery.</Text>
+			<Text>+1 Aanvalsbereik voor nabijgelegen belegeringsartillerie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
-			<Text>Unobstructed Sight</Text>
+			<Text>Onbelemmerd zicht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 Combat from Oligarchy</Text>
+			<Text>+4 Vechten tegen Oligarchie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
 			<Text>+5 Combat from Theocracy</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+5 Combat from Religious Orders</Text>
+			<Text>+5 Gevechten tegen religieuze ordes</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+5 Attack from Fascism</Text>
+			<Text>+5 Aanval van fascisme</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 Defense from Communism</Text>
+			<Text>+4 Verdediging van het communisme</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
-			<Text>+4 vs. civilizations following another Religion.</Text>
+			<Text>+4 versus beschavingen na een andere religie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
-			<Text>Wars of Religion: +4 vs. civilizations following another Religion.</Text>
+			<Text>Godsdienstoorlogen: +4 versus beschavingen na een andere religie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
-			<Text>+5 Combat on home continent.</Text>
+			<Text>+5 Vechten op het thuiscontinent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
-			<Text>+7 Combat vs. city-states.</Text>
+			<Text>+7 Combat versus stadstaten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
-			<Text>+5 Combat on coastal land</Text>
+			<Text>+5 Bestrijding van kustgrond</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
-			<Text>+5 Combat in shallow waters</Text>
+			<Text>+5 Vecht in ondiepe wateren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} HP healing for units within 1 tile</Text>
+			<Text>+ {1_Amount} HP-healing voor eenheden binnen 1 tegel</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
-			<Text>+{1_Amount} strength when attacking</Text>
+			<Text>+ {1_Amount} kracht bij aanvallen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
-			<Text>{1_Amount} Combat Strength when defending</Text>
+			<Text>{1_Amount} Gevechtskracht bij verdedigen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
-			<Text>{1_Amount}% chance of capturing enemy.</Text>
+			<Text>{1_Amount}% kans om vijand te veroveren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
-			<Text>{1_Amount}% chance of capturing enemy</Text>
+			<Text>{1_Amount}% kans om vijand te veroveren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when fighting in Hills</Text>
+			<Text>+ {1_Amount} Gevechtskracht tijdens gevechten in Hills</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when in your territory or adjacent to your territory</Text>
+			<Text>+ {1_Amount} Gevechtskracht in je territorium of naast je territorium</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when fighting on a continent other than that of your capital's</Text>
+			<Text>+ {1_Amount} Gevechtskracht bij gevechten op een ander continent dan dat van je hoofdstad</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>{1_Amount} Combat Strength when adjacent to an enemy Varu</Text>
+			<Text>{1_Amount} Gevechtskracht wanneer deze grenst aan een vijand Varu</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when defending Ranged</Text>
+			<Text>+ {1_Amount} Gevechtskracht bij het verdedigen van Ranged</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when there is a religious unit in the same hex</Text>
+			<Text>+ {1_Amount} Gevechtskracht wanneer er een religieuze eenheid in dezelfde hex is</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength on the same continent as your capital</Text>
+			<Text>+ {1_Amount} Gevechtskracht op hetzelfde continent als je hoofdstad</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when next to another Hoplite</Text>
+			<Text>+ {1_Amount} Gevechtskracht naast een andere Hoplite</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} Combat Strength when the combat is in Ocean Terrain</Text>
+			<Text>+ {1_Amount} Gevechtskracht wanneer het gevecht op Ocean Terrain plaatsvindt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
-			<Text>+{1_Amount} to combat on hill terrain</Text>
+			<Text>+ {1_Amount} om te vechten op heuvelachtig terrein</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
-			<Text>Can only spread their Religion to cities within their empire.</Text>
+			<Text>Kunnen hun religie alleen verspreiden naar steden binnen hun rijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
-			<Text>Cannot initiate Theological Combat.</Text>
+			<Text>Kan Theological Combat niet initiëren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
-			<Text>Significant advantage to Theological Combat in their empire.</Text>
+			<Text>Aanzienlijk voordeel van Theological Combat in hun rijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
-			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
+			<Text>Zelfs zonder Open Borders kan dit toestel een vreemd territorium betreden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
-			<Text>Forest, Jungle, Hills, and Marsh only take one [ICON_Movement] Movement.</Text>
+			<Text>Forest, Jungle, Hills en Marsh nemen slechts één [ICON_Movement] -beweging.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
-			<Text>Ignore movement cost for river crossing.</Text>
+			<Text>Negeer verplaatsingskosten voor rivierovergang.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
-			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
+			<Text>Zelfs zonder Open Borders kan dit toestel een vreemd territorium betreden.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

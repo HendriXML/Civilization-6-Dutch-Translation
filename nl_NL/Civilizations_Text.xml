@@ -1,739 +1,739 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
-      <Text>Amerikaanse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
-      <Text>Arabische rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
-      <Text>Barbaren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
-      <Text>Braziliaanse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
-      <Text>Chinese rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
-      <Text>Egyptische rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
-      <Text>Engelse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
-      <Text>Franse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
-      <Text>Duitse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
-      <Text>Griekse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
-      <Text>Indiase rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
-      <Text>Japanse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
-      <Text>Congolese rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
-      <Text>Noorse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
-      <Text>Romeinse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
-      <Text>Russische rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
-      <Text>Scytheense rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
-      <Text>Spaanse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
-      <Text>Sumeriaanse rijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
-      <Text>tadstaat Amsterdam</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
-      <Text>stadstaat Brussel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
-      <Text>stadstaat Buenos Aires</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
-      <Text>stadstaat Carthago</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
-      <Text>stadstaat Geneve</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
-      <Text>stadstaat Hattusa</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
-      <Text>stadstaat Hong Kong</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
-      <Text>stadstaat Jakarta</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
-      <Text>stadstaat Jerusalem</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
-      <Text>stadstaat Kabul</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
-      <Text>stadstaat Kandy</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
-      <Text>stadstaat Kumasi</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
-      <Text>stadstaat La Venta</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
-      <Text>stadstaat Lissabon</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
-      <Text>stadstaat Mohenjo-Daro</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
-      <Text>stadstaat Preslav</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
-      <Text>stadstaat Nan Madol</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
-      <Text>stadstaat Seoul</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
-      <Text>stadstaat Stockholm</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
-      <Text>stadstaat Toronto</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
-      <Text>stadstaat Valletta</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
-      <Text>stadstaat Vilnius</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
-      <Text>stadstaat Yerevan</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
-      <Text>stadstaat Zanzibar</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
-      <Text>Amerikaanse</Text>
-      <Gender>Masculine:een</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
-      <Text>Arabische</Text>
-      <Gender>Masculine:een</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
-      <Text>Barbaarse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
-      <Text>Braziliaanse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
-      <Text>Chinese</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
-      <Text>Egyptische</Text>
-      <Gender>Masculine:an</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
-      <Text>Engelse</Text>
-      <Gender>Masculine:an</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
-      <Text>Franse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
-      <Text>Duitse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
-      <Text>Griekse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
-      <Text>Indiase</Text>
-      <Gender>Masculine:an</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
-      <Text>Japanse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
-      <Text>Congolese</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
-      <Text>Noorse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
-      <Text>Romeinse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
-      <Text>Russische</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
-      <Text>Scythische</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
-      <Text>Spaanse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
-      <Text>Sumeriaanse</Text>
-      <Gender>Masculine:een</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
-      <Text>Amsterdamse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
-      <Text>Brusselse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
-      <Text>Buenos Aires</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
-      <Text>Carthaagse</Text>
-      <Gender>Masculine:een</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
-      <Text>Geneefse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
-      <Text>Hattusa</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
-      <Text>Hongkongse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
-      <Text>Jakartaanse</Text>
-      <Gender>Masculine:een</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
-      <Text>Jerusalemse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
-      <Text>Kabul</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
-      <Text>Kandyan</Text>
-      <Gender>Masculine:an</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
-      <Text>Kumasi</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
-      <Text>La Venta</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
-      <Text>Lissabonse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
-      <Text>Mohenjo-Daro</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
-      <Text>Preslav</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
-      <Text>Nan Madol</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
-      <Text>Seoulite</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
-      <Text>Stockholmse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
-      <Text>Torontonian</Text>
-      <Gender>Masculine:an</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
-      <Text>Valletta</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
-      <Text>Vilnian</Text>
-      <Gender>Masculine:an</Gender>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
-      <Text>Yerevantsi</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
-      <Text>Zanzibarese</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_PLACEHOLDER">
-      <Text>[PLACEHOLDER] No unique ability implemented</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
-      <Text>Amazone</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
-      <Text>Regenwoudgebiedsdelen voorzien in +1 nabijheidsbonus voor campus, commerdieel centrum, Heilige Plaats en theatercomplex. Voorzien ook in +1 [ICON_Housing] huisvesting voor aangrenzende buurtschappen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
-      <Text>Dynastic Cycle</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
-      <Text>[ICON_TechBoosted]Technologiën en [ICON_CivicBoosted]ontplooiingen worden met 60% bespoedigd in plaats van 50%.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
-      <Text>Goedkope bouwers</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
-      <Text>Train bouwers in de helft van de tijd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
-      <Text>Meiji Restoration</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
-      <Text>Alle wijken ontvangen een extra standaard nabijheidsbonus voor het grenzen aan een andere wijk.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
-      <Text>British Museum</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
-      <Text>Ieder archeologisch museum biedt plaast aan 6 [ICON_GreatWork_Artifact] artefacten in plaats van 3 en kan tweee archeologen tegelijk ondersteunen. Zij zijn automatisch gethematiseerd als ze 6 [ICON_GreatWork_Artifact] artefacten bevatten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
-      <Text>People of the Steppe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
-      <Text>Ontvang iedere keer dat je een lichte cavalerie-eenheid of Saka bereden boogschutter traint een tweede cavalerie-eenheid of Saka.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_BONUS_AGAINST_BARBS_NAME">
-      <Text>Savage</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
-      <Text>Bonus tegen barbaren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
-      <Text>Epic Quests</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
-      <Text>Wanneer je een barbaarse buitenpost inneemt ontvang je een 'klein dorpje'-beloning bovenop het gebruikelijke [ICON_Gold] goud. Betaal de helft van de gebruikelijke kosten om stadstaateenheden te werven.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
-      <Text>Iteru</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
-      <Text>+15% [ICON_Production] productie richting wijken en wonderen indien geplaatst langs een rivier. Watervlakten blokkeren geen wijken en wonderen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
-      <Text>Plato's Republic</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
-      <Text>Een extra vrije keuze-beleidsoptie in iedere regering.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
-      <Text>Mother Russia</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
-      <Text>Extra gebied bij het stichten van steden. +1 [ICON_Faith] geloof en +1 [ICON_Production] productie van toendra.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
-      <Text>The Last Prophet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
-      <Text>Ontvang automatisch de laatste Grote Profeet wanneer de een-na-laatste wordt geclaimd (als je er al niet een verdiend hebt). +1 [ICON_Science] wetenschap voor iedere buitenlandse stad die Arabië's religie aanhangt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
-      <Text>Nkisi</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
-      <Text>+2 [ICON_Food] voedsel, +2 [ICON_Production] productie en +4 [ICON_goud van iedere [ICON_GreatWork_Relic] relikwie, [ICON_GreatWork_Artifact] artefact en [ICON_GreatWork_Sculpture] Groot Kunstwerk bovenop de gebruikelijke [ICON_Culture] cultuur. Ontvang dubbele [ICON_GreatWriter] Grote Schrijver-, [ICON_GreatArtist] Grote Artiest-, [ICON_GreatMusician] Grote Muzikant- en [ICON_GreatMerchant] Grote Koopmanpunten. Het paleis heeft plaats voor 5 Grootse Werken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
-      <Text>Treasure Fleet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
-      <Text>Je kunt eerder een armada en vloot bouwen dan gebruikelijk (Mercantilisme). [ICON_TradeRoute] Handelsroutes tussen meerdere continenten ontvangen [ICON_Gold] goudbonus voor routes naar andere beschavingen en [ICON_Food] voedselbonus en [ICON_Production] productie voor routes tussen je eigen steden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
-      <Text>Founding Fathers</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
-      <Text>Verdien alle verervingsbonussen in de helft van de tijd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
-      <Text>Dharma</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
-      <Text>Ontvang aanhangersgeloofsbonus in een stad van iedere religie die ten minste 1 aanhanger heeft.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
-      <Text>Grand Tour</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
-      <Text>+20% [ICON_Production] productie richting wonderen uit middeleeuwse, Renaissance- en industriële tijdperk. [ICON_Tourism] Toerisme van wonderen uit ieder tijdperk wordt verdubbeld.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
-      <Text>Free Imperial Cities</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
-      <Text>Iedere stad kan een wijk meer bouwen dan normaal (dus meer dan gebaseerd op [ICON_Citizen] bevolking).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
-      <Text>All Roads Lead to Rome</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
-      <Text>Alle door jou gestichte of veroverde steden beginnen met een handelspost. Indien in [ICON_TradeRoute] handelsroute binnen bereik van je [ICON_Capital] hoofdstad beginnen ze ook met een weg daarheen. Je [ICON_TradeRoute] handelsroutes verdienen +1 [ICON_Gold] goud voor het passeren van handelsposten in jouw eigen steden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
-      <Text>Knarr</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
-      <Text>Eenheden kunnen oceaangebiedsdelen betreden na onderzoek van scheepsbouw. Zeevarende melee-eenheden genezen op neutraal terrein. Eenheden negeren extra [ICON_Movement] verplaatsingeskosten vorr aan en van boord gaan.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_LOCATION">
-      <Text>Location</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SIZE">
-      <Text>Size</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_POPULATION">
-      <Text>Population</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_CAPITAL">
-      <Text>Capital</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_LOCATION">
-      <Text>North America</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_SIZE">
-      <Text>Roughly 3.8 million square miles (9.6 million square kilometers)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_POPULATION">
-      <Text>About 318 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
-      <Text>Various (Philadelphia, New York, currently Washington)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_LOCATION">
-      <Text>Azië-Afrika</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_SIZE">
-      <Text>Under Umayyad Caliphate, Est. 5.79 million square miles (15 million square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_POPULATION">
-      <Text>Under Umayyads, around 34 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
-      <Text>Many (Medina, Kufa, Damascus, Baghdad, Cairo)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
-      <Text>South America</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_SIZE">
-      <Text>Some 3.29 million square miles (8.5 million square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
-      <Text>Est. 193 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
-      <Text>Various (Salvador, Rio de Janeiro, currently Brasilia)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_LOCATION">
-      <Text>Asia</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_SIZE">
-      <Text>Est. 3.7 million square miles (9.6 million square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_POPULATION">
-      <Text>1.1 billion in 1990</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_CAPITAL">
-      <Text>Many (the four primary ones: Beijing, Nanjing, Luoyang, and Chang'an)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
-      <Text>Europe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_SIZE">
-      <Text>Roughly 94 thousand square miles (243458.88 square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
-      <Text>Est. 64.1 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
-      <Text>London (generally)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_LOCATION">
-      <Text>Afrika</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_SIZE">
-      <Text>Est. 390 thousand square miles (1 million square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_POPULATION">
-      <Text>Est. 7.5 million (Ptolemaic Dynasty)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
-      <Text>Various (Memphis, Thebes, Alexandria, Cairo)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_LOCATION">
-      <Text>Europe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_SIZE">
-      <Text>Est. 246.2 thousand square miles (640.6 thousand square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_POPULATION">
-      <Text>Est. 66.6 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
-      <Text>Various (Orleans, Tours, Versailles, Vichy, mostly Paris)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_LOCATION">
-      <Text>Europe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_SIZE">
-      <Text>Est. 390 thousand square miles ( 1 million square km in 1050 AD)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_POPULATION">
-      <Text>Est. 26.3 million (in 1780 AD)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
-      <Text>None (wherever the Emperor was)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_LOCATION">
-      <Text>Europe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_SIZE">
-      <Text>Roughly (very) 50.9 thousand square miles (131.9 thousand square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_POPULATION">
-      <Text>Est. 667.5 thousand (during Peloponnesian War)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_CAPITAL">
-      <Text>All of the cities, but primarily Sparta and Athens</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_LOCATION">
-      <Text>Asia</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_SIZE">
-      <Text>Est. 1.3 square miles (3.3 million square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_POPULATION">
-      <Text>Est. 1.2 billion (increasing daily)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_CAPITAL">
-      <Text>Various (Calcutta, Delhi, now New Delhi)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_LOCATION">
-      <Text>Asia</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_SIZE">
-      <Text>Est. 146 thousand square miles (378 thousand square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_POPULATION">
-      <Text>Latest 126.4 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
-      <Text>Various (too numerous to list until Kyoto; currently Tokyo)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_LOCATION">
-      <Text>Afrika</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_SIZE">
-      <Text>At greatest extent, 49.9 thousand square miles (129.4 thousand square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_POPULATION">
-      <Text>Est. 509 thousand in 1650 AD</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_CAPITAL">
-      <Text>M'banza Kongo</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_LOCATION">
-      <Text>Europe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_SIZE">
-      <Text>Est. 148.7 thousand square miles (385.2 thousand square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_POPULATION">
-      <Text>Most recent est. 5.1 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
-      <Text>Various (Trondheim, Bergen, and Oslo)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_LOCATION">
-      <Text>Europe (and Asia Minor, Africa, Middle East and other bits)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_SIZE">
-      <Text>Some 2.5 million square miles (6.5 million square km) under Trajan</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_POPULATION">
-      <Text>Est. 88 million (at peak)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_CAPITAL">
-      <Text>Rome</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
-      <Text>Europe-Asia (and briefly a piece of North America)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_SIZE">
-      <Text>Some 8.4 million square miles (21.8 million square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
-      <Text>Est. 181.5 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
-      <Text>Moscow, then St. Petersburg</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
-      <Text>Asia</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
-      <Text>Roughly 384 thousand square miles (994 thousand square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
-      <Text>Unknown, best guess is 40-50 thousand at peak</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
-      <Text>None (the only city mentioned in the histories is "Scythian Neapolis," destroyed by the Goths in 3rd Century AD)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_LOCATION">
-      <Text>Europe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_SIZE">
-      <Text>Est. 195 thousand square miles (504.4 thousand square km)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_POPULATION">
-      <Text>Est. 47.6 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
-      <Text>Madrid (mostly)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
-      <Text>Asia</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_SIZE">
-      <Text>Impossible to say</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
-      <Text>Est. between 1.1 and 1.5 million</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
-      <Text>Many (Lagash, Eridu, Uruk, Kish, Ur, or wherever the current king hailed from)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
-      <Text>Amerikaans uniek gebouw: Filmstudio</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
-      <Text>Arabisch uniek gebouw: Madrassa</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
-      <Text>Chinese unieke verbetering: Grote Muur</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
-      <Text>Egyptische unieke verbetering: Sfinx</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
-      <Text>Egyptische unieke eenheid: Maryannu wagenboogschutter</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
-      <Text>Chinese unieke eenheid: Kruipende tijger</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
-      <Text>Franse unieke verbetering: Château</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
-      <Text>Duitse unieke wijk: Hansa</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
-      <Text>Griekse unieke wijk: Acropolis</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
-      <Text>Griekse unieke eenheid: Hopliet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
-      <Text>Indiase unieke verbetering: Trappenbron</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
-      <Text>Japans uniek gebouw: Elektronicafabriek</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
-      <Text>Japanse unieke eenheid: Samoerai</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
-      <Text>Congolese unieke wijk: Mbanza</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
-      <Text>Noors uniek gebouw: Staafkerk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
-      <Text>Romeinse unieke wijk: Bad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
-      <Text>Romeinse unieke eenheid: Legioen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
-      <Text>Congolese unieke eenheid: Ngao Mbeba</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
-      <Text>Russische unieke wijk: Lavra</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
-      <Text>Scytheense unieke verbetering: Koergan</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
-      <Text>Scytheense unieke eenheid: Scytheense bereden boogschutter</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
-      <Text>Spaanse unieke verbetering: Missie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
-      <Text>Spaanse unieke eenheid: Conquistador</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
-      <Text>Russische unieke eenheid: Kozak</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
-      <Text>Sumeriaanse unieke verbetering: Ziggoerat</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
-      <Text>Sumeriaanse unieke eenheid: Oorlogswagen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
-      <Text>Indiaase unieke eenheid: Varu</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
-      <Text>Engelse unieke eenheid: Sea Dog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
-      <Text>Arabische unieke eenheid: Mammeluk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
-      <Text>Franse unieke eenheid: Garde Impériale</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
-      <Text>Duitse unieke eenheid: U-Boot</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
-      <Text>Amerikaanse unieke eenheid: P-51 Mustang</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
-      <Text>Braziliaanse unieke eenheid: Minas Geraes</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
-      <Text>Noorse unieke eenheid: Berserker</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
-      <Text>Braziliaanse unieke wijk: Straatcarnaval</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
-      <Text>Engelse unieke wijk: Royal Navy Dockyard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
-      <Text>Bandar Seri Begawanese</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
-      <Text>Stadstaat Bandar Seri Begawan</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+			<Text>Amerikaanse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+			<Text>Arabische rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Barbaren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+			<Text>Braziliaanse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+			<Text>Chinese rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
+			<Text>Egyptische rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
+			<Text>Engelse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
+			<Text>Franse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
+			<Text>Duitse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
+			<Text>Griekse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
+			<Text>Indiase rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
+			<Text>Japanse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
+			<Text>Congolese rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
+			<Text>Noorse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+			<Text>Romeinse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+			<Text>Russische rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+			<Text>Scytheense rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+			<Text>Spaanse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
+			<Text>Sumeriaanse rijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
+			<Text>tadstaat Amsterdam</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
+			<Text>stadstaat Brussel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
+			<Text>stadstaat Buenos Aires</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
+			<Text>stadstaat Carthago</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
+			<Text>stadstaat Geneve</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
+			<Text>stadstaat Hattusa</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
+			<Text>stadstaat Hong Kong</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
+			<Text>stadstaat Jakarta</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
+			<Text>stadstaat Jerusalem</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
+			<Text>stadstaat Kabul</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
+			<Text>stadstaat Kandy</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
+			<Text>stadstaat Kumasi</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
+			<Text>stadstaat La Venta</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
+			<Text>stadstaat Lissabon</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
+			<Text>stadstaat Mohenjo-Daro</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
+			<Text>stadstaat Preslav</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
+			<Text>stadstaat Nan Madol</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
+			<Text>stadstaat Seoul</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
+			<Text>stadstaat Stockholm</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
+			<Text>stadstaat Toronto</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
+			<Text>stadstaat Valletta</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
+			<Text>stadstaat Vilnius</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
+			<Text>stadstaat Yerevan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
+			<Text>stadstaat Zanzibar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
+			<Text>Amerikaanse</Text>
+			<Gender>Masculine:een</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
+			<Text>Arabische</Text>
+			<Gender>Masculine:een</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
+			<Text>Barbaarse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
+			<Text>Braziliaanse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
+			<Text>Chinese</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
+			<Text>Egyptische</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
+			<Text>Engelse</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
+			<Text>Franse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
+			<Text>Duitse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
+			<Text>Griekse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
+			<Text>Indiase</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
+			<Text>Japanse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
+			<Text>Congolese</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
+			<Text>Noorse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
+			<Text>Romeinse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
+			<Text>Russische</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
+			<Text>Scythische</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
+			<Text>Spaanse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
+			<Text>Sumeriaanse</Text>
+			<Gender>Masculine:een</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
+			<Text>Amsterdamse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
+			<Text>Brusselse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
+			<Text>Buenos Aires</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
+			<Text>Carthaagse</Text>
+			<Gender>Masculine:een</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
+			<Text>Geneefse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
+			<Text>Hattusa</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
+			<Text>Hongkongse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
+			<Text>Jakartaanse</Text>
+			<Gender>Masculine:een</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
+			<Text>Jerusalemse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
+			<Text>Kabul</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
+			<Text>Kandyan</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
+			<Text>Kumasi</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
+			<Text>La Venta</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
+			<Text>Lissabonse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
+			<Text>Mohenjo-Daro</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
+			<Text>Preslav</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
+			<Text>Nan Madol</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
+			<Text>Seoulite</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
+			<Text>Stockholmse</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
+			<Text>Torontonian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
+			<Text>Valletta</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
+			<Text>Vilnian</Text>
+			<Gender>Masculine:an</Gender>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
+			<Text>Yerevantsi</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
+			<Text>Zanzibarese</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_PLACEHOLDER">
+			<Text>[PLACEHOLDER] No unique ability implemented</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
+			<Text>Amazone</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
+			<Text>Regenwoudgebiedsdelen voorzien in +1 nabijheidsbonus voor campus, commerdieel centrum, Heilige Plaats en theatercomplex. Voorzien ook in +1 [ICON_Housing] huisvesting voor aangrenzende buurtschappen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
+			<Text>Dynastic Cycle</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
+			<Text>[ICON_TechBoosted]Technologiën en [ICON_CivicBoosted]ontplooiingen worden met 60% bespoedigd in plaats van 50%.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
+			<Text>Goedkope bouwers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
+			<Text>Train bouwers in de helft van de tijd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
+			<Text>Meiji Restoration</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
+			<Text>Alle wijken ontvangen een extra standaard nabijheidsbonus voor het grenzen aan een andere wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
+			<Text>British Museum</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
+			<Text>Ieder archeologisch museum biedt plaast aan 6 [ICON_GreatWork_Artifact] artefacten in plaats van 3 en kan tweee archeologen tegelijk ondersteunen. Zij zijn automatisch gethematiseerd als ze 6 [ICON_GreatWork_Artifact] artefacten bevatten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
+			<Text>People of the Steppe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
+			<Text>Ontvang iedere keer dat je een lichte cavalerie-eenheid of Saka bereden boogschutter traint een tweede cavalerie-eenheid of Saka.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BONUS_AGAINST_BARBS_NAME">
+			<Text>Savage</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
+			<Text>Bonus tegen barbaren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
+			<Text>Epic Quests</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+			<Text>Wanneer je een barbaarse buitenpost inneemt ontvang je een 'klein dorpje'-beloning bovenop het gebruikelijke [ICON_Gold] goud. Betaal de helft van de gebruikelijke kosten om stadstaateenheden te werven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+			<Text>Iteru</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
+			<Text>+15% [ICON_Production] productie richting wijken en wonderen indien geplaatst langs een rivier. Watervlakten blokkeren geen wijken en wonderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
+			<Text>Plato's Republic</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
+			<Text>Een extra vrije keuze-beleidsoptie in iedere regering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
+			<Text>Mother Russia</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
+			<Text>Extra gebied bij het stichten van steden. +1 [ICON_Faith] geloof en +1 [ICON_Production] productie van toendra.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
+			<Text>The Last Prophet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
+			<Text>Ontvang automatisch de laatste Grote Profeet wanneer de een-na-laatste wordt geclaimd (als je er al niet een verdiend hebt). +1 [ICON_Science] wetenschap voor iedere buitenlandse stad die Arabië's religie aanhangt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
+			<Text>Nkisi</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
+			<Text>+2 [ICON_Food] voedsel, +2 [ICON_Production] productie en +4 [ICON_goud van iedere [ICON_GreatWork_Relic] relikwie, [ICON_GreatWork_Artifact] artefact en [ICON_GreatWork_Sculpture] Groot Kunstwerk bovenop de gebruikelijke [ICON_Culture] cultuur. Ontvang dubbele [ICON_GreatWriter] Grote Schrijver-, [ICON_GreatArtist] Grote Artiest-, [ICON_GreatMusician] Grote Muzikant- en [ICON_GreatMerchant] Grote Koopmanpunten. Het paleis heeft plaats voor 5 Grootse Werken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
+			<Text>Treasure Fleet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
+			<Text>Je kunt eerder een armada en vloot bouwen dan gebruikelijk (Mercantilisme). [ICON_TradeRoute] Handelsroutes tussen meerdere continenten ontvangen [ICON_Gold] goudbonus voor routes naar andere beschavingen en [ICON_Food] voedselbonus en [ICON_Production] productie voor routes tussen je eigen steden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
+			<Text>Founding Fathers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
+			<Text>Verdien alle verervingsbonussen in de helft van de tijd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+			<Text>Dharma</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
+			<Text>Ontvang aanhangersgeloofsbonus in een stad van iedere religie die ten minste 1 aanhanger heeft.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+			<Text>Grand Tour</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+			<Text>+20% [ICON_Production] productie richting wonderen uit middeleeuwse, Renaissance- en industriële tijdperk. [ICON_Tourism] Toerisme van wonderen uit ieder tijdperk wordt verdubbeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
+			<Text>Free Imperial Cities</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
+			<Text>Iedere stad kan een wijk meer bouwen dan normaal (dus meer dan gebaseerd op [ICON_Citizen] bevolking).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
+			<Text>All Roads Lead to Rome</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
+			<Text>Alle door jou gestichte of veroverde steden beginnen met een handelspost. Indien in [ICON_TradeRoute] handelsroute binnen bereik van je [ICON_Capital] hoofdstad beginnen ze ook met een weg daarheen. Je [ICON_TradeRoute] handelsroutes verdienen +1 [ICON_Gold] goud voor het passeren van handelsposten in jouw eigen steden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
+			<Text>Knarr</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
+			<Text>Eenheden kunnen oceaangebiedsdelen betreden na onderzoek van scheepsbouw. Zeevarende melee-eenheden genezen op neutraal terrein. Eenheden negeren extra [ICON_Movement] verplaatsingeskosten vorr aan en van boord gaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_LOCATION">
+			<Text>Location</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SIZE">
+			<Text>Size</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_POPULATION">
+			<Text>Population</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_CAPITAL">
+			<Text>Capital</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_LOCATION">
+			<Text>North America</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_SIZE">
+			<Text>Roughly 3.8 million square miles (9.6 million square kilometers)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_POPULATION">
+			<Text>About 318 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
+			<Text>Various (Philadelphia, New York, currently Washington)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_LOCATION">
+			<Text>Azië-Afrika</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_SIZE">
+			<Text>Under Umayyad Caliphate, Est. 5.79 million square miles (15 million square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_POPULATION">
+			<Text>Under Umayyads, around 34 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
+			<Text>Many (Medina, Kufa, Damascus, Baghdad, Cairo)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
+			<Text>South America</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_SIZE">
+			<Text>Some 3.29 million square miles (8.5 million square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
+			<Text>Est. 193 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
+			<Text>Various (Salvador, Rio de Janeiro, currently Brasilia)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_LOCATION">
+			<Text>Asia</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_SIZE">
+			<Text>Est. 3.7 million square miles (9.6 million square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_POPULATION">
+			<Text>1.1 billion in 1990</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_CHINA_CAPITAL">
+			<Text>Many (the four primary ones: Beijing, Nanjing, Luoyang, and Chang'an)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
+			<Text>Europe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_SIZE">
+			<Text>Roughly 94 thousand square miles (243458.88 square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
+			<Text>Est. 64.1 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
+			<Text>London (generally)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_LOCATION">
+			<Text>Afrika</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_SIZE">
+			<Text>Est. 390 thousand square miles (1 million square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_POPULATION">
+			<Text>Est. 7.5 million (Ptolemaic Dynasty)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
+			<Text>Various (Memphis, Thebes, Alexandria, Cairo)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_LOCATION">
+			<Text>Europe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_SIZE">
+			<Text>Est. 246.2 thousand square miles (640.6 thousand square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_POPULATION">
+			<Text>Est. 66.6 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
+			<Text>Various (Orleans, Tours, Versailles, Vichy, mostly Paris)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_LOCATION">
+			<Text>Europe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_SIZE">
+			<Text>Est. 390 thousand square miles ( 1 million square km in 1050 AD)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_POPULATION">
+			<Text>Est. 26.3 million (in 1780 AD)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
+			<Text>None (wherever the Emperor was)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_LOCATION">
+			<Text>Europe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_SIZE">
+			<Text>Roughly (very) 50.9 thousand square miles (131.9 thousand square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_POPULATION">
+			<Text>Est. 667.5 thousand (during Peloponnesian War)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_GREECE_CAPITAL">
+			<Text>All of the cities, but primarily Sparta and Athens</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_LOCATION">
+			<Text>Asia</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_SIZE">
+			<Text>Est. 1.3 square miles (3.3 million square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_POPULATION">
+			<Text>Est. 1.2 billion (increasing daily)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_INDIA_CAPITAL">
+			<Text>Various (Calcutta, Delhi, now New Delhi)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_LOCATION">
+			<Text>Asia</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_SIZE">
+			<Text>Est. 146 thousand square miles (378 thousand square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_POPULATION">
+			<Text>Latest 126.4 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
+			<Text>Various (too numerous to list until Kyoto; currently Tokyo)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_LOCATION">
+			<Text>Afrika</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_SIZE">
+			<Text>At greatest extent, 49.9 thousand square miles (129.4 thousand square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_POPULATION">
+			<Text>Est. 509 thousand in 1650 AD</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_KONGO_CAPITAL">
+			<Text>M'banza Kongo</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_LOCATION">
+			<Text>Europe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_SIZE">
+			<Text>Est. 148.7 thousand square miles (385.2 thousand square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_POPULATION">
+			<Text>Most recent est. 5.1 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
+			<Text>Various (Trondheim, Bergen, and Oslo)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_LOCATION">
+			<Text>Europe (and Asia Minor, Africa, Middle East and other bits)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_SIZE">
+			<Text>Some 2.5 million square miles (6.5 million square km) under Trajan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_POPULATION">
+			<Text>Est. 88 million (at peak)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_ROME_CAPITAL">
+			<Text>Rome</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
+			<Text>Europe-Asia (and briefly a piece of North America)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_SIZE">
+			<Text>Some 8.4 million square miles (21.8 million square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
+			<Text>Est. 181.5 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
+			<Text>Moscow, then St. Petersburg</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
+			<Text>Asia</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
+			<Text>Roughly 384 thousand square miles (994 thousand square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
+			<Text>Unknown, best guess is 40-50 thousand at peak</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
+			<Text>None (the only city mentioned in the histories is "Scythian Neapolis," destroyed by the Goths in 3rd Century AD)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_LOCATION">
+			<Text>Europe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_SIZE">
+			<Text>Est. 195 thousand square miles (504.4 thousand square km)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_POPULATION">
+			<Text>Est. 47.6 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
+			<Text>Madrid (mostly)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
+			<Text>Asia</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_SIZE">
+			<Text>Impossible to say</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
+			<Text>Est. between 1.1 and 1.5 million</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
+			<Text>Many (Lagash, Eridu, Uruk, Kish, Ur, or wherever the current king hailed from)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
+			<Text>Amerikaans uniek gebouw: Filmstudio</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
+			<Text>Arabisch uniek gebouw: Madrassa</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
+			<Text>Chinese unieke verbetering: Grote Muur</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
+			<Text>Egyptische unieke verbetering: Sfinx</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+			<Text>Egyptische unieke eenheid: Maryannu wagenboogschutter</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+			<Text>Chinese unieke eenheid: Kruipende tijger</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
+			<Text>Franse unieke verbetering: Château</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
+			<Text>Duitse unieke wijk: Hansa</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
+			<Text>Griekse unieke wijk: Acropolis</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
+			<Text>Griekse unieke eenheid: Hopliet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
+			<Text>Indiase unieke verbetering: Trappenbron</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
+			<Text>Japans uniek gebouw: Elektronicafabriek</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
+			<Text>Japanse unieke eenheid: Samoerai</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
+			<Text>Congolese unieke wijk: Mbanza</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
+			<Text>Noors uniek gebouw: Staafkerk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
+			<Text>Romeinse unieke wijk: Bad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
+			<Text>Romeinse unieke eenheid: Legioen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
+			<Text>Congolese unieke eenheid: Ngao Mbeba</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
+			<Text>Russische unieke wijk: Lavra</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
+			<Text>Scytheense unieke verbetering: Koergan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+			<Text>Scytheense unieke eenheid: Scytheense bereden boogschutter</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
+			<Text>Spaanse unieke verbetering: Missie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
+			<Text>Spaanse unieke eenheid: Conquistador</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
+			<Text>Russische unieke eenheid: Kozak</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
+			<Text>Sumeriaanse unieke verbetering: Ziggoerat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
+			<Text>Sumeriaanse unieke eenheid: Oorlogswagen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
+			<Text>Indiaase unieke eenheid: Varu</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
+			<Text>Engelse unieke eenheid: Sea Dog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
+			<Text>Arabische unieke eenheid: Mammeluk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+			<Text>Franse unieke eenheid: Garde Impériale</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
+			<Text>Duitse unieke eenheid: U-Boot</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
+			<Text>Amerikaanse unieke eenheid: P-51 Mustang</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+			<Text>Braziliaanse unieke eenheid: Minas Geraes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
+			<Text>Noorse unieke eenheid: Berserker</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
+			<Text>Braziliaanse unieke wijk: Straatcarnaval</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
+			<Text>Engelse unieke wijk: Royal Navy Dockyard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
+			<Text>Bandar Seri Begawanese</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
+			<Text>Stadstaat Bandar Seri Begawan</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

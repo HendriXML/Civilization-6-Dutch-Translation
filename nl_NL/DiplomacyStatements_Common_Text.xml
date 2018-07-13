@@ -1,176 +1,176 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_PERSON_CLEO">
-      <Text>Cleopatra van Egypte</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_CLEO">
-      <Text>Gegroet, reiziger. Je moet weten dat je je bevindt in aanwezigheid van een grootheid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_ADVISOR_READY">
-      <Text>Wat zou je willen doen, mijn vazal?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
-      <Text>Verklaar vriendschap</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
-      <Text>Sluit vrede</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
-      <Text>[SIZE_16]Verzoek open grenzen[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
-      <Text>[SIZE_16]Zend delegatie[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
-      <Text>[SIZE_16]Richt residente ambassade op[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
-      <Text>Klaag aan</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
-      <Text>[SIZE_16]Verklaar verrassingsoorlog[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
-      <Text>[SIZE_16]Verklaar formele oorlog[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
-      <Text>[SIZE_16]Verklaar heilige oorlog[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
-      <Text>[SIZE_16]Verklaar bevrijdingsoorlog[NEWLINE][SIZE_12](Geen straf voor oorlogszucht bij inname bevriende steden)[NEWLINE]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
-      <Text>[SIZE_16]Verklaar heroveringsoorlog[NEWLINE][SIZE_12](Geen straf voor oorlogszucht bij inname jouw steden)[NEWLINE]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
-      <Text>[SIZE_16]Verklaar beschermingsoorlog[NEWLINE][SIZE_12](Geen straf voor oorlogszuchtd bij verdediging bondgenoot-stadstaat)[NEWLINE]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
-      <Text>[SIZE_16]Verklaar koloniale oorlog[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
-      <Text>[SIZE_16]Verklaar oorlog van territoriale expansie[NEWLINE][SIZE_12]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
-      <Text>Straf oorlogszucht: {1_WarmongerLevel}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
-      <Text>Kosten {1_Cost} [ICON_Gold] goud</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
-      <Text>Weet je zeker dat je oorlog wilt?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
-      <Text>Ja</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
-      <Text>Nee</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
-      <Text>Sluit deal</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
-      <Text>Doe verzoek</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_IGNORE">
-      <Text>Negeer dit verzoek.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_EXIT">
-      <Text>Tot ziens</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
-      <Text>Stel veiling voor</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_INTRO">
-      <Text>Wat kan ik voor je doen?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_INTRO_AI">
-      <Text>Wat denk je hiervan?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEMAND_INTRO">
-      <Text>Mijn verzoeken moeten worden ingewilligd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
-      <Text>Toon deal</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
-      <Text>Toon verzoek</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
-      <Text>Geen items beschikbaar om te verzoeken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
-      <Text>Geen items beschikbaar om deal over te sluiten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
-      <Text>Beloof me niet te bespioneren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
-      <Text>Beloof je niet te dicht bij mijn steden te vestigen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
-      <Text>Beloof mijn steden niet te bekeren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
-      <Text>Beloof mijn artefacten niet op te graven</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
-      <Text>Kan geen oorlog verklaren: een teamlid is bevriend met of bondgenoot van een teamlid van de speler.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
-      <Text>De doelmacht ligt 2 technologische tijdperken achter je.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
-      <Text>De doelmacht heeft een stad van je bekeerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
-      <Text>De doelmacht heeft een stad veroverd van een van je huidige vrienden of bondgenoten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
-      <Text>De doelmacht heeft de oorlog verklaard van een van je huidige geallieerde stadstaten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
-      <Text>De doelmacht heeft een van je steden veroverd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
-      <Text>Twee van de steden van de doelmacht bevinden zich binnen 10 tegels van de steden van 2 tegenstanders.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] [COLOR_RED] Je voldoet niet aan de voorwaarden voor deze Casus Belli. [ENDCOLOR] [NEWLINE] [{2_CasusBelliDescription}]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] Je hebt een verdedigingspact met deze leider.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet wachten op {2_Turns} beurten na het afwijzen (beschikbaar in {3_Remaining} beurten).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
-      <Text>Niet in staat om {1_ActionType} [NEWLINE] Je hebt {2_GoudRequirement} [ICON_Gold] Gold nodig.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] Je hebt deze speler niet veroordeeld.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet {2_Turns} beurten wachten na het maken van de vrede (beschikbaar in {3_Remaining} beurten).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet wachten tot beurt {2_TurnNumber} om de oorlog aan een belangrijke beschaving in deze game te verklaren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet {2_Turns} beurten wachten na het verklaren van de oorlog (beschikbaar in {3_Remaining} beurten).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
-      <Text>Niet in staat om {1_WarActionType} [NEWLINE] Oorlogen duren voor altijd in deze game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
-      <Text>[NEWLINE][NEWLINE] (Geen straf bij het hernemen vriendschappelijke steden)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
-      <Text>[NEWLINE][NEWLINE] (Geen straf voor het het verdedigen van geallieerde stadstaten)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
-      <Text>[NEWLINE][NEWLINE](Geen straf bij het hernemen van je steden)</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Cleopatra van Egypte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Gegroet, reiziger. Je moet weten dat je je bevindt in aanwezigheid van een grootheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>Wat zou je willen doen, mijn vazal?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Verklaar vriendschap</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Sluit vrede</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Verzoek open grenzen[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Zend delegatie[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Richt residente ambassade op[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Klaag aan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Verklaar verrassingsoorlog[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Verklaar formele oorlog[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Verklaar heilige oorlog[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Verklaar bevrijdingsoorlog[NEWLINE][SIZE_12](Geen straf voor oorlogszucht bij inname bevriende steden)[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Verklaar heroveringsoorlog[NEWLINE][SIZE_12](Geen straf voor oorlogszucht bij inname jouw steden)[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Verklaar beschermingsoorlog[NEWLINE][SIZE_12](Geen straf voor oorlogszuchtd bij verdediging bondgenoot-stadstaat)[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Verklaar koloniale oorlog[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Verklaar oorlog van territoriale expansie[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Straf oorlogszucht: {1_WarmongerLevel}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Kosten {1_Cost} [ICON_Gold] goud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Weet je zeker dat je oorlog wilt?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Ja</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>Nee</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Sluit deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Doe verzoek</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Negeer dit verzoek.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Tot ziens</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Stel veiling voor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>Wat kan ik voor je doen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>Wat denk je hiervan?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>Mijn verzoeken moeten worden ingewilligd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>Toon deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>Toon verzoek</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>Geen items beschikbaar om te verzoeken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>Geen items beschikbaar om deal over te sluiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+			<Text>Beloof me niet te bespioneren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+			<Text>Beloof je niet te dicht bij mijn steden te vestigen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+			<Text>Beloof mijn steden niet te bekeren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+			<Text>Beloof mijn artefacten niet op te graven</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+			<Text>Kan geen oorlog verklaren: een teamlid is bevriend met of bondgenoot van een teamlid van de speler.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
+			<Text>De doelmacht ligt 2 technologische tijdperken achter je.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
+			<Text>De doelmacht heeft een stad van je bekeerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
+			<Text>De doelmacht heeft een stad veroverd van een van je huidige vrienden of bondgenoten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>De doelmacht heeft de oorlog verklaard van een van je huidige geallieerde stadstaten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
+			<Text>De doelmacht heeft een van je steden veroverd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Twee van de steden van de doelmacht bevinden zich binnen 10 tegels van de steden van 2 tegenstanders.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] [COLOR_RED] Je voldoet niet aan de voorwaarden voor deze Casus Belli. [ENDCOLOR] [NEWLINE] [{2_CasusBelliDescription}]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je hebt een verdedigingspact met deze leider.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet wachten op {2_Turns} beurten na het afwijzen (beschikbaar in {3_Remaining} beurten).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+			<Text>Niet in staat om {1_ActionType} [NEWLINE] Je hebt {2_GoudRequirement} [ICON_Gold] Gold nodig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je hebt deze speler niet veroordeeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet {2_Turns} beurten wachten na het maken van de vrede (beschikbaar in {3_Remaining} beurten).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet wachten tot beurt {2_TurnNumber} om de oorlog aan een belangrijke beschaving in deze game te verklaren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet {2_Turns} beurten wachten na het verklaren van de oorlog (beschikbaar in {3_Remaining} beurten).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Oorlogen duren voor altijd in deze game.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE] (Geen straf bij het hernemen vriendschappelijke steden)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE] (Geen straf voor het het verdedigen van geallieerde stadstaten)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Geen straf bij het hernemen van je steden)</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

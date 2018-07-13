@@ -1,491 +1,491 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_CONFIRMATION">
-      <Text>{1_Name}[NEWLINE][NEWLINE]{2_Yield}[NEWLINE]{3_Header}[NEWLINE]{4_Success}[NEWLINE]{5_SuccessEscape}[NEWLINE]{6_Fail}[NEWLINE]{7_FailEscape}[NEWLINE]{8_Capture}[NEWLINE]{9_Killed}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_MISSION_HEADER">
-      <Text>MISSIE-BRIEFING[NEWLINE][NEWLINE]Je missie: {1_Mission}[NEWLINE]Duur: {2_Num} beurten</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_OPERATION_YIELD">
-      <Text>Succes beloont je met {1_Award}.[NEWLINE]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_OPERATION_CHANCES">
-      <Text>Mogelijke uitkomsten:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SUCCESS">
-      <Text>{1_Num}% - Succes</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SUCCESS_ESCAPE">
-      <Text>{1_Num}% - Succes als je uit stad ontsnapt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_FAILURE">
-      <Text>{1_Num}% - Mislukking</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_FAILURE_ESCAPE">
-      <Text>{1_Num}% - Mislukking en moet uit stad ontsnappen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_CAPTURED">
-      <Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spion ingerekend</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_KILLED">
-      <Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spion gedood</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_START_MISSION">
-      <Text>Aangenomen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ABORT_MISSION">
-      <Text>Afbreken</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_HEIST_REWARD">
-      <Text>een Groots Werk uit de wijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_PARTISAN_REWARD">
-      <Text>een opkomst van ontevreden partizanen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SABOTAGE_REWARD">
-      <Text>plunderen van alle gebouwen in de industriewijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SIPHON_REWARD">
-      <Text>de [ICON_Gold] goudoutput van de stad gedurende de volgende {1_Num} beurten</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ROCKETRY_REWARD">
-      <Text>plunderen van de vijandelijke ruimtehavenwijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_TECH_REWARD">
-      <Text>een technologische bespoediging</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_GAIN_SOURCES">
-      <Text>MISSION BRIEFING[NEWLINE][NEWLINE]Je missie: Verkrijg bronnen[NEWLINE]Duur: {1_Num} beurten[NEWLINE][NEWLINE]Als de spion de vereiste tijd heeft besteed aan het vinden van lokale contacten, is deze missie automatisch geslaagd. Het zal de kansen vergroten voor alle spionageactiviteiten en deze stad voor de volgende {2_Duration} beurten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LISTENING_POST">
-      <Text>MISSION BRIEFING[NEWLINE][NEWLINE]Je missie: Afluisterpost[NEWLINE]Duur: {1_Num} beurten[NEWLINE][NEWLINE]Deze missie is autmatisch succesvol. Het zal je diplomatieke zichtbaarheid met 1 niveau verbeteren bij deze beschaving.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PANEL_HEADER">
-      <Text>VOLGORDE ACHTERVOLGING</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CITY_HEADER">
-      <Text>in {1_CityName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_AGENT_LABEL">
-      <Text>Agent:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_NO_LOOT">
-      <Text>Geen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_LOOT_LABEL">
-      <Text>Buit:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_BOOST_LOOT">
-      <Text>{1_TechName}-geheimen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_LABEL">
-      <Text>Achtervolgd door:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_POLICE">
-      <Text>Politie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_COUNTERSPY">
-      <Text>Politie en agent {1_Counterspy}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_HEADER">
-      <Text>Kies hoe je agent probeert te ontsnappen:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_1">
-      <Text>Vliegtuig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_2">
-      <Text>Boot</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_3">
-      <Text>Voertuig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_4">
-      <Text>Te voet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_NO_DISTRICT">
-      <Text>Geen {1_DistrictName} in stad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_TURNS">
-      <Text>Beurten om terug te keren: {1_Turns}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_TOOLTIP">
-      <Text>Kies een ontsnappingsroute uit de stad voor je agent. Politie zal waarschijnlijk snelle uitgangen controleren zoals vliegveld of haven. Te voet ontsnappen is altij de veiligste optie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_1_NAME">
-      <Text>Recruut</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_2_NAME">
-      <Text>Agent</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_3_NAME">
-      <Text>Geheim agent</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_4_NAME">
-      <Text>Meesterspion</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SIPHON_ESTIMATE">
-      <Text>+{1_Amount} [ICON_Gold]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_STEAL_TECH_ESTIMATE">
-      <Text>Steel {1_Amount} {1_Amount : plural 1?boost; other?boosten;} inclusief {2_TechName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_HEADER">
-      <Text>Spionnen voor {1_CivName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_NAME">
-      <Text>NAAM SPION</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_LEVEL">
-      <Text>NIVEAU</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_PROMOTION">
-      <Text>PROMOTIE</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_CITY">
-      <Text>STAD</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_MISSION">
-      <Text>MISSIE</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_TURNS">
-      <Text>BEURTEN RESTEREND</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_NO_MISSION">
-      <Text>geen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_PANEL_HEADER">
-      <Text>SPION INZETTEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_SELECT_A_CITY">
-      <Text>Kies een stad als spionagedoel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_POSSIBLE_MISSIONS">
-      <Text>MOGELIJKE MISSIES:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_CONFIRM_PLACEMENT">
-      <Text>BEVESTIG PLAATSING</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_CANCEL">
-      <Text>ANNULEER</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_CHOOSE_MISSION">
-      <Text>KIES MISSIE</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_GAIN_SOURCES_ACTIVE">
-      <Text>Bronnen vinden actief! ({1_Turns}[Icon_Turn])</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_SUCCESS_BOOSTED">
-      <Text>Missiesucces met bonus</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_NO_BOOST_ACTIVE">
-      <Text>Geen bonus actief</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_TRAVEL_TIME_TOOLTIP">
-      <Text>{1_TravelTime} {1_TravelTime : plural 1?beurt; other?beurten;} om naar stad te reizen[NEWLINE]{2_EstablishTime} {2_EstablishTime : plural 1?beurt; other?beurten;} om je in stad te vestigen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
-      <Text>Vergroot diplomatieke zichtbaarheid met 1 niveau.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GAIN_SOURCES">
-      <Text>Spionnen zullen {1_Levels} {1_Levels : plural 1?niveau; other?niveaus;} hoger opereren gedurende {2_Turns} {2_Turns : plural 1?beurt; other?beurten;}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GREAT_WORK_HEIST">
-      <Text>Steel {1_GreatWorkName} van deze stad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SABOTAGE_PRODUCTION">
-      <Text>Plunder alle gebouwen in het industriegebied.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SIPHON_FUNDS">
-      <Text>Verkrijg de goudopbrenst van {1_CityName} gedurende de duur van de missie. ({2_GoldString})</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_DISRUPT_ROCKETRY">
-      <Text>Maak de ruimtehaven in de stad onklaar.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_RECRUIT_PARTISANS">
-      <Text>Creeer rebellen binnen de stad.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_STEAL_TECH_BOOST">
-      <Text>Steel een technologische bespoediging.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_COUNTERSPY">
-      <Text>Bescherm {1_District} (en alle aangrenzende wijken) tegen vijandelijke spionnen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_BRIEFING">
-      <Text>MISSIEBRIEFING: {1_MissionName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CURRENT_MISSION">
-      <Text>HUIDIGE MISSIE: {1_MissionName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_OBJECTIVE">
-      <Text>MISSIEDOEL</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_OUTCOME">
-      <Text>UITKOMST MISSIE</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_SUCCESS">
-      <Text>SUCCES!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_FAILURE">
-      <Text>GEFAALD</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_DURATION">
-      <Text>MISSIEDUUR</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_TURNS">
-      <Text>{1_NumberOfTurns} {1_NumberOfTurns : plural 1?beurt; other?beurten;}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_TURNS_REMAINING">
-      <Text>Nog {1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_POSSIBLE_OUTCOMES">
-      <Text>MOGELIJKE UITKOMSTEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_OUTCOME_DETAILS">
-      <Text>Onze inlichtingendienst ziet als mogelijkheden:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_SUCCESS_OUTCOME_CHANCE">
-      <Text>Kans op succes</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_FAILURE_OUTCOME_CHANCE">
-      <Text>Kans op mislukking</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CAPTUREDORKILLED_OUTCOME_CHANCE">
-      <Text>Kans te worden opgepakt of gedood</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_DISCOVERED_WARNING">
-      <Text>Indien ONTDEKT zal {1_TargetName} zijn respect voor ons verliezen en een Casus Belli (reden tot oorlog) krijgen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_TARGET">
-      <Text>DOEL</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_ACCEPT_MISSION">
-      <Text>ACCEPTEER MISSIE</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_ABORT_MISSION">
-      <Text>BREEK MISSIE AF!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CANCEL">
-      <Text>ANNULEER</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_GAIN_SOURCES_OUTCOME">
-      <Text>Dit zal je kansen vergroten op welke vervolgoperatie dan ook in deze stad. Er is geen risico voor je spion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_SUCCESSBUTTON">
-      <Text>OK</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_FAILUREBUTTON">
-      <Text>GESNAPT.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_REWARDS">
-      <Text>BELONINGEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_PROMOTIONREADY">
-      <Text>Promotie tot {1_NextRank}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENTREADYFORPROMOTION">
-      <Text>Agent is klaar voor promotie. Gebruik de actieknop om een speciale bonus te kiezen. {1_SpyName} krijgt ook een vergrote kans op succes bij alle toekomstige operaties.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_LOOTREWARD_TITLE">
-      <Text>Gestolen {1_LootName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_LOOTREWARD_DESCRIPTION">
-      <Text>Gelukt {1_LootName} te verkrijgen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CONSEQUENCES">
-      <Text>CONSEQUENTIES</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_RELATIONSHIP_DAMAGED_TITLE">
-      <Text>Relatie beschadigd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_RELATIONSHIP_DAMAGED_DESC">
-      <Text>Onze tegenstander heeft geen respect meer voor ons.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_CAPTURED_TITLE">
-      <Text>Agent gevangengenomen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_CAPTURED_DESC">
-      <Text>{1_AgentName} is gevangengenomen in de stad {2_CityName}. Je kunt proberen te onderhandelen over vrijlating.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_KILLED_TITLE">
-      <Text>Agent gesneuveld</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_KILLED_DESC">
-      <Text>{1_AgentName} is gesneuveld in de stad {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_HEADER">
-      <Text>Operationeel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_SUBHEADER">
-      <Text>OPERATIONEEL ({1_NumberOfSpies}/{2_SpyCapacity})</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_AWAITING_ASSIGNMENT">
-      <Text>Wachten op aanwijzing...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MORE_TURNS">
-      <Text>Nog {1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_HEADER">
-      <Text>Stadsactiviteit</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_SUBHEADER">
-      <Text>STADSACTIVITEIT</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CITY">
-      <Text>Stad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TRANSIT_TO">
-      <Text>Op weg naar {1_DestinationName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED">
-      <Text>Opgepakt door</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_ASK_FOR_TRADE">
-      <Text>Vraag om ruil</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TRAVELING">
-      <Text>Reizend</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_NO_GREAT_WORK_TO_STEAL">
-      <Text>Geen Groots Werk om te stelen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_NO_TECH_BOOST_TO_STEAL">
-      <Text>Geen technologische bespoediging om te stelen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_HEADER">
-      <Text>Missiehistorie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_SUBHEADER">
-      <Text>MISSIEHISTORIE</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES">
-      <Text>GEVANGEN SPIONNEN:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_OFFER_TRADE">
-      <Text>Bied ruil aan</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_VIEW_CITY">
-      <Text>Toon deze stad op de kaart.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TURNS_AGO">
-      <Text>{1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;} geleden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME">
-      <Text>Uitkomst missie:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TARGETACQUIRED">
-      <Text>Doel bereikt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_FAILURE">
-      <Text>Gefaald</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SUCCESS">
-      <Text>Succes</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SPYCAUGHT">
-      <Text>Spion gevangen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SPYKILLED">
-      <Text>Spion gedood!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SPYAPPREHENDED">
-      <Text>Spion aangehouden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_UNDETECTED">
-      <Text>Missie in stad {1_CityName} succesvol en spion niet ontdekt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_UNDETECTED_STOLELOOT">
-      <Text>Onontdekt {1_LootName} gestolen van de stad {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_STOLELOOT">
-      <Text>Na ontwijken ontdekking {1_LootName} gestolen van de stad {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_ESCAPED">
-      <Text>Missie in de stad {1_CityName} was syccesvol en de spion heeft na ontdekking weten te ontsnappen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_CAPTURED">
-      <Text>Missie in de stad {1_CityName} was succesvol, maar de spion is na ontdekking gevangengenomen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_KILLED">
-      <Text>Missie in de stad {1_CityName} was succesvol, maar de spion is na ontdekking gedood.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_UNDETECTED">
-      <Text>Missie in de stad {1_CityName} mislukt, naar de spion is onontdekt gebleven.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_ESCAPED">
-      <Text>Missie in de stad {1_CityName} mislukt, maar de spion heeft na ontdekking weten te ontsnappen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_CAPTURED">
-      <Text>Missie in de stad {1_CityName} mislukt en de spion na ontdekking gevangengenomen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_KILLED">
-      <Text>Missie in de stad {1_CityName} mislukt en de spion na ontdekking gedood.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_GOLD">
-      <Text>{1_AmountOfGold} goud</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_KILLED">
-      <Text>Spion is gesneuveld bij een missie in de stad {1_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_CAPTURED">
-      <Text>Spion is gevangengenomen tijdens een missie in de stad {1_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_NOMISSIONHISTORY">
-      <Text>Geen recente spionagemissies</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_HEADER">
-      <Text>Gevangen spionnen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_SUBHEADER">
-      <Text>GEVANGEN SPIONNEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_LOCATED_IN">
-      <Text>Geplaatst in</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_MORE_TURNS">
-      <Text>Nog {1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_AWAITING_ASSIGNMENT">
-      <Text>In afwachting van toewijzing...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_SPY_RANK">
-      <Text>{1_RankName} (niveau {2_RankLevel})</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_CANCEL_MISSION">
-      <Text>Annuleer missie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_CHOOSE_MISSION">
-      <Text>Kies missie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_CAPTURED_STOLELOOT">
-      <Text>Spion werd gevangen tijdens een missie om {1_Loot} te stelen in de stad {2_CityName}.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_CAPTURED_STOLELOOT">
-      <Text>Missie om {1_Loot} te stelen is mislukt in de stad {2_CityName} en de spion is gevangen nadat deze is gedetecteerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_ESCAPED_STOLELOOT">
-      <Text>Missie om {1_Loot} te stelen is mislukt in de stad {2_CityName}, maar de spy heeft de capture met succes ontdoken nadat ze werd gedetecteerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_KILLED_STOLELOOT">
-      <Text>Missie om te stelen {1_Loot} is mislukt in de stad {2_CityName} en de spion is gedood nadat deze werd gedetecteerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_UNDETECTED_STOLELOOT">
-      <Text>Missie om {1_Loot} te stelen is mislukt in de stad {2_CityName} maar de spion is niet gedetecteerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_KILLED_STOLELOOT">
-      <Text>Spy is gedood tijdens een missie om {1_Loot} in de stad {2_CityName} te stelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_NO_GOLD">
-      <Text>[ICON_Gold] goud</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_CAPTURED_STOLELOOT">
-      <Text>Missie om te stelen {1_Loot} was succesvol in de stad {2_CityName}, maar de spion werd gevangen nadat deze werd gedetecteerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_KILLED_STOLELOOT">
-      <Text>Missie om {1_Loot} te stelen was succesvol in de stad {2_CityName}, maar de spion werd gedood nadat deze werd gedetecteerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SPY_TRADE_DISABLED_AT_WAR">
-      <Text>[COLOR_RED] Handelen voor {1_SpyName} is momenteel niet mogelijk. Je bent in oorlog met {2_CivName}.</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_CONFIRMATION">
+			<Text>{1_Name}[NEWLINE][NEWLINE]{2_Yield}[NEWLINE]{3_Header}[NEWLINE]{4_Success}[NEWLINE]{5_SuccessEscape}[NEWLINE]{6_Fail}[NEWLINE]{7_FailEscape}[NEWLINE]{8_Capture}[NEWLINE]{9_Killed}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_MISSION_HEADER">
+			<Text>MISSIE-BRIEFING[NEWLINE][NEWLINE]Je missie: {1_Mission}[NEWLINE]Duur: {2_Num} beurten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_OPERATION_YIELD">
+			<Text>Succes beloont je met {1_Award}.[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_OPERATION_CHANCES">
+			<Text>Mogelijke uitkomsten:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SUCCESS">
+			<Text>{1_Num}% - Succes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SUCCESS_ESCAPE">
+			<Text>{1_Num}% - Succes als je uit stad ontsnapt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_FAILURE">
+			<Text>{1_Num}% - Mislukking</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_FAILURE_ESCAPE">
+			<Text>{1_Num}% - Mislukking en moet uit stad ontsnappen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_CAPTURED">
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spion ingerekend</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_KILLED">
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Spion gedood</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_START_MISSION">
+			<Text>Aangenomen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ABORT_MISSION">
+			<Text>Afbreken</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_HEIST_REWARD">
+			<Text>een Groots Werk uit de wijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_PARTISAN_REWARD">
+			<Text>een opkomst van ontevreden partizanen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SABOTAGE_REWARD">
+			<Text>plunderen van alle gebouwen in de industriewijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SIPHON_REWARD">
+			<Text>de [ICON_Gold] goudoutput van de stad gedurende de volgende {1_Num} beurten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ROCKETRY_REWARD">
+			<Text>plunderen van de vijandelijke ruimtehavenwijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_TECH_REWARD">
+			<Text>een technologische bespoediging</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_GAIN_SOURCES">
+			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Je missie: Verkrijg bronnen[NEWLINE]Duur: {1_Num} beurten[NEWLINE][NEWLINE]Als de spion de vereiste tijd heeft besteed aan het vinden van lokale contacten, is deze missie automatisch geslaagd. Het zal de kansen vergroten voor alle spionageactiviteiten en deze stad voor de volgende {2_Duration} beurten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LISTENING_POST">
+			<Text>MISSION BRIEFING[NEWLINE][NEWLINE]Je missie: Afluisterpost[NEWLINE]Duur: {1_Num} beurten[NEWLINE][NEWLINE]Deze missie is autmatisch succesvol. Het zal je diplomatieke zichtbaarheid met 1 niveau verbeteren bij deze beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PANEL_HEADER">
+			<Text>VOLGORDE ACHTERVOLGING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CITY_HEADER">
+			<Text>in {1_CityName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_AGENT_LABEL">
+			<Text>Agent:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_NO_LOOT">
+			<Text>Geen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_LOOT_LABEL">
+			<Text>Buit:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_BOOST_LOOT">
+			<Text>{1_TechName}-geheimen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_LABEL">
+			<Text>Achtervolgd door:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_POLICE">
+			<Text>Politie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_COUNTERSPY">
+			<Text>Politie en agent {1_Counterspy}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_HEADER">
+			<Text>Kies hoe je agent probeert te ontsnappen:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_1">
+			<Text>Vliegtuig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_2">
+			<Text>Boot</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_3">
+			<Text>Voertuig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_4">
+			<Text>Te voet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_NO_DISTRICT">
+			<Text>Geen {1_DistrictName} in stad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_TURNS">
+			<Text>Beurten om terug te keren: {1_Turns}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_TOOLTIP">
+			<Text>Kies een ontsnappingsroute uit de stad voor je agent. Politie zal waarschijnlijk snelle uitgangen controleren zoals vliegveld of haven. Te voet ontsnappen is altij de veiligste optie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_1_NAME">
+			<Text>Recruut</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_2_NAME">
+			<Text>Agent</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_3_NAME">
+			<Text>Geheim agent</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_4_NAME">
+			<Text>Meesterspion</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SIPHON_ESTIMATE">
+			<Text>+{1_Amount} [ICON_Gold]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_STEAL_TECH_ESTIMATE">
+			<Text>Steel {1_Amount} {1_Amount : plural 1?boost; other?boosten;} inclusief {2_TechName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_HEADER">
+			<Text>Spionnen voor {1_CivName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_NAME">
+			<Text>NAAM SPION</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_LEVEL">
+			<Text>NIVEAU</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_PROMOTION">
+			<Text>PROMOTIE</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_CITY">
+			<Text>STAD</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_MISSION">
+			<Text>MISSIE</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_PANEL_TURNS">
+			<Text>BEURTEN RESTEREND</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPANEL_NO_MISSION">
+			<Text>geen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_PANEL_HEADER">
+			<Text>SPION INZETTEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_SELECT_A_CITY">
+			<Text>Kies een stad als spionagedoel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_POSSIBLE_MISSIONS">
+			<Text>MOGELIJKE MISSIES:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_CONFIRM_PLACEMENT">
+			<Text>BEVESTIG PLAATSING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_CANCEL">
+			<Text>ANNULEER</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_CHOOSE_MISSION">
+			<Text>KIES MISSIE</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_GAIN_SOURCES_ACTIVE">
+			<Text>Bronnen vinden actief! ({1_Turns}[Icon_Turn])</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_SUCCESS_BOOSTED">
+			<Text>Missiesucces met bonus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_NO_BOOST_ACTIVE">
+			<Text>Geen bonus actief</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_TRAVEL_TIME_TOOLTIP">
+			<Text>{1_TravelTime} {1_TravelTime : plural 1?beurt; other?beurten;} om naar stad te reizen[NEWLINE]{2_EstablishTime} {2_EstablishTime : plural 1?beurt; other?beurten;} om je in stad te vestigen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
+			<Text>Vergroot diplomatieke zichtbaarheid met 1 niveau.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GAIN_SOURCES">
+			<Text>Spionnen zullen {1_Levels} {1_Levels : plural 1?niveau; other?niveaus;} hoger opereren gedurende {2_Turns} {2_Turns : plural 1?beurt; other?beurten;}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GREAT_WORK_HEIST">
+			<Text>Steel {1_GreatWorkName} van deze stad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SABOTAGE_PRODUCTION">
+			<Text>Plunder alle gebouwen in het industriegebied.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SIPHON_FUNDS">
+			<Text>Verkrijg de goudopbrenst van {1_CityName} gedurende de duur van de missie. ({2_GoldString})</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_DISRUPT_ROCKETRY">
+			<Text>Maak de ruimtehaven in de stad onklaar.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_RECRUIT_PARTISANS">
+			<Text>Creeer rebellen binnen de stad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_STEAL_TECH_BOOST">
+			<Text>Steel een technologische bespoediging.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGECHOOSER_COUNTERSPY">
+			<Text>Bescherm {1_District} (en alle aangrenzende wijken) tegen vijandelijke spionnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_BRIEFING">
+			<Text>MISSIEBRIEFING: {1_MissionName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CURRENT_MISSION">
+			<Text>HUIDIGE MISSIE: {1_MissionName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_OBJECTIVE">
+			<Text>MISSIEDOEL</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_OUTCOME">
+			<Text>UITKOMST MISSIE</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_SUCCESS">
+			<Text>SUCCES!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_FAILURE">
+			<Text>GEFAALD</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_MISSION_DURATION">
+			<Text>MISSIEDUUR</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_TURNS">
+			<Text>{1_NumberOfTurns} {1_NumberOfTurns : plural 1?beurt; other?beurten;}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_TURNS_REMAINING">
+			<Text>Nog {1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_POSSIBLE_OUTCOMES">
+			<Text>MOGELIJKE UITKOMSTEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_OUTCOME_DETAILS">
+			<Text>Onze inlichtingendienst ziet als mogelijkheden:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_SUCCESS_OUTCOME_CHANCE">
+			<Text>Kans op succes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_FAILURE_OUTCOME_CHANCE">
+			<Text>Kans op mislukking</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CAPTUREDORKILLED_OUTCOME_CHANCE">
+			<Text>Kans te worden opgepakt of gedood</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_DISCOVERED_WARNING">
+			<Text>Indien ONTDEKT zal {1_TargetName} zijn respect voor ons verliezen en een Casus Belli (reden tot oorlog) krijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_TARGET">
+			<Text>DOEL</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_ACCEPT_MISSION">
+			<Text>ACCEPTEER MISSIE</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_ABORT_MISSION">
+			<Text>BREEK MISSIE AF!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CANCEL">
+			<Text>ANNULEER</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_GAIN_SOURCES_OUTCOME">
+			<Text>Dit zal je kansen vergroten op welke vervolgoperatie dan ook in deze stad. Er is geen risico voor je spion.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_SUCCESSBUTTON">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_FAILUREBUTTON">
+			<Text>GESNAPT.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_REWARDS">
+			<Text>BELONINGEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_PROMOTIONREADY">
+			<Text>Promotie tot {1_NextRank}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENTREADYFORPROMOTION">
+			<Text>Agent is klaar voor promotie. Gebruik de actieknop om een speciale bonus te kiezen. {1_SpyName} krijgt ook een vergrote kans op succes bij alle toekomstige operaties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_LOOTREWARD_TITLE">
+			<Text>Gestolen {1_LootName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_LOOTREWARD_DESCRIPTION">
+			<Text>Gelukt {1_LootName} te verkrijgen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_CONSEQUENCES">
+			<Text>CONSEQUENTIES</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_RELATIONSHIP_DAMAGED_TITLE">
+			<Text>Relatie beschadigd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_RELATIONSHIP_DAMAGED_DESC">
+			<Text>Onze tegenstander heeft geen respect meer voor ons.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_CAPTURED_TITLE">
+			<Text>Agent gevangengenomen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_CAPTURED_DESC">
+			<Text>{1_AgentName} is gevangengenomen in de stad {2_CityName}. Je kunt proberen te onderhandelen over vrijlating.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_KILLED_TITLE">
+			<Text>Agent gesneuveld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEPOPUP_AGENT_KILLED_DESC">
+			<Text>{1_AgentName} is gesneuveld in de stad {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_HEADER">
+			<Text>Operationeel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_SUBHEADER">
+			<Text>OPERATIONEEL ({1_NumberOfSpies}/{2_SpyCapacity})</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_AWAITING_ASSIGNMENT">
+			<Text>Wachten op aanwijzing...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MORE_TURNS">
+			<Text>Nog {1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_HEADER">
+			<Text>Stadsactiviteit</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_SUBHEADER">
+			<Text>STADSACTIVITEIT</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CITY">
+			<Text>Stad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TRANSIT_TO">
+			<Text>Op weg naar {1_DestinationName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED">
+			<Text>Opgepakt door</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_ASK_FOR_TRADE">
+			<Text>Vraag om ruil</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TRAVELING">
+			<Text>Reizend</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_NO_GREAT_WORK_TO_STEAL">
+			<Text>Geen Groots Werk om te stelen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_NO_TECH_BOOST_TO_STEAL">
+			<Text>Geen technologische bespoediging om te stelen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_HEADER">
+			<Text>Missiehistorie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_SUBHEADER">
+			<Text>MISSIEHISTORIE</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES">
+			<Text>GEVANGEN SPIONNEN:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_OFFER_TRADE">
+			<Text>Bied ruil aan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_VIEW_CITY">
+			<Text>Toon deze stad op de kaart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TURNS_AGO">
+			<Text>{1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;} geleden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME">
+			<Text>Uitkomst missie:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_TARGETACQUIRED">
+			<Text>Doel bereikt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_FAILURE">
+			<Text>Gefaald</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SUCCESS">
+			<Text>Succes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SPYCAUGHT">
+			<Text>Spion gevangen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SPYKILLED">
+			<Text>Spion gedood!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_SPYAPPREHENDED">
+			<Text>Spion aangehouden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_UNDETECTED">
+			<Text>Missie in stad {1_CityName} succesvol en spion niet ontdekt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_UNDETECTED_STOLELOOT">
+			<Text>Onontdekt {1_LootName} gestolen van de stad {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_STOLELOOT">
+			<Text>Na ontwijken ontdekking {1_LootName} gestolen van de stad {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_ESCAPED">
+			<Text>Missie in de stad {1_CityName} was syccesvol en de spion heeft na ontdekking weten te ontsnappen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_CAPTURED">
+			<Text>Missie in de stad {1_CityName} was succesvol, maar de spion is na ontdekking gevangengenomen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_KILLED">
+			<Text>Missie in de stad {1_CityName} was succesvol, maar de spion is na ontdekking gedood.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_UNDETECTED">
+			<Text>Missie in de stad {1_CityName} mislukt, naar de spion is onontdekt gebleven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_ESCAPED">
+			<Text>Missie in de stad {1_CityName} mislukt, maar de spion heeft na ontdekking weten te ontsnappen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_CAPTURED">
+			<Text>Missie in de stad {1_CityName} mislukt en de spion na ontdekking gevangengenomen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_KILLED">
+			<Text>Missie in de stad {1_CityName} mislukt en de spion na ontdekking gedood.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_GOLD">
+			<Text>{1_AmountOfGold} goud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_KILLED">
+			<Text>Spion is gesneuveld bij een missie in de stad {1_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_CAPTURED">
+			<Text>Spion is gevangengenomen tijdens een missie in de stad {1_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_NOMISSIONHISTORY">
+			<Text>Geen recente spionagemissies</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_HEADER">
+			<Text>Gevangen spionnen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_SUBHEADER">
+			<Text>GEVANGEN SPIONNEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_LOCATED_IN">
+			<Text>Geplaatst in</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_MORE_TURNS">
+			<Text>Nog {1_RemainingTurns} {1_RemainingTurns : plural 1?beurt; other?beurten;}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_AWAITING_ASSIGNMENT">
+			<Text>In afwachting van toewijzing...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_SPY_RANK">
+			<Text>{1_RankName} (niveau {2_RankLevel})</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_CANCEL_MISSION">
+			<Text>Annuleer missie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_UNITPANEL_ESPIONAGE_CHOOSE_MISSION">
+			<Text>Kies missie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_CAPTURED_STOLELOOT">
+			<Text>Spion werd gevangen tijdens een missie om {1_Loot} te stelen in de stad {2_CityName}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_CAPTURED_STOLELOOT">
+			<Text>Missie om {1_Loot} te stelen is mislukt in de stad {2_CityName} en de spion is gevangen nadat deze is gedetecteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_ESCAPED_STOLELOOT">
+			<Text>Missie om {1_Loot} te stelen is mislukt in de stad {2_CityName}, maar de spy heeft de capture met succes ontdoken nadat ze werd gedetecteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_KILLED_STOLELOOT">
+			<Text>Missie om te stelen {1_Loot} is mislukt in de stad {2_CityName} en de spion is gedood nadat deze werd gedetecteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_UNDETECTED_STOLELOOT">
+			<Text>Missie om {1_Loot} te stelen is mislukt in de stad {2_CityName} maar de spion is niet gedetecteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_KILLED_STOLELOOT">
+			<Text>Spy is gedood tijdens een missie om {1_Loot} in de stad {2_CityName} te stelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_NO_GOLD">
+			<Text>[ICON_Gold] goud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_CAPTURED_STOLELOOT">
+			<Text>Missie om te stelen {1_Loot} was succesvol in de stad {2_CityName}, maar de spion werd gevangen nadat deze werd gedetecteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_KILLED_STOLELOOT">
+			<Text>Missie om {1_Loot} te stelen was succesvol in de stad {2_CityName}, maar de spion werd gedood nadat deze werd gedetecteerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_SPY_TRADE_DISABLED_AT_WAR">
+			<Text>[COLOR_RED] Handelen voor {1_SpyName} is momenteel niet mogelijk. Je bent in oorlog met {2_CivName}.</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

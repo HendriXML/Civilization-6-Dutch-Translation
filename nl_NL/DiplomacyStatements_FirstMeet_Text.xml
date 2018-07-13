@@ -2,61 +2,61 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MVEMBA_ANY">
-			<Text>I am Mvemba a Nzinga and I greet you as a friend. I can see you are blessed by God. Are you here to share your enlightenment?</Text>
+			<Text>Ik ben Mvemba een Nzinga en ik groet je als een vriend. Ik kan zien dat je gezegend bent door God. Ben je hier om je verlichting te delen?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I am Catherine, the Queen Mother of France, and I welcome you to the realm. I do so look forward to learning all there is to know about you.</Text>
+			<Text>Ik ben Catherine, de koningin-moeder van Frankrijk, en ik verwelkom je in het rijk. Ik kijk er echt naar uit om alles te leren wat er over u te weten valt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY">
-			<Text>I am Isis reborn, I am the living Nile. I am Cleopatra and an ally, if you are worthy.</Text>
+			<Text>Ik ben Isis herboren, ik ben de levende Nijl. Ik ben Cleopatra en een bondgenoot, als je het waard bent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_BARBAROSSA_ANY">
-			<Text>Greetings. I am the Holy Roman Emperor Frederick, King of Germany, Italy, Burgundy, and many others. I trust that you will rule your lands as I do:  through might.</Text>
+			<Text>Groeten. Ik ben de heilige Romeinse keizer Frederik, koning van Duitsland, Italië, Bourgondië en vele anderen. Ik vertrouw erop dat u uw land zult regeren zoals ik: door macht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GANDHI_ANY">
-			<Text>Hello, I am Mohandas Gandhi. My people call me Bapu, but please, call me friend.</Text>
+			<Text>Hallo, ik ben Mohandas Gandhi. Mijn mensen noemen me Bapu, maar bel me alsjeblieft alsjeblieft.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GILGAMESH_ANY">
-			<Text>I am Gilgamesh of Sumeria and King of Uruk. Do not be afraid… I am good to my friends.</Text>
+			<Text>Ik ben Gilgamesj van Sumeria en koning van Uruk. Wees niet bang ... Ik ben goed voor mijn vrienden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY">
-			<Text>I am Gorgo, Queen of Sparta and leader of the Greeks. Who are you? What victories can you speak of?</Text>
+			<Text>Ik ben Gorgo, koningin van Sparta en leider van de Grieken. Wie ben je? Over welke overwinningen kun je spreken?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY">
-			<Text>Harald Sigurdsson stands before you: a Viking unlike any the seas and lands have ever known. Hah, are you afraid?</Text>
+			<Text>Harald Sigurdsson staat voor je: een Viking die anders dan de zeeën en landen ooit hebben gekend. Hah, ben je bang?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY">
-			<Text>Hello, I am Hojo Tokimune of Japan, a humble disciple of Bushido.</Text>
+			<Text>Hallo, ik ben Hojo Tokimune van Japan, een bescheiden volgeling van Bushido.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PEDRO_ANY">
-			<Text>Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.</Text>
+			<Text>Goede dag. Het is een eer om je persoonlijk te ontmoeten. Het lijkt erop dat grote geesten elkaar toch aantrekken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY">
-			<Text>Hello, I am Pericles of Athens and I greet you on behalf of the Democracy. I trust you’ll let me conduct my business with these neutral parties?</Text>
+			<Text>Hallo, ik ben Pericles van Athene en ik groet u namens de democratie. Ik vertrouw erop dat je me laat zaken doen met deze neutrale partijen?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY">
-			<Text>Hello, I am Tsar Peter. So, a cultured leader such as yourself must enjoy the finer things in life. Are you fond of art as well?</Text>
+			<Text>Hallo, ik ben tsaar Peter. Dus, een beschaafde leider zoals jijzelf moet genieten van de fijnere dingen in het leven. Ben je ook dol op kunst?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_PHILIP_II_ANY">
-			<Text>I am the King of Spain, Portugal, Sardinia and Sicily, Naples, Duke of Milan, etc., but most importantly, I am a devout follower of the one, true religion. I hope for your sake you are as well.</Text>
+			<Text>Ik ben de koning van Spanje, Portugal, Sardinië en Sicilië, Napels, hertog van Milaan, enz., Maar het belangrijkste is dat ik een vrome volgeling ben van die ene ware religie. Ik hoop voor jou dat je dat ook bent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY">
-			<Text>Why do you come before the Immortal Son of Heaven, the Great Qin Shi Huang?</Text>
+			<Text>Waarom kom je voor de Onsterfelijke Zoon van de Hemel, de Grote Qin Shi Huang?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_SALADIN_ANY">
-			<Text>By the grace of the one God, the powerful, the victorious, the everlasting of whose Kingdom there is no end, I greet you, my sincere friend.</Text>
+			<Text>Bij de gratie van de ene God, de machtige, de zegevierende, de eeuwige wiens koninkrijk er geen einde is, groet ik u, mijn oprechte vriend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ANY">
-			<Text>Welcome to the United States of America. If you conduct yourself well, you can consider us friends.</Text>
+			<Text>Welkom in de Verenigde Staten van Amerika. Als je je goed gedraagt, kun je ons vrienden noemen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMYRIS_ANY">
-			<Text>Let it be known between us: I will repay treachery with blood!  But, if you are a true friend, we will have peace.</Text>
+			<Text>Laat het tussen ons bekend zijn: ik zal verraad met bloed vergelden! Maar als u een echte vriend bent, zullen we vrede hebben.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY">
-			<Text>Hail, stranger. I am the Imperator Caesar Trajan of far-reaching Rome. Who are you and what lands can you claim as your own?</Text>
+			<Text>Heil, vreemdeling. Ik ben de Imperator Caesar Trajanus van het verreikende Rome. Wie ben jij en welke landen kun jij als jouw eigendom claimen?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY">
-			<Text>Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.</Text>
+			<Text>Groeten. Wij zijn bij de gratie van God, Victoria, koningin van het Verenigd Koninkrijk van Groot-Brittannië en Ierland. En binnenkort, durf ik te zeggen, het rijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY">
 			<Text>Gegroet, reiziger. Weet dat je je in het gezelschap bevindt van grootsheid!</Text>
@@ -68,64 +68,64 @@
 			<Text>Leuk je ontmoet te hebben, vreemdeling, maar we hebben het te druk om te blijven kletsen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
-			<Text>Before we continue, come worship with me at our nearby city. Then we can enjoy a meal of chicken moambé.</Text>
+			<Text>Voordat we verder gaan, kom aanbidding met me in onze nabijgelegen stad. Dan kunnen we genieten van een maaltijd van kip moambé.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>You have not lived until you have had our delicacies of food and drink. And I can show you how to use a fork, if you wish.</Text>
+			<Text>Je hebt niet geleefd totdat je onze lekkernijen van eten en drinken hebt gehad. En ik kan je laten zien hoe je een vork gebruikt, als je dat wilt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY">
-			<Text>We have a city nearby. Would you like to visit? I'd like to introduce you to our boardgame, Senet.</Text>
+			<Text>We hebben een stad in de buurt. Zou je willen bezoeken? Ik wil je graag laten kennismaken met ons bordspel, Senet.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BARBAROSSA_ANY">
-			<Text>As the Holy Roman Emperor, I welcome you to our land. If you wish, you can see some of its glory in the nearest city. Unless, of course, they are rebelling again. </Text>
+			<Text>Als de heilige Romeinse keizer heet ik je welkom op ons land. Als u wilt, kunt u een deel van zijn glorie zien in de dichtstbijzijnde stad. Tenzij ze natuurlijk opnieuw rebelleren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GANDHI_ANY">
-			<Text>Come to our nearest city. We can listen to the wisdom of Vedic poetry, and perhaps learn something.</Text>
+			<Text>Kom naar onze dichtstbijzijnde stad. We kunnen luisteren naar de wijsheid van de Vedische poëzie, en misschien iets leren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GILGAMESH_ANY">
-			<Text>The glory of Sumer is yours to see, if you wish: an ancient tradition of arts and sciences, Ziggurats too great to behold!</Text>
+			<Text>De glorie van Sumerië is voor jou om te zien, als je wilt: een oude traditie van kunst en wetenschap, Ziggurats te groot om te aanschouwen!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORGO_ANY">
-			<Text>We have a city nearby. Would you like to visit and sample our hearty black broth?</Text>
+			<Text>We hebben een stad in de buurt. Wilt u onze stevige zwarte bouillon bezoeken en proeven?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY">
-			<Text>Tell me, friend: would you like to visit our nearby city? It is no Bilskirnir, but it is nice.</Text>
+			<Text>Vertel me, vriend: wil je onze nabijgelegen stad bezoeken? Het is geen Bilskirnir, maar het is leuk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
-			<Text>I would be honored if you joined me for the ōban in our nearby city. You do like jellyfish aemono, yes?</Text>
+			<Text>Ik zou vereerd zijn als je bij mij zou komen voor de oban in onze nabijgelegen stad. Je houdt wel van kwal Aemono, ja?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PEDRO_ANY">
-			<Text>Come to Brasil! Do you know how to dance samba? It doesn’t matter, you will enjoy the Carnival regardless.</Text>
+			<Text>Kom naar Brazilie! Weet jij hoe je samba danst? Het maakt niet uit, je zult het carnaval zeker leuk vinden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
-			<Text>Would you care to visit our nearby metropolis? We could debate politics before enjoying the theatre.</Text>
+			<Text>Wilt u onze nabijgelegen metropool bezoeken? We zouden de politiek kunnen bespreken voordat we van het theater kunnen genieten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
-			<Text>Come, let me show you my nearby city. Afterwards we can attend a ball at a beautiful dacha in the countryside.</Text>
+			<Text>Kom, laat me je mijn stad in de buurt laten zien. Daarna kunnen we een bal bijwonen in een prachtige datsja op het platteland.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PHILIP_II_ANY">
-			<Text>Would you like to see a bullfight? There is no spectacle like it. Come to my nearby city and see for yourself.</Text>
+			<Text>Wil je een stierengevecht zien? Er is geen spektakel zoals. Kom naar mijn nabijgelegen stad en ontdek het zelf.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY">
-			<Text>We have a city nearby. Would you like to visit? Our sculptors are getting quite good at working in terracotta.</Text>
+			<Text>We hebben een stad in de buurt. Zou je willen bezoeken? Onze beeldhouwers worden best goed in het werken in terracotta.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SALADIN_ANY">
-			<Text>I am honored to offer you the hospitality of our cities: the finest arts, the most delectable feasts, and the melodious adhan heard throughout. Would you care to visit?</Text>
+			<Text>Ik ben vereerd je de gastvrijheid van onze steden te bieden: de beste kunst, de meest verrukkelijke feesten en de melodieuze adhan die je overal hoort. Zou je willen bezoeken?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY">
-			<Text>We have a city nearby. Would you like to visit? I could show you the stuffed bears that are now so popular.</Text>
+			<Text>We hebben een stad in de buurt. Zou je willen bezoeken? Ik zou je de gevulde beren kunnen laten zien die nu zo populair zijn.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMYRIS_ANY">
-			<Text>We have a city nearby. Would you like to visit? We could fit you for one of our pointy hats.</Text>
+			<Text>We hebben een stad in de buurt. Zou je willen bezoeken? We kunnen u geschikt maken voor een van onze puntige hoeden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
-			<Text>The Empire, of course, has a city nearby. Will you come, see, and be conquered by its beauty?</Text>
+			<Text>Het rijk heeft natuurlijk een stad in de buurt. Wilt u komen, zien en overwinnen door zijn schoonheid?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
-			<Text>It is our distinct privilege to extend to you an invitation to visit the realm, which I imagine is rather simple due to our many colonies, of course.</Text>
+			<Text>Het is ons unieke voorrecht om u een uitnodiging te geven om het rijk te bezoeken, wat naar ik aanneem vrij eenvoudig is vanwege onze vele koloniën, natuurlijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY">
-			<Text>We have a city nearby. Would you like to visit? You could attend our upcoming celebration.</Text>
+			<Text>We hebben een stad in de buurt. Zou je willen bezoeken? Je zou ons aanstaande feest kunnen bijwonen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT">
 			<Text>We zouden graag je gastvrijheid beproeven.</Text>
@@ -143,61 +143,61 @@
 			<Text>Nou en of. Het doet me plezier je groeiende stad van dichtbij te kunnen bekijken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
-			<Text>Yes, yes. This is good for us.</Text>
+			<Text>Ja, ja. Dit is goed voor ons.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
+			<Text>In elk geval. Het zal een genoegen zijn om je groeiende stad van dichtbij te zien.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
-			<Text>Very well.</Text>
+			<Text>Erg goed.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Bedankt vriend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Bedankt vriend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
-			<Text>Yes, we accept.</Text>
+			<Text>Ja, we accepteren het.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
-			<Text>Very well.</Text>
+			<Text>Erg goed.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
-			<Text>Thank you, my friend.</Text>
+			<Text>Bedankt mijn Vriend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Bedankt vriend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
-			<Text>Yes. You have my gratitude.</Text>
+			<Text>Ja. Je hebt mijn dankbaarheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
-			<Text>On behalf of the people, yes.</Text>
+			<Text>Namens de mensen, ja.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
-			<Text>Yes, good.</Text>
+			<Text>Ja goed.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY">
-			<Text>May the Lord bless you.</Text>
+			<Text>God zegene je.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
-			<Text>This is acceptable.</Text>
+			<Text>Dit is acceptabel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
-			<Text>A fruitful offer. May Allah bless you.</Text>
+			<Text>Een vruchtbare aanbieding. Moge Allah je zegenen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
-			<Text>I can't say no to that.</Text>
+			<Text>Ik kan daar geen nee tegen zeggen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
-			<Text>Very good.</Text>
+			<Text>Erg goed.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TRAJAN_ANY">
-			<Text>It is acceptable.</Text>
+			<Text>Het is acceptabel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
-			<Text>We find this agreeable.</Text>
+			<Text>We vinden dit prettig.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE">
 			<Text>Het is een eer je te ontmoeten.</Text>
@@ -209,61 +209,61 @@
 			<Text>Geen van ons staat te juichen, maar misschien kunnen we onze thuislanden op elkaars landkaart markeren?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
-			<Text>Let us exchange information as we exchange wisdom. Tell me of your capital. Is it a holy city?</Text>
+			<Text>Laten we informatie uitwisselen terwijl we wijsheid uitwisselen. Vertel me over je kapitaal. Is het een heilige stad?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I am enamored with architecture. Tell me, does your capital have any triumphant arches, or large metal towers?</Text>
+			<Text>Ik ben verliefd op architectuur. Vertel me, heeft jouw hoofdstad triomfantelijke bogen of grote metalen torens?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
-			<Text>Alexandria is the home of Pharaohs, my home. I can tell you more if you tell me of your capital.</Text>
+			<Text>Alexandrië is het huis van farao's, mijn thuis. Ik kan je meer vertellen als je me vertelt over je kapitaal.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
-			<Text>I will show you our great capital if you tell me how yours can possibly compare to Germany’s seat of power.</Text>
+			<Text>Ik zal je onze grote hoofdstad laten zien als je me vertelt hoe jouw jouw kan vergelijken met de machts zetel van Duitsland.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
-			<Text>I enjoy travel, perhaps I will one day visit your capital. Is it far? Would you tell me about it?</Text>
+			<Text>Ik geniet van reizen, misschien zal ik op een dag je hoofdstad bezoeken. Is het ver? Zou je me erover vertellen?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
-			<Text>None may pass the walls of Uruk without my permission, but I will tell you of it, if you tell me of your capital.</Text>
+			<Text>Niemand mag de muren van Uruk passeren zonder mijn toestemming, maar ik zal je erover vertellen, als je me vertelt over je kapitaal.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
-			<Text>What is your capital like? Tell me, and I will tell you of Sparta.</Text>
+			<Text>Hoe ziet jouw kapitaal eruit? Vertel het me, en ik zal je over Sparta vertellen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
-			<Text>I have travelled far and wide, but I have never seen your capital. Tell me of it.</Text>
+			<Text>Ik heb heinde en verre gereisd, maar ik heb je kapitaal nooit gezien. Vertel me erover.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
-			<Text>I would like to exchange information about our capitals. Ours is as the Pure Land. What is yours like?</Text>
+			<Text>Ik wil graag informatie uitwisselen over onze hoofdsteden. Onze is als het zuivere land. Hoe ziet de jouwe eruit?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PEDRO_ANY">
-			<Text>Let us exchange diplomatic courtesies. Tell me of your capital, and I will tell you of mine.</Text>
+			<Text>Laten we diplomatieke beleefdheden uitwisselen. Vertel me over je hoofdstad, en ik zal je over de mijne vertellen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
-			<Text>Athens is a glorious metropolis. What is your capital like? Come, let’s exchange information.</Text>
+			<Text>Athene is een glorieuze metropool. Hoe ziet jouw kapitaal eruit? Kom, laten we informatie uitwisselen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
-			<Text>Would you like to exchange information of our capitals? Mine is a beacon of progress, but I do not know yours.</Text>
+			<Text>Wilt u informatie uitwisselen over onze hoofdsteden? De mijne is een baken van vooruitgang, maar ik ken de uwe niet.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
-			<Text>Would you like to hear of my capital? Madrid is the most beautiful of cities. Is your capital beautiful as well?</Text>
+			<Text>Zou je willen horen van mijn hoofdstad? Madrid is de mooiste van steden. Is jouw hoofdstad ook mooi?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
-			<Text>You have seen some of our magnificence. Is your capital even half as grand as ours?</Text>
+			<Text>Je hebt sommige van onze pracht gezien. Is uw kapitaal zelfs half zo groot als het onze?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
-			<Text>Come, let us exchange information about our capitals. I invite you to tell me of your people, and I am happy to tell you of mine.</Text>
+			<Text>Kom, laten we informatie uitwisselen over onze hoofdsteden. Ik nodig je uit om me over je mensen te vertellen, en ik ben blij dat ik je over de mijne vertel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
-			<Text>I’d like to exchange information about our capitals; promote free trade between our nations, and all that.</Text>
+			<Text>Ik wil graag informatie uitwisselen over onze hoofdsteden; bevorder vrije handel tussen onze naties, en zo.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
-			<Text>Yes, my people are nomadic, but we still have a magnificent capital. And you?</Text>
+			<Text>Ja, mijn mensen zijn nomadisch, maar we hebben nog steeds een prachtige hoofdstad. En jij?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
-			<Text>Tell me of your capital. Was it founded by lost Trojans? Or children raised by wolves?</Text>
+			<Text>Vertel me over je kapitaal. Is het gesticht door verloren Trojaanse paarden? Of kinderen opgevoed door wolven?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
-			<Text>In the interest of our political relationship, we would like to know more about your capital… in exchange for information on ours, of course.</Text>
+			<Text>In het belang van onze politieke relatie willen we graag meer weten over uw kapitaal ... in ruil voor informatie over die van ons natuurlijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
 			<Text>Uitwisseling van informatie over onze hoofdsteden is een geweldig idee; het zal helpen handel te promoten.</Text>

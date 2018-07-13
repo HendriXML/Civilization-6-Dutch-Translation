@@ -1,176 +1,176 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY">
-      <Text>Hoe durf je! Alles wat je dierbaar is zal tot as vergaan!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MVEMBA_ANY">
-      <Text>We zijn niet onbekend met oorlog. Je bent van God’s pad afgeweken en dat zullen we nu corrigeren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-      <Text>Je waagt het mijn soevereine rijk aan te vallen? Zelfs Nostradamus had dit volgens mij niet kunnen voorspellen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
-      <Text>Hah! Osiris zal mijn vijanden graag verwelkomen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-      <Text>Ik heb vijanden verslagen die tienmaal sterker waren dan jij. Je bent er alleen een voor de statistiek.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GANDHI_ANY">
-      <Text>Mijn pogingen om geweld te vermijden zijn mislukt. Oog om oog alleen verblindt de wereld.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GILGAMESH_ANY">
-      <Text>Ik zal je graag je laatste adem horen uitblazen wanneer je getuige bent van de vernietiging van je volk.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GORGO_ANY">
-      <Text>Je weet zeker niet dat Spartanen altijd met hun schild terugkeren, of er bovenop.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARDRADA_ANY">
-      <Text>Dit zal een mooie sage opleveren! De dichters zullen mijn heldhaftigheid bezingen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HOJO_ANY">
-      <Text>De Goddelijke Wind zal ons beschermen en jij zult vallen, net als alle anderen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PEDRO_ANY">
-      <Text>Je zult zien hoe nutteloos dit voor jou gaat uitpakken, toch?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PERICLES_ANY">
-      <Text>Soldaten zijn geen bomen die, wanneer vernield, gemakkelijk kunnen worden vervangen. </Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
-      <Text>Je oorlog is hopeloos. Je hebt niets van de geschiedenis geleerd. Verovering van Rusland is onmogelijk. Wie leeft bij het zwaard, sterft bij het zwaard!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-      <Text>Je denkt dat jouw leger vergelijkbaar is met mijn armada… met de macht van mijn rijk? Je vergist je gruwelijk.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY">
-      <Text>Je hebt om oorlog gevraagd en die krijg je ook van ons.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SALADIN_ANY">
-      <Text>Ik waarschuw je tegen je gewoonte van bloedvergieten. Bloed slaapt nooit.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-      <Text>Als ik moet kiezen tussen rechtvaardigheid en vrede, kies ik voor het eerste.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMYRIS_ANY">
-      <Text>Je hebt het vertrouwen van Tomyris beschaamd en zult daar nu voor boeten!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRAJAN_ANY">
-      <Text>Je overmoed wordt je einde. Geen macht kan Rome verslaan.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ANY">
-      <Text>Oorlog? Niet leuk.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY">
-      <Text>Jij hebt wat ik wil en ik neem wat ik wil.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MVEMBA_ANY">
-      <Text>Denk je echt dat je zo makkelijk over ons heenloopt? Ik zal het niet laten gebeuren. Niet bij Congo, niet bij mijn volk!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-      <Text>Ons voordoen als vrienden was wel leuk, niet? Helaas is het nu tijd om pretenties te laten vallen en tot zaken te komen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY">
-      <Text>Ik heb genoeg van je. Moge Amun-Re ons leiden!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BARBAROSSA_ANY">
-      <Text>Laat het duidelijk zijn: je bent een vijand van Duitsland en moet worden vernietigd. Moge God medelijden met je hebben, ik heb het niet.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GANDHI_ANY">
-      <Text>Ik kan deze oorlog ingaan zonder moraal op te offeren. Vraag me niet hoe, je zou het niet begrijpen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GILGAMESH_ANY">
-      <Text>Waarom ik vecht? Omdat ik het kan...omdat Inanna het vraagt. Je zult nu de macht van Sumer leren kennen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GORGO_ANY">
-      <Text>Nu, we zulle je kracht testen! Bereid je voor!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARDRADA_ANY">
-      <Text>Nu steekt een storm op waaraan je niet kunt ontsnappen. Je kunt alleen maar hopen op een snelle dood.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HOJO_ANY">
-      <Text>Ik zal het rijk jou niet langer laten lijden. De tijd is gekomen om deze onzin te stoppen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PEDRO_ANY">
-      <Text>Ik moet dit wel doen, alleen al in het belang van de vooruitgang.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PERICLES_ANY">
-      <Text>Dit is voor een groter goed. Mettertijd zul je dat begrijpen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PETER_GREAT_ANY">
-      <Text>Ik verklaar je hierbij tot een vijand van Rusland, onze bondgenoten en God. Moge God je genadig zijn.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PHILIP_II_ANY">
-      <Text>Je hebt je teweer gesteld tegen mijn koninkrijk en dat van God… je moet boeten voor je zonden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY">
-      <Text>Je bent het zaad van het kwaad. Je moet worden vernietigd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SALADIN_ANY">
-      <Text>Het is jammer dat we onze toevlucht tot geweld moeten nemen, dat is niet de gewoonte van koningen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-      <Text>Ik heb dit willen vermijden, maar jouw idee van vrede liet me geen keuze.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMYRIS_ANY">
-      <Text>De keizerin vraagt om je hoofd. Je zult verdrinken in je eigen bloed!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRAJAN_ANY">
-      <Text>Bereid je voor op oorlog. Onze legers zullen voor niets stoppen, voor de glorie van Rome.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ANY">
-      <Text>Aangezien al je protesten vergeefs zijn verklaren we hierbij oorlog.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_NEGATIVE">
-      <Text>Je zult hiervoor mettertijd betalen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_POSITIVE">
-      <Text>Dat is heel erg. Ik dacht dat we vrienden waren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_SURPRISE_WAR">
-      <Text>(Verklaart een verassingsoorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_FORMAL_WAR">
-      <Text>(Verklaart een formele oorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_HOLY_WAR">
-      <Text>(Verklaart een heilige oorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_RECONQUEST_WAR">
-      <Text>(Verklaart een heroveringsoorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_LIBERATION_WAR">
-      <Text>(Verklaart een bevrijdingsoorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_PROTECTORATE_WAR">
-      <Text>(Verklaart een beschermingsoorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_COLONIAL_WAR">
-      <Text>(Verklaart een koloniale oorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_TERRITORIAL_WAR">
-      <Text>(Verklaart een oorlog van territoriale expansie tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_COLONIAL_WAR">
-      <Text>(Verklaart koloniale oorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_FORMAL_WAR">
-      <Text>(Verklaart een formele oorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_HOLY_WAR">
-      <Text>(Verklaart een heilige oorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_LIBERATION_WAR">
-      <Text>(Verklaart een bevrijdingsoorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_PROTECTORATE_WAR">
-      <Text>(Verklaart een beschermingsoorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_RECONQUEST_WAR">
-      <Text>(Verklaart een heroveringsoorlog tegen je)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_TERRITORIAL_WAR">
-      <Text>(Verklaart een oorlog van territoriale expansie tegen je)</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY">
+			<Text>Hoe durf je! Alles wat je dierbaar is zal tot as vergaan!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>We zijn niet onbekend met oorlog. Je bent van God’s pad afgeweken en dat zullen we nu corrigeren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Je waagt het mijn soevereine rijk aan te vallen? Zelfs Nostradamus had dit volgens mij niet kunnen voorspellen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Hah! Osiris zal mijn vijanden graag verwelkomen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Ik heb vijanden verslagen die tienmaal sterker waren dan jij. Je bent er alleen een voor de statistiek.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Mijn pogingen om geweld te vermijden zijn mislukt. Oog om oog alleen verblindt de wereld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Ik zal je graag je laatste adem horen uitblazen wanneer je getuige bent van de vernietiging van je volk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Je weet zeker niet dat Spartanen altijd met hun schild terugkeren, of er bovenop.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Dit zal een mooie sage opleveren! De dichters zullen mijn heldhaftigheid bezingen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>De Goddelijke Wind zal ons beschermen en jij zult vallen, net als alle anderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Je zult zien hoe nutteloos dit voor jou gaat uitpakken, toch?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Soldaten zijn geen bomen die, wanneer vernield, gemakkelijk kunnen worden vervangen. </Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Je oorlog is hopeloos. Je hebt niets van de geschiedenis geleerd. Verovering van Rusland is onmogelijk. Wie leeft bij het zwaard, sterft bij het zwaard!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Je denkt dat jouw leger vergelijkbaar is met mijn armada… met de macht van mijn rijk? Je vergist je gruwelijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Je hebt om oorlog gevraagd en die krijg je ook van ons.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Ik waarschuw je tegen je gewoonte van bloedvergieten. Bloed slaapt nooit.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Als ik moet kiezen tussen rechtvaardigheid en vrede, kies ik voor het eerste.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Je hebt het vertrouwen van Tomyris beschaamd en zult daar nu voor boeten!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Je overmoed wordt je einde. Geen macht kan Rome verslaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Oorlog? Niet leuk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY">
+			<Text>Jij hebt wat ik wil en ik neem wat ik wil.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Denk je echt dat je zo makkelijk over ons heenloopt? Ik zal het niet laten gebeuren. Niet bij Congo, niet bij mijn volk!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ons voordoen als vrienden was wel leuk, niet? Helaas is het nu tijd om pretenties te laten vallen en tot zaken te komen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Ik heb genoeg van je. Moge Amun-Re ons leiden!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Laat het duidelijk zijn: je bent een vijand van Duitsland en moet worden vernietigd. Moge God medelijden met je hebben, ik heb het niet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Ik kan deze oorlog ingaan zonder moraal op te offeren. Vraag me niet hoe, je zou het niet begrijpen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Waarom ik vecht? Omdat ik het kan...omdat Inanna het vraagt. Je zult nu de macht van Sumer leren kennen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Nu, we zulle je kracht testen! Bereid je voor!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Nu steekt een storm op waaraan je niet kunt ontsnappen. Je kunt alleen maar hopen op een snelle dood.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Ik zal het rijk jou niet langer laten lijden. De tijd is gekomen om deze onzin te stoppen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Ik moet dit wel doen, alleen al in het belang van de vooruitgang.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Dit is voor een groter goed. Mettertijd zul je dat begrijpen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Ik verklaar je hierbij tot een vijand van Rusland, onze bondgenoten en God. Moge God je genadig zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Je hebt je teweer gesteld tegen mijn koninkrijk en dat van God… je moet boeten voor je zonden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY">
+			<Text>Je bent het zaad van het kwaad. Je moet worden vernietigd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Het is jammer dat we onze toevlucht tot geweld moeten nemen, dat is niet de gewoonte van koningen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ik heb dit willen vermijden, maar jouw idee van vrede liet me geen keuze.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>De keizerin vraagt om je hoofd. Je zult verdrinken in je eigen bloed!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Bereid je voor op oorlog. Onze legers zullen voor niets stoppen, voor de glorie van Rome.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Aangezien al je protesten vergeefs zijn verklaren we hierbij oorlog.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_NEGATIVE">
+			<Text>Je zult hiervoor mettertijd betalen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_POSITIVE">
+			<Text>Dat is heel erg. Ik dacht dat we vrienden waren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_SURPRISE_WAR">
+			<Text>(Verklaart een verassingsoorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_FORMAL_WAR">
+			<Text>(Verklaart een formele oorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_HOLY_WAR">
+			<Text>(Verklaart een heilige oorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_RECONQUEST_WAR">
+			<Text>(Verklaart een heroveringsoorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_LIBERATION_WAR">
+			<Text>(Verklaart een bevrijdingsoorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_PROTECTORATE_WAR">
+			<Text>(Verklaart een beschermingsoorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_COLONIAL_WAR">
+			<Text>(Verklaart een koloniale oorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_TERRITORIAL_WAR">
+			<Text>(Verklaart een oorlog van territoriale expansie tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_COLONIAL_WAR">
+			<Text>(Verklaart koloniale oorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_FORMAL_WAR">
+			<Text>(Verklaart een formele oorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_HOLY_WAR">
+			<Text>(Verklaart een heilige oorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_LIBERATION_WAR">
+			<Text>(Verklaart een bevrijdingsoorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_PROTECTORATE_WAR">
+			<Text>(Verklaart een beschermingsoorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_RECONQUEST_WAR">
+			<Text>(Verklaart een heroveringsoorlog tegen je)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_TERRITORIAL_WAR">
+			<Text>(Verklaart een oorlog van territoriale expansie tegen je)</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

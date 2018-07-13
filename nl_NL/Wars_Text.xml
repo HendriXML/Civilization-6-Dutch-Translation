@@ -2,37 +2,37 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_SURPRISE_WAR_NAME">
-			<Text>Surprise War</Text>
+			<Text>Verrassingsoorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_FORMAL_WAR_NAME">
-			<Text>Formal War</Text>
+			<Text>Formele oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HOLY_WAR_NAME">
-			<Text>Holy War</Text>
+			<Text>Heilige oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RECONQUEST_WAR_NAME">
-			<Text>Reconquest War</Text>
+			<Text>Heroveringsoorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_LIBERATION_WAR_NAME">
-			<Text>Liberation War</Text>
+			<Text>Bevrijdingsoorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DEFENSIVE_PACT_NAME">
-			<Text>Defensive Pact</Text>
+			<Text>Defensief pact</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_JOINT_WAR_NAME">
-			<Text>Joint War</Text>
+			<Text>Gezamenlijke oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_SUZERAIN_WAR_NAME">
-			<Text>Suzerain War</Text>
+			<Text>Suzerein oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROTECTORATE_WAR_NAME">
-			<Text>Protectorate War</Text>
+			<Text>Protectoraat oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLONIAL_WAR_NAME">
-			<Text>Colonial War</Text>
+			<Text>Koloniale oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TERRITORIAL_WAR_NAME">
-			<Text>Territorial War</Text>
+			<Text>Territoriale oorlog</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

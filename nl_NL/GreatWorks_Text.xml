@@ -515,82 +515,82 @@
 			<Text>Grapevine Cross</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_RELIC_24_NAME">
-			<Text>Holy Lance</Text>
+			<Text>Heilige Lans</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_1_NAME">
-			<Text>Mummy</Text>
+			<Text>Mummie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_2_NAME">
-			<Text>Stone Tablet</Text>
+			<Text>Stenen tablet</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_3_NAME">
-			<Text>Javelin</Text>
+			<Text>Speer</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_4_NAME">
-			<Text>Scroll</Text>
+			<Text>Rol</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_5_NAME">
-			<Text>Mask</Text>
+			<Text>Masker</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_6_NAME">
-			<Text>Amphora</Text>
+			<Text>Amfora</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_7_NAME">
-			<Text>Mosaic</Text>
+			<Text>Mozaïek</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_8_NAME">
-			<Text>Axe</Text>
+			<Text>Bijl</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_9_NAME">
 			<Text>Aspis</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_10_NAME">
-			<Text>Bracelet</Text>
+			<Text>Armband</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_11_NAME">
-			<Text>Chalice</Text>
+			<Text>Kelk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_12_NAME">
-			<Text>Silver Coin</Text>
+			<Text>Zilveren munt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_13_NAME">
-			<Text>Longsword</Text>
+			<Text>Zwaard</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_14_NAME">
 			<Text>Plate Mail</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_15_NAME">
-			<Text>Signet Ring</Text>
+			<Text>Zegelring</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_16_NAME">
-			<Text>Astrolabe</Text>
+			<Text>Astrolabia</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_17_NAME">
 			<Text>Doubloon</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_18_NAME">
-			<Text>Halberd</Text>
+			<Text>Heilebaard</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_19_NAME">
 			<Text>Fresco</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_20_NAME">
-			<Text>Earring</Text>
+			<Text>Oorbel</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_21_NAME">
-			<Text>Clock</Text>
+			<Text>Klok</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_22_NAME">
-			<Text>Broadsheet</Text>
+			<Text>Vlugschrift</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_23_NAME">
-			<Text>Flintlock Pistol</Text>
+			<Text>Flintlock pistool</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_24_NAME">
-			<Text>Map</Text>
+			<Text>Kaart</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREATWORK_ARTIFACT_25_NAME">
-			<Text>Necklace</Text>
+			<Text>Ketting</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

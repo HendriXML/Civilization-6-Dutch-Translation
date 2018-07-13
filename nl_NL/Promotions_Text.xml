@@ -1,737 +1,737 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_RANGER_NAME">
-      <Text>Ranger</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ALPINE_NAME">
-      <Text>Alpine</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SENTRY_NAME">
-      <Text>Sentry</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPYGLASS_NAME">
-      <Text>Spyglass</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GUERRILLA_NAME">
-      <Text>Guerrilla</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_AMBUSH_NAME">
-      <Text>Ambush</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CAMOUFLAGE_NAME">
-      <Text>Camouflage</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BATTLECRY_NAME">
-      <Text>Battlecry</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TORTOISE_NAME">
-      <Text>Tortoise</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COMMANDO_NAME">
-      <Text>Commando</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_AMPHIBIOUS_NAME">
-      <Text>Amphibious</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ZWEIHANDER_NAME">
-      <Text>Zweihander</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_URBAN_WARFARE_NAME">
-      <Text>Urban Warfare</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ELITE_GUARD_NAME">
-      <Text>Elite Guard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_VOLLEY_NAME">
-      <Text>Volley</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GARRISON_NAME">
-      <Text>Garrison</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ARROW_STORM_NAME">
-      <Text>Arrow Storm</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_INCENDIARIES_NAME">
-      <Text>Incendiaries</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPRESSION_NAME">
-      <Text>Suppression</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EMPLACEMENT_NAME">
-      <Text>Emplacement</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_MARKSMAN_NAME">
-      <Text>Expert Marksman</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GRAPE_SHOT_NAME">
-      <Text>Grape Shot</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CREW_WEAPONS_NAME">
-      <Text>Crew Weapons</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SHELLS_NAME">
-      <Text>Shells</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SHRAPNEL_NAME">
-      <Text>Shrapnel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HEAVY_PROJECTILES_2">
-      <Text>Heavy Projectiles 2</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_NAME">
-      <Text>Advanced Rangefinding</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_CREW_NAME">
-      <Text>Expert Crew</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_FORWARD_OBSERVERS_NAME">
-      <Text>Forward Observers</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ECHELON_NAME">
-      <Text>Echelon</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_THRUST_NAME">
-      <Text>Thrust</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SQUARE_NAME">
-      <Text>Square</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SCHILTRON_NAME">
-      <Text>Schiltron</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_REDEPLOY_NAME">
-      <Text>Redeploy</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CHOKE_POINTS_NAME">
-      <Text>Choke Points</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HOLD_THE_LINE_NAME">
-      <Text>Hold the Line</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ESCORT_MOBILITY_NAME">
-      <Text>Escort Mobility</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CAPARISON_NAME">
-      <Text>Caparison</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COURSERS_NAME">
-      <Text>Coursers</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DEPREDATION_NAME">
-      <Text>Depredation</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_NAME">
-      <Text>Double Envelopment</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPIKING_THE_GUNS_NAME">
-      <Text>Spiking the Guns</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PURSUIT_NAME">
-      <Text>Pursuit</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BREAKTHROUGH_NAME">
-      <Text>Breakthrough</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CHARGE_NAME">
-      <Text>Charge</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BARDING_NAME">
-      <Text>Barding</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MARAUDING_NAME">
-      <Text>Marauding</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ROUT_NAME">
-      <Text>Rout</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ARMOR_PIERCING_NAME">
-      <Text>Armor Piercing</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_REACTIVE_ARMOR_NAME">
-      <Text>Reactive Armor</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DOGFIGHTING_NAME">
-      <Text>Dogfighting</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_INTERCEPTOR_NAME">
-      <Text>Interceptor</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_STRAFE_NAME">
-      <Text>Strafe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GROUND_CREWS_NAME">
-      <Text>Ground Crews</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COCKPIT_ARMOR_NAME">
-      <Text>Cockpit Armor</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TANK_BUSTER_NAME">
-      <Text>Tank Buster</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DROP_TANKS_NAME">
-      <Text>Drop Tanks</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BOX_FORMATION_NAME">
-      <Text>Box Formation</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_NAME">
-      <Text>Evasive Maneuvers</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TORPEDO_BOMBER_NAME">
-      <Text>Torpedo Bomber</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_NAME">
-      <Text>Close Air Support</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_NAME">
-      <Text>Tactical Maintenance</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_LONG_RANGE_NAME">
-      <Text>Long Range</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPERFORTRESS_NAME">
-      <Text>Superfortress</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EMBOLON_NAME">
-      <Text>Embolon</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_REINFORCED_HULL_NAME">
-      <Text>Reinforced Hull</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HELMSMAN_NAME">
-      <Text>Helmsman</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_AUXILIARY_SHIPS_NAME">
-      <Text>Auxiliary Ships</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_RUTTER_NAME">
-      <Text>Rutter</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CONVOY_NAME">
-      <Text>Convoy</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CREEPING_ATTACK_NAME">
-      <Text>Creeping Attack</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_LINE_OF_BATTLE_NAME">
-      <Text>Line of Battle</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BOMBARDMENT_NAME">
-      <Text>Bombardment</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PREPARATORY_FIRE_NAME">
-      <Text>Preparatory Fire</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ROLLING_BARRAGE_NAME">
-      <Text>Rolling Barrage</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PROXIMITY_FUSES_NAME">
-      <Text>Proximity Fuses</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_NAME">
-      <Text>Coincidence Rangefinding</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPLY_FLEET_NAME">
-      <Text>Supply Fleet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_FLIGHT_DECK_NAME">
-      <Text>Flight Deck</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HANGAR_DECK_NAME">
-      <Text>Hangar Deck</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_FOLDING_WINGS_NAME">
-      <Text>Folding Wings</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SCOUT_PLANES_NAME">
-      <Text>Scout Planes</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_ENGINES_NAME">
-      <Text>Advanced Engines</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DECK_CREWS_NAME">
-      <Text>Deck Crews</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPER_CARRIER_NAME">
-      <Text>Supercarrier</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_LOOT_NAME">
-      <Text>Loot</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BOARDING_NAME">
-      <Text>Boarding</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SWIFT_KEEL_NAME">
-      <Text>Swift Keel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_OBSERVATION_NAME">
-      <Text>Observation</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SILENT_RUNNING_NAME">
-      <Text>Silent Running</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HOMING_TORPEDOES_NAME">
-      <Text>Homing Torpedoes</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_WOLFPACK_NAME">
-      <Text>Wolfpack</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ORATOR_NAME">
-      <Text>Orator</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PROSELYTIZER_NAME">
-      <Text>Proselytizer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TRANSLATOR_NAME">
-      <Text>Translator</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PILGRIM_NAME">
-      <Text>Pilgrim</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_INDULGENCE_VENDOR_NAME">
-      <Text>Indulgence Vendor</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HEATHEN_CONVERSION_NAME">
-      <Text>Heathen Conversion</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DEBATER_NAME">
-      <Text>Debater</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MARTYR_NAME">
-      <Text>Martyr</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CHAPLAIN_NAME">
-      <Text>Chaplain</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">
-      <Text>Technologist</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_NAME">
-      <Text>Cat Burglar</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DEMOLITIONS_NAME">
-      <Text>Demolitions</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CON_ARTIST_NAME">
-      <Text>Con Artist</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_NAME">
-      <Text>Guerilla Leader</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_NAME">
-      <Text>Rocket Scientist</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_SEDUCTION_NAME">
-      <Text>Seduction</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DISGUISE_NAME">
-      <Text>Disguise</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_LINGUIST_NAME">
-      <Text>Linguist</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_QUARTERMASTER_NAME">
-      <Text>Quartermaster</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ACE_DRIVER_NAME">
-      <Text>Ace Driver</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_RANGER_DESCRIPTION">
-      <Text>Sneller [ICON_Movement] verplaatsing in bos en regenwoud.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ALPINE_DESCRIPTION">
-      <Text>Sneller [ICON_Movement] verplaatsing in heuvels.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SENTRY_DESCRIPTION">
-      <Text>Kan door bos en jungle heen zien.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPYGLASS_DESCRIPTION">
-      <Text>+1 vergezicht.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GUERRILLA_DESCRIPTION">
-      <Text>Kan zich verplaatsen na aanvallen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COMMANDO_DESCRIPTION">
-      <Text>Kan rotswanden beklimmen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_AMBUSH_DESCRIPTION">
-      <Text>+20 [ICON_Strength] gevechtskracht in alle situaties.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CAMOUFLAGE_DESCRIPTION">
-      <Text>Alleen mabije vijandelijke eenheden kunnen deze eenheid onthullen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BATTLECRY_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen melee- en afstandseenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TORTOISE_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht bij verdedigen tegen aanvallen van afstand.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_AMPHIBIOUS_DESCRIPTION">
-      <Text>Geen straf voor [ICON_Strength] gevechtskracht en [ICON_Movement] verplaatsing wanneer aanvallend vanaf zee of rivier.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ZWEIHANDER_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen anticavalerie-eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_URBAN_WARFARE_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht bij gevecht in een wijk.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ELITE_GUARD_DESCRIPTION">
-      <Text>+1 extra aanval per beurt als [ICON_Movement] verplaatsing dit toestaat. Kan zich verplaatsen na aanvallen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_VOLLEY_DESCRIPTION">
-      <Text>+5 [ICON_Ranged] kracht van afstand tegen landeenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht binnen een wijk of een fort.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
-      <Text>+7 [ICON_Ranged] kracht van afstand tegen zeevarende en landeenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">
-      <Text>+7 [ICON_Ranged] kracht van afstand tegen wijkverdediging.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPRESSION_DESCRIPTION">
-      <Text>Controlezone uitoefenen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EMPLACEMENT_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht bij verdedigen tegen stadsaanvallen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_MARKSMAN_DESCRIPTION">
-      <Text>+1 extra aanval per beurt als de eenheid zich nog niet heeft verplaatst.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_CREW_DESCRIPTION">
-      <Text>Kan aanvallen na verplaatsen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_FORWARD_OBSERVERS_DESCRIPTION">
-      <Text>+1 [ICON_Range] reikwijdte.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ECHELON_DESCRIPTION">
-      <Text>+5 [ICON_Strength] gevechtskracht tegen cavalerie-eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_THRUST_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht tegen nauwe strijd-eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SQUARE_DESCRIPTION">
-      <Text>Dubbele ondersteuningsbonus.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SCHILTRON_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht bij verdediging tegen nauwe strijd-eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_REDEPLOY_DESCRIPTION">
-      <Text>+1 [ICON_Movement] verplaatsing.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CREW_WEAPONS_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht bij verdedigen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GRAPE_SHOT_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SHRAPNEL_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SHELLS_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht indien verdedigend in bos, jungle, heuvels of moeras.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
-      <Text>Nabije eenheden van een andere klasse krijgen +10 [ICON_Strength] gevechtskracht tegen cavalerie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ESCORT_MOBILITY_DESCRIPTION">
-      <Text>Eenheden in formatie erven allen de [ICON_Movement] verplaatsingssnelheid van hun escort.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CAPARISON_DESCRIPTION">
-      <Text>+5 [ICON_Strength] gevechtskracht tegen anticavalerie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COURSERS_DESCRIPTION">
-      <Text>+5 [ICON_Strength] gevechtskracht bij een aanval op afstands- en belegeringseenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DEPREDATION_DESCRIPTION">
-      <Text>Plundering kost maar 1 [ICON_Movement] verplaatsingspunt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_DESCRIPTION">
-      <Text>2x flankeerbonus.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPIKING_THE_GUNS_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen belegeringseenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PURSUIT_DESCRIPTION">
-      <Text>+1 [ICON_Movement] verplaatsing.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CHARGE_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht tegen versterkte verdediger.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BARDING_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen aanvallen van afstand.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MARAUDING_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen eenheden in wijken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ROUT_DESCRIPTION">
-      <Text>+5 [ICON_Strength] gevechtskracht tegen beschadigde eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen andere zware cavalerie-eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen zware cavalerie en anti-cavalerie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BREAKTHROUGH_DESCRIPTION">
-      <Text>+1 extra aanval per beurt als [ICON_Movement] verplaatsing dat toestaat.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DOGFIGHTING_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen jachtvliegtuigen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COCKPIT_ARMOR_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen anti-air.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_INTERCEPTOR_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen bommenwerpers.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_STRAFE_DESCRIPTION">
-      <Text>+17 [ICON_Strength] gevechtskracht tegen niet-cavalerie-eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_GROUND_CREWS_DESCRIPTION">
-      <Text>Genezen tijdens patrouille of inzet.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TANK_BUSTER_DESCRIPTION">
-      <Text>+17 [ICON_Strength] gevechtskracht tegen cavalerie-eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DROP_TANKS_DESCRIPTION">
-      <Text>+2 [ICON_Range] reikwijdte.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BOX_FORMATION_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen jachtvliegtuigen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskrachtbij verdediging tegen anti-air.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION">
-      <Text>+17 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION">
-      <Text>+12 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_DESCRIPTION">
-      <Text>Kan genezen na aanvallen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_LONG_RANGE_DESCRIPTION">
-      <Text>+2 [ICON_Range] reikwijdte.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPERFORTRESS_DESCRIPTION">
-      <Text>Geen minimale gezondheid vereist voor luchtplundering.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_EMBOLON_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht bij verdediging tegen aanvallen van afstand.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_RUTTER_DESCRIPTION">
-      <Text>+1 vergezicht.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HELMSMAN_DESCRIPTION">
-      <Text>+1 [ICON_Movement] verplaatsing.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION">
-      <Text>Genezing buiten vriendschappelijk gebied.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CONVOY_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht wanneer in formatie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CREEPING_ATTACK_DESCRIPTION">
-      <Text>+14 [ICON_Strength] gevechtskracht tegen zeerovers.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION">
-      <Text>Genezing buiten vriendschappelijk terrein.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BOMBARDMENT_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PREPARATORY_FIRE_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ROLLING_BARRAGE_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PROXIMITY_FUSES_DESCRIPTION">
-      <Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen luchtaanval.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_DESCRIPTION">
-      <Text>+1 [ICON_Range] reikwijdte.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_FLIGHT_DECK_DESCRIPTION">
-      <Text>+1 extra plaats voor vliegtuig.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HANGAR_DECK_DESCRIPTION">
-      <Text>+1 extra plaats voor vliegtuig.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_FOLDING_WINGS_DESCRIPTION">
-      <Text>+1 extra plaats voor vliegtuig.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SCOUT_PLANES_DESCRIPTION">
-      <Text>+1 vergezicht.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_ENGINES_DESCRIPTION">
-      <Text>+1 [ICON_Movement] verplaatsing.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DECK_CREWS_DESCRIPTION">
-      <Text>Kan genezen na aanvallen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION">
-      <Text>Geneest buiten vriendschappelijk terrein.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_LOOT_DESCRIPTION">
-      <Text>+50 [ICON_Gold] goud van kustaanvallen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_BOARDING_DESCRIPTION">
-      <Text>Verkrijg [ICON_Gold] goud van overwinningen op zee.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SWIFT_KEEL_DESCRIPTION">
-      <Text>+1 [ICON_Movement] verplaatsing.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_OBSERVATION_DESCRIPTION">
-      <Text>+1 vergezicht.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION">
-      <Text>+10 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION">
-      <Text>Kan verplaatsen na aanvallen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_WOLFPACK_DESCRIPTION">
-      <Text>+1 extra aanval per beurt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_ORATOR_DESCRIPTION">
-      <Text>Kan 2x extra religie verspreiden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PROSELYTIZER_DESCRIPTION">
-      <Text>Verspreiding van geloof elimineert andere religies in de doelstad.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_TRANSLATOR_DESCRIPTION">
-      <Text>Religieuze verspreiding is driemaal zo krachtig in steden van andere beschavingen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_PILGRIM_DESCRIPTION">
-      <Text>Verwerf 3 extra verspreidingen wannneer je je voor de eerste keer verplaatst naast een natuurlijk wonder.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_INDULGENCE_VENDOR_DESCRIPTION">
-      <Text>Verdien [ICON_Gold] 100 goud als deze eenheid voor de eerste keer een stad bekeert naar jouw religie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_HEATHEN_CONVERSION_DESCRIPTION">
-      <Text>Kan met een religieuze lading alle aangrenzende barbaren tot jouw kant bekeren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DEBATER_DESCRIPTION">
-      <Text>+20 [ICON_Religion] religieuze kracht in theologische strijd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MARTYR_DESCRIPTION">
-      <Text>Als deze apostel sterft in theologische strijd zal een relikwie worden gecreeerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_CHAPLAIN_DESCRIPTION">
-      <Text>Apostel gaat tewerk als medicus en voorziet in extra genezing van eenhededen binnen een gebiedsdeel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION">
-      <Text>Steel technologie alsof je ervaring 2 niveaus hoger ligt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_DESCRIPTION">
-      <Text>Steel Grootse Werken alsof je ervaring 2 niveaus hoger ligt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DEMOLITIONS_DESCRIPTION">
-      <Text>Saboteer productie alsof je ervaring 2 niveaus hoger ligt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CON_ARTIST_DESCRIPTION">
-      <Text>Sluis fondsen weg alsof je ervaring 2 niveaus hoger ligt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_DESCRIPTION">
-      <Text>Rekruteer partizanen alsof je ervaring 2 niveaus hoger ligt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_DESCRIPTION">
-      <Text>Onderbreek raketbouw alsof je ervaring 2 niveaus hoger ligt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_SEDUCTION_DESCRIPTION">
-      <Text>Contraspioneer alsof je ervaring 2 niveaus hoger ligt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DISGUISE_DESCRIPTION">
-      <Text>Kost geen tijd om je aanwezigheid in een vijandelijke stad te bewerkstelligen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_LINGUIST_DESCRIPTION">
-      <Text>Tijd om alle missies te voltooien gereduceerd met 25%.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_QUARTERMASTER_DESCRIPTION">
-      <Text>Als deze spion in zijn thuisland is, opereren al je spionnen op +1 niveau.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ACE_DRIVER_DESCRIPTION">
-      <Text>Veel grotere kans (+4 niveaus) om te ontsnappen indien opgepakt tijdens een missie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ABILITY_DESCRIPTOR_PREVIEW_TEXT">
-      <Text>(Kundigheid)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GOVERNMENT_DESCRIPTOR_PREVIEW_TEXT">
-      <Text>(Regering)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GREAT_PERSON_DESCRIPTOR_PREVIEW_TEXT">
-      <Text>(Belangrijk persoon)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_POLICY_DESCRIPTOR_PREVIEW_TEXT">
-      <Text>(Beleid)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT">
-      <Text>(Promotie)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_DESCRIPTION">
-      <Text>+15 [ICON_Strength] Gevechtskracht in alle situaties.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_NAME">
-      <Text>Cobra aanval</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DANCING_CRANE_DESCRIPTION">
-      <Text>+1 [ICON_Movement] Verplaatsing.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DANCING_CRANE_NAME">
-      <Text>Dancing Crane</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DISCIPLES_DESCRIPTION">
-      <Text>Deze eenheid verspreidt zijn religie naar nabijgelegen steden wanneer deze een vijandelijke eenheid verslaat.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DISCIPLES_NAME">
-      <Text>Disciples</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_DESCRIPTION">
-      <Text>+10 [ICON_Strength] Gevechtskracht in alle situaties.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME">
-      <Text>Exploderende palmen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION">
-      <Text>2x flankerende bonus.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME">
-      <Text>Schaduwaanval</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_DESCRIPTION">
-      <Text>+1 extra aanval per beurt als [ICON_Movement] beweging dit toelaat.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_NAME">
-      <Text>Vegende wind</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION">
-      <Text>Alleen aangrenzende vijandelijke eenheden kunnen dit toestel onthullen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME">
-      <Text>Twilight Veil</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_RELIGION_DESCRIPTOR_PREVIEW_TEXT">
-      <Text>(Religie)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_WONDER_DESCRIPTOR_PREVIEW_TEXT">
-      <Text>(Wonder)</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_RANGER_NAME">
+			<Text>Ranger</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ALPINE_NAME">
+			<Text>Alpine</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SENTRY_NAME">
+			<Text>Sentry</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPYGLASS_NAME">
+			<Text>Spyglass</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GUERRILLA_NAME">
+			<Text>Guerrilla</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_AMBUSH_NAME">
+			<Text>Ambush</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CAMOUFLAGE_NAME">
+			<Text>Camouflage</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BATTLECRY_NAME">
+			<Text>Battlecry</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TORTOISE_NAME">
+			<Text>Tortoise</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMMANDO_NAME">
+			<Text>Commando</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_AMPHIBIOUS_NAME">
+			<Text>Amphibious</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ZWEIHANDER_NAME">
+			<Text>Zweihander</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_URBAN_WARFARE_NAME">
+			<Text>Urban Warfare</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ELITE_GUARD_NAME">
+			<Text>Elite Guard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_VOLLEY_NAME">
+			<Text>Volley</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GARRISON_NAME">
+			<Text>Garrison</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ARROW_STORM_NAME">
+			<Text>Arrow Storm</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_INCENDIARIES_NAME">
+			<Text>Incendiaries</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPRESSION_NAME">
+			<Text>Suppression</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EMPLACEMENT_NAME">
+			<Text>Emplacement</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_MARKSMAN_NAME">
+			<Text>Expert Marksman</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GRAPE_SHOT_NAME">
+			<Text>Grape Shot</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CREW_WEAPONS_NAME">
+			<Text>Crew Weapons</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SHELLS_NAME">
+			<Text>Shells</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SHRAPNEL_NAME">
+			<Text>Shrapnel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HEAVY_PROJECTILES_2">
+			<Text>Heavy Projectiles 2</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_NAME">
+			<Text>Advanced Rangefinding</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_CREW_NAME">
+			<Text>Expert Crew</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_FORWARD_OBSERVERS_NAME">
+			<Text>Forward Observers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ECHELON_NAME">
+			<Text>Echelon</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_THRUST_NAME">
+			<Text>Thrust</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SQUARE_NAME">
+			<Text>Square</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SCHILTRON_NAME">
+			<Text>Schiltron</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REDEPLOY_NAME">
+			<Text>Redeploy</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CHOKE_POINTS_NAME">
+			<Text>Choke Points</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HOLD_THE_LINE_NAME">
+			<Text>Hold the Line</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ESCORT_MOBILITY_NAME">
+			<Text>Escort Mobility</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CAPARISON_NAME">
+			<Text>Caparison</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COURSERS_NAME">
+			<Text>Coursers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DEPREDATION_NAME">
+			<Text>Depredation</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_NAME">
+			<Text>Double Envelopment</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPIKING_THE_GUNS_NAME">
+			<Text>Spiking the Guns</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PURSUIT_NAME">
+			<Text>Pursuit</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BREAKTHROUGH_NAME">
+			<Text>Breakthrough</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CHARGE_NAME">
+			<Text>Charge</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BARDING_NAME">
+			<Text>Barding</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MARAUDING_NAME">
+			<Text>Marauding</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ROUT_NAME">
+			<Text>Rout</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ARMOR_PIERCING_NAME">
+			<Text>Armor Piercing</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REACTIVE_ARMOR_NAME">
+			<Text>Reactive Armor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DOGFIGHTING_NAME">
+			<Text>Dogfighting</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_INTERCEPTOR_NAME">
+			<Text>Interceptor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_STRAFE_NAME">
+			<Text>Strafe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GROUND_CREWS_NAME">
+			<Text>Ground Crews</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COCKPIT_ARMOR_NAME">
+			<Text>Cockpit Armor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TANK_BUSTER_NAME">
+			<Text>Tank Buster</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DROP_TANKS_NAME">
+			<Text>Drop Tanks</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BOX_FORMATION_NAME">
+			<Text>Box Formation</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_NAME">
+			<Text>Evasive Maneuvers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TORPEDO_BOMBER_NAME">
+			<Text>Torpedo Bomber</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_NAME">
+			<Text>Close Air Support</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_NAME">
+			<Text>Tactical Maintenance</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_LONG_RANGE_NAME">
+			<Text>Long Range</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPERFORTRESS_NAME">
+			<Text>Superfortress</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EMBOLON_NAME">
+			<Text>Embolon</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REINFORCED_HULL_NAME">
+			<Text>Reinforced Hull</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HELMSMAN_NAME">
+			<Text>Helmsman</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_AUXILIARY_SHIPS_NAME">
+			<Text>Auxiliary Ships</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_RUTTER_NAME">
+			<Text>Rutter</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CONVOY_NAME">
+			<Text>Convoy</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CREEPING_ATTACK_NAME">
+			<Text>Creeping Attack</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_LINE_OF_BATTLE_NAME">
+			<Text>Line of Battle</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BOMBARDMENT_NAME">
+			<Text>Bombardment</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PREPARATORY_FIRE_NAME">
+			<Text>Preparatory Fire</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ROLLING_BARRAGE_NAME">
+			<Text>Rolling Barrage</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PROXIMITY_FUSES_NAME">
+			<Text>Proximity Fuses</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_NAME">
+			<Text>Coincidence Rangefinding</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPLY_FLEET_NAME">
+			<Text>Supply Fleet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_FLIGHT_DECK_NAME">
+			<Text>Flight Deck</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HANGAR_DECK_NAME">
+			<Text>Hangar Deck</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_FOLDING_WINGS_NAME">
+			<Text>Folding Wings</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SCOUT_PLANES_NAME">
+			<Text>Scout Planes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_ENGINES_NAME">
+			<Text>Advanced Engines</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DECK_CREWS_NAME">
+			<Text>Deck Crews</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPER_CARRIER_NAME">
+			<Text>Supercarrier</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_LOOT_NAME">
+			<Text>Loot</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BOARDING_NAME">
+			<Text>Boarding</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SWIFT_KEEL_NAME">
+			<Text>Swift Keel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_OBSERVATION_NAME">
+			<Text>Observation</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SILENT_RUNNING_NAME">
+			<Text>Silent Running</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HOMING_TORPEDOES_NAME">
+			<Text>Homing Torpedoes</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_WOLFPACK_NAME">
+			<Text>Wolfpack</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ORATOR_NAME">
+			<Text>Orator</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PROSELYTIZER_NAME">
+			<Text>Proselytizer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TRANSLATOR_NAME">
+			<Text>Translator</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PILGRIM_NAME">
+			<Text>Pilgrim</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_INDULGENCE_VENDOR_NAME">
+			<Text>Indulgence Vendor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HEATHEN_CONVERSION_NAME">
+			<Text>Heathen Conversion</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DEBATER_NAME">
+			<Text>Debater</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MARTYR_NAME">
+			<Text>Martyr</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CHAPLAIN_NAME">
+			<Text>Chaplain</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">
+			<Text>Technologist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_NAME">
+			<Text>Cat Burglar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DEMOLITIONS_NAME">
+			<Text>Demolitions</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CON_ARTIST_NAME">
+			<Text>Con Artist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_NAME">
+			<Text>Guerilla Leader</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_NAME">
+			<Text>Rocket Scientist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_SEDUCTION_NAME">
+			<Text>Seduction</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DISGUISE_NAME">
+			<Text>Disguise</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_LINGUIST_NAME">
+			<Text>Linguist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_QUARTERMASTER_NAME">
+			<Text>Quartermaster</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ACE_DRIVER_NAME">
+			<Text>Ace Driver</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_RANGER_DESCRIPTION">
+			<Text>Sneller [ICON_Movement] verplaatsing in bos en regenwoud.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ALPINE_DESCRIPTION">
+			<Text>Sneller [ICON_Movement] verplaatsing in heuvels.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SENTRY_DESCRIPTION">
+			<Text>Kan door bos en jungle heen zien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPYGLASS_DESCRIPTION">
+			<Text>+1 vergezicht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GUERRILLA_DESCRIPTION">
+			<Text>Kan zich verplaatsen na aanvallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COMMANDO_DESCRIPTION">
+			<Text>Kan rotswanden beklimmen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_AMBUSH_DESCRIPTION">
+			<Text>+20 [ICON_Strength] gevechtskracht in alle situaties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CAMOUFLAGE_DESCRIPTION">
+			<Text>Alleen mabije vijandelijke eenheden kunnen deze eenheid onthullen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BATTLECRY_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen melee- en afstandseenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TORTOISE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht bij verdedigen tegen aanvallen van afstand.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_AMPHIBIOUS_DESCRIPTION">
+			<Text>Geen straf voor [ICON_Strength] gevechtskracht en [ICON_Movement] verplaatsing wanneer aanvallend vanaf zee of rivier.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ZWEIHANDER_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen anticavalerie-eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_URBAN_WARFARE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht bij gevecht in een wijk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ELITE_GUARD_DESCRIPTION">
+			<Text>+1 extra aanval per beurt als [ICON_Movement] verplaatsing dit toestaat. Kan zich verplaatsen na aanvallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_VOLLEY_DESCRIPTION">
+			<Text>+5 [ICON_Ranged] kracht van afstand tegen landeenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht binnen een wijk of een fort.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] kracht van afstand tegen zeevarende en landeenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">
+			<Text>+7 [ICON_Ranged] kracht van afstand tegen wijkverdediging.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPRESSION_DESCRIPTION">
+			<Text>Controlezone uitoefenen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EMPLACEMENT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht bij verdedigen tegen stadsaanvallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_MARKSMAN_DESCRIPTION">
+			<Text>+1 extra aanval per beurt als de eenheid zich nog niet heeft verplaatst.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EXPERT_CREW_DESCRIPTION">
+			<Text>Kan aanvallen na verplaatsen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_FORWARD_OBSERVERS_DESCRIPTION">
+			<Text>+1 [ICON_Range] reikwijdte.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] gevechtskracht tegen cavalerie-eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_THRUST_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht tegen nauwe strijd-eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SQUARE_DESCRIPTION">
+			<Text>Dubbele ondersteuningsbonus.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SCHILTRON_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht bij verdediging tegen nauwe strijd-eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REDEPLOY_DESCRIPTION">
+			<Text>+1 [ICON_Movement] verplaatsing.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CREW_WEAPONS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht bij verdedigen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GRAPE_SHOT_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SHRAPNEL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SHELLS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht indien verdedigend in bos, jungle, heuvels of moeras.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Nabije eenheden van een andere klasse krijgen +10 [ICON_Strength] gevechtskracht tegen cavalerie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ESCORT_MOBILITY_DESCRIPTION">
+			<Text>Eenheden in formatie erven allen de [ICON_Movement] verplaatsingssnelheid van hun escort.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] gevechtskracht tegen anticavalerie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] gevechtskracht bij een aanval op afstands- en belegeringseenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DEPREDATION_DESCRIPTION">
+			<Text>Plundering kost maar 1 [ICON_Movement] verplaatsingspunt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_DESCRIPTION">
+			<Text>2x flankeerbonus.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPIKING_THE_GUNS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen belegeringseenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PURSUIT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] verplaatsing.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CHARGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht tegen versterkte verdediger.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BARDING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen aanvallen van afstand.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MARAUDING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen eenheden in wijken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ROUT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] gevechtskracht tegen beschadigde eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen andere zware cavalerie-eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen zware cavalerie en anti-cavalerie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BREAKTHROUGH_DESCRIPTION">
+			<Text>+1 extra aanval per beurt als [ICON_Movement] verplaatsing dat toestaat.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DOGFIGHTING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen jachtvliegtuigen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COCKPIT_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen anti-air.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_INTERCEPTOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen bommenwerpers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_STRAFE_DESCRIPTION">
+			<Text>+17 [ICON_Strength] gevechtskracht tegen niet-cavalerie-eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_GROUND_CREWS_DESCRIPTION">
+			<Text>Genezen tijdens patrouille of inzet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TANK_BUSTER_DESCRIPTION">
+			<Text>+17 [ICON_Strength] gevechtskracht tegen cavalerie-eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DROP_TANKS_DESCRIPTION">
+			<Text>+2 [ICON_Range] reikwijdte.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BOX_FORMATION_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen jachtvliegtuigen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskrachtbij verdediging tegen anti-air.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION">
+			<Text>+17 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION">
+			<Text>+12 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_DESCRIPTION">
+			<Text>Kan genezen na aanvallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_LONG_RANGE_DESCRIPTION">
+			<Text>+2 [ICON_Range] reikwijdte.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPERFORTRESS_DESCRIPTION">
+			<Text>Geen minimale gezondheid vereist voor luchtplundering.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_EMBOLON_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht bij verdediging tegen aanvallen van afstand.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_RUTTER_DESCRIPTION">
+			<Text>+1 vergezicht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HELMSMAN_DESCRIPTION">
+			<Text>+1 [ICON_Movement] verplaatsing.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION">
+			<Text>Genezing buiten vriendschappelijk gebied.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CONVOY_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht wanneer in formatie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CREEPING_ATTACK_DESCRIPTION">
+			<Text>+14 [ICON_Strength] gevechtskracht tegen zeerovers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION">
+			<Text>Genezing buiten vriendschappelijk terrein.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BOMBARDMENT_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PREPARATORY_FIRE_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht tegen landeenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ROLLING_BARRAGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht tegen wijkverdediging.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PROXIMITY_FUSES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] gevechtskracht bij verdediging tegen luchtaanval.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_DESCRIPTION">
+			<Text>+1 [ICON_Range] reikwijdte.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_FLIGHT_DECK_DESCRIPTION">
+			<Text>+1 extra plaats voor vliegtuig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HANGAR_DECK_DESCRIPTION">
+			<Text>+1 extra plaats voor vliegtuig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_FOLDING_WINGS_DESCRIPTION">
+			<Text>+1 extra plaats voor vliegtuig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SCOUT_PLANES_DESCRIPTION">
+			<Text>+1 vergezicht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ADVANCED_ENGINES_DESCRIPTION">
+			<Text>+1 [ICON_Movement] verplaatsing.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DECK_CREWS_DESCRIPTION">
+			<Text>Kan genezen na aanvallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION">
+			<Text>Geneest buiten vriendschappelijk terrein.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_LOOT_DESCRIPTION">
+			<Text>+50 [ICON_Gold] goud van kustaanvallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_BOARDING_DESCRIPTION">
+			<Text>Verkrijg [ICON_Gold] goud van overwinningen op zee.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SWIFT_KEEL_DESCRIPTION">
+			<Text>+1 [ICON_Movement] verplaatsing.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_OBSERVATION_DESCRIPTION">
+			<Text>+1 vergezicht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION">
+			<Text>+10 [ICON_Strength] gevechtskracht tegen zeevarende eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION">
+			<Text>Kan verplaatsen na aanvallen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_WOLFPACK_DESCRIPTION">
+			<Text>+1 extra aanval per beurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_ORATOR_DESCRIPTION">
+			<Text>Kan 2x extra religie verspreiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PROSELYTIZER_DESCRIPTION">
+			<Text>Verspreiding van geloof elimineert andere religies in de doelstad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_TRANSLATOR_DESCRIPTION">
+			<Text>Religieuze verspreiding is driemaal zo krachtig in steden van andere beschavingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_PILGRIM_DESCRIPTION">
+			<Text>Verwerf 3 extra verspreidingen wannneer je je voor de eerste keer verplaatst naast een natuurlijk wonder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_INDULGENCE_VENDOR_DESCRIPTION">
+			<Text>Verdien [ICON_Gold] 100 goud als deze eenheid voor de eerste keer een stad bekeert naar jouw religie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_HEATHEN_CONVERSION_DESCRIPTION">
+			<Text>Kan met een religieuze lading alle aangrenzende barbaren tot jouw kant bekeren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DEBATER_DESCRIPTION">
+			<Text>+20 [ICON_Religion] religieuze kracht in theologische strijd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MARTYR_DESCRIPTION">
+			<Text>Als deze apostel sterft in theologische strijd zal een relikwie worden gecreeerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CHAPLAIN_DESCRIPTION">
+			<Text>Apostel gaat tewerk als medicus en voorziet in extra genezing van eenhededen binnen een gebiedsdeel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION">
+			<Text>Steel technologie alsof je ervaring 2 niveaus hoger ligt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_DESCRIPTION">
+			<Text>Steel Grootse Werken alsof je ervaring 2 niveaus hoger ligt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DEMOLITIONS_DESCRIPTION">
+			<Text>Saboteer productie alsof je ervaring 2 niveaus hoger ligt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_CON_ARTIST_DESCRIPTION">
+			<Text>Sluis fondsen weg alsof je ervaring 2 niveaus hoger ligt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_DESCRIPTION">
+			<Text>Rekruteer partizanen alsof je ervaring 2 niveaus hoger ligt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_DESCRIPTION">
+			<Text>Onderbreek raketbouw alsof je ervaring 2 niveaus hoger ligt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_SEDUCTION_DESCRIPTION">
+			<Text>Contraspioneer alsof je ervaring 2 niveaus hoger ligt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_DISGUISE_DESCRIPTION">
+			<Text>Kost geen tijd om je aanwezigheid in een vijandelijke stad te bewerkstelligen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_LINGUIST_DESCRIPTION">
+			<Text>Tijd om alle missies te voltooien gereduceerd met 25%.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_QUARTERMASTER_DESCRIPTION">
+			<Text>Als deze spion in zijn thuisland is, opereren al je spionnen op +1 niveau.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_SPY_ACE_DRIVER_DESCRIPTION">
+			<Text>Veel grotere kans (+4 niveaus) om te ontsnappen indien opgepakt tijdens een missie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ABILITY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Kundigheid)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GOVERNMENT_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Regering)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GREAT_PERSON_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Belangrijk persoon)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_POLICY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Beleid)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Promotie)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Gevechtskracht in alle situaties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_NAME">
+			<Text>Cobra aanval</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DANCING_CRANE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Verplaatsing.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DANCING_CRANE_NAME">
+			<Text>Dancing Crane</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DISCIPLES_DESCRIPTION">
+			<Text>Deze eenheid verspreidt zijn religie naar nabijgelegen steden wanneer deze een vijandelijke eenheid verslaat.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_DISCIPLES_NAME">
+			<Text>Disciples</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Gevechtskracht in alle situaties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME">
+			<Text>Exploderende palmen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION">
+			<Text>2x flankerende bonus.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME">
+			<Text>Schaduwaanval</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_DESCRIPTION">
+			<Text>+1 extra aanval per beurt als [ICON_Movement] beweging dit toelaat.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_NAME">
+			<Text>Vegende wind</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION">
+			<Text>Alleen aangrenzende vijandelijke eenheden kunnen dit toestel onthullen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME">
+			<Text>Twilight Veil</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_RELIGION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Religie)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_WONDER_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Wonder)</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

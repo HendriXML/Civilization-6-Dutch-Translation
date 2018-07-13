@@ -2,28 +2,28 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_SETTLER_NAME">
-			<Text>Settler</Text>
+			<Text>Kolonist</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
-			<Text>Chieftain</Text>
+			<Text>Opperhoofd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_WARLORD_NAME">
-			<Text>Warlord</Text>
+			<Text>Krijgsheer</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_PRINCE_NAME">
-			<Text>Prince</Text>
+			<Text>Prins</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_KING_NAME">
-			<Text>King</Text>
+			<Text>Koning</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_EMPEROR_NAME">
-			<Text>Emperor</Text>
+			<Text>Keizer</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
-			<Text>Immortal</Text>
+			<Text>Onsterfelijk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIFFICULTY_DEITY_NAME">
-			<Text>Deity</Text>
+			<Text>Godheid</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

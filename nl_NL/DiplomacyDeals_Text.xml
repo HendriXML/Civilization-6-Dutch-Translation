@@ -1,377 +1,377 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
-      <Text>GOUD PER BEURT</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
-      <Text>GOUD PER BEURT[newline]{1_number} BEURTEN	</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
-      <Text>VOOR {1_number} BEURTEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
-      <Text>LUXEGOEDERENBRONNEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
-      <Text>STRATEGISCHE HULPBRONNEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
-      <Text>OVEREENKOMSTEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CITIES">
-      <Text>STEDEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
-      <Text>ANDERE SPELERS</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
-      <Text>GEVANGENEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
-      <Text>GROOTSE WERKEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
-      <Text>TECHNOLOGIEEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_PLAYER_PANEL_TITLE">
-      <Text>{1_LeaderName}[NEWLINE]{2_CivName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
-      <Text>Aanvaard deal</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
-      <Text>Weiger deal</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
-      <Text>Stel deal voor</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
-      <Text>Vraag deal</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
-      <Text>Accepteer vraag</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
-      <Text>Weiger vraag</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
-      <Text>Geef geschenk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
-      <Text>Laat maar zitten</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
-      <Text>Annuleer deal</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
-      <Text>Annuleer vraag</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
-      <Text>Begin opnieuw</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
-      <Text>Jouw items</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
-      <Text>Hun items</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
-      <Text>Wat zou je me willen geven?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
-      <Text>Wat zou daarvoor nodig zijn?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
-      <Text>Bepaal details deal...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
-      <Text>Bepaal details deal...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
-      <Text>{1_DisplayName} ({2_Turns} beurten)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
-      <Text>{1_LeaderName} zegt:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
-      <Text>{1_Name}, terug.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
-      <Text>Retourneer {1_Name} aan {1_LeaderName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
-      <Text>{1_Name}, afstaan.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
-      <Text>Sta {1_Name} af aan {1_LeaderName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_CITY_NOT_FOUND">
-      <Text>Stad niet gevonden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_CITY_DUPLICATE">
-      <Text>Een ander deal-item heeft dezelfde stad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
-      <Text>Niet genoeg goud</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
-      <Text>Niet genoeg goud</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
-      <Text>Groots Werk niet gevonden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_INVALID_PLAYER">
-      <Text>Invalide speler</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
-      <Text>Geen plaats om werk in te zetten</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
-      <Text>Onvoldoende van deze bron</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_SPY_NOT_FOUND">
-      <Text>Spion niet gevonden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
-      <Text>Bevolking: {1_number}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
-      <Text>Wijken:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
-      <Text>Residente ambassade</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
-      <Text>Verlang bijdrage</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
-      <Text>Open grenzen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
-      <Text>Verzoek om assistentie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
-      <Text>Klaag aan</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
-      <Text>Verrassingsoorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
-      <Text>Sluit vrede</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
-      <Text>Zend delegatie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
-      <Text>Bondgenootschap</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
-      <Text>Verklaar vriendschap</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
-      <Text>Verleen invloed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
-      <Text>Schenk eenheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
-      <Text>Militair verzoek</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
-      <Text>Verklaar oorlog aan mineure beschaving</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
-      <Text>Verklaar oorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
-      <Text>Verklaar heilige oorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
-      <Text>Verklaar vrijheidsoorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
-      <Text>Verklaar heroveringsoorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
-      <Text>Verklaar beschermingsoorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
-      <Text>Verklaar koloniale oorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
-      <Text>Verklaar oorlog van territoriale expansie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
-      <Text>Defensief pact</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
-      <Text>Gezamenlijke oorlog</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
-      <Text>Onderzoeksovereenkomst</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
-      <Text>Belofte niet te spioneren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
-      <Text>Belofte geen steden te bekeren</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
-      <Text>Belofte geen artefacten op te graven</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
-      <Text>Belofte je niet te dichtbij te vestigen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_INVALID">
-      <Text>Deze deal zal ik onder geen enkele omstandigheid afsluiten.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
-      <Text>Sluit een onderzoeksovereenkomst af met een verklaarde vriend of bondgenoot. Dit veroorlooft twee partijen gezamenlijk een bepaalde techniek te onderzoeken. Hoe duurder te techniek, hoe langer de overeenkomst zal duren. Tijdens de overeenkomst ontvangen beiden de boost voor die technologie.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
-      <Text>Voer een gezamenlijke oorlog tegen een andere beschaving.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
-      <Text>Sluit een defensief pact. Als een lid van het bondgenootschap wordt aangevallen, zullen alle leden automatisch de oorlog verklaren aan de agressor.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
-      <Text>Sluit een bondgenootschap met een verklaarde vriend. Bondgenoten mogen geen oorlog voeren, hebben automatisch open grenzen en ontvangen ieder een casus belli gericht tegen een agressieve beschaving als een van de bondgenoten een stad verliest.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
-      <Text>Richt een permanente ambassade op bij deze macht. Indien aanvaard zal de ontvanger een beetje vriendelijker en een niveau toegankelijker worden en de [ICON_Capital] hoofdstad van de ontvanger zal worden onthuld.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
-      <Text>Vraag om een diplomatieke gift van deze macht.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
-      <Text>Vraag de macht om toestemming voor je eenheden om door hun gecontroleerd gebied te reizen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
-      <Text>Vraag deze macht om een diplomatieke gift.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
-      <Text>Gebruikt om formeel kenbaar te maken dat je ongelukkig bent met deze macht. Een formele oorlogsverklaring (met of zonder casus belli) kan volgen nadat vervolgens weer 5 beurten voorbij zijn.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
-      <Text>Gebruikt om meteen een oorlog te beginnen. Normale straffen voor oorlogszucht worden verhoogd met 50%.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
-      <Text>Onderhandel een deal met deze macht om een einde aan de huidige oorlog te maken.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
-      <Text>Stuur een delegatie met een geschenk van [ICON_Gold] voor deze macht. Indien geaccepteerd zal de ontvanger een beetje vriendelijker en een niveau toegankelijker worden. Duurt totdat je de ontplooiing 'diplomatieke dienst' verkrijgt. </Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
-      <Text>Formaliseer je bedoeling om een vriendschappelijke relatie te onderhouden met deze macht. Op deze manier kom je in aanmerking voor een bondgenootschap maar zul je deze macht geen oorlog kunnen verklaren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
-      <Text>Gebruikt om een oorlog te verklaren aan een macht die je tenminste 5 beurten geleden hebt aangeklaagd. Geen beperkingen qua in te nemen steden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
-      <Text>Gebruikt om een oorlog te verklaren aan een macht die een van je steden bekeerd heeft. Alle straffen voor oorlogszucht gehalveerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
-      <Text>Gebruikt om een oorlog te verklaren aan een macht die een stad van jouw of je vrienden of bondgenoten heeft ingenomen.  Geen straffen voor oorlogszucht bij bevrijding van zo'n stad.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
-      <Text>Gebruikt om een oorlog te verklaren aan een macht die een van je steden heeft ingenomen. Geen straffen voor oorlogszucht van toepassing.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
-      <Text>Gebruikt om een oorlog te verklaren aan een macht die een van je bondgenootschappelijke stadstaten heeft aangevallen. Geen straffen voor oorlogszucht bij bevrijding van die stadstaat.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
-      <Text>Gebruikt om een oorlog te verklaren aan een macht die twee technologische tijdperken achter je ligt. Alle straffen voor oorlogszucht gehalveerd.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
-      <Text>Gebruikt om een oorlog te verklaren aan een macht die aan jouw rijk grenst. Je moet twee steden hebben binnen 10 gebiedsdelen van 2 steden van de tegenstander. Straf voor oorlogszucht verminderd met 25%.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
-      <Text>Initieer onderhandelingen over handel drijven met deze macht.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
-      <Text>Stel een vredsovereenkomst met deze macht voor.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_CITY_GREAT_WORKS_TOOLTIP">
-      <Text>Grote werken:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_CITY_RESOURCES_TOOLTIP">
-      <Text>Hulpbronnen:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEAL_ITEM_TRANSFERRED_WITH_CITY_TOOLTIP">
-      <Text>Overdragen met {1_CityName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
-      <Text>Hoeveel?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
-      <Text>Selecteer bondgenootschap</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
-      <Text>Selecteer doel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
-      <Text>Selecteer technologie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
-      <Text>Ik wil liever onderhandelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
-      <Text>Eisen stellen schaad de onderlinge verhoudingen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
-      <Text>Ik wil dat niet ruilen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
-      <Text>En dit?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
-      <Text>Ik wil deze gift ontvangen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
-      <Text>Giften verbeteren je onderlinge verhoudingen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
-      <Text>Ik heb niets dat ik daarvoor wil ruilen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_1">
-      <Text>Wat heb je aan geld als je het niet laat rollen?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_2">
-      <Text>Op de een of andere manier komt je rijkdom wel tot me.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_3">
-      <Text>Ik accepteer je afwijzing voor het moment</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_1">
-      <Text>Misschien dat we in de toekomst tot een overeenkomst kunnen komen?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_2">
-      <Text>Een andere keer misschien?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_3">
-      <Text>Ik ben verbaasd dat we niet tot een overeenstemming konden komen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_1">
-      <Text>Dat is jammer.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_2">
-      <Text>Ik zou niet durven hoger te bieden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_3">
-      <Text>Hoe spijtig.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
-      <Text>Ik kan aan dit voorstel onder geen omstandigheden accepteren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
-      <Text>Een blokkerend voorstel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_UNFAIR">
-      <Text>Ik kan dit oneerlijke voorstel niet accepteren.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
-      <Text>Vraag wat deze leider je wil bieden voor je aanbod[NEWLINE]Dit voegt alleen zaken aan hun kant van de overeenkomst toe.</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
+			<Text>GOUD PER BEURT</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
+			<Text>GOUD PER BEURT[newline]{1_number} BEURTEN	</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
+			<Text>VOOR {1_number} BEURTEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
+			<Text>LUXEGOEDERENBRONNEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
+			<Text>STRATEGISCHE HULPBRONNEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
+			<Text>OVEREENKOMSTEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CITIES">
+			<Text>STEDEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
+			<Text>ANDERE SPELERS</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
+			<Text>GEVANGENEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
+			<Text>GROOTSE WERKEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
+			<Text>TECHNOLOGIEEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_PLAYER_PANEL_TITLE">
+			<Text>{1_LeaderName}[NEWLINE]{2_CivName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
+			<Text>Aanvaard deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
+			<Text>Weiger deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
+			<Text>Stel deal voor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
+			<Text>Vraag deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
+			<Text>Accepteer vraag</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
+			<Text>Weiger vraag</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
+			<Text>Geef geschenk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
+			<Text>Laat maar zitten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
+			<Text>Annuleer deal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
+			<Text>Annuleer vraag</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
+			<Text>Begin opnieuw</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
+			<Text>Jouw items</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
+			<Text>Hun items</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
+			<Text>Wat zou je me willen geven?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
+			<Text>Wat zou daarvoor nodig zijn?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
+			<Text>Bepaal details deal...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
+			<Text>Bepaal details deal...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
+			<Text>{1_DisplayName} ({2_Turns} beurten)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
+			<Text>{1_LeaderName} zegt:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
+			<Text>{1_Name}, terug.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
+			<Text>Retourneer {1_Name} aan {1_LeaderName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
+			<Text>{1_Name}, afstaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
+			<Text>Sta {1_Name} af aan {1_LeaderName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_CITY_NOT_FOUND">
+			<Text>Stad niet gevonden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_CITY_DUPLICATE">
+			<Text>Een ander deal-item heeft dezelfde stad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
+			<Text>Niet genoeg goud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
+			<Text>Niet genoeg goud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
+			<Text>Groots Werk niet gevonden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_INVALID_PLAYER">
+			<Text>Invalide speler</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
+			<Text>Geen plaats om werk in te zetten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
+			<Text>Onvoldoende van deze bron</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_SPY_NOT_FOUND">
+			<Text>Spion niet gevonden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
+			<Text>Bevolking: {1_number}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
+			<Text>Wijken:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
+			<Text>Residente ambassade</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
+			<Text>Verlang bijdrage</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
+			<Text>Open grenzen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
+			<Text>Verzoek om assistentie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
+			<Text>Klaag aan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
+			<Text>Verrassingsoorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
+			<Text>Sluit vrede</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
+			<Text>Zend delegatie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
+			<Text>Bondgenootschap</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
+			<Text>Verklaar vriendschap</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
+			<Text>Verleen invloed</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
+			<Text>Schenk eenheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
+			<Text>Militair verzoek</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
+			<Text>Verklaar oorlog aan mineure beschaving</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
+			<Text>Verklaar oorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
+			<Text>Verklaar heilige oorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
+			<Text>Verklaar vrijheidsoorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
+			<Text>Verklaar heroveringsoorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
+			<Text>Verklaar beschermingsoorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
+			<Text>Verklaar koloniale oorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
+			<Text>Verklaar oorlog van territoriale expansie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
+			<Text>Defensief pact</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
+			<Text>Gezamenlijke oorlog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
+			<Text>Onderzoeksovereenkomst</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
+			<Text>Belofte niet te spioneren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
+			<Text>Belofte geen steden te bekeren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
+			<Text>Belofte geen artefacten op te graven</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
+			<Text>Belofte je niet te dichtbij te vestigen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_INVALID">
+			<Text>Deze deal zal ik onder geen enkele omstandigheid afsluiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
+			<Text>Sluit een onderzoeksovereenkomst af met een verklaarde vriend of bondgenoot. Dit veroorlooft twee partijen gezamenlijk een bepaalde techniek te onderzoeken. Hoe duurder te techniek, hoe langer de overeenkomst zal duren. Tijdens de overeenkomst ontvangen beiden de boost voor die technologie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
+			<Text>Voer een gezamenlijke oorlog tegen een andere beschaving.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
+			<Text>Sluit een defensief pact. Als een lid van het bondgenootschap wordt aangevallen, zullen alle leden automatisch de oorlog verklaren aan de agressor.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Sluit een bondgenootschap met een verklaarde vriend. Bondgenoten mogen geen oorlog voeren, hebben automatisch open grenzen en ontvangen ieder een casus belli gericht tegen een agressieve beschaving als een van de bondgenoten een stad verliest.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
+			<Text>Richt een permanente ambassade op bij deze macht. Indien aanvaard zal de ontvanger een beetje vriendelijker en een niveau toegankelijker worden en de [ICON_Capital] hoofdstad van de ontvanger zal worden onthuld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
+			<Text>Vraag om een diplomatieke gift van deze macht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
+			<Text>Vraag de macht om toestemming voor je eenheden om door hun gecontroleerd gebied te reizen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
+			<Text>Vraag deze macht om een diplomatieke gift.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
+			<Text>Gebruikt om formeel kenbaar te maken dat je ongelukkig bent met deze macht. Een formele oorlogsverklaring (met of zonder casus belli) kan volgen nadat vervolgens weer 5 beurten voorbij zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+			<Text>Gebruikt om meteen een oorlog te beginnen. Normale straffen voor oorlogszucht worden verhoogd met 50%.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
+			<Text>Onderhandel een deal met deze macht om een einde aan de huidige oorlog te maken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
+			<Text>Stuur een delegatie met een geschenk van [ICON_Gold] voor deze macht. Indien geaccepteerd zal de ontvanger een beetje vriendelijker en een niveau toegankelijker worden. Duurt totdat je de ontplooiing 'diplomatieke dienst' verkrijgt. </Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
+			<Text>Formaliseer je bedoeling om een vriendschappelijke relatie te onderhouden met deze macht. Op deze manier kom je in aanmerking voor een bondgenootschap maar zul je deze macht geen oorlog kunnen verklaren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
+			<Text>Gebruikt om een oorlog te verklaren aan een macht die je tenminste 5 beurten geleden hebt aangeklaagd. Geen beperkingen qua in te nemen steden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Gebruikt om een oorlog te verklaren aan een macht die een van je steden bekeerd heeft. Alle straffen voor oorlogszucht gehalveerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Gebruikt om een oorlog te verklaren aan een macht die een stad van jouw of je vrienden of bondgenoten heeft ingenomen.  Geen straffen voor oorlogszucht bij bevrijding van zo'n stad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Gebruikt om een oorlog te verklaren aan een macht die een van je steden heeft ingenomen. Geen straffen voor oorlogszucht van toepassing.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Gebruikt om een oorlog te verklaren aan een macht die een van je bondgenootschappelijke stadstaten heeft aangevallen. Geen straffen voor oorlogszucht bij bevrijding van die stadstaat.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Gebruikt om een oorlog te verklaren aan een macht die twee technologische tijdperken achter je ligt. Alle straffen voor oorlogszucht gehalveerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Gebruikt om een oorlog te verklaren aan een macht die aan jouw rijk grenst. Je moet twee steden hebben binnen 10 gebiedsdelen van 2 steden van de tegenstander. Straf voor oorlogszucht verminderd met 25%.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
+			<Text>Initieer onderhandelingen over handel drijven met deze macht.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
+			<Text>Stel een vredsovereenkomst met deze macht voor.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_CITY_GREAT_WORKS_TOOLTIP">
+			<Text>Grote werken:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_CITY_RESOURCES_TOOLTIP">
+			<Text>Hulpbronnen:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEAL_ITEM_TRANSFERRED_WITH_CITY_TOOLTIP">
+			<Text>Overdragen met {1_CityName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
+			<Text>Hoeveel?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
+			<Text>Selecteer bondgenootschap</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
+			<Text>Selecteer doel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
+			<Text>Selecteer technologie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
+			<Text>Ik wil liever onderhandelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
+			<Text>Eisen stellen schaad de onderlinge verhoudingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
+			<Text>Ik wil dat niet ruilen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
+			<Text>En dit?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
+			<Text>Ik wil deze gift ontvangen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
+			<Text>Giften verbeteren je onderlinge verhoudingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
+			<Text>Ik heb niets dat ik daarvoor wil ruilen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_1">
+			<Text>Wat heb je aan geld als je het niet laat rollen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_2">
+			<Text>Op de een of andere manier komt je rijkdom wel tot me.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_3">
+			<Text>Ik accepteer je afwijzing voor het moment</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_1">
+			<Text>Misschien dat we in de toekomst tot een overeenkomst kunnen komen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_2">
+			<Text>Een andere keer misschien?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_3">
+			<Text>Ik ben verbaasd dat we niet tot een overeenstemming konden komen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_1">
+			<Text>Dat is jammer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_2">
+			<Text>Ik zou niet durven hoger te bieden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_3">
+			<Text>Hoe spijtig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
+			<Text>Ik kan aan dit voorstel onder geen omstandigheden accepteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
+			<Text>Een blokkerend voorstel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_UNFAIR">
+			<Text>Ik kan dit oneerlijke voorstel niet accepteren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
+			<Text>Vraag wat deze leider je wil bieden voor je aanbod[NEWLINE]Dit voegt alleen zaken aan hun kant van de overeenkomst toe.</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

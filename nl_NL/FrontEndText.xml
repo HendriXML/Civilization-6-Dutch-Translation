@@ -1,1821 +1,1821 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <GameData>
-  <LocalizedText>
-    <Replace Language="nl_NL" Tag="LOC_GENERIC_TEST">
-      <Text>Tomáš</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GENERIC_DOT_DOT_DOT">
-      <Text>...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_YES_BUTTON">
-      <Text>Ja</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_BUTTON">
-      <Text>Nee</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OK_BUTTON">
-      <Text>OK</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEFAULT_BUTTON">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GENERIC_CONFIRM_BUTTON">
-      <Text>Bevestig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
-      <Text>Failed to determine graphics device capabilities.[NEWLINE][NEWLINE]Please set your graphics options manually.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
-      <Text>Your graphics driver is older than the minimum recommended version.[NEWLINE][NEWLINE]Please update your driver to the latest version.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
-      <Text>Don't Bug Me Again.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
-      <Text>Remind Me Next Time.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_RESUME_GAME">
-      <Text>Hervat spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PLAY_CIVILIZATION_6">
-      <Text>Speel nu</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SINGLE_PLAYER">
-      <Text>Singleplayer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PLAY_MULTIPLAYER">
-      <Text>Multiplayer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOAD_GAME">
-      <Text>Laad spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_FILE_SELECTED">
-      <Text>Momenteel geen bestand geselecteerd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_OPTIONS">
-      <Text>Spelopties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_MODS">
-      <Text>Mods</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_MY2K_LOGIN">
-      <Text>Mijn2K-login</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
-      <Text>Exit naar desktop</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_BENCH">
-      <Text>Benchmark</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_CREDITS">
-      <Text>Credits</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_TUTORIAL">
-      <Text>Tutorial</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DELETE_BUTTON">
-      <Text>Verwijder</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_BACK_BUTTON">
-      <Text>Terug</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_AUTOSAVES">
-      <Text>Autosaves</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_STEAMCLOUD">
-      <Text>Cloud</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_SAVED_GAMES">
-      <Text>Geen bewaarde spellen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SORTBY_NAME">
-      <Text>Sorteer op naam</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SORTBY_LASTMODIFIED">
-      <Text>Sorteer op laatst gewijzigd</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOAD_MENU_MODS">
-      <Text>MODS</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOAD_MENU_DLC">
-      <Text>DLC</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SAVE_GAME">
-      <Text>Bewaar spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SAVE_MAP_BUTTON">
-      <Text>Bewaar kaart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
-      <Text>You've reached the maximum number of Cloud saves. Overwrite or delete a save.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
-      <Text>Invalid file name.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
-      <Text>Waiting for cloud save list.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_TITLE_TXT">
-      <Text>Bevestig overschrijven</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
-      <Text>Bevestig wissen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_CHOICE">
-      <Text>Weet je het zeker?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_EXIT_TXT">
-      <Text>Weet je zeker dat je het spel wilt verlaten?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_TXT">
-      <Text>Dit wist je bewaarde spel voorgoed. Weet je het zeker?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
-      <Text>Bevestig laden spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_LOAD_TXT">
-      <Text>Hierbij verlies je alle niet bewaarde voortgang. Weet je het zeker?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OVERWRITE_TXT">
-      <Text>Dit zal je huidige bewaarde bestand overschrijven. Weet je het zeker?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DELETE_MOD_TXT">
-      <Text>This will permanently delete this Mod. Are you sure you want to do this?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_DISABLE_MOD">
-      <Text>Are you sure you wish to disable this mod?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_WILL_ALSO_DISABLE_MODS">
-      <Text>This will also disable the following mods:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_ENABLE_MOD">
-      <Text>Are you sure you wish to enable this mod?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_WILL_ALSO_ENABLE_MODS">
-      <Text>This will also enable the following mods:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_EFFECTED_MODS_TXT">
-      <Text>Effected Mods:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MOD_VERSION_AVAILABLE">
-      <Text>Version {1_VersionNumber} is available.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_CURRENT_TURN">
-      <Text>BEURT[ICON_Turn] {1}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
-      <Text>Scenariobeschrijving</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
-      <Text>Spelopties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
-      <Text>Kaarttype:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
-      <Text>Kaartgrootte:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
-      <Text>Wereldleeftijd:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
-      <Text>Bewaard door versie:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
-      <Text>Geavanceerde opties:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_NO_MAP_DATA">
-      <Text>NO MAP DATA</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
-      <Text>Tuner Active:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_QUICK_SAVE">
-      <Text>(Snel opslaan)</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NETWORK_NAME_TT">
-      <Text>Network Name[NEWLINE]This is how your name will appear to other players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NUMBER_OF_CIVILIZATIONS">
-      <Text>Aantal beschavingen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PLAYERS">
-      <Text>Spelers</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TEAM">
-      <Text>Team|Teams</Text>
-      <Plurality>1|2</Plurality>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TEAM_GENERIC_NAME">
-      <Text>Team {1_Number}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TEAM_UNKNOWN_NAME">
-      <Text>Onbekend team</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_BACK">
-      <Text>Terug</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_HANDICAP">
-      <Text>Moeilijkheid spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_OPTIONS">
-      <Text>Kaartopties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_KICKED">
-      <Text>You have been kicked from the game by the host.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
-      <Text>Network connection to host has been lost.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_ROOM_FULL">
-      <Text>The game has the maximum number of players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
-      <Text>Version mismatch with host.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
-      <Text>Mod configuration error.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
-      <Text>Unable to acquire required additional content.[NEWLINE]Content:[NEWLINE]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
-      <Text>Steam Workshop denied access to required additional content.[NEWLINE]Content:[NEWLINE]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
-      <Text>This game requires additional content that is not installed.  The automatic download of additional content is currently disabled.  Automatic downloads can be enabled in Game Options.[NEWLINE]Content:[NEWLINE]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
-      <Text>Network connection has been lost.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
-      <Text>Error joining Multiplayer session.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
-      <Text>{1_PlayerName}'s Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STANDARD_GAME">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
-      <Text>Play a multiplayer game where players take turns continuously with each other.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME">
-      <Text>Internet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
-      <Text>[ICON_CheckFail] Internet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
-      <Text>Play a multiplayer game on the internet.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
-      <Text>Internet games are not available while Steam is offline.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LAN_GAME">
-      <Text>Local Network</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
-      <Text>Play a multiplayer game on the local network.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
-      <Text>Hot Seat</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
-      <Text>Play a multiplayer game where players take alternating turns on this machine.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_GAME">
-      <Text>Cloud Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
-      <Text>Play a multiplayer game using FiraxisLive cloud computing technology.  Requires an active connection to FiraxisLive.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
-      <Text>Pitboss</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
-      <Text>Play a multiplayer game where a dedicated server controls the game over a long period of time.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MENU_BACK">
-      <Text>Terug</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CHAT_HELP_COMMAND_HINT">
-      <Text>[COLOR:ChatMessage_Help]Type /help for chat command help.[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CHAT_HELP_COMMAND_TEXT">
-      <Text>[COLOR:ChatMessage_Help]CHAT COMMANDS[NEWLINE]/g Send a message to a global channel[NEWLINE]/w [PlayerName] Whisper a message to a player[NEWLINE]/r Reply to a whisper[NEWLINE]/help Displays this help message[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
-      <Text>REFRESH</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
-      <Text>Retrieve the latest game list information.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
-      <Text>STOP REFRESH</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
-      <Text>Stop the game list information retrieval.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_BACK">
-      <Text>TERUG</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOIN_GAME">
-      <Text>Join Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MISC_BACK">
-      <Text>Terug</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
-      <Text>Connect to IP Address</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
-      <Text>Connect to a pitboss game at a given public IP address.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CREATE_GAME">
-      <Text>Creëer spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
-      <Text>Confirm Settings</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOST_GAME">
-      <Text>MULTIPLAYER GAME SETUP</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
-      <Text>Start a new multiplayer game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
-      <Text>Create a multiplayer game from an existing save.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_FRIENDS">
-      <Text>Friends</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
-      <Text>Show Friends List</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_SETUP">
-      <Text>GAME SETUP</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
-      <Text>GAME SUMMARY</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_NAME">
-      <Text>Game Name</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_RULESET">
-      <Text>Rule Set</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_AD_SETUP_MAP_TYPE">
-      <Text>Map Type</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_AD_SETUP_GAME_SPEED">
-      <Text>Spelsnelheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_AD_SETUP_MAP_SIZE">
-      <Text>Map Size</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PLAYERS">
-      <Text>Players</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DLCHOSTED">
-      <Text>DLC</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_MODSHOSTED">
-      <Text>Mods</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
-      <Text>PITBOSS GAMES</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
-      <Text>INTERNET GAMES</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LAN_LOBBY">
-      <Text>LOCAL NETWORK GAMES</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOBBY_MODS">
-      <Text>Additional Content</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
-      <Text>Official Content:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
-      <Text>Community Content:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_UNKNOWN">
-      <Text>Unknown</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_TRUE">
-      <Text>True</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_FALSE">
-      <Text>False</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_LIST">
-      <Text>List</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
-      <Text>Template</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_HOST">
-      <Text>Host</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
-      <Text>Join</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_START">
-      <Text>Start</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_KEY_BINDING">
-      <Text>Bevestig sneltoetsen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM">
-      <Text>Bevestig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_GAME">
-      <Text>Spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_GRAPHICS">
-      <Text>Video</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AUDIO">
-      <Text>Audio</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LANGUAGE">
-      <Text>Taal</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE">
-      <Text>Interface</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BINDINGS">
-      <Text>Sneltoetsen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_APPLICATION">
-      <Text>Applicatie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_GAME_OPTIONS">
-      <Text>Spelopties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
-      <Text>Video-opties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AUDIO_OPTIONS">
-      <Text>Audio-opties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
-      <Text>Taalopties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
-      <Text>Interface-opties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
-      <Text>Sneltoetsen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_QUICK_COMBAT">
-      <Text>Snel gevecht:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_QUICK_MOVEMENT">
-      <Text>Snelle verplaatsing:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_END_TURN">
-      <Text>Auto einde beurt:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TIME_OF_DAY">
-      <Text>Tijd:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TUNER">
-      <Text>Tuner (deactiveert prestaties):</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL">
-      <Text>Adviseur:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
-      <Text>Beurten tussen autosaves:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
-      <Text>Aantal te bewaren autosaves:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
-      <Text>Local Network Player Name:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
-      <Text>Auto Download Additional Content:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
-      <Text>Automatically download community made additional content when it is required to join a multiplayer game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
-      <Text>Steam Controller configuration happens inside the Steam client and not within this UI.  The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
-      <Text>Primaire binding</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_BIND_HEADER_ALT">
-      <Text>Alternatieve binding</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
-      <Text>Applicatie-opties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
-      <Text>Gesproken taal:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
-      <Text>Start in strategisch overzicht:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
-      <Text>Toon taal:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MASTER_VOLUME">
-      <Text>Volume:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MUSIC_VOLUME">
-      <Text>Muziek:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_EFFECTS_VOLUME">
-      <Text>Geluidseffecten:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_AMBIENT_VOLUME">
-      <Text>Omgevingsgeluid:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_SPEECH_VOLUME">
-      <Text>Spraak:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_MUTE_FOCUS">
-      <Text>Geluid uit als spelscherm inactief:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CLEAR">
-      <Text>verwijder</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CLOSE">
-      <Text>Sluit</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
-      <Text>PLEASE WAIT</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOINING_ROOM">
-      <Text>Joining Room...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOINING_HOST">
-      <Text>Retrieving Host Information...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
-      <Text>Configuring Game Content...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_ROOM_FULL">
-      <Text>The game has the maximum number of players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_JOIN_FAILED">
-      <Text>Error joining multiplayer session.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_SWAP_PLAYER">
-      <Text>Swap</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
-      <Text>Swap to this player slot.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
-      <Text>Swap to this player slot only if the other player also chooses to swap.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_KICK_PLAYER">
-      <Text>Kick Player</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STAGING_ROOM">
-      <Text>Staging Room</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BUTTON">
-      <Text>Ready</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ARE_YOU_READY">
-      <Text>Are you ready?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
-      <Text>Game Settings</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
-      <Text>Additional Content</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_LABEL">
-      <Text>Ready!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NOT_READY">
-      <Text>Not Ready</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_INVALID_SLOT_MAP_SIZE">
-      <Text>[COLOR:StagingStatus_Invalid]Invalid Map Size[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
-      <Text>This player slot is invalid for this map size.  Swap to a valid player slot.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_JOIN">
-      <Text>Join!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_OPEN">
-      <Text>Open</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_OPEN_TT">
-      <Text>Open slots can be occupied by joining players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMANREQ">
-      <Text>Human Required</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
-      <Text>Human Required slots require a human player before the game can start.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTLABEL_HOST">
-      <Text>[ICON_Host] Host</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTLABEL_PLAYER">
-      <Text>Player</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTLABEL_COMPUTER">
-      <Text>Computer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTLABEL_OPEN">
-      <Text>Open</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_AI">
-      <Text>AI</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_AI_TT">
-      <Text>AI Player</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_CLOSED">
-      <Text>Closed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_CLOSED_TT">
-      <Text>Closed slots can not be used by players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMAN">
-      <Text>Human</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMAN_TT">
-      <Text>Human Player</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
-      <Text>None</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
-      <Text>{1_Num}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CREATE_NEW_TEAM">
-      <Text>New</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_TEAM_HEADER">
-      <Text>Team</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
-      <Text>Moeilijkheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_READY_HEADER">
-      <Text>Ready?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
-      <Text>Civilization and Leader</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
-      <Text>Game Starting</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
-      <Text>Player</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
-      <Text>Password</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
-      <Text>Retype</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
-      <Text>Match</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
-      <Text>Passwords Don't Match.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_UNSUPPORTED">
-      <Text>Unsupported.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_UNSUPPORTED_TT">
-      <Text>Unsupported amount of players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
-      <Text>Invalid Teams</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
-      <Text>Cannot start game. All civilizations are on the same team.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
-      <Text>Cannot start game. Players are joining the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
-      <Text>Map Size Issue</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
-      <Text>Can not start game. A player is in an invalid player slot for the current map size. The current map only supports {1_number} players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
-      <Text>Not Enough Players</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
-      <Text>Can not start game.  Two players are required to start.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
-      <Text>Players Joining Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
-      <Text>Waiting for players joining into the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
-      <Text>Player Missing Mods</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
-      <Text>Waiting on players who do not have the mods required for this game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
-      <Text>Password Mismatch</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
-      <Text>All passwords must match.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
-      <Text>No Human Players</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
-      <Text>Need at least 1 human player</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
-      <Text>Invalid Teams</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
-      <Text>At least 2 players need to be on different teams</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_INVITE_BUTTON">
-      <Text>Invite Friends</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_INVITE_BUTTON_TT">
-      <Text>Invite friends from your Steam friends list to this game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CANCEL_BUTTON">
-      <Text>Annuleer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ACCEPT_BUTTON">
-      <Text>Accepteer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
-      <Text>Are you sure you wish to kick {1_player} from the game?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
-      <Text>Edit Hot Seat Player.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_HOTSEAT_EDIT_PLAYER">
-      <Text>Edit Hot Seat Player</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_HOTSEAT_PLAYER_NAME">
-      <Text>Player Name:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_HOTSEAT_PASSWORD">
-      <Text>Password:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
-      <Text>Retype Password:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTED">
-      <Text>Player is currently in-game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
-      <Text>[COLOR:ConnectionStatus_Connected]Connected[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_NOTCONNECTED">
-      <Text>Player is not connected.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
-      <Text>[COLOR:ConnectionStatus_Offline]Offline[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTING">
-      <Text>Player is joining the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
-      <Text>[COLOR:ConnectionStatus_Connecting]Joining[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_NOT_MOD_READY">
-      <Text>Player does not have the mods required to play in this game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TIME_MILLISECONDS">
-      <Text>ms</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TIME_SECONDS">
-      <Text>s</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_PROFILE">
-      <Text>Steam Profile</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_PROFILE_TT">
-      <Text>View this friend's profile page.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_CHAT">
-      <Text>Send Message</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_CHAT_TT">
-      <Text>Send a message to this friend.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_INVITE">
-      <Text>Invite to Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_INVITE_TT">
-      <Text>Invite this friend to play.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_ONLINE">
-      <Text>[COLOR:ButtonCS]Online[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_SHELL">
-      <Text>[COLOR:ConnectionStatus_Connected]Main Menu[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_HOSTING_GAME">
-      <Text>[COLOR:ConnectionStatus_Connected]Hosting Game[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_STAGING_ROOM">
-      <Text>[COLOR:ConnectionStatus_Connected]Staging Room[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_SP">
-      <Text>[COLOR:ConnectionStatus_Connected]Single Player[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_ONLINE">
-      <Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Online)[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_LAN">
-      <Text>[COLOR:ConnectionStatus_Connected]Multiplayer (LAN)[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
-      <Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Hot Seat)[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_INVITED_ONLINE">
-      <Text>[COLOR:ConnectionStatus_Connected]Invited[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRESENCE_INVITED_OFFLINE">
-      <Text>[COLOR:ButtonCS]Invited[ENDCOLOR]</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
-      <Text>Connected</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
-      <Text>Disconnected</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
-      <Text>Is Now the Host</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_PLAYER_KICKED_CHAT">
-      <Text>Was Kicked</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CHAT">
-      <Text>CHAT</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_TO_ALL">
-      <Text>To All:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_BYTES">
-      <Text>b</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_KILOBYTES">
-      <Text>Kb</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MEGABYTES">
-      <Text>Mb</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_CREATE_GAME">
-      <Text>Creëer spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_CHOOSE_SCENARIO">
-      <Text>Kies scenario</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_SCENARIOS">
-      <Text>Scenario's</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_SCENARIO">
-      <Text>Scenario</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_CIVILIZATION">
-      <Text>Kies beschaving</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_DIFFICULTY">
-      <Text>Kies moeilijkheidsgraad</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_SPEED">
-      <Text>Kies spelsnelheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_MAP_TYPE">
-      <Text>Kies type kaart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_MAP_SIZE">
-      <Text>Kies grootte kaart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DELETE_AI">
-      <Text>Verwijder</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ADVANCED_OPTIONS">
-      <Text>Geavanceerde setup</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_VICTORY_CONDITIONS">
-      <Text>Overwinningscondities</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ADVANCED_OPTIONS">
-      <Text>Geavanceerde opties</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_EDIT_BUTTON">
-      <Text>Wijzig</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ADD_PLAYER">
-      <Text>Voeg speler toe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ADD_PLAYER_TT">
-      <Text>Voeg speler toe aan spel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ADD_AI_PLAYER">
-      <Text>Voeg AI-speler toe</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
-      <Text>Voeg een AI-speler toe aan het spel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_RESTORE_DEFAULT">
-      <Text>Herstel standaardinstellingen</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
-      <Text>Herstel alle parameters naar hun standardwaarde.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_START_GAME">
-      <Text>Start spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_START_WORLD_BUILDER">
-      <Text>Start World Builder</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_START_NEW">
-      <Text>Nieuwe kaart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_LOAD">
-      <Text>Laad kaart</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_RANDOM_LEADER">
-      <Text>Willekeurige leider</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_RANDOM_CIVILIZATION">
-      <Text>Willekeurige beschaving</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
-      <Text>Geen dubbele leiders</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_INVALID_OPTION">
-      <Text>Onjuiste optie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
-      <Text>Geen eigenaar</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
-      <Text>Een of meer spelersopties zijn onjuist.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_RULESET">
-      <Text>Ruleset:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_NAME">
-      <Text>Game Name:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_NAME_DESC">
-      <Text>The name displayed for this game in the multiplayer server list.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRIVATE_GAME">
-      <Text>Private Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_PRIVATE_GAME_DESC">
-      <Text>Private games are not shown in the multiplayer lobby.  A private game is only accessable thru a game invite or the Steam friends list.  This setting does not apply to Local Network games.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_VICTORY_TIME">
-      <Text>Time</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_VICTORY_SCIENCE">
-      <Text>Science</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_NO_GOODY_HUTS">
-      <Text>No Tribal Villages</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_NO_BARBARIANS">
-      <Text>No Barbarians</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
-      <Text>Allies Share Visibility</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
-      <Text>Allied players will share their visibility of the map.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_TURNTIMER_TYPE">
-      <Text>Turn Timer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_TURN_TIMER_TIME">
-      <Text>Turn Time</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
-      <Text>Turn time used by the Standard Turn Timer mode (in seconds).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_TURNPHASE_TYPE">
-      <Text>Turn Mode</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_TURNPHASE_DESC">
-      <Text>Turn mode used by human controlled players in multiplayer.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_SYNC_RANDOM_SEED">
-      <Text>Game Random Seed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
-      <Text>The random seed for game rules.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RANDOM_SEED">
-      <Text>Map Random Seed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
-      <Text>The random seed for map generation.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_NAME">
-      <Text>World Age</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
-      <Text>New</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
-      <Text>Old</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
-      <Text>Random</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_NAME">
-      <Text>Temperature</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
-      <Text>Hot</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
-      <Text>Cold</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
-      <Text>Random</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_NAME">
-      <Text>Rainfall</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_ARID_NAME">
-      <Text>Arid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_WET_NAME">
-      <Text>Wet</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
-      <Text>Random</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_NAME">
-      <Text>Sea Level</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
-      <Text>Low</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
-      <Text>High</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
-      <Text>Random</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_NAME">
-      <Text>Resources</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
-      <Text>Sparse</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
-      <Text>Abundant</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
-      <Text>Random</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_NAME">
-      <Text>Start Position</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
-      <Text>Balanced</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
-      <Text>Standaard</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
-      <Text>Legendary</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
-      <Text>Predefined Start Locations</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
-      <Text>Use starting locations that are predefined in the map.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAMESPEED_MARATHON_HELP">
-      <Text>Zeer langdurig spel (200% langzamer).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAMESPEED_EPIC_HELP">
-      <Text>Langdurif spel (50% langzamer).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAMESPEED_STANDARD_HELP">
-      <Text>Normale snelheid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAMESPEED_QUICK_HELP">
-      <Text>Snel spel (33% sneller).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAMESPEED_ONLINE_HELP">
-      <Text>Double-speed game used for online multiplayer.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
-      <Text>Lots of small islands with a few larger islands.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
-      <Text>A few large landmasses.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
-      <Text>Unpredictable map that can result in one or many landmasses.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
-      <Text>One large ocean in the center of the map.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
-      <Text>Islands ranging in size from small to large.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
-      <Text>One massive landmass with surrounding islands.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
-      <Text>What secrets will this map reveal?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
-      <Text>Very small map for 2 players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
-      <Text>Slightly smaller map for 4 players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
-      <Text>Small map for 6 players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
-      <Text>Average-sized map for 8 players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
-      <Text>Large map for 10 players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
-      <Text>Enormous map for 12 players.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNTIMER_NONE">
-      <Text>No Turn Timer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNTIMER_NONE_DESC">
-      <Text>Players take turns without time constraints.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNTIMER_DYNAMIC">
-      <Text>Dynamic Turn Timer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNTIMER_DYNAMIC_DESC">
-      <Text>Turn time is dynamically scaled based on the number of cities and units in play.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNTIMER_STANDARD">
-      <Text>Standard Turn Timer</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNTIMER_STANDARD_DESC">
-      <Text>Turn time is based on the Turn Time option (in seconds).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNPHASE_SIMULTANEOUS">
-      <Text>Simultaneous Turns</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
-      <Text>Players take their turns at the same time.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNPHASE_DYNAMIC">
-      <Text>Dynamic Turns</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNPHASE_DYNAMIC_DESC">
-      <Text>Players at peace take their turns at the same time.  Players at war take their turns sequentially.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
-      <Text>Changes the maps elevation (Hills and Mountains).</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
-      <Text>A map with more hills and mountains.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
-      <Text>A map with standard hills and mountains.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
-      <Text>A map with less hills and mountains.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
-      <Text>A map with random hills and mountains.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
-      <Text>Adjusts the terrain of the map.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
-      <Text>A map with more Desert and less Tundra and Snow.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
-      <Text>A map with average terrain similar to Earth's terrain patterns.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
-      <Text>A map with more Tundra and Snow and less Desert.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
-      <Text>A map with random terrain temperature zones.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_DESCRIPTION">
-      <Text>Changes the amount of features present on a map.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
-      <Text>A map with less woods, rainforest, and marsh.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
-      <Text>A map with average amounts of woods, rainforest, and marsh.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
-      <Text>A map with more woods, rainforest, and marsh.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
-      <Text>A map with a random amount of features.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
-      <Text>Varries the amount of water on the map.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
-      <Text>A map with less water.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
-      <Text>A map with normal amounts of water.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
-      <Text>A map with more water.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
-      <Text>A map with a random amount of water.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_DESCRIPTION">
-      <Text>Change the quantity of resources.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
-      <Text>A map with less resources.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
-      <Text>A map with standard resources.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
-      <Text>A map with more resources.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
-      <Text>A map with a random amount of resources.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
-      <Text>Shifts the value of your starting position.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
-      <Text>All players have equally good starting spots.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
-      <Text>Standard starting positions.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
-      <Text>All players have great, but not necessarily equal starts.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_START_ERA">
-      <Text>Start Era</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAP_SCRIPT">
-      <Text>Map</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_TITLE">
-      <Text>Welcome to Civilization</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
-      <Text>It is here that we begin our journey of raising an empire from humble beginnings to greatness, and write your own version of history.[NEWLINE][NEWLINE]Will you conquer the world in great battles or be the first to send your people to the stars? Will you influence the world with the culture of your people, or will your beliefs spread to the ends of the earth?[NEWLINE][NEWLINE]Only time will tell...[NEWLINE][NEWLINE]All great civilizations begin with a great leader. Choose the civilization you would like to play through this tutorial below.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
-      <Text>Cleopatra of the Egyptian empire rules a civilization of strong allies and great city builders.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
-      <Text>Gilgamesh of the Sumerian empire rules vast lands and is a respected conqueror.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_LAND">
-      <Text>Een unieke landeenheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_SEA">
-      <Text>Een unieke zeevarende eenheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_AIR">
-      <Text>Een unieke luchteenheid</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_PLEASE_WAIT">
-      <Text>Laden, even wachten...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_DISTRICT_BUILDING">
-      <Text>Wijkgebouw in {1_DistrictName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_UNIQUE_BUILDING">
-      <Text>Een unieke constructie</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_UNIQUE_DISTRICT">
-      <Text>Een unieke wijk</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
-      <Text>Een unieke verbetering</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
-      <Text>Treedt toe tot het wereldtoneel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_FEATURES_ABILITIES">
-      <Text>Kenmerken &amp; Bekwaamheden</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_START_GAME">
-      <Text>Start spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_CONTINUE_GAME">
-      <Text>Vervolg spel</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
-      <Text>It is up to you to lead your people to glory by building a civilization that will stand the test of time.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
-      <Text>Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader – use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses.  Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
-      <Text>It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
-      <Text>There will be those who underestimate you, but you are cunning and full of tricks, Queen Cleopatra. Your charm will establish indestructible alliances with the strongest leaders of the world. Keep your friends close by your side and you will find yourself untouchable, with the glory of Egypt primed to win over the world.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
-      <Text>Be kind, Gandhi Bapu, and you will find yourself surrounded by true friends. Keep the Indian people safe, guarding them with magnificent elephant warriors. Your faith will guide you to peace and harmony. Keep your mind open, and be the change you want to see in the world.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
-      <Text>Much rests upon your shoulders, King Gilgamesh. Your own people, and many people of the world, look to you as leader. But you are more than a mere man, and the weight of the world will never cause you to waver. Encourage the people of Sumer to settle the fertile lands along rivers, and be sure to choose your allies carefully - for there will be many vying for a piece of your strength. Venture forth, for it is time to begin your epic tale.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_GORGO">
-      <Text>Gorgo, Queen of Sparta; glory to you and your loyal hoplite armies! Greece savors the blessings from Ares that every victory brings. And your people applaud your thoughtful governance and cultural marvels. Stand proud, for the legacy of Greece, and of your achievements, will be told over and over again for generations.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
-      <Text>All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore.  May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_HOJO">
-      <Text>The great wave of Buddhism follows you, Shikken of Japan, Hojo Tokimune. Your people truly understand what it is to practice balance, and even your finest samurai will be well-learned and spiritually apt. Be strong, embrace the divine wind, and you will reach enlightenment.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
-      <Text>Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease.  Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
-      <Text>Your people look to you, Emperor Pedro II, to lead Brazil onto the world stage. Use your reputation as a patron of artists, scientists, and engineers to draw the greatest minds to our fertile home. For it is in the lush rainforests, teeming with life, that your people thrive. Watch them in the Carnival as they dance the samba in celebration of your great feats, Pedro the Magnanimous.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
-      <Text>Your mastery of the spoken word is a gift of great value, silver-tongued Pericles, leader of the Greeks. Through it you can attract the devotion of a league of states, surrounding yourself with their glory. Establish cultural sites along the rocky shores of Greece to unite your people behind your strong governance.  If all goes well the Sirens will sing of the Age of Pericles!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
-      <Text>Embrace the chill winds of the Motherland, Tsar Peter. Your fascination with science and culture is a gift, and you will learn much from your Grand Embassies to foreign lands. Under your rule, Russia will surely flourish and spread, absorbing all that lies around it, perhaps creating the greatest land empire seen on this earth.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
-      <Text>All Spain stands ready to answer your prayers, devout King Philip II.  From your palace at El Escorial you can send forth your followers: missionaries, apostles, and conquistadors ready to strike out across the seas to spread the good word about your most holy empire.  May the treasures they uncover fuel your quest to unite the world under one faith and one empire, making you truly the Most Catholic king.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_QIN">
-      <Text>In your people lies your greatest strength, Emperor Qin Shi Huang. From all over the world, others will come to gaze upon the great walls and towering wonders of your united China. May the hands of your men never blister as they work hard and fast to raise the most impressive structures that the world will ever know. Protect them well, and you will forever be immortalized.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
-      <Text>The marriage of science and religion is a delicate balancing act, but one that you have mastered, Saladin. Your quest for knowledge is noble, and your people have a deep respect for you. But you need not rush into the unknown. Given time, the answers to life’s most puzzling questions will find their way back to Arabia.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
-      <Text>All people will tremble with fear and respect for you, great warrior Queen Tomyris. For it is from the back of your stallion that you shall look upon and lead the Scythian people. Great epics will be told of the horse warriors that ride forth from the steppe, and at the front line of every battle - they will find you. Ride on, fierce queen, and may your friends be true just as your enemies falter.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
-      <Text>Cast your net wide, oh Trajan, emperor of mighty Rome. Your legions stand at the ready to march out and establish the largest empire the world has ever seen. If you can truly get all roads to lead to Rome, yours will be an empire of great riches and luxuries.  Surely then our citizens will proclaim you as their best ruler, the Optimus Princeps.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
-      <Text>And so it is upon your broad shoulders, Theodore Roosevelt, to charge forth and lead your people on their great adventure. Use your military might to give the peoples of your homeland the square deal they so desperately deserve. Surely you will raise America into the limelight and attract visitors from across the oceans just to see your lands. Bully for you, Mr. President.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
-      <Text>Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe.  Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
-      <Text>From the first stirrings of life beneath water… to the great beasts of the Stone Age… to man taking his first upright steps, you have come far.  Now begins your greatest quest: from this early cradle of civilization on towards the stars.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
-      <Text>From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
-      <Text>You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow to understand your place in this world.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
-      <Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
-      <Text>The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot – these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_MODERN_DESCRIPTION">
-      <Text>In the beginning, legends of flying men soared. And today, you are on the brink of transforming those legends into a reality. With flight and new forms of communication you can create a small and intimate world.  But at what cost? Our competing ideas of how to govern and how to live threaten to bring conflict on a global scale.  You must choose your own path through this rising din of ideological oratory.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
-      <Text>New frontiers of discovery expand our understanding, from the tiny atom to the majesty of outer space. Mysteries long tolerated are closer than ever to revealing their deepest secrets, beyond what we can easily see. You will choose how to use this knowledge, and push back the greatest darkness we have yet faced.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
-      <Text>A world of information rests in the palm of your hand, and networks for instantaneous communication span the globe.  Yet a unified vision of our future has never been built.  We compete in technology, culture, and politics. We have deadly weapons that could destroy our planet. Lead us carefully, but boldly, and build a global community that can stand for years to come.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TUTORIAL_DISABLE">
-      <Text>Adviseur uitschakelen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
-      <Text>Nieuw bij turn-based strategy.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TUTORIAL_NEW_TO_CIV">
-      <Text>Nieuw bij Civilization</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
-      <Text>Nieuw bij Civilization VI</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
-      <Text>No Duplicate Leaders</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_TEAMS_NAME">
-      <Text>No Teams</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
-      <Text>Enabling this option prevents two or more players from choosing the same leader.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_TEAMS_DESCRIPTION">
-      <Text>Enabling this option disables team play.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LIMIT_TURNS_NAME">
-      <Text>Beurten beperkt</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LIMIT_TURNS_DESCRIPTION">
-      <Text>Limit the maximum number of turns</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNLIMIT_NONE_NAME">
-      <Text>No Turn Limit</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
-      <Text>There is no limit to the number of turns.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
-      <Text>By Game Speed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
-      <Text>The game will end at 2050 AD.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNLIMIT_CUSTOM_NAME">
-      <Text>Custom</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
-      <Text>The game will end at the specified number of turns.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CITYSTATE_COUNT_NAME">
-      <Text>City-States:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
-      <Text>The number of city-states to include in the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAX_TURNS_NAME">
-      <Text>Max Turns:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAX_TURNS_DESCRIPTION">
-      <Text>The number of turns until the Score Victory.  Use 0 for unlimited.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_RESUME_GAME_TT">
-      <Text>Hervat het laatst gespeelde spel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_LOAD_GAME_TT">
-      <Text>Laad een eerder bewaard spel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_PLAY_NOW_TT">
-      <Text>Speel op een kleine continent-kaart met willekeurige leiders.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_CREATE_GAME_TT">
-      <Text>Creëer een nieuw spel met je eigen instellingen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_SCENARIOS_TT">
-      <Text>Speel een scenario, een unieke ervaring met specifieke regels, leiders en doelstellingen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
-      <Text>Speel nu, creëer nieuw spel of vervolg bestaand spel.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_MULTIPLAYER_TT">
-      <Text>Internet, netwerk en hot seat matches.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
-      <Text>Instellingen voor video, audio, sneltoetsen en meer.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_MODS_TT">
-      <Text>Creaties van fans om Civilization VI uit te breiden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_TUTORIAL_TT">
-      <Text>Volledig nieuw bij het spel of een opfrisser nodig? We zijn hier om te helpen!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_BENCHMARK_TT">
-      <Text>Hoe staat je hardware ervoor?</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_CREDITS_TT">
-      <Text>Iedereen die heeft bijgedragen aan Civilization VI.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAINMENU_EXIT_GAME_TT">
-      <Text>Verlaat het spel volledig.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_COPYRIGHT_TEXT">
-      <Text>© 1991-2016 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_COPYRIGHT_ACCEPT">
-      <Text>Ga verder</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_DEFAULT_NAME">
-      <Text>Overwinning</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_HEADER">
-      <Text>GEWONNEN!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEFEATED_SUBHEADER">
-      <Text>VERSLAGEN</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ELIMINATED_SUBHEADER">
-      <Text>UITGESCHAKELD</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCORE_SUBHEADER">
-      <Text>SCORE-OVERWINNING</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
-      <Text>WETENSCHAPPELIJKE OVERWINNING</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_CULTURE_SUBHEADER">
-      <Text>CULTURELE OVERWINNING</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
-      <Text>DOMINANIE-OVERWINNING</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
-      <Text>RELIGIEUZE OVERWINNING</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
-      <Text>OVERWINNING: {1_ScenarioName}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
-      <Text>{1_ScenarioVictoryType}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
-      <Text>WINNAAR VAN SPEL</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCORE_NAME">
-      <Text>Score-overwinning</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCIENCE_NAME">
-      <Text>Wetenschappelijke overwinning</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_CULTURE_NAME">
-      <Text>Culturele overwinning</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_DOMINATION_NAME">
-      <Text>Dominantie-overwinning</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_RELIGIOUS_NAME">
-      <Text>Religieuze overwinning</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCORE_TT">
-      <Text>While you were not able to achieve a grand victory, you'll take what you can get. This victory is triggered when time runs out, and there are no other victors.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_SCIENCE_TT">
-      <Text>Be the first to colonize Mars to win a Science victory. This victory is straight-forward, but can be difficult to achieve before time runs out.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_CULTURE_TT">
-      <Text>Your cultural greatness will attract all of the world's people to your empire. This is the most difficult victory to achieve.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_DOMINATION_TT">
-      <Text>Through military strength and prowess, you bring the world to it's knees. This is the most basic victory to achieve.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_VICTORY_RELIGIOUS_TT">
-      <Text>Spread your religion to the four corners of the Earth, bringing light to a dark World. You will have to master diplomatic relationships if you hope to convert the world to the one true religion.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_RULESET_NAME">
-      <Text>Standard Rules</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_RULESET_DESCRIPTION">
-      <Text>This is a standard Civilization VI game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
-      <Text>Play as Cleopatra</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
-      <Text>Play as Gilgamesh</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
-      <Text>Extra inhoud</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
-      <Text>Extra inhoud en mods om Civilization VI uit te breiden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_DEMO">
-      <Text>Demo</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
-      <Text>Buy It Now</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
-      <Text>Open Steam Store to purchase Sid Meier's Civilization VI</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEMO_COMPLETE_CONTENT">
-      <Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
-      <Text>Fade into History</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DEMO_COMPLETE_BUY">
-      <Text>Achieve Greatness</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ARX_VICTORY_PROGRESS">
-      <Text>{1_CivName} Victory Progress</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ARX_TOP_5">
-      <Text>Top 5</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_ARX_GOSSIP_LOG">
-      <Text>Gossip Log</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
-      <Text>Save cannot be loaded in this version of the game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
-      <Text>Unable to open save.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
-      <Text>Unable to write save.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
-      <Text>Unable to read save.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
-      <Text>Unable to remove save.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
-      <Text>File is not a save game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
-      <Text>Save game is corrupt.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
-      <Text>Save loading unexpectedly ended.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
-      <Text>Unable to restore the game state.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
-      <Text>Unable find the path to the save.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
-      <Text>The save device is invalid.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
-      <Text>Unable to retrieve the save list from the device.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
-      <Text>One or more required Mods for the save are not installed.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
-      <Text>One or more required DLC packages for the save are not installed.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
-      <Text>One or more required Expansion packages for the save are not installed.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TEAM_NAME_SELECT_TITLE">
-      <Text>Team Name</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TEAM_NAME_ENTRY_TITLE">
-      <Text>Enter Team Name</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_CHOOSE_TEAM_ICON">
-      <Text>Choose Team Icon</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
-      <Text>Message of the Day:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
-      <Text>Graphics settings have been adjusted. You may review or change these settings in the Options menu.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
-      <Text>Disconnected</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
-      <Text>Host Connection Lost</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
-      <Text>Join Failed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
-      <Text>Kicked!</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
-      <Text>Mod Error</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_MISSING_TITLE">
-      <Text>Mod Missing</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
-      <Text>Full Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
-      <Text>Version Mismatch</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_START_ERROR_CODE">
-      <Text>Error - {1_ErrorCode}</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_START_ERROR_DESC">
-      <Text>There was an error starting the game.[NEWLINE][NEWLINE]We recommend disabling any mods and trying again.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_START_ERROR_TITLE">
-      <Text>Error Starting Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_GAME_START_VIEW_MODS">
-      <Text>Manage Mods</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
-      <Text>Ruleset:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOAD_CONFIG">
-      <Text>Load Configuration</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_LOAD_MAP">
-      <Text>Load Map</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_JOIN_FAILED_TITLE">
-      <Text>Join Failed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_ROOM_FULL_TITLE">
-      <Text>Full Game</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_ROOM_GAME_STARTED">
-      <Text>Unable to join game. The game has already been started.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
-      <Text>Join Failed</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
-      <Text>Connecting to Players...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
-      <Text>Error while ending game.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
-      <Text>Ok</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
-      <Text>Ending Game...</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_END_GAME">
-      <Text>DELETE</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
-      <Text>Game failed to launch.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
-      <Text>Ok</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
-      <Text>Unknown Map Size</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_SAVED_CONFIGS">
-      <Text>No saved configurations</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_NO_SAVED_MAPS">
-      <Text>No saved maps</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPEN_DIRECTORY">
-      <Text>Open</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
-      <Text>City Ranged Attack Turn Blocking:</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
-      <Text>When enabled, city ranged attacks are turn blocking.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SAVE_CONFIG">
-      <Text>Save Configuration</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_CHOOSE_RULESET">
-      <Text>Choose Ruleset</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
-      <Text>Awaiting Additional Players</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
-      <Text>Game in Progress</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_STAGING_ROOM_LOADING_SAVE">
-      <Text>Loading Save Game</Text>
-    </Replace>
-  </LocalizedText>
+	<LocalizedText>
+		<Replace Language="nl_NL" Tag="LOC_GENERIC_TEST">
+			<Text>Tomáš</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GENERIC_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_YES_BUTTON">
+			<Text>Ja</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_BUTTON">
+			<Text>Nee</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OK_BUTTON">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEFAULT_BUTTON">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GENERIC_CONFIRM_BUTTON">
+			<Text>Bevestig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
+			<Text>Kan de functies van grafische apparaten niet bepalen.[NEWLINE][NEWLINE]Stel uw grafische opties handmatig in.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
+			<Text>Uw grafische stuurprogramma is ouder dan de minimaal aanbevolen versie.[NEWLINE][NEWLINE]Werk uw stuurprogramma bij naar de nieuwste versie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
+			<Text>Val me niet meer lastig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
+			<Text>Herinner me de volgende keer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_RESUME_GAME">
+			<Text>Hervat spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PLAY_CIVILIZATION_6">
+			<Text>Speel nu</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SINGLE_PLAYER">
+			<Text>Enkele speler</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PLAY_MULTIPLAYER">
+			<Text>Meerdere spelers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOAD_GAME">
+			<Text>Laad spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_FILE_SELECTED">
+			<Text>Momenteel geen bestand geselecteerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_OPTIONS">
+			<Text>Spelopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_MODS">
+			<Text>Mods</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_MY2K_LOGIN">
+			<Text>Mijn2K-login</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
+			<Text>Afsluiten naar bureaublad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_BENCH">
+			<Text>Snelheidstest</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_CREDITS">
+			<Text>Credits</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_TUTORIAL">
+			<Text>Tutorial</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DELETE_BUTTON">
+			<Text>Verwijder</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BACK_BUTTON">
+			<Text>Terug</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AUTOSAVES">
+			<Text>Autosaves</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_STEAMCLOUD">
+			<Text>Cloud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_SAVED_GAMES">
+			<Text>Geen bewaarhet spellen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SORTBY_NAME">
+			<Text>Sorteer op naam</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SORTBY_LASTMODIFIED">
+			<Text>Sorteer op laatst gewijzigd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOAD_MENU_MODS">
+			<Text>MODS</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOAD_MENU_DLC">
+			<Text>DLC</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SAVE_GAME">
+			<Text>Bewaar spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SAVE_MAP_BUTTON">
+			<Text>Bewaar kaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
+			<Text>U heeft het maximale aantal cloud-saves bereikt. Een save overschrijven of verwijderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
+			<Text>Ongeldige bestandsnaam.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
+			<Text>Wachten op cloudopslaglijst.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_TITLE_TXT">
+			<Text>Bevestig overschrijven</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
+			<Text>Bevestig wissen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_CHOICE">
+			<Text>Weet je het zeker?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_EXIT_TXT">
+			<Text>Weet je zeker dat je het spel wilt verlaten?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_TXT">
+			<Text>Dit wist je bewaarde spel voorgoed. Weet je het zeker?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
+			<Text>Bevestig laden spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_LOAD_TXT">
+			<Text>Niet verleende voortgang. Weet je het zeker?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OVERWRITE_TXT">
+			<Text>Dit zal je huidige bewaarde bestand overschrijven. Weet je het zeker?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DELETE_MOD_TXT">
+			<Text>Hiermee wordt deze Mod permanent verwijderd. Weet je zeker dat je dit wilt doen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_DISABLE_MOD">
+			<Text>Weet je zeker dat je deze mod wilt uitschakelen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_WILL_ALSO_DISABLE_MODS">
+			<Text>Dit zal ook de volgende mods uitschakelen:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_ENABLE_MOD">
+			<Text>Weet je zeker dat je deze mod wilt inschakelen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_WILL_ALSO_ENABLE_MODS">
+			<Text>Dit zal ook de volgende mods mogelijk maken:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_EFFECTED_MODS_TXT">
+			<Text>Uitgevoerde Mods:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MOD_VERSION_AVAILABLE">
+			<Text>Versie {1_VersionNumber} is beschikbaar.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_CURRENT_TURN">
+			<Text>BEURT[ICON_Turn] {1}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
+			<Text>Scenariobeschrijving</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
+			<Text>Spelopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
+			<Text>Kaarttype:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
+			<Text>Kaartgrootte:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
+			<Text>Wereldleeftijd:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
+			<Text>Bewaard door versie:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
+			<Text>Geavanceerde opties:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_NO_MAP_DATA">
+			<Text>GEEN KAARTGEGEVENS</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
+			<Text>Tuner actief:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_QUICK_SAVE">
+			<Text>(Snel opslaan)</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NETWORK_NAME_TT">
+			<Text>Netwerknaam[NEWLINE]Dit is hoe uw naam zal verschijnen voor andere spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NUMBER_OF_CIVILIZATIONS">
+			<Text>Aantal beschavingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PLAYERS">
+			<Text>Spelers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TEAM">
+			<Text>Team|Teams</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TEAM_GENERIC_NAME">
+			<Text>Team {1_Nummer}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TEAM_UNKNOWN_NAME">
+			<Text>Onbekend team</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BACK">
+			<Text>Terug</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_HANDICAP">
+			<Text>Moeilijkheid spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_OPTIONS">
+			<Text>Kaartopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_KICKED">
+			<Text>Je bent door de gastheer uit het spel getrapt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
+			<Text>Netwerkverbinding met de gastheer is verloren gegaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_ROOM_FULL">
+			<Text>Het spel heeft het maximale aantal spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
+			<Text>Versie komt niet overeen met host.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
+			<Text>Mod-configuratiefout.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
+			<Text>Kan vereiste aanvullende inhoud niet verwerven.[NEWLINE]Inhoud:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+			<Text>Steam Workshop toegang tot vereiste aanvullende inhoud geweigerd.[NEWLINE]Inhoud:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
+			<Text>Voor dit spel is extra inhoud vereist die niet is geïnstalleerd. Het automatisch downloaden van extra inhoud is momenteel uitgeschakeld. Automatische downloads kunnen worden ingeschakeld in Spelopties.[NEWLINE]Inhoud:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
+			<Text>Netwerkverbinding is verloren gegaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
+			<Text>Fout bij deelname aan een meerdere spelers-sessie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
+			<Text>Spel van {1_PlayerName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STANDARD_GAME">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
+			<Text>Speel een spel met meerdere spelers waarbij spelers om beurten continu met elkaar spelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME">
+			<Text>Internet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
+			<Text>[ICON_CheckFail] Internet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
+			<Text>Speel een spel met meerdere spelers op het internet.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+			<Text>Internetspels zijn niet beschikbaar terwijl Steam offline is.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LAN_GAME">
+			<Text>Lokaal netwerk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
+			<Text>Speel een spel met meerdere spelers op het lokale netwerk.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
+			<Text>Hotseat  </Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
+			<Text>Speel een spel met meerdere spelers waarbij spelers afwisselend deze machine gebruiken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_GAME">
+			<Text>Cloud spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
+			<Text>Speel een spel voor meerdere spelers met FiraxisLive cloud computing-technologie. Vereist een actieve verbinding met Firaxis Live.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
+			<Text>pitboss</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
+			<Text>Speel een spel met meerdere spelers waarbij een dedicated server het spel gedurende een lange periode bestuurt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MENU_BACK">
+			<Text>Terug</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CHAT_HELP_COMMAND_HINT">
+			<Text>[COLOR:ChatMessage_Help] Type / help voor hulp bij chatopdracht. [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CHAT_HELP_COMMAND_TEXT">
+			<Text>[COLOR:ChatMessage_Help] CHAT-COMMANDO'S[NEWLINE]/ g Stuur een bericht naar een wereldwijd kanaal[NEWLINE]/ w [Spelersnaam] Een bericht fluisteren naar een speler[NEWLINE]/ r Antwoorde fluisteren[NEWLINE]/ help Toont deze hulp bericht [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
+			<Text>REFRESH</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
+			<Text>Haal de laatste informatie over het spellijst op.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
+			<Text>VERNIEUWING STOPPEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
+			<Text>Stop met het ophalen van het spellijstinformatie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_BACK">
+			<Text>TERUG</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOIN_GAME">
+			<Text>Speel mee</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MISC_BACK">
+			<Text>Terug</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
+			<Text>Verbinden met IP-adres</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
+			<Text>Maak verbinding met een pitboss-spel op een bepaald openbaar IP-adres.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CREATE_GAME">
+			<Text>Creëer spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
+			<Text>Instellingen bevestigen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOST_GAME">
+			<Text>MULTIPLAYER SPELINSTELLING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
+			<Text>Start een nieuw spel met meerdere spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
+			<Text>Maak een spel met meerdere spelers van een bestaande save.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_FRIENDS">
+			<Text>Vrienden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
+			<Text>Vriendenlijst tonen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_SETUP">
+			<Text>SPELINSTELLING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
+			<Text>SPELSAMENVATTING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_NAME">
+			<Text>Spelnaam</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_RULESET">
+			<Text>Regelset</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AD_SETUP_MAP_TYPE">
+			<Text>Kaartsoort</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AD_SETUP_GAME_SPEED">
+			<Text>Spelsnelheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_AD_SETUP_MAP_SIZE">
+			<Text>Kaart grootte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PLAYERS">
+			<Text>Spelers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DLCHOSTED">
+			<Text>DLC</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_MODSHOSTED">
+			<Text>mods</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
+			<Text>PITBOSS spelS</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
+			<Text>INTERNETSPELLEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LAN_LOBBY">
+			<Text>LOKALE NETWERKSPELLEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOBBY_MODS">
+			<Text>Extra inhoud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
+			<Text>Officiële inhoud:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
+			<Text>Community-inhoud:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_UNKNOWN">
+			<Text>Onbekend</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_TRUE">
+			<Text>Waar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_FALSE">
+			<Text>Onwaar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_LIST">
+			<Text>Lijst</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
+			<Text>Sjabloon</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_HOST">
+			<Text>gastheer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
+			<Text>toetreden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CLOUD_START">
+			<Text>Begin</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_KEY_BINDING">
+			<Text>Bevestig sneltoetsen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM">
+			<Text>Bevestig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_GAME">
+			<Text>Spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_GRAPHICS">
+			<Text>Video</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AUDIO">
+			<Text>Geluid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LANGUAGE">
+			<Text>Taal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE">
+			<Text>Interface</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BINDINGS">
+			<Text>Sneltoetsen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_APPLICATION">
+			<Text>Applicatie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_GAME_OPTIONS">
+			<Text>Spelopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
+			<Text>Video-opties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AUDIO_OPTIONS">
+			<Text>Audio-opties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
+			<Text>Taalopties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
+			<Text>Interface-opties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
+			<Text>Sneltoetsen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_QUICK_COMBAT">
+			<Text>Snel gevecht:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+			<Text>Snelle verplaatsing:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_END_TURN">
+			<Text>Auto einde beurt:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TIME_OF_DAY">
+			<Text>Tijd:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TUNER">
+			<Text>Tuner (deactiveert prestaties):</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TUTORIAL">
+			<Text>Adviseur:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
+			<Text>Beurten tussen autosaves:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
+			<Text>Aantal te bewaren autosaves:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+			<Text>Naam van lokale netwerkspeler:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
+			<Text>Automatisch extra inhoud downloaden:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
+			<Text>Community automatisch downloaden extra inhoud wanneer het nodig is om deel te nemen aan een spel met meerdere spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+			<Text>De configuratie van de Steam Controller gebeurt in de Steam-client en niet in deze gebruikersinterface. De escape, linkermuisknop en rechter muisknop zijn gereserveerd en kunnen niet worden gebonden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
+			<Text>Primaire binding</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_BIND_HEADER_ALT">
+			<Text>Alternatieve binding</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
+			<Text>Applicatie-opties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
+			<Text>Gesproken taal:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
+			<Text>Start in strategisch overzicht:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+			<Text>Toon taal:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MASTER_VOLUME">
+			<Text>Volume:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MUSIC_VOLUME">
+			<Text>Muziek:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_EFFECTS_VOLUME">
+			<Text>Geluidseffecten:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_AMBIENT_VOLUME">
+			<Text>Omgevingsgeluid:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_SPEECH_VOLUME">
+			<Text>Spraak:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_MUTE_FOCUS">
+			<Text>Geluid uit als spelscherm inactief:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CLEAR">
+			<Text>verwijder</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CLOSE">
+			<Text>Sluit</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
+			<Text>EVEN GEDULD AUB</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOINING_ROOM">
+			<Text>Deelnemen aan kamer ...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_JOINING_HOST">
+			<Text>Gastheerinformatie ophalen ...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
+			<Text>spel-inhoud configureren ...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_ROOM_FULL">
+			<Text>Het spel heeft het maximale aantal spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_JOIN_FAILED">
+			<Text>Fout bij deelname aan een meerdere spelers-sessie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_SWAP_PLAYER">
+			<Text>Ruil</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
+			<Text>Wissel naar deze speler.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
+			<Text>Wissel alleen naar deze spelerpositie als de andere speler ook kiest om te ruilen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_KICK_PLAYER">
+			<Text>Kick Player</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_STAGING_ROOM">
+			<Text>Staging Room</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BUTTON">
+			<Text>Klaar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ARE_YOU_READY">
+			<Text>Ben je klaar?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
+			<Text>Spelinstellingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
+			<Text>Extra inhoud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_LABEL">
+			<Text>Klaar!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NOT_READY">
+			<Text>Niet klaar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_INVALID_SLOT_MAP_SIZE">
+			<Text>[COLOR:StagingStatus_Invalid] Ongeldige kaartgrootte [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
+			<Text>Deze spelerspositie is ongeldig voor deze kaartgrootte. Wissel naar een geldige spelerslot.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_JOIN">
+			<Text>Word lid!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_OPEN">
+			<Text>Open</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_OPEN_TT">
+			<Text>Open posities kunnen worden bezet door spelers aan te sluiten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMANREQ">
+			<Text>Mensenlijke speler vereist</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
+			<Text>Mensen posities vereisen een menselijke speler voordat het spel kan beginnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTLABEL_HOST">
+			<Text>[ICON_Host] Host</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTLABEL_PLAYER">
+			<Text>Speler</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTLABEL_COMPUTER">
+			<Text>Computer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTLABEL_OPEN">
+			<Text>Open</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_AI">
+			<Text>AI</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_AI_TT">
+			<Text>AI speler</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_CLOSED">
+			<Text>Gesloten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_CLOSED_TT">
+			<Text>Gesloten posities kunnen niet door spelers worden gebruikt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMAN">
+			<Text>Menselijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SLOTTYPE_HUMAN_TT">
+			<Text>Menselijke speler</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
+			<Text>Geen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
+			<Text>{1_Num}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CREATE_NEW_TEAM">
+			<Text>Nieuwe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_TEAM_HEADER">
+			<Text>Team</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
+			<Text>Moeilijkheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_READY_HEADER">
+			<Text>Klaar?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
+			<Text>Beschaving en leider</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
+			<Text>Begin van het spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
+			<Text>Speler</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
+			<Text>Wachtwoord</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
+			<Text>Herhaal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
+			<Text>Wachtwoorden komen overeen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
+			<Text>Wachtwoorden komen niet overeen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_UNSUPPORTED">
+			<Text>Niet-ondersteunde.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_UNSUPPORTED_TT">
+			<Text>Niet-ondersteunde hoeveelheid spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
+			<Text>Ongeldige teams</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
+			<Text>Kan spel niet starten. Alle beschavingen zitten in hetzelfde team.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
+			<Text>Kan spel niet starten. Spelers voegen zich bij het spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
+			<Text>Probleem met kaartformaat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
+			<Text>Kan spel niet starten. Een speler bevindt zich in een ongeldige plek voor de huidige kaartgrootte. De huidige kaart ondersteunt alleen spelers van {1_number}.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
+			<Text>Niet genoeg spelers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
+			<Text>Kan spel niet starten. Er moeten twee spelers starten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
+			<Text>Spelers die meedoen aan het spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
+			<Text>Wachten op spelers die meedoen aan het spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
+			<Text>Speler ontbreekt Mods</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
+			<Text>Wachten op spelers die niet over de mods beschikken die voor dit spel vereist zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
+			<Text>Wachtwoord komt niet overeen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
+			<Text>Alle wachtwoorden moeten overeenkomen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
+			<Text>Geen menselijke spelers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
+			<Text>Heb minimaal 1 menselijke speler nodig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
+			<Text>Ongeldige teams</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
+			<Text>Ten minste 2 spelers moeten in verschillende teams zijn</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_INVITE_BUTTON">
+			<Text>Nodig vrienden uit</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_INVITE_BUTTON_TT">
+			<Text>Nodig vrienden uit je Steam-vriendenlijst uit voor dit spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CANCEL_BUTTON">
+			<Text>Annuleer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ACCEPT_BUTTON">
+			<Text>Accepteer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
+			<Text>Weet je zeker dat je {1_player} uit het spel wilt trappen?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
+			<Text>Edit Hot Seat Player.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_HOTSEAT_EDIT_PLAYER">
+			<Text>Edit Hot Seat Player</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_HOTSEAT_PLAYER_NAME">
+			<Text>Naam speler:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_HOTSEAT_PASSWORD">
+			<Text>Wachtwoord:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
+			<Text>Geef nogmaals het wachtwoord:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTED">
+			<Text>Speler is momenteel in het spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connected]Verbinding [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_NOTCONNECTED">
+			<Text>Speler is niet verbonden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Offline] Offline [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTING">
+			<Text>Speler neemt deel aan het spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connecting] Joining [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_NOT_MOD_READY">
+			<Text>Speler heeft niet de mods die vereist zijn om in dit spel te spelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TIME_MILLISECONDS">
+			<Text>ms</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TIME_SECONDS">
+			<Text>s</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_PROFILE">
+			<Text>Steamprofiel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_PROFILE_TT">
+			<Text>Bekijk de profielpagina van deze vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_CHAT">
+			<Text>Bericht versturen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_CHAT_TT">
+			<Text>Stuur een bericht naar deze vriend.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_INVITE">
+			<Text>Nodig uit voor spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRIEND_ACTION_INVITE_TT">
+			<Text>Nodig deze vriend uit om te spelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_ONLINE">
+			<Text>[KLEUR: ButtonCS] Online [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_SHELL">
+			<Text>[COLOR:ConnectionStatus_Connected]Hoofdmenu[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_HOSTING_GAME">
+			<Text>[COLOR:ConnectionStatus_Connected]Hostingspel[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_STAGING_ROOM">
+			<Text>[COLOR:ConnectionStatus_Connected]Staging Room[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_SP">
+			<Text>[COLOR:ConnectionStatus_Connected]Enkele speler[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Spel met meerdere spelers (online)[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_LAN">
+			<Text>[COLOR:ConnectionStatus_Connected]Spel met meerdere spelers (LAN)[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
+			<Text>[COLOR:ConnectionStatus_Connected]Spel met meerdere spelers (Hot Seat)[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_INVITED_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Spel met meerdere spelers[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRESENCE_INVITED_OFFLINE">
+			<Text>[COLOR:ButtonCS] uitgenodigd[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
+			<Text>Verbonden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
+			<Text>Losgekoppeld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
+			<Text>Is nu de gastheer</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_PLAYER_KICKED_CHAT">
+			<Text>Was geschopt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CHAT">
+			<Text>CHAT</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_TO_ALL">
+			<Text>Aan iedereen:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BYTES">
+			<Text>b</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_KILOBYTES">
+			<Text>Kb</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MEGABYTES">
+			<Text>Mb</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_CREATE_GAME">
+			<Text>Creëer spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_CHOOSE_SCENARIO">
+			<Text>Kies een scenario</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_SCENARIOS">
+			<Text>Scenario's</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_SCENARIO">
+			<Text>Scenario</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_CIVILIZATION">
+			<Text>Kies beschaving</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_DIFFICULTY">
+			<Text>Kies moeilijkheidsgraad</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_SPEED">
+			<Text>Kies spelsnelheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_MAP_TYPE">
+			<Text>Kies type kaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_MAP_SIZE">
+			<Text>Kies groote kaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DELETE_AI">
+			<Text>Verwijder</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ADVANCED_OPTIONS">
+			<Text>Geavanceerde instellingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_VICTORY_CONDITIONS">
+			<Text>Overwinningscondities</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ADVANCED_OPTIONS">
+			<Text>Geavanceerde opties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_EDIT_BUTTON">
+			<Text>Wijzig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ADD_PLAYER">
+			<Text>Voeg speler toe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ADD_PLAYER_TT">
+			<Text>Voeg speler toe aan spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ADD_AI_PLAYER">
+			<Text>Voeg AI-speler toe</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
+			<Text>Voeg een AI-speler toe aan het spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_RESTORE_DEFAULT">
+			<Text>Herstel standaardinstellingen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
+			<Text>Herstel alle parameters naar hun standaardwaarde.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_START_GAME">
+			<Text>Start spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_START_WORLD_BUILDER">
+			<Text>Start World Builder</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_START_NEW">
+			<Text>Nieuwe kaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_WORLD_BUILDER_LOAD">
+			<Text>Laad kaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_RANDOM_LEADER">
+			<Text>Willekeurige leider</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_RANDOM_CIVILIZATION">
+			<Text>Willekeurige beschaving</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
+			<Text>Geen dubbele leiders</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_INVALID_OPTION">
+			<Text>Onjuiste optie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
+			<Text>Geen eigenaar</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
+			<Text>Een of meer spelersopties zijn onjuist.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_RULESET">
+			<Text>regelset:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_NAME">
+			<Text>Spel naam:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_NAME_DESC">
+			<Text>De naam die voor dit spel wordt weergegeven in de multiplayer-serverlijst.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRIVATE_GAME">
+			<Text>Privé-spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_PRIVATE_GAME_DESC">
+			<Text>Privé-spellen worden niet getoond in de lobby voor meerdere spelers. Een privéspel is alleen toegankelijk via een speluitnodiging of de Steam-vriendenlijst. Deze instelling is niet van toepassing op lokale netwerkspellen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_VICTORY_TIME">
+			<Text>Tijd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_VICTORY_SCIENCE">
+			<Text>Wetenschap</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_NO_GOODY_HUTS">
+			<Text>Geen stamdorpen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_NO_BARBARIANS">
+			<Text>Geen barbaren</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
+			<Text>Bondgenoten delen zichtbaarheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
+			<Text>Geallieerde spelers delen hun zichtbaarheid op de kaart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_TURNTIMER_TYPE">
+			<Text>Beurttijdsklok</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_TURN_TIMER_TIME">
+			<Text>Beurttijd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
+			<Text>Vertragingstijd gebruikt door de standaard beurtijdfunctie (in seconden).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_TURNPHASE_TYPE">
+			<Text>Beurtmodus</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_TURNPHASE_DESC">
+			<Text>Beurtfunctie gebruikt door door mensen bestuurhet spelers in multiplayer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_SYNC_RANDOM_SEED">
+			<Text>Spel willekeurig getal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
+			<Text>Het willekeurige getal voor spelregels.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RANDOM_SEED">
+			<Text>Kaart willekeurig getal</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
+			<Text>Het willekeurige getal voor het genereren van kaarten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_NAME">
+			<Text>Wereldleeftijd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
+			<Text>Nieuw</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
+			<Text>Oud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
+			<Text>Willekeurig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_NAME">
+			<Text>Temperatuur</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
+			<Text>Warm</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
+			<Text>Koud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
+			<Text>Willekeurig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_NAME">
+			<Text>Regenval</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_ARID_NAME">
+			<Text>Dor</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_WET_NAME">
+			<Text>Nat</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
+			<Text>Willekeurig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_NAME">
+			<Text>Zeeniveau</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
+			<Text>Laag</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
+			<Text>Hoog</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
+			<Text>Willekeurig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_NAME">
+			<Text>Hulpbronnen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
+			<Text>Weinig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
+			<Text>Overvloedig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
+			<Text>Willekeurig</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_NAME">
+			<Text>Start positie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
+			<Text>Balanced</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
+			<Text>Standaard</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
+			<Text>Legendarisch</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
+			<Text>Voorgedefinieerde startlocaties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
+			<Text>Gebruik startlocaties die vooraf zijn gedefinieerd op de kaart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAMESPEED_MARATHON_HELP">
+			<Text>Zeer langdurig spel (200% langzamer).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAMESPEED_EPIC_HELP">
+			<Text>Langdurif spel (50% langzamer).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAMESPEED_STANDARD_HELP">
+			<Text>Normale snelheid.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAMESPEED_QUICK_HELP">
+			<Text>Snel spel (33% sneller).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAMESPEED_ONLINE_HELP">
+			<Text>Dubbelsnelheidsspel gebruikt voor online multiplayer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+			<Text>Veel kleine eilanden met een paar grotere eilanden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+			<Text>Een paar grote landmassa's.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+			<Text>Onvoorspelbare kaart die kan resulteren in een of meerdere landmassa's.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+			<Text>Eén grote oceaan in het midden van de kaart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+			<Text>Eilanden variërend in grootte van klein tot groot.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+			<Text>Een enorme landmassa met omliggende eilanden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+			<Text>Welke geheimen onthult deze kaart?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
+			<Text>Zeer kleine kaart voor 2 spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
+			<Text>Iets kleinere kaart voor 4 spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
+			<Text>Kleine kaart voor 6 spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
+			<Text>Middelgrote kaart voor 8 spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
+			<Text>Grote kaart voor 10 spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
+			<Text>Enorme kaart voor 12 spelers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNTIMER_NONE">
+			<Text>Geen beurtlimiet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNTIMER_NONE_DESC">
+			<Text>Spelers wisselen elkaar af zonder tijdsbeperkingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNTIMER_DYNAMIC">
+			<Text>Dynamische beurtklok</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNTIMER_DYNAMIC_DESC">
+			<Text>De beurttijd wordt dynamisch geschaald op basis van het aantal steden en eenheden dat wordt afgespeeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNTIMER_STANDARD">
+			<Text>Standaard beurtklok</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNTIMER_STANDARD_DESC">
+			<Text>De beurttijd is gebaseerd op de optie Beurttijd (in seconden).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNPHASE_SIMULTANEOUS">
+			<Text>Gelijktijdige beurten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
+			<Text>Spelers nemen tegelijkertijd hun beurten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNPHASE_DYNAMIC">
+			<Text>Dynamische beurten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNPHASE_DYNAMIC_DESC">
+			<Text>Spelers in vrede nemen tegelijkertijd hun beurten in. Spelers in oorlog volgen opeenvolgend hun beurten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
+			<Text>Verandert de hoogte van de kaarten (heuvels en bergen).</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
+			<Text>Een kaart met meer heuvels en bergen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
+			<Text>Een kaart met standaard heuvels en bergen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
+			<Text>Een kaart met minder heuvels en bergen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
+			<Text>Een kaart met willekeurige heuvels en bergen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
+			<Text>Past het terrein van de kaart aan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
+			<Text>Een kaart met meer woestijn en minder toendra en sneeuw.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
+			<Text>Een kaart met gemiddeld terrein vergelijkbaar met het terreinpatronen van de aarde.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
+			<Text>Een kaart met meer toendra en sneeuw en minder woestijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
+			<Text>Een kaart met zones voor willekeurige terreintemperatuur.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_DESCRIPTION">
+			<Text>Wijzigt het aantal aanwezige functies op een kaart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
+			<Text>Een kaart met minder bossen, regenwoud en moeras.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
+			<Text>Een kaart met gemiddelde hoeveelheden bos, regenwoud en moeras.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
+			<Text>Een kaart met meer bossen, regenwoud en moeras.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
+			<Text>Een kaart met een willekeurig aantal kenmerken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
+			<Text>Varieert de hoeveelheid water op de kaart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
+			<Text>Een kaart met minder water.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
+			<Text>Een kaart met normale hoeveelheden water.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
+			<Text>Een kaart met meer water.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
+			<Text>Een kaart met een willekeurige hoeveelheid water.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_DESCRIPTION">
+			<Text>Verander de hoeveelheid bronnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
+			<Text>Een kaart met minder bronnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
+			<Text>Een kaart met standaardbronnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
+			<Text>Een kaart met meer bronnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
+			<Text>Een kaart met een willekeurige hoeveelheid bronnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
+			<Text>Verschuift de waarde van uw startpositie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
+			<Text>Alle spelers hebben eveneens goede startposities.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
+			<Text>Standaard startposities.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
+			<Text>Alle spelers hebben geweldige, maar niet noodzakelijk gelijkwaardige starts.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_START_ERA">
+			<Text>Begin tijdperk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAP_SCRIPT">
+			<Text>Kaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_TITLE">
+			<Text>Welkom bij Civilization</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
+			<Text>Hier beginnen we aan onze reis van het grootbrengen van een imperium van een bescheiden begin naar grootheid, en schrijf je je eigen versie van de geschiedenis.[NEWLINE][NEWLINE]Ga jij de wereld veroveren in geweldige gevechten of de eerste zijn om jouw mensen naar de wereld te sturen? sterren? Zul je de wereld beïnvloeden met de cultuur van je volk, of zullen je overtuigingen zich verspreiden naar de uiteinden van de aarde?[NEWLINE][NEWLINE]Alleen de tijd zal het leren ...[NEWLINE][NEWLINE]Alle grote beschavingen beginnen met een grote leider. Kies de beschaving die je wilt spelen via deze tutorial hieronder.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
+			<Text>Cleopatra van het Egyptische rijk regeert over een beschaving van sterke bondgenoten en geweldige stadsbouwers.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
+			<Text>Gilspelsj van het Sumerische rijk regeert over uitgestrekte gebieden en is een gerespecteerde veroveraar.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_LAND">
+			<Text>Een unieke landeenheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_SEA">
+			<Text>Een unieke zeevarende eenheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_DOMAIN_AIR">
+			<Text>Een unieke luchteenheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_PLEASE_WAIT">
+			<Text>Laden, even wachten...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_DISTRICT_BUILDING">
+			<Text>Wijkgebouw in {1_DistrictName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_UNIQUE_BUILDING">
+			<Text>Een unieke constructie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_UNIQUE_DISTRICT">
+			<Text>Een unieke wijk</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
+			<Text>Een unieke verbetering</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
+			<Text>Treedt toe tot het wereldtoneel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_FEATURES_ABILITIES">
+			<Text>Kenmerken &amp; Bekwaamheden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_START_GAME">
+			<Text>Start spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_CONTINUE_GAME">
+			<Text>Vervolg spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
+			<Text>Het is aan jou om je mensen naar de glorie te leiden door een beschaving op te bouwen die de tand des tijds zal doorstaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
+			<Text>Heldhaftige Frederik, koning van de Duitsers, het is uw taak om de onafhankelijke staten die u omringen tot een imperium te smeden. Je bent gezegend om een ​​groot militair leider te zijn - gebruik die vaardigheden om deze steden onder controle te krijgen zodat ze zich kunnen ontwikkelen tot commerciële en industriële grootmachten. Dan zullen de barden zeker zingen van machtige Frederik met de rode baard, de grote heilige Romeinse keizer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
+			<Text>Het is aan u, Catherine de Medici, om uw gaven van kennis en van de kunsten te gebruiken om uw mensen te verenigen. Blijf voorzichtig door deze moeilijke tijden, koningin-moeder van Frankrijk. Je zult geweldige wonderen bouwen en bezoekers trekken uit alle hoeken van de wereld. Met je scherpe bewustzijn van alle dingen, zowel degenen die worden gezien als diegenen die in de schaduw zijn verborgen, zal je imperium zeker de tand des tijds doorstaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
+			<Text>Er zullen mensen zijn die je onderschatten, maar je bent sluw en vol trucs, koningin Cleopatra. Je charme zal onverwoestbare allianties aangaan met de sterkste leiders van de wereld. Houd je vrienden dicht bij je en je zult merken dat je onaantastbaar bent, met de glorie van Egypte klaar om de wereld te veroveren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
+			<Text>Wees aardig, Gandhi Bapu, en je zult merken dat je omringd bent door echte vrienden. Houd de Indische bevolking veilig en bewaak ze met geweldige olifantenstrijders. Je geloof zal je leiden naar vrede en harmonie. Houd je geest open en wees de verandering die je in de wereld wilt zien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
+			<Text>Veel rust op je schouders, koning Gilspelsj. Je eigen mensen, en veel mensen van de wereld, zien jou als leider. Maar u bent meer dan alleen een man, en het gewicht van de wereld zal u nooit doen twijfelen. Moedig de inwoners van Sumer aan om de vruchtbare gronden langs rivieren te vestigen, en zorg ervoor dat je je bondgenoten zorgvuldig uitkiest - want er zullen velen wedijveren om een ​​stukje van je kracht. Ga verder, want het is tijd om je epische verhaal te beginnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_GORGO">
+			<Text>Gorgo, koningin van Sparta; glorie voor jou en je loyale hoplietlegers! Griekenland smaken de zegeningen van Ares die elke overwinning brengt. En uw mensen juichen uw doordachte bestuur en culturele wonderen toe. Wees trots, want de erfenis van Griekenland en je prestaties zullen generaties lang steeds opnieuw worden verteld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
+			<Text>Alle mannen zijn bang voor de nadering van je schepen, koning Harald van Noorwegen, Thunderbolt of the North. Je sloepen domineren de golven, altijd in de aanslag om hun berserker legers op een niets vermoedende kust te laten ontploffen. Moge Odin je koninkrijk zegenen en mogen de skalden verhalen zingen over de overwinningen van je machtige strijders.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_HOJO">
+			<Text>De grote golf van het boeddhisme volgt je, Shikken van Japan, Hojo Tokimune. Je mensen begrijpen echt wat het is om balans te oefenen, en zelfs je beste samurai zal goed geleerd en spiritueel geschikt zijn. Wees sterk, omhels de goddelijke wind en je zult verlichting bereiken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
+			<Text>Moeder Aarde heeft veel geschenken voor je, koning Mvemba een Nzinga. Uw mensen kennen de dichte bossen en regenwouden als hun huizen en glijden er gemakkelijk doorheen. Groot zijn ook de geschenken die afkomstig zijn van reizigers van verre landen. Houd een open geest, want de inspiratie van de open wereld zal onze mensen kunst laten maken met kracht en majesteit.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
+			<Text>Je mensen kijken naar jou, keizer Pedro II, om Brazilië naar het wereldtoneel te leiden. Gebruik je reputatie als beschermheer van kunstenaars, wetenschappers en ingenieurs om de grootste geesten naar ons vruchtbare huis te trekken. Want het is in de weelderige regenwouden, vol met leven, dat uw volk gedijt. Bekijk ze in het carnaval terwijl ze de samba dansen ter ere van je grote prestaties, Pedro de Grootmoedige.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
+			<Text>Je beheersing van het gesproken woord is een geschenk van grote waarde, Pericles, de leider van de Grieken, met zilveren tong. Hierdoor kun je de toewijding van een reeks staten aantrekken, jezelf omringend met hun glorie. Bouw culturele sites langs de rotsachtige kusten van Griekenland om uw mensen te verenigen achter uw sterke bestuur. Als alles goed gaat, zullen de Sirenen zingen van de Age of Pericles!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
+			<Text>Omarm de kille wind van het moederland, tsaar Peter. Je fascinatie voor wetenschap en cultuur is een geschenk, en je zult veel leren van je Grand Embassies naar vreemde landen. Onder jouw heerschappij zal Rusland zeker bloeien en verspreiden, alles absorberen wat er omheen ligt, misschien het grootste landrijk creëren dat op deze aarde wordt gezien.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
+			<Text>Heel Spanje staat klaar om je gebeden te verhoren, vrome koning Filips II. Vanuit je paleis in El Escorial kun je je volgers sturen: zendelingen, apostelen en conquistadores die klaar staan ​​om de zeeën uit te schakelen om het goede woord over je meest heilige rijk te verspreiden. Moge de schatten die ze onthullen je missie voeden om de wereld te verenigen onder één geloof en één rijk, en je echt de meest katholieke koning te maken.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_QIN">
+			<Text>In jouw mensen ligt jouw grootste kracht, keizer Qin Shi Huang. Van over de hele wereld komen anderen naar de grote muren en torenhoge wonderen van je verenigde China kijken. Moge de handen van je mannen nooit blazen als ze hard en snel werken om de indrukwekkendste structuren op te heffen die de wereld ooit zal kennen. Bescherm ze goed en je zult voor altijd vereeuwigd worden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
+			<Text>Het huwelijk van wetenschap en religie is een delicate evenwichtsoefening, maar een die je onder de knie hebt, Saladin. Je zoektocht naar kennis is nobel en je mensen hebben een diep respect voor je. Maar je hoeft niet naar het onbekende te rennen. Na verloop van tijd zullen de antwoorden op de meest raadselachtige vragen van het leven de weg terug vinden naar Arabië.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
+			<Text>Alle mensen zullen beven van angst en respect voor jou, grote krijger koningin Tomyris. Want het is van de achterkant van je hengst dat je het Scythische volk zult zien en leiden. Grote heldendichten zullen verteld worden van de paardenstrijders die van de steppe rijden, en aan het front van elk gevecht - ze zullen je vinden. Trek door, woeste koningin, en moge je vrienden waar zijn, net zoals je vijanden haperen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
+			<Text>Werp uw net wijd, oh Trajanus, keizer van machtig Rome. Je legioenen staan ​​klaar om uit te marcheren en het grootste rijk te vestigen dat de wereld ooit heeft gezien. Als je echt alle wegen naar Rome kunt laten leiden, wordt de jouwe een rijk van grote rijkdom en luxe. Dan zullen onze burgers u zeker bekendmaken als hun beste heerser, de Optimus Princeps.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
+			<Text>En zo staat het op je brede schouders, Theodore Roosevelt, om je volk op te laden en te leiden op hun grote avontuur. Gebruik je militaire macht om de volkeren van je vaderland de vierkante deal te geven die ze zo wanhopig verdienen. Je zult Amerika zeker in de schijnwerpers zetten en bezoekers van over de oceanen aantrekken om je land te zien. Bully voor jou, Mr. President.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
+			<Text>Majesteit de Koningin Victoria van Engeland, vergroot uw bereik buiten uw grenzen en over de aardbol. Maak je geen zorgen over de mogelijkheid van een nederlaag voor je trouwe redcoats en de overweldigende marine zal zeker de dag dragen. Met je kalme en gestage aanraking kun je alle landen onder de heerschappij van Engeland brengen en een echte Pax Britannica vestigen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
+			<Text>Van de eerste opwinding van het leven onder water ... tot de grote beesten uit het stenen tijdperk ... tot de mens die zijn eerste rechtopstaande stappen zette, bent u ver gekomen. Nu begint je grootste zoektocht: van deze vroege bakermat van de beschaving naar de sterren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
+			<Text>Van een bescheiden begin heb je opmerkelijke groei laten zien. Laat je bronzen voor ijzer en regel met paard en zwaard. De hemel boven begint zijn geheimen te onthullen, een verzameling van de hemel die ons hart verheft en ons naar buitenlandse kusten leidt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
+			<Text>Je hebt grote steensteden gebouwd en vroege rijken zien opkomen en vallen. Binnenkort sta je naast je dappere ridders onder de torenhoge torenspitsen van kastelen. Dat is waar het verhaal van uw mensen zal worden geschreven. Net zoals de jonge leerling leert een zwaard te dragen, zul je ook groeien om je plaats in deze wereld te begrijpen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
+			<Text>Nieuwe krachten roepen op, van het vat met musketten tot bloemen van vuur in de lucht. Zelfs de rustige woorden op nieuw afgedrukte pagina's bevatten grote veranderingen binnenin. De wereld, eens zo uitgestrekt en mysterieus, is kleiner en vertrouwder geworden. Toch zijn er altijd vragen die moeten worden beantwoord, te testen geloofsovertuigingen en nationale identiteiten die moeten worden gevormd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
+			<Text>Het gestage geroezemoes van machines, de scherpe geur van rook, het zicht vertroebeld door as en roet - dit zijn de tekenen van veranderende tijden. De aantrekkingskracht van wetenschappelijke en culturele vooruitgang is de motor die je rijk vooruit stuurt. Nu is het uw uitdaging om de delicate balans tussen aarde en mens, tussen vrede en oorlog te handhaven.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_MODERN_DESCRIPTION">
+			<Text>In het begin stegen de legendes van vliegende mannen. En vandaag staat u aan de vooravond van het transformeren van die legendes in een realiteit. Met vlucht en nieuwe vormen van communicatie kun je een kleine en intieme wereld creëren. Maar tegen welke prijs? Onze concurrerende ideeën over hoe te regeren en hoe te leven dreigen conflicten op wereldschaal te brengen. Je moet je eigen weg kiezen door dit stijgende kabaal van ideologische retorica.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
+			<Text>Nieuwe grenzen van ontdekking vergroten ons begrip, van het kleine atoom tot de majesteit van de ruimte. Mysterieën die lang worden getolereerd, zijn dichter dan ooit om hun diepste geheimen te onthullen, buiten dat wat we gemakkelijk kunnen zien. Je zult kiezen hoe je deze kennis gebruikt en de grootste duisternis terugdringen die we tot nu toe hebben gehad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
+			<Text>Een wereld van informatie ligt in de palm van uw hand, en netwerken voor onmiddellijke communicatie overspannen de hele wereld. Toch is er nooit een uniforme visie op onze toekomst gebouwd. We concurreren in technologie, cultuur en politiek. We hebben dodelijke wapens die onze planeet kunnen vernietigen. Leid ons zorgvuldig, maar stoutmoedig en bouw een wereldwijde gemeenschap op die nog jaren kan standhouden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_DISABLE">
+			<Text>Adviseur uitschakelen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
+			<Text>Nieuw bij turn-based strategie.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_NEW_TO_CIV">
+			<Text>Nieuw bij Civilization</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
+			<Text>Nieuw bij Civilization VI</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
+			<Text>Geen dubbele leiders</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_TEAMS_NAME">
+			<Text>Geen teams</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
+			<Text>Door deze optie in te schakelen, kunnen twee of meer spelers niet dezelfde leider kiezen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_TEAMS_DESCRIPTION">
+			<Text>Als u deze optie inschakelt, wordt teamplay uitgeschakeld.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LIMIT_TURNS_NAME">
+			<Text>Beurten beperkt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LIMIT_TURNS_DESCRIPTION">
+			<Text>Beperk het maximale aantal beurten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNLIMIT_NONE_NAME">
+			<Text>Geen beurtlimiet</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
+			<Text>Er is geen limiet aan het aantal beurten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
+			<Text>Door spelsnelheid</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
+			<Text>Het spel eindigt in 2050 na Christus.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNLIMIT_CUSTOM_NAME">
+			<Text>Aangepast</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
+			<Text>Het spel eindigt bij het opgegeven aantal beurten.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CITYSTATE_COUNT_NAME">
+			<Text>Stadstaten:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
+			<Text>Het aantal stadstaten dat in het spel moet worden opgenomen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAX_TURNS_NAME">
+			<Text>Max. beurten:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAX_TURNS_DESCRIPTION">
+			<Text>Het aantal beurten tot de Score Victory. Gebruik 0 voor onbeperkt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_RESUME_GAME_TT">
+			<Text>Hervat het laatst gespeelde spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_LOAD_GAME_TT">
+			<Text>Laad een eerder bewaard spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_PLAY_NOW_TT">
+			<Text>Speel op een kleine continent-kaart met willekeurige leiders.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_CREATE_GAME_TT">
+			<Text>Creëer een nieuw spel met je eigen instellingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_SCENARIOS_TT">
+			<Text>Speel een scenario, een enkele ervaring met specifieke regels, leiders en doelstellingen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
+			<Text>Speel nu, creëer nieuw spel of vervolg bestaand spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_MULTIPLAYER_TT">
+			<Text>Internet, netwerk en hot seat-matches.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
+			<Text>Instellingen voor video, audio, sneltoetsen en meer.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_MODS_TT">
+			<Text>Creaties van fans om Civilisation VI uit te breiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_TUTORIAL_TT">
+			<Text>Volledig nieuw bij het spel of een opfrisser nodig? Wij zijn hier om te helpen!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_BENCHMARK_TT">
+			<Text>Hoe staat je hardware ervoor?</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_CREDITS_TT">
+			<Text>Iedereen die heeft bijgedragen aan Civilization VI.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAINMENU_EXIT_GAME_TT">
+			<Text>Verlaat het spel volledig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_COPYRIGHT_TEXT">
+			<Text>© 1991-2016 Take-Two Interactive Software, Inc. Ontwikkeld door Firaxis spels. 2K, Firaxis spels, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, en hun respectievelijke logo's zijn handelsmerken van Take-Two Interactive Software, Inc. Gebruikt Bink Video. Copyright © 1997-2016 van RAD spel Tools, Inc. maakt gebruik van Granny Animation. Copyright © 1999-2016 door RAD spel Tools Inc. Vork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilisation VI gebruikt Havok®. © Copyright 1999 - 2016 Havok.com, Inc. (en zijn licentiegevers). Alle rechten voorbehouden. Zie www.havok.com voor details. AMD, het AMD Arrow-logo, Radeon, Crossfire en combinaties daarvan zijn gedeponeerde handelsmerken of handelsmerken van Advanced Micro Devices, Inc. in de Verenigde Staten en / of andere landen. Microsoft, DirectX, Visual Studio en Windows zijn gedeponeerde handelsmerken of handelsmerken van Microsoft Corporation in de Verenigde Staten en / of andere landen. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. Alle andere merken en handelsmerken zijn het eigendom van hun respectieve eigenaars. Alle rechten voorbehouden. De inhoud van dit videospel is fictief en is niet bedoeld als weergave van een feitelijk verslag van de gebeurtenissen, personen of entiteiten in de historische omgeving van het spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_COPYRIGHT_ACCEPT">
+			<Text>Ga verder</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_DEFAULT_NAME">
+			<Text>Overwinning</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_HEADER">
+			<Text>GEWONNEN!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEFEATED_SUBHEADER">
+			<Text>VERSLAGEN</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ELIMINATED_SUBHEADER">
+			<Text>UITGESCHAKELD</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCORE_SUBHEADER">
+			<Text>SCORE-OVERWINNING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
+			<Text>WETOMELIJKE OVERWINNING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_CULTURE_SUBHEADER">
+			<Text>CULTURELE OVERWINNING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
+			<Text>DOMINANIE-OVERWINNING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
+			<Text>RELIGIEUZE OVERWINNING</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
+			<Text>OVERWINNING: {1_ScenarioName}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
+			<Text>{1_ScenarioVictoryType}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
+			<Text>WINNAAR VAN SPEL</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCORE_NAME">
+			<Text>Score-overwinning</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCIENCE_NAME">
+			<Text>Wetenschappelijke overwinning</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_CULTURE_NAME">
+			<Text>Culturele overwinning</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_DOMINATION_NAME">
+			<Text>Dominantie-overwinning</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_RELIGIOUS_NAME">
+			<Text>Religieuze overwinning</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCORE_TT">
+			<Text>Terwijl je niet in staat was om een ​​grote overwinning te behalen, pak je wat je kunt krijgen. Deze overwinning wordt geactiveerd wanneer de tijd op is en er geen andere overwinnaars zijn.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_SCIENCE_TT">
+			<Text>Wees de eerste om Mars te koloniseren en een Science-overwinning te behalen. Deze overwinning is ongecompliceerd, maar kan moeilijk te bereiken zijn voordat de tijd om is.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_CULTURE_TT">
+			<Text>Je culturele grootheid trekt alle mensen van de wereld naar je rijk. Dit is de moeilijkste overwinning om te behalen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_DOMINATION_TT">
+			<Text>Door militaire kracht en dapperheid breng je de wereld op zijn knieën. Dit is de meest elementaire overwinning om te behalen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_VICTORY_RELIGIOUS_TT">
+			<Text>Verspreid je religie naar de vier hoeken van de aarde en breng licht naar een donkere wereld. Je zult diplomatieke relaties moeten beheersen als je de wereld naar de enige ware religie wilt bekeren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_RULESET_NAME">
+			<Text>Standaardregels</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_RULESET_DESCRIPTION">
+			<Text>Dit is een standaard Civilization VI-spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
+			<Text>Speel als Cleopatra</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
+			<Text>Speel als Gilspelsh</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
+			<Text>Extra inhoud</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
+			<Text>Extra inhoud en mods om Civilization VI uit te breiden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_DEMO">
+			<Text>Demonstratie</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
+			<Text>Koop het nu</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
+			<Text>Open Steam Store om Sid Meier's Civilization VI te kopen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEMO_COMPLETE_CONTENT">
+			<Text>Hartelijk gefeliciteerd! Je hebt de eerste stappen gezet om een ​​beschaving op te bouwen om de tand des tijds te doorstaan. Blijf je jezelf testen tegen de grootste leiders van de geschiedenis? Kan de cultuur van uw mensen floreren? Je wetenschap verlichten? Je geloof inspireert? Je leger domineert?[NEWLINE][NEWLINE]Hoe ga je leiding geven in Sid Meier's Civilization VI? Vervolg de reis nu.[NEWLINE][NEWLINE]Build. Veroveren. Inspireren.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
+			<Text>Fade into History</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DEMO_COMPLETE_BUY">
+			<Text>Grootheid bereiken</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ARX_VICTORY_PROGRESS">
+			<Text>{1_CivName} Overwinning vooruitgang</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ARX_TOP_5">
+			<Text>Top 5</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_ARX_GOSSIP_LOG">
+			<Text>Gossip Log</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
+			<Text>Opslaan kan niet in deze versie van het spel worden geladen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
+			<Text>Kon bestand niet openen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
+			<Text>Kan bestand niet opslaan.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
+			<Text>Kon bestand niet lezen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
+			<Text>Kon bestand niet verwijderen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
+			<Text>Bestand is geen veilig spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
+			<Text>Bestand is corrupt.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
+			<Text>Opslaan laden is onverwacht beëindigd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
+			<Text>Kan de spelstatus niet herstellen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
+			<Text>Kan het pad naar het opslaan niet vinden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
+			<Text>Het opslagapparaat is ongeldig.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
+			<Text>Kan de opslaglijst niet ophalen van het apparaat.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
+			<Text>Een of meer vereiste Mods voor het opslaan zijn niet geïnstalleerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
+			<Text>Een of meer vereiste DLC-pakketten voor het opslaan zijn niet geïnstalleerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>Een of meer vereiste uitbreidingspakketten voor het opslaan zijn niet geïnstalleerd.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TEAM_NAME_SELECT_TITLE">
+			<Text>Teamnaam</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TEAM_NAME_ENTRY_TITLE">
+			<Text>Voer de teamnaam in</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_CHOOSE_TEAM_ICON">
+			<Text>Kies Teampictogram</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
+			<Text>Bericht van de dag:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
+			<Text>Grafische instellingen zijn aangepast. U kunt deze instellingen bekijken of wijzigen in het menu Opties.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
+			<Text>Losgekoppeld</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
+			<Text>Host Connection Lost</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
+			<Text>Join Mislukt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
+			<Text>Geschopt!</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
+			<Text>Mod fout</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_MOD_MISSING_TITLE">
+			<Text>Mod ontbreekt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
+			<Text>Volledige spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
+			<Text>Versie komt niet overeen</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_START_ERROR_CODE">
+			<Text>Fout - {1_ErrorCode}</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_START_ERROR_DESC">
+			<Text>Er is een fout opgetreden bij het starten van het spel.[NEWLINE][NEWLINE]We raden aan om alle mods uit te schakelen en het opnieuw te proberen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_START_ERROR_TITLE">
+			<Text>Fout bij het starten van het spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_GAME_START_VIEW_MODS">
+			<Text>Beheer Mods</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
+			<Text>Regelset:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOAD_CONFIG">
+			<Text>Configuratie laden</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_LOAD_MAP">
+			<Text>Laad kaart</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_JOIN_FAILED_TITLE">
+			<Text>Meedoen mislukt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_ROOM_FULL_TITLE">
+			<Text>Volledige spel</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_ROOM_GAME_STARTED">
+			<Text>Kan niet aan het spel meedoen. Het spel is al gestart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
+			<Text>Join Mislukt</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
+			<Text>Verbinden met spelers ...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
+			<Text>Fout tijdens het beëindigen van het spel.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
+			<Text>Spel beëindigen ...</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_END_GAME">
+			<Text>DELETE</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
+			<Text>Spel kan niet worden gestart.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
+			<Text>Onbekende kaartgrootte</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_SAVED_CONFIGS">
+			<Text>Geen opgeslagen configuraties</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_NO_SAVED_MAPS">
+			<Text>Geen opgeslagen kaarten</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPEN_DIRECTORY">
+			<Text>Open</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
+			<Text>Wachten op lange afstands aanvallen vanuit de stad:</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
+			<Text>Wanneer ingeschakeld, wordt gewacht op lange afstands aanvallen vanuit de stad.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SAVE_CONFIG">
+			<Text>Configuratie opslaan</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_CHOOSE_RULESET">
+			<Text>Kies regelset</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
+			<Text>In afwachting van extra spelers</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
+			<Text>spel wordt uitgevoerd</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_STAGING_ROOM_LOADING_SAVE">
+			<Text>Spel opslaan laden</Text>
+		</Replace>
+	</LocalizedText>
 </GameData>

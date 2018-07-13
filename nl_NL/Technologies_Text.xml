@@ -73,10 +73,10 @@
 		<Replace Language="nl_NL" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
 			<Text>+1 [ICON_Movement]verplaatsing voor ingescheepte eenheden.</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
-      <Text>+1 [ICON_Movement]verplaatsing voor ingescheepte eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+		<Replace Language="nl_NL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>+1 [ICON_Movement]verplaatsing voor ingescheepte eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
 			<Text>+1 [ICON_Production] productie van groeve.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
@@ -319,10 +319,10 @@
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
 			<Text>Het voltooien van de muren rond je stad demonstreerde de bouwkundige principes benodigd voor aquaducten en katapulten.</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
-      <Text>+1 [ICON_Movement] Verplaatsing voor ingescheepte eenheden.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+		<Replace Language="nl_NL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Verplaatsing voor ingescheepte eenheden.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
 			<Text>Je speerwerpers hebben hun effectiviteit bewezen, maar nu je tegenstanders sterker en sneller worden is misschien een langer wapen nodig?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">

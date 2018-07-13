@@ -2,70 +2,70 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_BUTTON_DONE">
-			<Text>Done</Text>
+			<Text>Gedaan</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_CITY_FOUNDED">
-			<Text>A city has been founded by {1_CivName}.</Text>
+			<Text>Een stad is opgericht door {1_CivName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_WONDER_COMPLETED_BY">
-			<Text>A wonder has been completed by {1_CivName}.</Text>
+			<Text>Een wonder is voltooid door {1_CivName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_DEFEATED_BY">
-			<Text>{1_CivName} has been defeated by {2_CivName}.</Text>
+			<Text>{1_CivName} is verslagen door {2_CivName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_DEFEATED">
-			<Text>{1_CivName} has been defeated.</Text>
+			<Text>{1_CivName} is verslagen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY">
-			<Text>{1_CivName} has won the game!</Text>
+			<Text>{1_CivName} heeft het spel gewonnen!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CONQUEST">
-			<Text>{1_CivName} has won the game by conquest!</Text>
+			<Text>{1_CivName} heeft het spel gewonnen door verovering!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CULTURE">
-			<Text>{1_CivName} has won a cultural victory!</Text>
+			<Text>{1_CivName} heeft een culturele overwinning behaald!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_RELIGIOUS">
-			<Text>{1_CivName} has won a religious victory!</Text>
+			<Text>{1_CivName} heeft een religieuze overwinning behaald!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_SCORE">
-			<Text>{1_CivName} has won a scoring victory!</Text>
+			<Text>{1_CivName} heeft een overwinning gewonnen!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
-			<Text>{1_CivName} has won a science victory!</Text>
+			<Text>{1_CivName} heeft een wetenschappelijke overwinning behaald!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_MAKE_PEACE">
-			<Text>{1_CivName} has made peace with {2_CivName}.</Text>
+			<Text>{1_CivName} heeft vrede gesloten met {2_CivName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_DECLARE_WAR">
-			<Text>{1_CivName} has declared war on {2_CivName}.</Text>
+			<Text>{1_CivName} heeft {2_CivName} de oorlog verklaard.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">
-			<Text>{1_CivName} has entered a new era.</Text>
+			<Text>{1_CivName} is een nieuw tijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_ANCIENT">
-			<Text>{1_CivName} has entered the Ancient era.</Text>
+			<Text>{1_CivName} is het oude tijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_CLASSICAL">
-			<Text>{1_CivName} has entered the Classical era.</Text>
+			<Text>{1_CivName} is het klassieke tijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_MEDIEVAL">
-			<Text>{1_CivName} has entered the Medieval era.</Text>
+			<Text>{1_CivName} is het Middeleeuwse tijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_RENAISSANCE">
-			<Text>{1_CivName} has entered the Renaissance era.</Text>
+			<Text>{1_CivName} is het Renaissance-tijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_INDUSTRIAL">
-			<Text>{1_CivName} has entered the Industrial era.</Text>
+			<Text>{1_CivName} is het industriële tijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_MODERN">
-			<Text>{1_CivName} has entered the Modern era.</Text>
+			<Text>{1_CivName} is het moderne tijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_ATOMIC">
-			<Text>{1_CivName} has entered the Atomic era.</Text>
+			<Text>{1_CivName} is het atoomtijdperk binnengegaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AUTONARRATE_PLAYER_ERA_INFORMATION">
-			<Text>{1_CivName} has entered the Information era.</Text>
+			<Text>{1_CivName} is het informatietijdperk binnengegaan.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
