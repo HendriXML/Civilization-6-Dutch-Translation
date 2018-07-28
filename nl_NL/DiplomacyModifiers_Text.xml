@@ -101,259 +101,259 @@
 			<Text>We richten daar een residente ambassade op</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DECLARED_FRIEND">
-			<Text>Gilgamesh likes Declared Friends</Text>
+			<Text>Gilgamesh houdt van Declared Friends</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
-			<Text>Gilgamesh hates it when you denounce his friends</Text>
+			<Text>Gilgamesj haat het als je zijn vrienden aanklaagt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND">
-			<Text>Tomyris likes Declared Friend</Text>
+			<Text>Tomyris vindt Declared Friend leuk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_SURPRISE_WAR">
-			<Text>Tomyris dislikes people who declare surprise wars</Text>
+			<Text>Tomyris heeft een hekel aan mensen die verrassingsoorlogen verklaren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LAGGING">
-			<Text>Pedro is pleased with your lack of great people</Text>
+			<Text>Pedro is blij met je gebrek aan geweldige mensen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LEADING">
-			<Text>Pedro is upset that you have more great people than him</Text>
+			<Text>Pedro is boos dat je meer geweldige mensen hebt dan hij</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LAGGING">
-			<Text>Peter is disappointed you have little science and culture</Text>
+			<Text>Peter is teleurgesteld dat je weinig wetenschap en cultuur hebt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LEADING">
-			<Text>Peter is pleased with your Science and Culture</Text>
+			<Text>Peter is tevreden met je wetenschap en cultuur</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT">
-			<Text>Gorgo wants to see you fight or knows you paid for peace</Text>
+			<Text>Gorgo wil je zien vechten of weet dat je voor vrede hebt betaald</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED">
-			<Text>Gorgo wants to see you fight</Text>
+			<Text>Gorgo wil je zien vechten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE">
-			<Text>Gorgo knows you paid for peace</Text>
+			<Text>Gorgo weet dat je voor vrede hebt betaald</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LAGGING">
-			<Text>Qin is pleased with your lack of wonders</Text>
+			<Text>Qin is tevreden met je gebrek aan wonderen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LEADING">
-			<Text>Qin is upset that you have more wonders than him</Text>
+			<Text>Qin is boos dat je meer wonderen hebt dan hij</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_NOT_WARMONGER">
-			<Text>Gandhi is pleased that you have been keeping the peace</Text>
+			<Text>Gandhi is blij dat je de vrede hebt bewaard</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_WARMONGER">
-			<Text>Gandhi is upset with your warmongering</Text>
+			<Text>Gandhi is boos op je oorlogszucht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_SAME">
-			<Text>Philip is happy you share a religion</Text>
+			<Text>Philip is blij dat je een religie deelt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_ENCROACHING">
-			<Text>Philip is furious your religion is present in his empire</Text>
+			<Text>Philip is woedend, je religie is aanwezig in zijn rijk</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DELIAN_NOT_COMPETING">
-			<Text>Pericles is happy you are not competing over city states</Text>
+			<Text>Pericles is blij dat je niet over stadsstaten concurreert</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DELIAN_COMPETING">
-			<Text>Pericles is angry you are recruiting his city states</Text>
+			<Text>Pericles is boos dat je zijn stadstaten aan het werven bent</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DISCIPLE_RECEIVED">
-			<Text>Mvemba is delighted you brought your religion to him</Text>
+			<Text>Mvemba is blij dat je je religie bij hem hebt gebracht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DISCIPLE_NOT_RECEIVED">
-			<Text>Mvemba is disappointed your religion is not in his lands</Text>
+			<Text>Mvemba is teleurgesteld dat jouw religie niet in zijn land is</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_NOT_INVOLVED">
-			<Text>Barbarossa is pleased you are staying away from city states</Text>
+			<Text>Barbarossa is blij dat je uit de buurt van de stad blijft</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_INVOLVED">
-			<Text>Barbarossa is angered that you have been controlling city states</Text>
+			<Text>Barbarossa is boos dat jij de stadstaat onder controle hebt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_SUN_SETS_HOME_CONTINENT">
-			<Text>Victoria is pleased you share the same home continent</Text>
+			<Text>Victoria is blij dat je hetzelfde thuiscontinent deelt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_SUN_SETS_NEW_CONTINENT">
-			<Text>Victoria wants to expand to a continent you occupy</Text>
+			<Text>Victoria wil uitbreiden naar een continent dat je bezet</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_ATTACKED">
-			<Text>Teddy hates attacks on civs based on his continent</Text>
+			<Text>Teddy haat aanvallen op civs op basis van zijn continent</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_PEACEFUL">
-			<Text>Teddy likes peaceful civs on his continent</Text>
+			<Text>Teddy houdt van vreedzame burgers op zijn continent</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LAGGING">
-			<Text>They are pleased with your lack of great people</Text>
+			<Text>Ze zijn blij met je gebrek aan geweldige mensen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LEADING">
-			<Text>They are upset that you have more great people</Text>
+			<Text>Ze zijn boos dat je meer geweldige mensen hebt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LAGGING">
-			<Text>They are pleased with your lack of wonders</Text>
+			<Text>Ze zijn blij met je gebrek aan wonderen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LEADING">
-			<Text>They are upset that you have more wonders</Text>
+			<Text>Ze zijn boos dat je meer wonderen hebt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_CITY_STATE_NOT_COMPETING">
-			<Text>They are happy you are not competing over city states</Text>
+			<Text>Ze zijn blij dat je niet over stadsstaten concurreert</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_CITY_STATE_COMPETING">
-			<Text>They are angry you are recruiting their city states</Text>
+			<Text>Ze zijn boos dat je hun stadstaten aan het werven bent</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CULTURE">
-			<Text>They are pleased to see another cultured civilization</Text>
+			<Text>Ze zijn blij een andere beschaafde beschaving te zien</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_CULTURE">
-			<Text>They dislike civilizations with low culture</Text>
+			<Text>Ze houden niet van beschavingen met een lage cultuur</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INDUSTRY">
-			<Text>They are pleased to see another industrious civilization</Text>
+			<Text>Ze zijn blij een andere nijvere beschaving te zien</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INDUSTRY">
-			<Text>They dislike civilizations with low productivity</Text>
+			<Text>Ze hebben een hekel aan beschavingen met een lage productiviteit</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_STANDING_ARMY">
-			<Text>They are pleased to see another civilization with a large standing army</Text>
+			<Text>Ze zijn blij een andere beschaving te zien met een groot staand leger</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_STANDING_ARMY">
-			<Text>They dislike civilizations with a small stading army</Text>
+			<Text>Ze hebben een hekel aan beschavingen met een klein stading-leger</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_SCIENCE">
-			<Text>They are pleased to see another scientific civilization</Text>
+			<Text>Ze zijn blij een andere wetenschappelijke beschaving te zien</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_SCIENCE">
-			<Text>They dislike civilizations with low science</Text>
+			<Text>Ze hebben een hekel aan beschavingen met een lage wetenschap</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_HAPPINESS">
-			<Text>They are pleased a civilization with happy citizens</Text>
+			<Text>Ze zijn blij met een beschaving met gelukkige burgers</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_HAPPINESS">
-			<Text>They dislike civilizations with unhappy people</Text>
+			<Text>Ze hebben een hekel aan beschavingen met ongelukkige mensen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INCOME">
-			<Text>They are pleased to see a high income civilization</Text>
+			<Text>Ze zijn verheugd om een beschaving met een hoog inkomen te zien</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INCOME">
-			<Text>They dislike civilizations with low income</Text>
+			<Text>Ze hebben een hekel aan beschavingen met een laag inkomen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_POPULATION">
-			<Text>They are pleased to see a civilization with high population</Text>
+			<Text>Ze zijn verheugd om een beschaving met een hoge bevolking te zien</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_POPULATION">
-			<Text>They dislike civilizations with low population</Text>
+			<Text>Ze houden niet van beschavingen met een lage bevolking</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENJOYS_WAR">
-			<Text>They like those who fight and win</Text>
+			<Text>Ze houden van degenen die vechten en winnen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ATTACKS_BARBARIANS">
-			<Text>They are pleased to see you clearing barbarian camps</Text>
+			<Text>Ze zijn blij dat je barbaarse kampen hebt opgeruimd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_IGNORES_BARBARIANS">
-			<Text>They dislike civilizations who do not clear barbarians</Text>
+			<Text>Ze hebben een hekel aan beschavingen die barbaren niet ophelderen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENVIRONMENT">
-			<Text>They are watching your treatment of the natural world</Text>
+			<Text>Ze houden je behandeling van de natuurlijke wereld in de gaten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPLOITATION">
-			<Text>They are watching your progress on improving your territory</Text>
+			<Text>Ze houden je voortgang bij over het verbeteren van je territorium</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAME_GOVERNMENT">
-			<Text>They are pleased to see you rule your people the same way</Text>
+			<Text>Ze zijn blij je te zien heersen op dezelfde manier</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_DIFFERENT_GOVERNMENT">
-			<Text>They dislike your approach to governing</Text>
+			<Text>Ze houden niet van je benadering van regeren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_NUKE_LOVE">
-			<Text>They agree there is a time and place for nuclear weapons</Text>
+			<Text>Ze zijn het erover eens dat er een tijd en plaats is voor nucleaire wapens</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_NUKE_LOVE">
-			<Text>They dislike civilizations who proliferate nuclear weapons</Text>
+			<Text>Ze hebben een hekel aan beschavingen die kernwapens prolifereren</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAITH">
-			<Text>They are pleased to see another devout civilization</Text>
+			<Text>Ze zijn blij een andere vrome beschaving te zien</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAITH">
-			<Text>They dislike civilizations with low faith</Text>
+			<Text>Ze hebben een hekel aan beschavingen met een laag geloof</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_EXPLORATION">
-			<Text>They dislike civilizations who are better explorers than they are</Text>
+			<Text>Ze hebben een hekel aan beschavingen die betere ontdekkingsreizigers zijn dan zij</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_EXPLORATION">
-			<Text>They are pleased by others leaving world exploration to them</Text>
+			<Text>Ze zijn blij dat anderen hun wereldverkenning achterlaten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_AIRPOWER">
-			<Text>They are pleased to see a civilization with a strong air force</Text>
+			<Text>Ze zijn blij een beschaving te zien met een sterke luchtmacht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_AIRPOWER">
-			<Text>They dislike civilizations with a weak air force</Text>
+			<Text>Ze hebben een hekel aan beschavingen met een zwakke luchtmacht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_PROTECTION">
-			<Text>They are very pleased to see you protecting many city states</Text>
+			<Text>Ze zijn erg blij je vele stadsstaten te zien beschermen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_PROTECTION">
-			<Text>They are pleased to see you protecting city states</Text>
+			<Text>Ze zijn blij je te zien beschermen stadstaten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_AGGRESSION">
-			<Text>They dislike civilizations who are somewhat aggressive to city states</Text>
+			<Text>Ze houden niet van beschavingen die enigszins agressief zijn tegen stadsstaten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_AGGRESSION">
-			<Text>They really dislike civilizations who are very aggressive to city states</Text>
+			<Text>Ze hebben een hekel aan beschavingen die erg agressief zijn tegen stadsstaten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_COMPETING">
-			<Text>They are upset that you have more wonders</Text>
+			<Text>Ze zijn boos dat je meer wonderen hebt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_NOT_COMPETING">
-			<Text>They are pleased with your lack of wonders</Text>
+			<Text>Ze zijn blij met je gebrek aan wonderen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_COMPETING">
-			<Text>They are upset that you have more great people</Text>
+			<Text>Ze zijn boos dat je meer geweldige mensen hebt</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_NOT_COMPETING">
-			<Text>They are pleased with your lack of great people</Text>
+			<Text>Ze zijn blij met je gebrek aan geweldige mensen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_POSITIVE">
-			<Text>We are trading with their friends</Text>
+			<Text>We handelen met hun vrienden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_NEGATIVE">
-			<Text>We are trading with their enemies</Text>
+			<Text>We handelen met hun vijanden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_FRIENDS">
-			<Text>We are friends with their friends</Text>
+			<Text>We zijn vrienden met hun vrienden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_ENEMIES">
-			<Text>We are friends with their enemies</Text>
+			<Text>We zijn vrienden met hun vijanden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_FRIENDS">
-			<Text>We are allied with their friends</Text>
+			<Text>We zijn verbonden met hun vrienden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_ENEMIES">
-			<Text>We are allied with their enemies</Text>
+			<Text>We zijn verbonden met hun vijanden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_FRIENDS">
-			<Text>We have a defensive pact with their friends</Text>
+			<Text>We hebben een defensief pact met hun vrienden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_ENEMIES">
-			<Text>We have a defensive pact  with their enemies</Text>
+			<Text>We hebben een verdedigingspact met hun vijanden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_ENEMIES">
-			<Text>We have denounced their enemies</Text>
+			<Text>We hebben hun vijanden veroordeeld</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_FRIENDS">
-			<Text>We have denounced their friends</Text>
+			<Text>We hebben hun vrienden veroordeeld</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_UNWANTED_RELIGION">
-			<Text>We are trying to convert them to our religion</Text>
+			<Text>We proberen ze om te zetten in onze religie</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_ALLIANCE_BROKEN">
-			<Text>We broke our alliance</Text>
+			<Text>We hebben onze alliantie verbroken</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_ATTACKED">
-			<Text>They hate attacks on civs based on their continent</Text>
+			<Text>Ze haten aanvallen op civs op basis van hun continent</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_PEACEFUL">
-			<Text>They like peaceful civs on their continent</Text>
+			<Text>Ze houden van vreedzame burgers op hun continent</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_MODIFIER_CLOSE_TO_VICTORY">
-			<Text>We are winning. They fear us.</Text>
+			<Text>We zijn aan het winnen. Ze zijn bang voor ons.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

@@ -2,22 +2,22 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_SEARCH_TERM_ARMIES">
-			<Text>Armies</Text>
+			<Text>Legers</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_SEARCH_TERM_ARMADA">
-			<Text>Armada</Text>
+			<Text>Vloot</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_SEARCH_TERM_CORPS">
 			<Text>Corps</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_SEARCH_TERM_FLEET">
-			<Text>Fleet</Text>
+			<Text>Vloot</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_SEARCH_TERM_THERMONUCLEAR">
-			<Text>Thermonuclear</Text>
+			<Text>Thermonucleair</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_SEARCH_TERM_NUCLEAR">
-			<Text>Nuclear</Text>
+			<Text>Nucleair</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

@@ -2990,7 +2990,7 @@
 			<Text>Vereist</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TOOLTIP_MAKES_OBSOLETE">
-			<Text>Maakt verouderd</Text>
+			<Text>Maakt overbodig</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TOOLTIP_LAKE">
 			<Text>Meer</Text>
@@ -4369,7 +4369,7 @@
 		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_DUPLICATE_ARTIFACT_CIVS">
 			<Text>Dit gebouw bevat twee of meer Grootse Werken gemaakt door {1_player}. Voeg {2_type} van unieke beschavingen toe om de bonus te ontvangen.</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_ART_THEME_SINGLE">
+    <Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_ART_THEME_SINGLE">
 			<Text>Type {1_type} vormt het thema vooor dit museum.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_ART_THEME_DUAL">
@@ -4468,7 +4468,7 @@
 		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
 			<Text>BEGIN ROUTE</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
+    <Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
 			<Text>{1_City} ontvangt:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_TO_DESTINATION">
@@ -4507,22 +4507,25 @@
 		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TOTAL">
 			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} totaal</Text>
 		</Replace>
-		<Replace Tag="LOC_ROUTECHOOSER_RELIGIOUS_PRESSURE_SOURCE_MAJORITY_RELIGION">
+    <Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_RELIGIOUS_PRESSURE_SOURCE_MAJORITY_RELIGION">
 			<Text>{1_PressureAmount} {2_PressureIconString} religieuze invloed van {3_ReligionName} van de meerderheidsreligie in {4_CityName}.</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_HEADER">
+    <Replace Language="nl_NL" Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
+      <Text>Wereldranglijsten[NEWLINE][NEWLINE]Bekijk de wereldranglijsten om te zien hoe goed je het doet en wat je nodig hebt om te winnen.</Text>
+    </Replace>
+    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_HEADER">
 			<Text>VERKLAAR OORLOG</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_ADVISOR_TEXT">
 			<Text>Voordat je de oorlog verklaart wil je daarvan misschien de gevolgen in beschouwing nemen.</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_HEADING">
+    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_HEADING">
 			<Text>Straffen voor oorlogszucht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WAR_TYPE">
 			<Text>Oorlogstype: {1_WarType}</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_DETAILS">
+    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_DETAILS">
 			<Text>Straf voor oorlogszucht: {1_WarmongerLevel}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_HEADING">
@@ -4534,7 +4537,7 @@
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_TOOLTIP">
 			<Text>Beschaving waarmee je ook in oorlog zult gaan zijn:</Text>
 		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_CITY_STATE_HEADING">
+    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_CITY_STATE_HEADING">
 			<Text>Effecten stadstaten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_NUM_CITY_STATES">
@@ -4629,9 +4632,6 @@
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PARTIALSCREEN_DIPLOMACY_TOOLTIP">
 			<Text>Diplomatie[NEWLINE][NEWLINE]Bekijk informatie over de andere beschavingen die je hebt ontmoet, manage je relaties en sluit overeenkomsten.</Text>
-		</Replace>
-		<Replace Language="nl_NL" Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
-			<Text>Wereldranglijsten[NEWLINE][NEWLINE]Bekijk de wereldranglijsten om te zien hoe goed je het doet en wat je nodig hebt om te winnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PARTIALSCREEN_ESPIONAGE_TOOLTIP">
 			<Text>Spionage[NEWLINE][NEWLINE]Bekijk en manage je spionnen.</Text>

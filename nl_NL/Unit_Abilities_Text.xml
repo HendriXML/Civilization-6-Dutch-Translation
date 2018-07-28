@@ -299,7 +299,7 @@
 			<Text>Deze eenheid heeft geen last van vechtsancties als deze beschadigd is.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COMBAT_DIFFICULTY_SCALING">
-			<Text>+ {Bedrag} bonus vanwege moeilijkheidsgraad.</Text>
+			<Text>+{Amount} bonus vanwege moeilijkheidsgraad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
 			<Text>+10 tegen cavalerie</Text>

@@ -95,7 +95,7 @@
 			<Text>Aan het begin van het spel worden je stad en de landen direct daar omheen onthuld, maar de gebieden daarachter, vertegenwoordigd door leeg perkament, geven delen van de wereld aan die je nog niet hebt verkend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_16_BODY">
-			<Text>Warrior-eenheden hebben een [ICON_Movement] -bewegingsbereik van 2. [NEWLINE] [NEWLINE] De blauwgekleurde indicator op de landerijen rond de unit geeft de meest verste geselecteerde eenheid weer in één slag.</Text>
+			<Text>Warrior-eenheden hebben een [ICON_Movement] -bewegingsbereik van 2. [NEWLINE][NEWLINE]De blauwgekleurde indicator op de landerijen rond de unit geeft de meest verste geselecteerde eenheid weer in één slag.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_17_BODY">
 			<Text>Open terrein, zoals vlaktes en grasland, verbruikt slechts 1 bewegingspunt [ICON_Movement], terwijl moeilijker terrein, zoals Woods en heuvels, 2 of meer [ICON_Movement] -verplaatsingspunten zullen verbruiken. Verplaats de Warrior-eenheid naar de gemarkeerde locatie door met de rechtermuisknop te klikken.</Text>
@@ -467,7 +467,7 @@
 			<Text>Omdat er geen beslissingen meer zijn om deze beurt te maken, klikt u op de knop Volgende afslag om door te gaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_11a_BODY">
-			<Text>Taken die moeten worden voltooid voordat u uw beurt kunt beëindigen, verschijnen in het meldingspaneel rechtsonder in het scherm. [NEWLINE] [NEWLINE] Aangezien de productie in deze stad is voltooid, krijgt u een herinnering dat u de volgende keer moet kiezen ding om te produceren voordat je je beurt kunt beëindigen.</Text>
+			<Text>Taken die moeten worden voltooid voordat u uw beurt kunt beëindigen, verschijnen in het meldingspaneel rechtsonder in het scherm. [NEWLINE][NEWLINE]Aangezien de productie in deze stad is voltooid, krijgt u een herinnering dat u de volgende keer moet kiezen ding om te produceren voordat je je beurt kunt beëindigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_11_HEAD">
 			<Text>VEREISTE ACTIES</Text>
@@ -494,7 +494,7 @@
 			<Text>EINDE DRAAIEN</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_19_BODY">
-			<Text>Omdat je Warrior-eenheid al zijn [ICON_Movement] -verplaatsingspunten heeft gebruikt, is het gedaan met zijn acties deze beurt. [NEWLINE] [NEWLINE] Productie- en onderzoekstaken zijn nog in volle gang, dus er zijn geen andere beslissingen te nemen.</Text>
+			<Text>Omdat je Warrior-eenheid al zijn [ICON_Movement] -verplaatsingspunten heeft gebruikt, is het gedaan met zijn acties deze beurt. [NEWLINE][NEWLINE]Productie- en onderzoekstaken zijn nog in volle gang, dus er zijn geen andere beslissingen te nemen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_19b_BODY">
 			<Text>Klik nogmaals op de knop Volgende afslag om door te gaan.</Text>
@@ -530,7 +530,7 @@
 			<Text>Civilization is een turn-based game waarbij beslissingen worden genomen en acties worden uitgevoerd tijdens een spelbeurt, net zoals het spelen van een bordspel met vrienden. Zodra alle andere spelers hun zetten hebben gedaan, zal een nieuwe beurt beginnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_5b_BODY">
-			<Text>Het bouwen van items in uw stad kost tijd. Het aantal keren dat het spel draait, wordt aangegeven op elk item in het menu. [NEWLINE] [NEWLINE] Dit wordt berekend op basis van de [ICON_Production] productiekosten van het artikel versus het [ICON_Production] productie-rendement van de stad. Hoe hoger de opbrengst, hoe minder beurten er nodig zijn om te bouwen.</Text>
+			<Text>Het bouwen van items in uw stad kost tijd. Het aantal keren dat het spel draait, wordt aangegeven op elk item in het menu. [NEWLINE][NEWLINE]Dit wordt berekend op basis van de [ICON_Production] productiekosten van het artikel versus het [ICON_Production] productie-rendement van de stad. Hoe hoger de opbrengst, hoe minder beurten er nodig zijn om te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_5_HEAD">
 			<Text>EINDE DRAAIEN</Text>
@@ -557,7 +557,7 @@
 			<Text>BOUWEN MONUMENT</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_27_BODY">
-			<Text>Naast trainingseenheden kan je stad haar productie richten op het bouwen van gebouwen zoals het monument. [NEWLINE] [NEWLINE] Probeer er nu een te bouwen door het te selecteren in de productiewachtrij van de stad.</Text>
+			<Text>Naast trainingseenheden kan je stad haar productie richten op het bouwen van gebouwen zoals het monument. [NEWLINE][NEWLINE]Probeer er nu een te bouwen door het te selecteren in de productiewachtrij van de stad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_21">
 			<Text>Met Barbaren in ons midden, denk ik dat onze mensen meer op hun gemak zouden zijn als onze Warriors dichter bij de stad zouden zijn. Bestel ze om terug te keren en te verdedigen.</Text>
@@ -584,13 +584,13 @@
 			<Text>Onze helderste geesten hebben nieuwe en ingenieuze manieren ontdekt om edelstenen en metalen uit de aarde te halen. Er is een overvloed aan waardevolle stenen in de buurt, het zou verstandig zijn om onze bouwers daarheen te sturen om er een steengroeve te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_30_BODY">
-			<Text>Verspreid over de kaart zijn verschillende soorten hulpmiddelen. Er zijn 3 categorieën bronnen: [NEWLINE] [NEWLINE] Luxe: deze dragen bij aan het algemene geluk van uw burgers. [NEWLINE] [NEWLINE] Strategisch: essentieel voor het maken van enkele zeer krachtige militaire eenheden. [NEWLINE] [NEWLINE] Bonus: Zorg voor extra opbrengsten van [ICON_Food] Food, [ICON_Production] Production of [ICON_Gold] Gold.</Text>
+			<Text>Verspreid over de kaart zijn verschillende soorten hulpmiddelen. Er zijn 3 categorieën bronnen: [NEWLINE][NEWLINE]Luxe: deze dragen bij aan het algemene geluk van uw burgers. [NEWLINE][NEWLINE]Strategisch: essentieel voor het maken van enkele zeer krachtige militaire eenheden. [NEWLINE][NEWLINE]Bonus: Zorg voor extra opbrengsten van [ICON_Food] Food, [ICON_Production] Production of [ICON_Gold] Gold.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_31a_HEAD">
 			<Text>BOUWEN VAN DE GRAAG</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_31a_BODY">
-			<Text>Deze steen is een bonusmiddel. Het biedt een extra +1 [ICON_Production] productie aan uw stad. [NEWLINE] [NEWLINE] Als u hier een Quarry-verbetering bouwt, verhoogt dit de opbrengst naar +2 [ICON_Production] Productie.</Text>
+			<Text>Deze steen is een bonusmiddel. Het biedt een extra +1 [ICON_Production] productie aan uw stad. [NEWLINE][NEWLINE]Als u hier een Quarry-verbetering bouwt, verhoogt dit de opbrengst naar +2 [ICON_Production] Productie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_31b_BODY">
 			<Text>Verplaats uw Builder-eenheid naar de Stone-resource en laat ze daar een Quarry-verbetering construeren.</Text>
@@ -722,10 +722,10 @@
 			<Text>BUILDERSWERK</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_38a_BODY">
-			<Text>Uw Builder heeft nog steeds een van zijn personeel over. [NEWLINE] [NEWLINE] U kunt het gebruiken om een ​​Mine on the Hill-plot (+ [ICON_Production] -productie) of een Farm on the Plains-plot (+ [ICON_Food] voedsel te maken) ). [NEWLINE] [NEWLINE] Dit kan meer dan één beurt in beslag nemen, één om de Builder-eenheid te verplaatsen en nog een keer om de verbetering op te bouwen.</Text>
+			<Text>Uw Builder heeft nog steeds een van zijn personeel over. [NEWLINE][NEWLINE]U kunt het gebruiken om een ​​Mine on the Hill-plot (+ [ICON_Production] -productie) of een Farm on the Plains-plot (+ [ICON_Food] voedsel te maken) ). [NEWLINE][NEWLINE]Dit kan meer dan één beurt in beslag nemen, één om de Builder-eenheid te verplaatsen en nog een keer om de verbetering op te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_38b_BODY">
-			<Text>Let op: bouwers kunnen alleen verbeteringen aanbrengen binnen de grenzen van uw stad. [NEWLINE] [NEWLINE] Door [ICON_Culture] cultuur te genereren, worden de grenzen van uw stad uitgebreid, waardoor u toegang heeft tot meer bronnen.</Text>
+			<Text>Let op: bouwers kunnen alleen verbeteringen aanbrengen binnen de grenzen van uw stad. [NEWLINE][NEWLINE]Door [ICON_Culture] cultuur te genereren, worden de grenzen van uw stad uitgebreid, waardoor u toegang heeft tot meer bronnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_39_HEAD">
 			<Text>EXPLORATION</Text>
@@ -851,7 +851,7 @@
 			<Text>In Civilization VI zijn er veel soorten districten die in jouw steden kunnen worden gebouwd, elk met een specifiek doel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_78_BODY">
-			<Text>Door onderzoek naar Schrijven af ​​te ronden, kun je nu een Campuswijk in je stad bouwen. [NEWLINE] [NEWLINE] Het Campusdistrict is gewijd aan het vergroten van het aantal [ICON_Science] Wetenschap dat gegenereerd wordt door de stad die het bevat.</Text>
+			<Text>Door onderzoek naar Schrijven af ​​te ronden, kun je nu een Campuswijk in je stad bouwen. [NEWLINE][NEWLINE]Het Campusdistrict is gewijd aan het vergroten van het aantal [ICON_Science] Wetenschap dat gegenereerd wordt door de stad die het bevat.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_79_BODY">
 			<Text>Veel districten in het spel krijgen ook een bonus afhankelijk van waar ze in de stad zijn geplaatst. De Campus krijgt een bonus wanneer gebouwd naast Bergen of Jungles.</Text>
@@ -875,7 +875,7 @@
 			<Text>Aangezien u de schrijftechnologie hebt voltooid, moet u nu kiezen wat u vervolgens gaat onderzoeken. Als je een suggestie wilt, zijn dierhouderij en bronswerk beide goede keuzes.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_85_BODY">
-			<Text>Veehouderij stelt u in staat om verbeteringen aan de grasmat en het kamp in uw steden aan te brengen. [NEWLINE] [NEWLINE] Brons Werken zal u militair helpen door het kampementdistrict te ontsluiten en u Spearmen te laten trainen.</Text>
+			<Text>Veehouderij stelt u in staat om verbeteringen aan de grasmat en het kamp in uw steden aan te brengen. [NEWLINE][NEWLINE]Brons Werken zal u militair helpen door het kampementdistrict te ontsluiten en u Spearmen te laten trainen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_86_BODY">
 			<Text>Sommige gebouwen kunnen alleen in districten worden gebouwd. De bibliotheek is een gebouw dat exclusief is voor de Campuswijk. Omdat we de bouw op de Campus hebben voltooid, kunnen we er nu een bibliotheek aan bouwen.</Text>
@@ -887,7 +887,7 @@
 			<Text>Klik op de knop Productie kiezen rechtsonder om een ​​bibliotheek te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_88_BODY">
-			<Text>Gefeliciteerd! [NEWLINE] Je hebt je eerste spel van Civilization gewonnen. [NEWLINE] [NEWLINE] Je bent nu klaar om veel grotere uitdagingen en doelstellingen aan te gaan, nieuwe werelden te verkennen, nieuwe beschavingen voor de eerste keer te ontmoeten en overwinning te behalen op jouw voorwaarden.</Text>
+			<Text>Gefeliciteerd! [NEWLINE] Je hebt je eerste spel van Civilization gewonnen. [NEWLINE][NEWLINE]Je bent nu klaar om veel grotere uitdagingen en doelstellingen aan te gaan, nieuwe werelden te verkennen, nieuwe beschavingen voor de eerste keer te ontmoeten en overwinning te behalen op jouw voorwaarden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_89_BODY">
 			<Text>Wanneer je een oorlog voert met een andere beschaving, is het het beste om een ​​voldoende aantal gevechtseenheden te hebben, zowel om je steden te verdedigen als om in het buitenland te vechten.</Text>
@@ -923,13 +923,13 @@
 			<Text>Klik op de knop Beleid wijzigen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_96_BODY">
-			<Text>Om een ​​beleid te slepen, klik en versleep je het beleid van rechts naar het juiste slot in je regering aan de linkerkant. [NEWLINE] [NEWLINE] Probeer dat nu door het Discipline-beleid toe te voegen aan het Militaire slot en voeg vervolgens het beleid Stedenbouwkunde toe aan het economische slot. Klik op de knop Beleid bevestigen als u klaar bent.</Text>
+			<Text>Om een ​​beleid te slepen, klik en versleep je het beleid van rechts naar het juiste slot in je regering aan de linkerkant. [NEWLINE][NEWLINE]Probeer dat nu door het Discipline-beleid toe te voegen aan het Militaire slot en voeg vervolgens het beleid Stedenbouwkunde toe aan het economische slot. Klik op de knop Beleid bevestigen als u klaar bent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_97_BODY">
 			<Text>Door dit beleid uit te vaardigen, zullen je militaire eenheden nu een +5 [ICON_Strength] Combat Strength-bonus krijgen wanneer ze tegen Barbaren vechten. Bovendien ontvangen uw steden +1 [ICON_Production] productie per beurt, waardoor ze eenheden kunnen trainen en gebouwen sneller kunnen bouwen dan voorheen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_98_BODY">
-			<Text>Net zoals je nieuwe technologieën onderzoekt door [ICON_Science] -wetenschap in je steden te genereren, ontgrendel je de burgerzin door [ICON_Culture] Culture te genereren. [NEWLINE] [NEWLINE] Je hebt de civielrechtelijke code al ontgrendeld waarmee je je eerste regering.</Text>
+			<Text>Net zoals je nieuwe technologieën onderzoekt door [ICON_Science] -wetenschap in je steden te genereren, ontgrendel je de burgerzin door [ICON_Culture] Culture te genereren. [NEWLINE][NEWLINE]Je hebt de civielrechtelijke code al ontgrendeld waarmee je je eerste regering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_99a_BODY">
 			<Text>Nu moet je een nieuwe burger selecteren om verder te gaan.</Text>
@@ -1010,16 +1010,16 @@
 			<Text>Elke stad genereert een verscheidenheid aan opbrengsten aan het begin van elke beurt. Deze worden verkregen uit de hexen die de stad controleert.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_107_BODY">
-			<Text>Elke zeshoek binnen je stadsgrenzen kan een aantal opbrengsten opleveren om je te helpen je beschaving vooruit te helpen. [ICON_Food] Food en [ICON_Production] Productie zijn twee van deze opbrengsten. [NEWLINE] [NEWLINE] [ICON_Food] Voedsel voedt de groei van steden, waardoor de [ICON_Citizen] -populatie toeneemt. Meer [ICON_Food] Eten, sneller groeien. [NEWLINE] [NEWLINE] [ICON_Production] Productie wordt gebruikt om nieuwe items te bouwen, zoals militaire eenheden en stadsupgrades. Hoe meer [ICON_Production] Productie uw stad heeft, hoe sneller u dingen kunt bouwen.</Text>
+			<Text>Elke zeshoek binnen je stadsgrenzen kan een aantal opbrengsten opleveren om je te helpen je beschaving vooruit te helpen. [ICON_Food] Food en [ICON_Production] Productie zijn twee van deze opbrengsten. [NEWLINE][NEWLINE][ICON_Food] Voedsel voedt de groei van steden, waardoor de [ICON_Citizen] -populatie toeneemt. Meer [ICON_Food] Eten, sneller groeien. [NEWLINE][NEWLINE][ICON_Production] Productie wordt gebruikt om nieuwe items te bouwen, zoals militaire eenheden en stadsupgrades. Hoe meer [ICON_Production] Productie uw stad heeft, hoe sneller u dingen kunt bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_108_BODY">
-			<Text>Elke hex zal echter bewerkt moeten worden door uw [ICON_Citizen] Bevolking om de opbrengst van die hex te verkrijgen. [NEWLINE] [NEWLINE] Elke [ICON_Citizen] Burger kan 1 hex binnen uw grenzen werken.</Text>
+			<Text>Elke hex zal echter bewerkt moeten worden door uw [ICON_Citizen] Bevolking om de opbrengst van die hex te verkrijgen. [NEWLINE][NEWLINE]Elke [ICON_Citizen] Burger kan 1 hex binnen uw grenzen werken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_109_BODY">
 			<Text>De [ICON_Citizen] van je stad laten groeien. Bevolking is erg belangrijk om te profiteren van alle opbrengsten uit de omliggende landen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_110_BODY">
-			<Text>Het is nu aan jou om te beslissen wat je in deze stad wilt produceren. [NEWLINE] [NEWLINE] Suggesties: [NEWLINE] [NEWLINE] - Train een bouwer om meer van de omliggende gebieden binnen je grenzen te verbeteren. [NEWLINE] [NEWLINE] - Train een gevechtseenheid om de omvang en kracht van je leger uit te breiden. [NEWLINE] [NEWLINE] - Bouw een graanschuur om extra [ICON_Food] voedsel voor je stad en meer te bieden [ICON_Housing] Huisvesting voor je [ICON_Citizen ] Bevolking.</Text>
+			<Text>Het is nu aan jou om te beslissen wat je in deze stad wilt produceren. [NEWLINE][NEWLINE]Suggesties: [NEWLINE][NEWLINE]- Train een bouwer om meer van de omliggende gebieden binnen je grenzen te verbeteren. [NEWLINE][NEWLINE]- Train een gevechtseenheid om de omvang en kracht van je leger uit te breiden. [NEWLINE][NEWLINE]- Bouw een graanschuur om extra [ICON_Food] voedsel voor je stad en meer te bieden [ICON_Housing] Huisvesting voor je [ICON_Citizen ] Bevolking.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_GENERAL_1">
 			<Text>doelen:</Text>
@@ -1109,34 +1109,34 @@
 			<Text>VERKRIJGEN VOORZIENINGEN:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_CITYPANEL_CONSTRUCT">
-			<Text>[NEWLINE] [NEWLINE] Construeer gebouwen: {1_Buildings}</Text>
+			<Text>[NEWLINE][NEWLINE]Construeer gebouwen: {1_Buildings}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_CITYPANEL_ZONE">
-			<Text>[NEWLINE] [NEWLINE] Voeg wijken toe: {1_Districts}</Text>
+			<Text>[NEWLINE][NEWLINE]Voeg wijken toe: {1_Districts}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_CITYPANEL_BUILD">
-			<Text>[NEWLINE] [NEWLINE] Plaats verbeteringen: {1_Improvements}</Text>
+			<Text>[NEWLINE][NEWLINE]Plaats verbeteringen: {1_Improvements}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_CITYPANEL_IMPROVE_LUXURIES">
-			<Text>[NEWLINE] [NEWLINE] Luxegoederenbronnen verbeteren.</Text>
+			<Text>[NEWLINE][NEWLINE]Luxegoederenbronnen verbeteren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_CITYPANEL_RESEARCH">
-			<Text>[NEWLINE] [NEWLINE] Onderzoekstechnologie: {1_Techs}</Text>
+			<Text>[NEWLINE][NEWLINE]Onderzoekstechnologie: {1_Techs}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_CITYPANEL_CULTUREVATE">
-			<Text>[NEWLINE] [NEWLINE] Ontsluit ontplooiing: {1_Civics}</Text>
+			<Text>[NEWLINE][NEWLINE]Ontsluit ontplooiing: {1_Civics}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_53_BODY">
 			<Text>De symbolen die worden weergegeven in het technologieknooppunt vertegenwoordigen nieuwe eenheden, gebouwen, wonderen en mogelijkheden die worden ontgrendeld door de technologie zodra deze is voltooid. Nadat u bijvoorbeeld de technologie van Pottery hebt onderzocht, kunt u het graanschuurgebouw in al uw steden bouwen. Je bouwers zullen ook de mogelijkheid krijgen om tarwemiddelen in de buurt van jouw stad te oogsten. Tijdens het oogsten van een tarwesource krijgt u een grote hoeveelheid [ICON_Food] voedsel, die bron wordt van de kaart verwijderd. In de meeste gevallen is het beter om een ​​tarwemiddel te verzorgen door er in plaats daarvan een Farm-verbetering op te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_167_BODY">
-			<Text>De technologische vooruitgang van uw mensen wordt bereikt door onderzoek. [NEWLINE] [NEWLINE] Door onderzoek naar technologieën te voltooien, ontgrendelt u nieuwe manieren om het land te exploiteren, nieuwe militaire eenheden, nieuwe stadsupgrades en nog veel meer.</Text>
+			<Text>De technologische vooruitgang van uw mensen wordt bereikt door onderzoek. [NEWLINE][NEWLINE]Door onderzoek naar technologieën te voltooien, ontgrendelt u nieuwe manieren om het land te exploiteren, nieuwe militaire eenheden, nieuwe stadsupgrades en nog veel meer.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_111_BODY">
 			<Text>Net zoals het bouwen van nieuwe units wordt gevoed door [ICON_Production] Production, wordt onderzoek naar nieuwe technologieën aangewakkerd door [ICON_Science] Science.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_112_BODY">
-			<Text>Elke stad in je rijk genereert per beurt een kleine hoeveelheid [ICON_Science] Wetenschap. Hoe snel uw onderzoeksprojecten worden voltooid, wordt bepaald door het totaal van alle [ICON_Science] wetenschap die door uw steden wordt gegenereerd. [NEWLINE] [NEWLINE] Hoe meer [ICON_Science] wetenschap u genereert, hoe sneller u nieuwe technologieën onderzoekt.</Text>
+			<Text>Elke stad in je rijk genereert per beurt een kleine hoeveelheid [ICON_Science] Wetenschap. Hoe snel uw onderzoeksprojecten worden voltooid, wordt bepaald door het totaal van alle [ICON_Science] wetenschap die door uw steden wordt gegenereerd. [NEWLINE][NEWLINE]Hoe meer [ICON_Science] wetenschap u genereert, hoe sneller u nieuwe technologieën onderzoekt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_SELECT_IRRIGATION">
 			<Text>Selecteer Irrigatie in het paneel Onderzoekskiezen.</Text>
@@ -1172,7 +1172,7 @@
 			<Text>Om een ​​spel Civilization te winnen, moet je alle andere beschavingen in de wereld verslaan. Er zijn meerdere manieren om dit te bereiken. De meeste games eindigen ook in het jaar 2050 of na een bepaald aantal beurten. Als geen enkele speler deze overwinningen tegen die tijd heeft behaald, bepaalt de score de winnaar. De score wordt berekend als een algemene maatstaf voor de prestaties van elke speler op alle terreinen van het streven.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_119_BODY">
-			<Text>De status van de voorwaarden van elke Victory wordt bijgehouden in het paneel World Rankings. [NEWLINE] [NEWLINE] Nu openen.</Text>
+			<Text>De status van de voorwaarden van elke Victory wordt bijgehouden in het paneel World Rankings. [NEWLINE][NEWLINE]Nu openen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_119a_HEAD">
 			<Text>Wereldranglijsten</Text>
@@ -1184,10 +1184,10 @@
 			<Text>Het tabblad Algemeen geeft je een overzicht van alle soorten overwinningen en je rangorde ten opzichte van andere spelers</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_121_BODY">
-			<Text>De andere tabbladen geven u meer specifieke informatie over elke reeks rankings. [NEWLINE] [NEWLINE] Sluit het paneel wanneer u klaar bent om verder te gaan.</Text>
+			<Text>De andere tabbladen geven u meer specifieke informatie over elke reeks rankings. [NEWLINE][NEWLINE]Sluit het paneel wanneer u klaar bent om verder te gaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_122_BODY">
-			<Text>De rest van deze tutorial helpt je om je eerste overheersingsoverwinning te bereiken. [NEWLINE] [NEWLINE] Het doel van een dominantieoverwinning is dat je beschaving de laatste is die zijn eigen [ICON_Capital] hoofdstad inneemt. [NEWLINE] [NEWLINE ] Voor deze zelfstudie betekent dit dat je je leger moet gebruiken om de [ICON_Capital] hoofdstad van je rivaal te veroveren, terwijl je ze niet kunt nemen. [NEWLINE] [NEWLINE] Hoe je dit uiteindelijk bereikt, is aan jou. We hebben echter drie optionele doelstellingen gegeven die, indien voltooid, u enorm zullen helpen om dit te bereiken.</Text>
+			<Text>De rest van deze tutorial helpt je om je eerste overheersingsoverwinning te bereiken. [NEWLINE][NEWLINE]Het doel van een dominantieoverwinning is dat je beschaving de laatste is die zijn eigen [ICON_Capital] hoofdstad inneemt. [NEWLINE] [NEWLINE ] Voor deze zelfstudie betekent dit dat je je leger moet gebruiken om de [ICON_Capital] hoofdstad van je rivaal te veroveren, terwijl je ze niet kunt nemen. [NEWLINE][NEWLINE]Hoe je dit uiteindelijk bereikt, is aan jou. We hebben echter drie optionele doelstellingen gegeven die, indien voltooid, u enorm zullen helpen om dit te bereiken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_123_BODY">
 			<Text>Als je ergens niet zeker van bent, of op zoek bent naar meer informatie over alles wat je in deze tutorial hebt gezien, is de kans groot dat je het in de Civilopedia vindt.</Text>
@@ -1229,7 +1229,7 @@
 			<Text>Scouts krijgen, in tegenstelling tot andere militaire eenheden, ervaring met het verkennen van de stamdorpen. Ze kunnen ook ervaring opdoen met het ontdekken van natuurlijke wonderen in de wereld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_128_BODY">
-			<Text>Je hebt misschien gemerkt dat je steden elke beurt een kleine hoeveelheid [ICON_Faith] geloof hebben gegenereerd. [NEWLINE] [NEWLINE] [ICON_Faith] Geloof wordt met de tijd verdiend door bepaalde gebouwen, districten en beleid.</Text>
+			<Text>Je hebt misschien gemerkt dat je steden elke beurt een kleine hoeveelheid [ICON_Faith] geloof hebben gegenereerd. [NEWLINE][NEWLINE][ICON_Faith] Geloof wordt met de tijd verdiend door bepaalde gebouwen, districten en beleid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_129_BODY">
 			<Text>Nu je genoeg [ICON_Faith] Faith hebt verdiend, kun je de eerste stap zetten naar het oprichten van een religie door een pantheon te vormen, die je een keuze aan strategische voordelen biedt.</Text>

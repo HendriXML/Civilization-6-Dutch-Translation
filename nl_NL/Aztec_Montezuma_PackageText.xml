@@ -5,10 +5,10 @@
 			<Text>DLC: Aztec Civilization Pack</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AZTEC_MONTEZUMA_MOD_TEASER">
-			<Text>New Civilization and Leader - Montezuma of the Aztecs</Text>
+			<Text>Nieuwe beschaving en leider - Montezuma van de Azteken</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AZTEC_MONTEZUMA_MOD_DESCRIPTION">
-			<Text>Contains a new civilization and leader as well as a new world wonder.</Text>
+			<Text>Bevat een nieuwe beschaving en leider, evenals een nieuw wereldwonder.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

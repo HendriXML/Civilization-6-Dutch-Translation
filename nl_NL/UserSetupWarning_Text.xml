@@ -2,13 +2,13 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
-			<Text>There are known issues that may occur when running the DirectX 12 version of Civilization VI with your current hardware configuration. The DirectX 12 version currently requires a compatible graphics card, either AMD or NVidia (Maxwell series or later).</Text>
+			<Text>Er zijn bekende problemen die kunnen optreden bij het uitvoeren van de DirectX 12-versie van Civilization VI met uw huidige hardwareconfiguratie. De DirectX 12-versie vereist momenteel een compatibele grafische kaart, AMD of NVidia (Maxwell-serie of later).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
-			<Text>Proceed Anyway</Text>
+			<Text>Ga toch door</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_USER_WARNING_QUIT">
-			<Text>Quit</Text>
+			<Text>Stoppen</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

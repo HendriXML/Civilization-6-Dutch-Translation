@@ -2,211 +2,211 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_MODS_TITLE">
-			<Text>ADDITIONAL CONTENT</Text>
+			<Text>EXTRA CONTENT</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_INSTALLED">
-			<Text>INSTALLED</Text>
+			<Text>GEÏNSTALLEERD</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SUBSCRIPTIONS">
-			<Text>SUBSCRIPTIONS</Text>
+			<Text>VRIENDEN</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_BROWSE_WORKSHOP">
-			<Text>BROWSE WORKSHOP</Text>
+			<Text>BEKIJK WORKSHOP</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_WORLD_BUILDER">
-			<Text>WORLD BUILDER</Text>
+			<Text>WERELDBOUWER</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_NONE_INSTALLED">
-			<Text>There are no mods installed.</Text>
+			<Text>Er zijn geen mods geïnstalleerd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_NONE_SELECTED">
-			<Text>Select a mod to the left to view details.</Text>
+			<Text>Selecteer links een mod om details te bekijken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_NO_SUBSCRIPTIONS">
-			<Text>There are no subscriptions.</Text>
+			<Text>Er zijn geen abonnementen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_INSTALLED">
-			<Text>Installed</Text>
+			<Text>geïnstalleerd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_PENDING">
-			<Text>Download Pending...</Text>
+			<Text>Download in behandeling ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SUBSCRIPTION_SUBSCRIBED">
-			<Text>Subscribed (but not downloaded)</Text>
+			<Text>Ingeschreven (maar niet gedownload)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SUBSCRIPTION_DOWNLOADING">
-			<Text>Downloading... ({1 : number} of {2 : number} total)</Text>
+			<Text>Downloaden ... ({1: number} of {2: number} total)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ENABLE_MOD">
-			<Text>Enable Mod</Text>
+			<Text>Schakel Mod in</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DOWNLOADING">
-			<Text>Downloading Item...</Text>
+			<Text>Item downloaden ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SUBSCRIPTION_NAME_PENDING">
-			<Text>Fetching Subscription Name...</Text>
+			<Text>Abonnementsnaam ophalen ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_UPDATE">
-			<Text>Update</Text>
+			<Text>Bijwerken</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_VIEW">
-			<Text>View</Text>
+			<Text>Uitzicht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_GROUP_DEFAULT_NAME">
-			<Text>(Default)</Text>
+			<Text>(Standaard)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_GROUP_ADD_NAME">
 			<Text>+</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_GROUP_ADD_DESCRIPTION">
-			<Text>Create a new group of Mods.  Groups can be used to quickly change which mods are enabled.</Text>
+			<Text>Maak een nieuwe groep Mods. Groepen kunnen worden gebruikt om snel te wijzigen welke mods zijn ingeschakeld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_GROUP_DELETE_NAME">
 			<Text>-</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_GROUP_ENTER_NAME">
-			<Text>Enter the name of the new mod group.</Text>
+			<Text>Voer de naam van de nieuwe mod-groep in.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
-			<Text>Delete the currently selected group of Mods.  This will not delete the mods, only the group.  The default group may not be deleted.</Text>
+			<Text>Verwijder de momenteel geselecteerde groep Mods. Hiermee worden de mods niet verwijderd, alleen de groep. De standaardgroep wordt mogelijk niet verwijderd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SEARCH_NAME">
-			<Text>Search...</Text>
+			<Text>Zoeken...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SEARCH_DESCRIPTION">
-			<Text>Search for content based on title and teaser.</Text>
+			<Text>Zoeken naar inhoud op basis van titel en teaser.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SORTBY">
-			<Text>Sort By:</Text>
+			<Text>Sorteer op:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SORTBY_NAME">
-			<Text>Sort By: Name</Text>
+			<Text>Sorteren op naam</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_SORTBY_ENABLED">
-			<Text>Sort By: Enabled</Text>
+			<Text>Sorteren op: ingeschakeld</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_LAST_UPDATED">
-			<Text>Last Updated: {1_Time: datetime}</Text>
+			<Text>Laatst bijgewerkt: {1_Time: datetime}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_FILTER">
 			<Text>Filter</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_FIRAXIAN_CONTENT">
-			<Text>Official Content</Text>
+			<Text>Officiële inhoud</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_USER_CONTENT">
-			<Text>Community Created Content</Text>
+			<Text>Door de community gemaakte inhoud</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ENABLE_ALL">
-			<Text>Enable All</Text>
+			<Text>Schakel alles in</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DISABLE_ALL">
-			<Text>Disable All</Text>
+			<Text>Alles uitschakelen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ENABLE">
-			<Text>Enable</Text>
+			<Text>in staat stellen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ENABLED">
-			<Text>Enabled</Text>
+			<Text>Ingeschakeld</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ENABLE_INCLUDE">
-			<Text>Enabling this will also enable the following:</Text>
+			<Text>Als u dit inschakelt, kunt u ook het volgende inschakelen:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ENABLE_ERROR">
-			<Text>Cannot enable due to the following:</Text>
+			<Text>Kan niet inschakelen vanwege het volgende:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DISABLE">
-			<Text>Disable</Text>
+			<Text>onbruikbaar maken</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DISABLED">
-			<Text>Disabled</Text>
+			<Text>invalide</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DISABLE_ERROR">
-			<Text>Cannot disable due to the following:</Text>
+			<Text>Kan niet uitschakelen vanwege het volgende:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DISABLE_ERROR_DEPENDS">
-			<Text>Cannot disable because the following mods depend on this:</Text>
+			<Text>Kan niet uitschakelen omdat de volgende mods hiervan afhankelijk zijn:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_YES">
-			<Text>Yes</Text>
+			<Text>Ja</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_NO">
-			<Text>No</Text>
+			<Text>Nee</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_VERSION">
-			<Text>Version:</Text>
+			<Text>Versie:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_AUTHOR">
-			<Text>Author(s):</Text>
+			<Text>Auteur (s):</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
-			<Text>Special Thanks:</Text>
+			<Text>Speciaal bedankt:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_DLC_STORE">
-			<Text>Click here to visit the store page.</Text>
+			<Text>Klik hier om de winkelpagina te bezoeken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_SINGLEPLAYER">
-			<Text>Single Player?</Text>
+			<Text>Een speler?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_MULTIPLAYER">
 			<Text>Multiplayer?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES">
-			<Text>Affects Saved Games:</Text>
+			<Text>Opgeslagen spellen:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_OWNERSHIP">
-			<Text>Ownership:</Text>
+			<Text>Eigendom:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_TAGS">
 			<Text>Tags:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_OWNERSHIP_YES">
-			<Text>Owned</Text>
+			<Text>Bezeten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_OWNERSHIP_NO">
-			<Text>Not owned</Text>
+			<Text>Niet eigendom</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_DESCRIPTION">
-			<Text>Description</Text>
+			<Text>Beschrijving</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_REFERENCES">
-			<Text>References</Text>
+			<Text>Referenties</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_REFERENCES_DEPENDENCY">
-			<Text>Depends On</Text>
+			<Text>Hangt af van</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_REFERENCES_REFERENCE">
-			<Text>References</Text>
+			<Text>Referenties</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_DETAILS_REFERENCES_BLOCK">
 			<Text>Blocks</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_EXCLUSIVE">
-			<Text>This is an exclusive mod.</Text>
+			<Text>Dit is een exclusieve mod.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_PARTIALLY_EXCLUSIVE">
-			<Text>This is a partially exclusive mod.</Text>
+			<Text>Dit is een gedeeltelijk exclusieve mod.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS">
-			<Text>Currently enabled mods are not compatible with this saved game.</Text>
+			<Text>Momenteel geactiveerde mods zijn niet compatibel met dit opgeslagen spel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ERROR_SAVE_MISSING_MODS">
-			<Text>Not all required mods are installed.</Text>
+			<Text>Niet alle vereiste mods zijn geïnstalleerd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED">
-			<Text>Another version of this mod is already enabled.</Text>
+			<Text>Een andere versie van deze mod is al ingeschakeld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD">
-			<Text>Mod is blocked by another mod.</Text>
+			<Text>Mod wordt geblokkeerd door een andere mod.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES">
-			<Text>Mod is missing required dependencies.</Text>
+			<Text>Mod ontbreekt vereiste afhankelijkheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS">
-			<Text>Mod is blocked by exclusivity.</Text>
+			<Text>Mod wordt geblokkeerd door exclusiviteit.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
-			<Text>This version of the game is not compatible with this mod.</Text>
+			<Text>Deze versie van het spel is niet compatibel met deze mod.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_MOD_AUTHORS_FIRAXIS">
 			<Text>Firaxis</Text>

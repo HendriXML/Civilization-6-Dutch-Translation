@@ -5,55 +5,55 @@
 			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Proxy War</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Capture three city-states.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Leg drie stadstaten vast.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Here's my strategy on the Cold War: we win, they lose. -  Ronald Reagan</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Dit is mijn strategie voor de Koude Oorlog: we winnen, ze verliezen. -  Ronald Reagan</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
 			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Lord of the Armageddon</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">If any city center is nuked, nuke the most city centers by the turn limit.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Als een stadscentrum is vernietigd, vernietig dan de meeste stadscentra met de beurtlimiet.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The only way to win is to not play.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">De enige manier om te winnen is door niet te spelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
 			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Tank Banker</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">If no city centers are nuked, have the most tanks by the turn limit.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Als er geen stadscentra worden genaaid, hebben de meeste tanks de beurtlimiet.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">You have the most tanks at the end of the game!  You win!</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Je hebt de meeste tanks aan het einde van het spel! Jij wint!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_RULESET_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Global Thermonuclear War</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Wereldwijde thermonucleaire oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_RULESET_DESCRIPTION">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Cold War runs hot in this combat-based scenario set in the Atomic Era. Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Lord of the Armageddon: If any city center is nuked, nuke the most city centers by the turn limit.[NEWLINE][ICON_Bullet]Tank Banker: If no city centers are nuked, have the most tanks by the turn limit.[NEWLINE][ICON_Bullet]Proxy War: Capture 3 city-states.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Units and nuclear devices are cheaper to build and maintain. They don't require strategic resources.[NEWLINE][ICON_Bullet]Extended ranges for WMD Strikes and Bombers.[NEWLINE][ICON_Bullet]Builders have more charges for faster city development.[NEWLINE][ICON_Bullet]The map starts revealed.[NEWLINE][ICON_Bullet]No Tribal Villages.[NEWLINE][ICON_Bullet]No Barbarians.[NEWLINE][ICON_Bullet]War Weariness is disabled.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">De Koude Oorlog is hot in dit gevechtsgebaseerde scenario uit de Atomic Era. Duur 50 omwentelingen.[NEWLINE]Overwinningsvoorwaarden[NEWLINE][ICON_Bullet] Lord of the Armageddon: als een stadscentrum is genucleëerd, vernietig dan de meeste stadscentra met de beurtlimiet.[NEWLINE][ICON_Bullet] Tankbankier: Als er geen stadscentra zijn zijn nuked, hebben de meeste tanks bij de turn limiet.[NEWLINE][ICON_Bullet] Proxy War: Capture 3 city-states.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet] Units en nucleaire apparaten zijn goedkoper te bouwen en te onderhouden. Ze hebben geen strategische bronnen nodig.[NEWLINE][ICON_Bullet] Uitgebreide reeksen voor WMD-aanvallen en bommenwerpers.[NEWLINE][ICON_Bullet] Bouwers hebben meer kosten voor snellere stadsontwikkeling.[NEWLINE][ICON_Bullet] De kaart wordt onthuld. [NEWLINE ] [ICON_Bullet] Geen stammendorpen.[NEWLINE][ICON_Bullet] Geen barbaren.[NEWLINE][ICON_Bullet] War-vermoeidheid is uitgeschakeld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_MOD_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Multiplayer Scenario: Global Thermonuclear War</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Scenario voor meerdere spelers: wereldwijde thermonucleaire oorlog</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_MOD_TEASER">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Cold War runs hot in this combat-based scenario set in the Atomic Era.  Lasts 50 Turns.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">De Koude Oorlog is hot in dit gevechtsgebaseerde scenario uit de Atomic Era. Duurt 50 beurten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_COLDWAR_MOD_DESCRIPTION">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">The Cold War runs hot in this combat-based scenario set in the Atomic Era. Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Lord of the Armageddon: If any city center is nuked, nuke the most city centers by the turn limit.[NEWLINE][ICON_Bullet]Tank Banker: If no city centers are nuked, have the most tanks by the turn limit.[NEWLINE][ICON_Bullet]Proxy War: Capture 3 city-states.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Units and nuclear devices are cheaper to build and maintain. They don't require strategic resources.[NEWLINE][ICON_Bullet]Extended ranges for WMD Strikes and Bombers.[NEWLINE][ICON_Bullet]Builders have more charges for faster city development.[NEWLINE][ICON_Bullet]The map starts revealed.[NEWLINE][ICON_Bullet]No Tribal Villages.[NEWLINE][ICON_Bullet]No Barbarians.[NEWLINE][ICON_Bullet]War Weariness is disabled.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">De Koude Oorlog is hot in dit gevechtsgebaseerde scenario uit de Atomic Era. Duur 50 omwentelingen.[NEWLINE]Overwinningsvoorwaarden[NEWLINE][ICON_Bullet] Lord of the Armageddon: als een stadscentrum is genucleëerd, vernietig dan de meeste stadscentra met de beurtlimiet.[NEWLINE][ICON_Bullet] Tankbankier: Als er geen stadscentra zijn zijn nuked, hebben de meeste tanks bij de turn limiet.[NEWLINE][ICON_Bullet] Proxy War: Capture 3 city-states.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet] Units en nucleaire apparaten zijn goedkoper te bouwen en te onderhouden. Ze hebben geen strategische bronnen nodig.[NEWLINE][ICON_Bullet] Uitgebreide reeksen voor WMD-aanvallen en bommenwerpers.[NEWLINE][ICON_Bullet] Bouwers hebben meer kosten voor snellere stadsontwikkeling.[NEWLINE][ICON_Bullet] De kaart wordt onthuld. [NEWLINE ] [ICON_Bullet] Geen stammendorpen.[NEWLINE][ICON_Bullet] Geen barbaren.[NEWLINE][ICON_Bullet] War-vermoeidheid is uitgeschakeld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Turn Limit {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Beperking afslaan {ElapsedTurns} / {MinGameTurn} {StatusIcon}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">City States Captured {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Staten in de stad hebben {CurrentConquered} / {CityStatesConquered} {StatusIcon} vastgelegd</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">City Centers Nuked {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Any City Center Nuked {NukeWarStatusIcon}</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">City Centers Nuked {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Elke City Centre Nuked {NukeWarStatusIcon}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Tanks Possessed {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]No City Centers Nuked {NoNukeWarStatusIcon}</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Tanks Possessed {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Geen stadscentra Nuked {NoNukeWarStatusIcon}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

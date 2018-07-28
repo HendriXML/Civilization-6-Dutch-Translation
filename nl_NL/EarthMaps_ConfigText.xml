@@ -2,16 +2,16 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_TSLEARTH_NAME">
-			<Text>True Start Location Earth</Text>
+			<Text>Ware startlocatie aarde</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TSLEARTH_DESCRIPTION">
-			<Text>Civilizations start at the location of their historic capital on the Earth map.</Text>
+			<Text>Beschavingen beginnen op de locatie van hun historische hoofdstad op de Earth-kaart.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_EARTH_MAP_STANDARD_NAME">
-			<Text>Earth</Text>
+			<Text>Aarde</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
-			<Text>A representation of Earth with resources, terrain, and features reflecting their historic locations.</Text>
+			<Text>Een weergave van de aarde met middelen, terrein en kenmerken die hun historische locaties weerspiegelen.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

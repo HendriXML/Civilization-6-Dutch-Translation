@@ -2,34 +2,34 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Ancient Rivals</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Oude rivalen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Expand your horizons and get civilized in this exploration and culture-based scenario set in the Ancient Era.  Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE]At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE][ICON_Bullet]Cultured - Research the most civics.[NEWLINE][ICON_Bullet]Explorer - Reveal the most hexes on the map.[NEWLINE][ICON_Bullet]Ancient Raider - Pillage the most hexes.[NEWLINE][ICON_Bullet]Wonder of the Ancient World - Possess the most wonders.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Vergroot je horizon en wordt beschaafd in dit verkennings- en cultuurgebaseerde scenario dat zich afspeelt in het Oude Tijdperk. Laatste 50 beurten.[NEWLINE]Overwinningsvoorwaarden[NEWLINE]Bij de beurtlimiet wordt de overwinning toegekend aan de speler met de meeste van de volgende voorwaarden. Gelijkspel wordt opgelost op basis van de score.[NEWLINE][ICON_Bullet] Onderzoek de meeste Ontplooiingen.[NEWLINE][ICON_Bullet] Verkenner - toon de meeste tegels op de kaart.[NEWLINE][ICON_Bullet] Oude pluderaar - Plundering van de meeste tegels.[NEWLINE][ICON_Bullet] Wonder van de Oude Wereld - Beschik over de meeste wonderen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Ancient Rivals</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Oude rivalen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE][ICON_Bullet]Cultured - Research the most civics.[NEWLINE][ICON_Bullet]Explorer - Reveal the most hexes on the map.[NEWLINE][ICON_Bullet]Ancient Raider - Pillage the most hexes.[NEWLINE][ICON_Bullet]Wonder of the Ancient World - Possess the most wonders.[NEWLINE]</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Bij de beurtlimiet wordt de overwinning toegekend aan de speler met de meeste van de volgende voorwaarden. Gelijkspel wordt opgelost op basis van de score.[NEWLINE][ICON_Bullet] Onderzoek de meeste Ontplooiingen.[NEWLINE][ICON_Bullet] Verkenner - toon de meeste tegels op de kaart.[NEWLINE][ICON_Bullet] Oude pluderaar - Plundering van de meeste tegels.[NEWLINE][ICON_Bullet] Wonderen van de Oude Wereld - Beschik over de meeste wonderen.[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Give me a lever long enough and a fulcrum on which to place it, and I shall move the world. - Archimedes</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Geef me een hefboom die lang genoeg is en een steunpunt om het te plaatsen, en ik zal de wereld bewegen. - Archimedes</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Multiplayer Scenario: Ancient Rivals</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Scenario voor meerdere spelers: Oude rivalen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Expand your horizons and get civilized in this exploration and culture-based scenario set in the Ancient Era.  Lasts 50 Turns.</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Vergroot je horizon en wordt beschaafd in dit verkennings- en cultuurgebaseerde scenario dat zich afspeelt in het Oude Tijdperk. Duurt 50 beurten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Victory Conditions[NEWLINE]At the turn limit, victory is awarded to the player with the most of the following conditions. Ties are resolved based on score.[NEWLINE]Cultured - Research the most civics.[NEWLINE]Explorer - Reveal the most hexes on the map.[NEWLINE]Ancient Raider - Pillage the most hexes.[NEWLINE]Wonder of the Ancient World - Possess the most wonders.[NEWLINE]</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Overwinningsvoorwaarden[NEWLINE]Bij de beurtlimiet wordt de overwinning toegekend aan de speler met de meeste van de volgende voorwaarden. Gelijkspel wordt opgelost op basis van de score.[NEWLINE]Onderzoek de meeste Ontplooiingen.[NEWLINE]Verkenner - toon de meeste tegels op de kaart.[NEWLINE]Oude pluderaar - Plundering van de meeste tegels.[NEWLINE]Wonderen van de Oude Wereld - Beschik over de meeste wonderen.[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Turn Limit {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Beurtlimiet {ElapsedTurns} / {MinGameTurn} {StatusIcon}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Victory Points {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Hexes Explored {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tiles Pillaged {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Civics Completed {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Wonders Possessed {WondersPossessed} {WondersStatusIcon}</Text>
+			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Overwinningspunten {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Tegels verkend {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tegels geplunderd {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Ontplooiingen voltooid {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Wonders Possessed {WondersPossessed} { WondersStatusIcon}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

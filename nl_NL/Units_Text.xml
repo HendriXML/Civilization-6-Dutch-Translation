@@ -383,7 +383,7 @@
 			<Text>Unieke moderne Braziliaanse eenheid die het oorlogsschip vervangt. Sterker dan het oorlogsschip. Ontsloten door Nationalisme.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROMOTION_CLASS_MONK_NAME">
-			<Text>Ooorlogsmonnik</Text>
+			<Text>Oorlogsmonnik</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

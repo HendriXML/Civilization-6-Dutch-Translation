@@ -5,91 +5,91 @@
 			<Text>my2K</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
-			<Text>Sign up for my2K</Text>
+			<Text>Meld u aan voor my2K</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
-			<Text>To sign up for my2K, please enter a valid email address in the field below. A verification email will be sent to this address for sign-up confirmation.</Text>
+			<Text>Voer een geldig e-mailadres in in het onderstaande veld om u aan te melden voor my2K. Er wordt een verificatie-e-mail verzonden naar dit adres voor bevestiging van aanmelding.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
-			<Text>Logout</Text>
+			<Text>Uitloggen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
-			<Text>Do you wish to log out?</Text>
+			<Text>Wilt u uitloggen?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_YES">
-			<Text>Yes</Text>
+			<Text>Ja</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_NO">
-			<Text>No</Text>
+			<Text>Nee</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
-			<Text>Login</Text>
+			<Text>Log in</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_OK">
 			<Text>OK</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Annuleer</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_READ">
-			<Text>Read</Text>
+			<Text>Lezen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
-			<Text>Create New User</Text>
+			<Text>Maak een nieuwe gebruiker</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
-			<Text>Sign-Up</Text>
+			<Text>Aanmelden</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
-			<Text>Connection Issue</Text>
+			<Text>Verbindingsprobleem</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
-			<Text>A connection to Civilization VI could not be established. Civilization VI features may not be accessible.</Text>
+			<Text>Er kon geen verbinding met Civilization VI worden gemaakt. Civilization VI-functies zijn mogelijk niet toegankelijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MOTD">
-			<Text>Incoming Transmission</Text>
+			<Text>Inkomende verzending</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
-			<Text>Welcome Back!</Text>
+			<Text>Welkom terug!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
-			<Text>Signed in.</Text>
+			<Text>Ingelogd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
-			<Text>Silent Login Notification</Text>
+			<Text>Stille aanmeldingsmelding</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
-			<Text>You need to manually log into my2K.</Text>
+			<Text>U moet zich handmatig aanmelden bij my2K.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
-			<Text>Connection Restored</Text>
+			<Text>Verbinding hersteld</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
-			<Text>Link to Existing Account</Text>
+			<Text>Link naar bestaande account</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
-			<Text>Platform account is already linked to a My2K account.</Text>
+			<Text>Platformaccount is al gekoppeld aan een My2K-account.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
-			<Text>Unable to link platform account to My2K account.</Text>
+			<Text>Kan platformaccount niet koppelen aan My2K-account.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
-			<Text>Unlink Account</Text>
+			<Text>Account loskoppelen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
-			<Text>Link Account</Text>
+			<Text>Account koppelen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
-			<Text>Are you sure you want to unlink my2k? You can manage your account or review the legal and privacy policies online at www.2k.com.</Text>
+			<Text>Weet je zeker dat je my2k wilt ontkoppelen? U kunt uw account beheren of het juridische en privacybeleid online bekijken op www.2k.com.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
-			<Text>Offline</Text>
+			<Text>offline</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
-			<Text>Linked - Online</Text>
+			<Text>Gekoppeld - online</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
-			<Text>Linked - Offline</Text>
+			<Text>Gekoppeld - offline</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

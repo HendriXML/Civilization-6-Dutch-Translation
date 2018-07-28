@@ -2,34 +2,34 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_NAME">
-			<Text>Official Balanced Maps</Text>
+			<Text>Officiële gebalanceerde kaarten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_DESCRIPTION">
-			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
+			<Text>Evenwichtige kaarten die vooral ideaal zijn voor multiplayer-wedstrijden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
-			<Text>Balanced Maps</Text>
+			<Text>Evenwichtige kaarten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
-			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
+			<Text>Evenwichtige kaarten die vooral ideaal zijn voor multiplayer-wedstrijden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
-			<Text>4-Leaf Clover</Text>
+			<Text>Klavertje vier</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
-			<Text>Civilizations begin in four balanced regions. The map forces players toward the center.</Text>
+			<Text>Beschavingen beginnen in vier gebalanceerde regio's. De kaart dwingt spelers naar het midden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
-			<Text>6-Armed Snowflake</Text>
+			<Text>6-gewapende sneeuwvlok</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
-			<Text>Civilizations begin in six balanced regions, with City-States on nearby islands. The map forces players toward the center.</Text>
+			<Text>Beschavingen beginnen in zes gebalanceerde regio's, met stadstaten op nabijgelegen eilanden. De kaart dwingt spelers naar het midden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
-			<Text>Promised Land</Text>
+			<Text>Beloofde land</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
-			<Text>Civilizations begin with balanced start locations and compete for valuable territory in the map’s center.</Text>
+			<Text>Beschavingen beginnen met gebalanceerde startlocaties en strijden om waardevol grondgebied in het centrum van de kaart.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
