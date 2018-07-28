@@ -2,31 +2,31 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_RELIGIOUS_COMBAT_RULESET_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Hallowed Ground</Text>
+			<Text>Hallowed Ground</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RELIGIOUS_COMBAT_RULESET_TEASER">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Battle for holy domination in this religion-focused scenario set in the Medieval Era. Lasts until the Industrial Era.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Holy Victory - Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]First Holy Site grants a free Great Prophet.</Text>
+			<Text>Battle for holy domination in this religion-focused scenario set in the Medieval Era. Lasts until the Industrial Era.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Holy Victory - Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]First Holy Site grants a free Great Prophet.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RELIGIOUS_COMBAT_VICTORY_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Holy Victory</Text>
+			<Text>Holy Victory</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RELIGIOUS_COMBAT_VICTORY_DESC">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)</Text>
+			<Text>Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RELIGIOUS_COMBAT_MOD_TITLE">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Multiplayer Scenario: Hallowed Ground</Text>
+			<Text>Multiplayer Scenario: Hallowed Ground</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RELIGIOUS_COMBAT_MOD_TEASER">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Battle for holy domination in this religion-focused scenario set in the Medieval Era.  Lasts until the Industrial Era.</Text>
+			<Text>Battle for holy domination in this religion-focused scenario set in the Medieval Era.  Lasts until the Industrial Era.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RELIGIOUS_COMBAT_MOD_DESCRIPTION">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Victory Conditions[NEWLINE]Holy Victory - Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)</Text>
+			<Text>Victory Conditions[NEWLINE]Holy Victory - Have the most religious followers at the dawn of the Industrial Era (first Industrial technology or civic)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_VICTORY_RELIGIOUS_HAVE_MOST_FOLLOWERS_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Religious Followers {NumFollowers} {StatusIcon}</Text>
+			<Text>Religious Followers {NumFollowers} {StatusIcon}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_RC_GAME_ERA_LIMIT_REACHED_PROGRESS">
-			<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Reached Industrial Era {StatusIcon}</Text>
+			<Text>Reached Industrial Era {StatusIcon}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
