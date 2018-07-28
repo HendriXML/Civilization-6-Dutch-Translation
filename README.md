@@ -7,7 +7,7 @@ C:\Users\\{Jouw gebruikersnaam}\Documents\My Games\Sid Meier's Civilization VI\T
 
 Plaats hierin alle bestanden zodat er een directory:
 C:\Users\\{Jouw gebruikersnaam}\Documents\My Games\Sid Meier's Civilization VI\Text\nl_NL
-onstaat.
+ontstaat.
 
 LocalizationDatabase_Data.sql staat dan in 
 C:\Users\\{Jouw gebruikersnaam}\Documents\My Games\Sid Meier's Civilization VI\Text
