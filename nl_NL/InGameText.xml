@@ -1853,7 +1853,7 @@
 			<Text>Een wereldwonder is gebouwd!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_POPUP_WORLD_WONDER_FINISHED">
-			<Text>Je beschaving is klaar met de constructie van een [NEWLINE]{1_BuildingName}</Text>
+			<Text>Je beschaving is klaar met de constructie van een[NEWLINE]{1_BuildingName}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_HUD_POPUP_WORLD_WONDER_ANOTHER_PLAYER">
 			<Text>{1_buildingName}[NEWLINE]is gebouwd door {2_OwnerName}.</Text>
@@ -2777,7 +2777,7 @@
 			<Text>Invloedsontwikkeling</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVERNMENT_DOESNT_UNLOCK">
-			<Text>Regering [NEWLINE][NEWLINE]Ontsluit wanneer je de ontplooiing Wetgeving hebt voltooid.</Text>
+			<Text>Regering[NEWLINE][NEWLINE]Ontsluit wanneer je de ontplooiing Wetgeving hebt voltooid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GOVERNMENT_MANAGE_GOVERNMENT_AND_POLICIES">
 			<Text>Regering[NEWLINE][NEWLINE]Toon of manage je regeringskeuze en beleidskeuzes onder die regering.</Text>
@@ -3209,10 +3209,10 @@
 			<Text>Bereik toegangsniveau [ICON_VisSecret] OPEN om verborgen agenda's te kunnen zien.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR">
-			<Text>Je moeder was een hamster en je vader rook naar vlierstruiken. [NEWLINE] We zijn nu in oorlog.</Text>
+			<Text>Je moeder was een hamster en je vader rook naar vlierstruiken.[NEWLINE] We zijn nu in oorlog.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_REFUSE_PEACE">
-			<Text>Tot het laatst worstel ik met U; [NEWLINE]Vanuit het hart van de hel steek ik naar U;[NEWLINE]Uit haat spuw ik mijn laatste adem naar U.[NEWLINE]Met andere woorden, nee.</Text>
+			<Text>Tot het laatst worstel ik met U;[NEWLINE]Vanuit het hart van de hel steek ik naar U;[NEWLINE]Uit haat spuw ik mijn laatste adem naar U.[NEWLINE]Met andere woorden, nee.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ACCEPT_WAR">
 			<Text>Molon Labe (komop en pak het).</Text>
@@ -4358,7 +4358,7 @@
 			<Text>{1_name} ({2_type})[NEWLINE]Gecreëerd door {3_author}[NEWLINE]Gesticht in {4_date}[NEWLINE]Voorziet in {5_providing} per beurt indien niet gethematiseerd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_EMPTY_TOOLTIP">
-			<Text>Deze plaats kan Grootse Werken bevatten van het type: [NEWLINE]{1_works}</Text>
+			<Text>Deze plaats kan Grootse Werken bevatten van het type:[NEWLINE]{1_works}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_MISMATCHED_THEME">
 			<Text>Type {1_type} past niet bij het thema van dit museum. Voeg {2_type} van unieke Grote Artiesten toe om de bonus te ontvangen.</Text>
@@ -4369,7 +4369,7 @@
 		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_DUPLICATE_ARTIFACT_CIVS">
 			<Text>Dit gebouw bevat twee of meer Grootse Werken gemaakt door {1_player}. Voeg {2_type} van unieke beschavingen toe om de bonus te ontvangen.</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_ART_THEME_SINGLE">
+		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_ART_THEME_SINGLE">
 			<Text>Type {1_type} vormt het thema vooor dit museum.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_GREAT_WORKS_ART_THEME_DUAL">
@@ -4468,7 +4468,7 @@
 		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
 			<Text>BEGIN ROUTE</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
+		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
 			<Text>{1_City} ontvangt:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_TO_DESTINATION">
@@ -4507,25 +4507,25 @@
 		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TOTAL">
 			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} totaal</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_RELIGIOUS_PRESSURE_SOURCE_MAJORITY_RELIGION">
+		<Replace Language="nl_NL" Tag="LOC_ROUTECHOOSER_RELIGIOUS_PRESSURE_SOURCE_MAJORITY_RELIGION">
 			<Text>{1_PressureAmount} {2_PressureIconString} religieuze invloed van {3_ReligionName} van de meerderheidsreligie in {4_CityName}.</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
-      <Text>Wereldranglijsten[NEWLINE][NEWLINE]Bekijk de wereldranglijsten om te zien hoe goed je het doet en wat je nodig hebt om te winnen.</Text>
-    </Replace>
-    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_HEADER">
+		<Replace Language="nl_NL" Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
+			<Text>Wereldranglijsten[NEWLINE][NEWLINE]Bekijk de wereldranglijsten om te zien hoe goed je het doet en wat je nodig hebt om te winnen.</Text>
+		</Replace>
+		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_HEADER">
 			<Text>VERKLAAR OORLOG</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_ADVISOR_TEXT">
 			<Text>Voordat je de oorlog verklaart wil je daarvan misschien de gevolgen in beschouwing nemen.</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_HEADING">
+		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_HEADING">
 			<Text>Straffen voor oorlogszucht</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WAR_TYPE">
 			<Text>Oorlogstype: {1_WarType}</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_DETAILS">
+		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_WARMONGER_DETAILS">
 			<Text>Straf voor oorlogszucht: {1_WarmongerLevel}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_HEADING">
@@ -4537,7 +4537,7 @@
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_TOOLTIP">
 			<Text>Beschaving waarmee je ook in oorlog zult gaan zijn:</Text>
 		</Replace>
-    <Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_CITY_STATE_HEADING">
+		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_CITY_STATE_HEADING">
 			<Text>Effecten stadstaten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DECLARE_WAR_NUM_CITY_STATES">
@@ -5423,10 +5423,10 @@
 			<Text>Verhoudingen:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CITY_STATES_SUZERAIN_WAR_NO_PEACE">
-			<Text>Momenteel in oorlog met de Suzerain van deze stadstaat. [NEWLINE] (kan geen vrede sluiten.)</Text>
+			<Text>Momenteel in oorlog met de Suzerain van deze stadstaat.[NEWLINE] (kan geen vrede sluiten.)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CITY_STATES_TURNS_WAR_NO_PEACE">
-			<Text>Momenteel in oorlog. [NEWLINE] (Kan geen vrede sluiten.)</Text>
+			<Text>Momenteel in oorlog.[NEWLINE] (Kan geen vrede sluiten.)</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVICS_KEY_UNLOCK">
 			<Text>Special Unlock</Text>
@@ -5498,7 +5498,7 @@
 			<Text>Goeroes kunnen een lading gebruiken om zichzelf en alle aangrenzende vriendelijke religieuze eenheden te genezen. Mag geen theologische strijd beginnen met eenheden van andere religies (maar kan verdedigen).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UI_RELIGION_HOW_TO_MAKE_GURU_TT">
-			<Text>Je moet een tempel in een Holy Site district hebben om Goeroes te kopen.</Text>
+			<Text>Je moet een tempel in een Holy Site wijk hebben om Goeroes te kopen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_DESCRIPTION">
 			<Text>Veroordeel ketterij</Text>

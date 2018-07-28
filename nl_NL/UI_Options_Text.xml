@@ -431,7 +431,7 @@
 			<Text>Technische structuur omschakelen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
-			<Text>Civics Tree in- / uitschakelen</Text>
+			<Text>Ontplooiingenboom in- / uitschakelen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
 			<Text>Toggle Government Screen</Text>
@@ -464,7 +464,7 @@
 			<Text>Schakelt de zichtbaarheid van de technische structuur in</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
-			<Text>Schakelt de zichtbaarheid van de Civics Tree in</Text>
+			<Text>Schakelt de zichtbaarheid van de Ontplooiingenboom in</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
 			<Text>Schakelt de zichtbaarheid van het overheidsscherm in</Text>

@@ -191,7 +191,7 @@
 			<Text>Geobsedeerd door wonderen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
-			<Text>Houdt van beschavingen die bereid zijn om een ​​langetermijnalliantie te vormen. Houdt niet van iemand die zijn vrienden en bondgenoten aanklaagt of aanvalt.</Text>
+			<Text>Houdt van beschavingen die bereid zijn om een langetermijnalliantie te vormen. Houdt niet van iemand die zijn vrienden en bondgenoten aanklaagt of aanvalt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
 			<Text>Hij wil zijn aanbiddingsgebouw hebben in veel steden en houdt van een beschaving ermee. Houdt niet van beschavingen die volgen op andere religies, of beschavingen die oorlog voeren tegen volgelingen van zijn religie.</Text>
@@ -308,7 +308,7 @@
 			<Text>Gunst voor beschavingen met hetzelfde type regering, houdt niet van beschavingen met verschillende regeringen, en houdt niet van beschavingen met verschillende beloftes uit hetzelfde tijdperk als het zijne.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
-			<Text>Tracht [ICON_Faith] geloof op te bouwen en houdt van beschavingen die zich ook richten op [ICON_Faith] Faith.</Text>
+			<Text>Tracht [ICON_Faith] geloof op te bouwen en houdt van beschavingen die zich ook richten op [ICON_Faith] Geloof.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
 			<Text>Probeert de kaart te verkennen en houdt van beschavingen die minder van de kaart hebben geproefd dan zichzelf en niet van beschavingen die meer van de kaart hebben onderzocht dan zichzelf.</Text>

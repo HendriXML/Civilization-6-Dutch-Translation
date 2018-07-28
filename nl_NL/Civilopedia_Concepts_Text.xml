@@ -26,7 +26,7 @@
 			<Text>Waar steden te bouwen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Steden moeten worden gebouwd op locaties met veel [ICON_Food] Food en [ICON_Production] -productie en met toegang tot strategische, luxe en bonusbronnen. Het is vaak een goed idee om een stad te bouwen aan een rivier of kuststrook, omdat waterbronnen erg belangrijk zijn voor een groeiende [ICON_Citizen] bevolking. Steden gebouwd op heuvels krijgen een verdedigingsbonus, waardoor het moeilijker wordt voor vijanden om ze te vangen.</Text>
+			<Text>Steden moeten worden gebouwd op locaties met veel [ICON_Food] Voedsel en [ICON_Production] -productie en met toegang tot strategische, luxe en bonusbronnen. Het is vaak een goed idee om een stad te bouwen aan een rivier of kuststrook, omdat waterbronnen erg belangrijk zijn voor een groeiende [ICON_Citizen] bevolking. Steden gebouwd op heuvels krijgen een verdedigingsbonus, waardoor het moeilijker wordt voor vijanden om ze te vangen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
 			<Text>Met een geselecteerde settler worden ideale stadslocaties op de kaart getoond met een pictogram. Bovendien toont elke Kolonist na uw eerste de Kolonist-lens, zodat u een idee krijgt van waar op de kaart de beste bron van water voor uw stad te vinden is en niet-beschikbare tegels wordt aangegeven.</Text>
@@ -35,22 +35,22 @@
 			<Text>Groei</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_1">
-			<Text>Je stad zal groeien, of meer [ICON_Citizen] Burgers toevoegen, met overschot [ICON_Food] Food. Elke hoeveelheid [ICON_Food] voedsel boven het totale verbruik van de burgers van een [ICON_Citizen] staat, 2 per, wordt als overschot beschouwd en wordt toegevoegd als voortgang naar een nieuwe [ICON_Citizen] burger.</Text>
+			<Text>Je stad zal groeien, of meer [ICON_Citizen] Burgers toevoegen, met overschot [ICON_Food] Voedsel. Elke hoeveelheid [ICON_Food] voedsel boven het totale verbruik van de burgers van een [ICON_Citizen] staat, 2 per, wordt als overschot beschouwd en wordt toegevoegd als voortgang naar een nieuwe [ICON_Citizen] burger.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_2">
-			<Text>Een stad voegt alle overschotten [ICON_Food] Food toe aan groei als de huidige [ICON_Citizen] -populatie 2 of meer onder de [ICON_Housing] -huisvestingslimiet van de stad ligt. Als de stad 1 [ICON_Citizen] bevolking onder zijn [ICON_Housing] -huisvestingslimiet is, zal de groei ervan afnemen tot 50%. Wanneer de [ICON_Citizen] Bevolking zich op de [ICON_Housing] -huisvestingslimiet bevindt, zal deze alleen maar toenemen met 25% van het normale tarief. Een stad kan in deze mate uitgroeien tot 5 [ICON_Citizen] burgers boven de [ICON_Housing] -huisvestingslimiet, en dan stopt het volledig met groeien.</Text>
+			<Text>Een stad voegt alle overschotten [ICON_Food] Voedsel toe aan groei als de huidige [ICON_Citizen] -populatie 2 of meer onder de [ICON_Housing] -huisvestingslimiet van de stad ligt. Als de stad 1 [ICON_Citizen] bevolking onder zijn [ICON_Housing] -huisvestingslimiet is, zal de groei ervan afnemen tot 50%. Wanneer de [ICON_Citizen] Bevolking zich op de [ICON_Housing] -huisvestingslimiet bevindt, zal deze alleen maar toenemen met 25% van het normale tarief. Een stad kan in deze mate uitgroeien tot 5 [ICON_Citizen] burgers boven de [ICON_Housing] -huisvestingslimiet, en dan stopt het volledig met groeien.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_3">
-			<Text>Een stad zal stagneren en niet groeien als er geen overschot is [ICON_Food] Food. Als het minder [ICON_Food] voedsel maakt dan zijn [ICON_Citizen] burgers consumeren, zal de stad verhongeren en langzaam [ICON_Citizen] bevolking verliezen totdat het zichzelf weer kan ondersteunen.</Text>
+			<Text>Een stad zal stagneren en niet groeien als er geen overschot is [ICON_Food] Voedsel. Als het minder [ICON_Food] voedsel maakt dan zijn [ICON_Citizen] burgers consumeren, zal de stad verhongeren en langzaam [ICON_Citizen] bevolking verliezen totdat het zichzelf weer kan ondersteunen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_TITLE">
 			<Text>Eten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_1">
-			<Text>Een stad vereist 2 [ICON_Food] Food per [ICON_Citizen] Citizen (een andere term voor "[ICON_Citizen] Population") per beurt om uithongering te voorkomen. Een stad verwerft [ICON_Food] Food (evenals andere opbrengsten) door haar [ICON_Citizen] burgers toe te wijzen om het land rond de stad te 'bewerken'. De stad kan elke tegel bewerken binnen 3 ruimtes van de stad die zich ook binnen de grenzen van de beschaving bevindt, mits het ook niet wordt gebruikt door een andere stad. Steden kunnen geen tegels bewerken die bezet zijn door wonderen.</Text>
+			<Text>Een stad vereist 2 [ICON_Food] Voedsel per [ICON_Citizen] Citizen (een andere term voor "[ICON_Citizen] Population") per beurt om uithongering te voorkomen. Een stad verwerft [ICON_Food] Voedsel (evenals andere opbrengsten) door haar [ICON_Citizen] burgers toe te wijzen om het land rond de stad te 'bewerken'. De stad kan elke tegel bewerken binnen 3 ruimtes van de stad die zich ook binnen de grenzen van de beschaving bevindt, mits het ook niet wordt gebruikt door een andere stad. Steden kunnen geen tegels bewerken die bezet zijn door wonderen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_2">
-			<Text>Op zichzelf aangewezen, zal de stad evenveel [ICON_Citizen] burgers toewijzen als nodig is om zijn [ICON_Food] Food te verwerven.</Text>
+			<Text>Op zichzelf aangewezen, zal de stad evenveel [ICON_Citizen] burgers toewijzen als nodig is om zijn [ICON_Food] Voedsel te verwerven.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_TITLE">
 			<Text>behuizing</Text>
@@ -170,7 +170,7 @@
 			<Text>burgers</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Steden gedijen op basis van het land om hen heen. Hun [ICON_Citizen] Burgers "werken" het land, oogsten [ICON_Food] Food, [ICON_Gold] Gold, [ICON_Production] Production, [ICON_Science] Science en vele andere opbrengsten van de tegels. [ICON_Citizen] Burgers kunnen tegels bewerken die zich op drie afstand van de tegels van de stad bevinden en binnen de grenzen van je beschaving liggen. Naarmate jouw stad groeit, wijst ze automatisch haar [ICON_Citizen] burgers toe om de gebieden er omheen te bewerken. Het streeft naar een gebalanceerde hoeveelheid [ICON_Food] Food, [ICON_Production] Production en [ICON_Gold] Gold. Je kunt de burgers van [ICON_Citizen] in de stad besturen om andere tegels te bewerken. Als je bijvoorbeeld wilt dat een bepaalde stad zich concentreert op het genereren van [ICON_Gold] Gold of [ICON_Production] Production, selecteer dan het pictogram Burgers beheren in het deelvenster Stad selecteren om te kiezen specifieke tegels voor uw [ICON_Citizen] Burgers om te werken.</Text>
+			<Text>Steden gedijen op basis van het land om hen heen. Hun [ICON_Citizen] Burgers "werken" het land, oogsten [ICON_Food] Voedsel, [ICON_Gold] Gold, [ICON_Production] Production, [ICON_Science] Science en vele andere opbrengsten van de tegels. [ICON_Citizen] Burgers kunnen tegels bewerken die zich op drie afstand van de tegels van de stad bevinden en binnen de grenzen van je beschaving liggen. Naarmate jouw stad groeit, wijst ze automatisch haar [ICON_Citizen] burgers toe om de gebieden er omheen te bewerken. Het streeft naar een gebalanceerde hoeveelheid [ICON_Food] Voedsel, [ICON_Production] Production en [ICON_Gold] Gold. Je kunt de burgers van [ICON_Citizen] in de stad besturen om andere tegels te bewerken. Als je bijvoorbeeld wilt dat een bepaalde stad zich concentreert op het genereren van [ICON_Gold] Gold of [ICON_Production] Production, selecteer dan het pictogram Burgers beheren in het deelvenster Stad selecteren om te kiezen specifieke tegels voor uw [ICON_Citizen] Burgers om te werken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_TITLE">
 			<Text>Geluk</Text>
@@ -191,7 +191,7 @@
 			<Text>specialisten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_1">
-			<Text>Specialisten zijn alternatieve opdrachten voor [ICON_Citizen] Burgers, waarbij een wijktegel wordt gebruikt in plaats van een normale tegel. Over het algemeen zijn specialisten een goede manier om opbrengsten te krijgen die anders moeilijk te vinden zijn op normale tegels, maar de stad heeft een stevige basis nodig van [ICON_Food] Food om hen op de lange termijn te ondersteunen. Specialisten zijn ook bijzonder handig wanneer een stad later in het spel groot wordt en meer [ICON_Citizen] populatie heeft dan er normale tegels zijn om te werken. Er zijn verschillende soorten specialisten, elk met verschillende effecten. Alle specialistische typen behalve de generieke [ICON_Citizen] burger hebben een limiet op het aantal opdrachten dat er in een stad kunnen zijn. Deze limiet wordt bepaald door het aantal gebouwen in de wijk dat bij dat specialistische type hoort.</Text>
+			<Text>Specialisten zijn alternatieve opdrachten voor [ICON_Citizen] Burgers, waarbij een wijktegel wordt gebruikt in plaats van een normale tegel. Over het algemeen zijn specialisten een goede manier om opbrengsten te krijgen die anders moeilijk te vinden zijn op normale tegels, maar de stad heeft een stevige basis nodig van [ICON_Food] Voedsel om hen op de lange termijn te ondersteunen. Specialisten zijn ook bijzonder handig wanneer een stad later in het spel groot wordt en meer [ICON_Citizen] populatie heeft dan er normale tegels zijn om te werken. Er zijn verschillende soorten specialisten, elk met verschillende effecten. Alle specialistische typen behalve de generieke [ICON_Citizen] burger hebben een limiet op het aantal opdrachten dat er in een stad kunnen zijn. Deze limiet wordt bepaald door het aantal gebouwen in de wijk dat bij dat specialistische type hoort.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_2">
 			<Text>Wetenschappers werken op de Campus en bieden +2 [ICON_Science] Wetenschap.</Text>
@@ -230,10 +230,10 @@
 			<Text>Middelen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Bronnen zijn bronnen van verschillende opbrengsten ([ICON_Food] Food, [ICON_Production] Production, etc.) en sommige bieden andere speciale bonussen aan een beschaving. Ze verschijnen in bepaalde tegels. Sommige zijn zichtbaar aan het begin van het spel, terwijl andere de verwerving van specifieke technologieën vereisen voordat je ze kunt zien. Om een bron te gebruiken, moet deze binnen de grenzen van je beschaving zijn en je moet de juiste "verbetering" in die zeshoek construeren. Er zijn drie soorten hulpmiddelen: bonus, luxe en strategisch.</Text>
+			<Text>Bronnen zijn bronnen van verschillende opbrengsten ([ICON_Food] Voedsel, [ICON_Production] Production, etc.) en sommige bieden andere speciale bonussen aan een beschaving. Ze verschijnen in bepaalde tegels. Sommige zijn zichtbaar aan het begin van het spel, terwijl andere de verwerving van specifieke technologieën vereisen voordat je ze kunt zien. Om een bron te gebruiken, moet deze binnen de grenzen van je beschaving zijn en je moet de juiste "verbetering" in die zeshoek construeren. Er zijn drie soorten hulpmiddelen: bonus, luxe en strategisch.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Bonusresources kunnen de [ICON_Food] Food, [ICON_Gold] Gold of [ICON_Production] productie-uitvoer van een hex vergroten. Bonusbronnen kunnen niet worden verhandeld naar andere beschavingen. Deze bronnen kunnen door bouwers worden "geoogst" om de grondstof te verwijderen en een onmiddellijke, eenmalige som van [ICON_Food] Food of [ICON_Production] -productie te leveren aan de stad die de hex heeft.</Text>
+			<Text>Bonusresources kunnen de [ICON_Food] Voedsel, [ICON_Gold] Gold of [ICON_Production] productie-uitvoer van een hex vergroten. Bonusbronnen kunnen niet worden verhandeld naar andere beschavingen. Deze bronnen kunnen door bouwers worden "geoogst" om de grondstof te verwijderen en een onmiddellijke, eenmalige som van [ICON_Food] Voedsel of [ICON_Production] -productie te leveren aan de stad die de hex heeft.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_3">
 			<Text>Luxe middelen verhogen het geluk van je beschaving door [ICON_Amenities] voorzieningen te bieden en een kleine bonus te bieden voor de opbrengst van de hex. Slechts één bron van een specifieke Luxe hulpbron biedt voorzieningen [ICON_Amenities].</Text>
@@ -281,7 +281,7 @@
 			<Text>lenzen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_1">
-			<Text>Lenzen zijn een hulpmiddel dat u kunt gebruiken om uw kijk op de wereld te veranderen. Elke lens legt belangrijke informatie over die u zal helpen strategische beslissingen te nemen in het spel. Sommige lenzen worden automatisch geactiveerd, bijvoorbeeld wanneer u ervoor kiest om een district te plaatsen in het Productiemenu van een stad. Anderen kunnen handmatig worden geactiveerd via de knop Lenzen op de minikaart. Dit zijn de lenzen die je in het spel kunt gebruiken en wat ze doen:</Text>
+			<Text>Lenzen zijn een hulpmiddel dat u kunt gebruiken om uw kijk op de wereld te veranderen. Elke lens legt belangrijke informatie over die u zal helpen strategische beslissingen te nemen in het spel. Sommige lenzen worden automatisch geactiveerd, bijvoorbeeld wanneer u ervoor kiest om een wijk te plaatsen in het Productiemenu van een stad. Anderen kunnen handmatig worden geactiveerd via de knop Lenzen op de minikaart. Dit zijn de lenzen die je in het spel kunt gebruiken en wat ze doen:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
 			<Text>In beroep gaan. Geeft het aantrekkingsniveau van elke tegel weer.[NEWLINE][NEWLINE]Continent. Toont de geografische omvang van elk continent.[NEWLINE][NEWLINE]Districtplaatsing. Toont geldige plaatsingslocaties voor wonderen en districten, evenals eventuele assistentiebonussen die beschikbaar zijn voor districten. Dit verschijnt alleen als u probeert een wijk of een wonder te bouwen.[NEWLINE][NEWLINE]Overheid. Toont de verdeling van regeringen op de kaart.[NEWLINE][NEWLINE]Politiek. Toont de eigenaar van elke tegel.[NEWLINE][NEWLINE]Religie. Toont de meerderheidsreligie en religieuze volgersdistributie op de kaart. Dit verschijnt wanneer een religieuze eenheid wordt geselecteerd.[NEWLINE][NEWLINE]Kolonist. Toont de aanbevolen plaatsen in de stad en de beschikbaarheid van water op elke tegel.[NEWLINE][NEWLINE]Toerisme. Toont het aantal [ICON_Tourism] toeristen dat een tegel aantrekt.</Text>
@@ -353,7 +353,7 @@
 			<Text>[ICON_Bombard] Bombard Strength is de anti-districtsterkte van een eenheid. Units met [ICON_Bombard] Bombard Strength kan ook eenheden aanvallen, maar met een verminderde effectiviteit. Eenheden kunnen niet zowel een [ICON_Bombard] Bombard als [ICON_Ranged] Ranged Strength hebben.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_6">
-			<Text>De [ICON_Range] Range stat van het apparaat bepaalt de afstand waarmee een eenheid een afstandsaanval kan starten. A [ICON_Range] Bereik van "2" betekent dat het doel zich in een aangrenzende tegel of op een afstand van een tegel kan bevinden. A [ICON_Range] Bereik van "1" zou betekenen dat het doelwit zich naast de aanvaller moest bevinden.</Text>
+			<Text>De [ICON_Range] Range stat van de eenheid bepaalt de afstand waarmee een eenheid een afstandsaanval kan starten. A [ICON_Range] Bereik van "2" betekent dat het doel zich in een aangrenzende tegel of op een afstand van een tegel kan bevinden. A [ICON_Range] Bereik van "1" zou betekenen dat het doelwit zich naast de aanvaller moest bevinden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_TITLE">
 			<Text>Gezichtsveld</Text>
@@ -380,7 +380,7 @@
 			<Text>Ervaring en promoties</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_PARA_1">
-			<Text>Een eenheid die het gevecht overleeft, krijgt "ervaringspunten" (XP). Zodra een eenheid een bepaald aantal XP bereikt, wordt het 'genivelleerd', waarna het een promotie kan ontvangen. Promoties verbeteren de eenheid op de een of andere manier. Bij het selecteren van een promotie, is de eenheid een aantal Hit Points genezen. Het apparaat zal geen verdere XP blijven winnen totdat de promotie is geselecteerd.</Text>
+			<Text>Een eenheid die het gevecht overleeft, krijgt "ervaringspunten" (XP). Zodra een eenheid een bepaald aantal XP bereikt, wordt het 'genivelleerd', waarna het een promotie kan ontvangen. Promoties verbeteren de eenheid op de een of andere manier. Bij het selecteren van een promotie, is de eenheid een aantal Hit Points genezen. De eenheid zal geen verdere XP blijven winnen totdat de promotie is geselecteerd.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_TITLE">
 			<Text>City Combat</Text>
@@ -494,7 +494,7 @@
 			<Text>Invoering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Culture] Cultuur is de manier waarop je door de Civics Tree gaat en nieuwe beleidslijnen en regeringen ontsluit. Het is ook hoe u de grootte van de territoria van uw steden vergroot. Het belangrijkste is dat [ICON_Culture] Cultuur een andere weg naar de overwinning kan zijn. Elke civic die je aanschaft geeft je beschaving toegang tot beleid of regeringen, evenals sommige gebouwen, wijken en diplomatieke vooruitgang. Je verwerft burgerschap door [ICON_Culture] -cultuur te verzamelen. Elke beurt krijgt je beschaving een hoeveelheid [ICON_Culture] Culture aan zijn pool toegevoegd. Elke burger kost een bepaald aantal [ICON_Culture] cultuur om te leren; wanneer je voldoende [ICON_Culture] cultuur hebt verzameld, verwerf je de burgerzin. Wanneer je de nieuwe burgerzin krijgt, is je zwembad leeg en begin je je opnieuw te verzamelen, sparen voor de volgende burger.</Text>
+			<Text>[ICON_Culture] Cultuur is de manier waarop je door de Ontplooiingenboom gaat en nieuwe beleidslijnen en regeringen ontsluit. Het is ook hoe u de grootte van de territoria van uw steden vergroot. Het belangrijkste is dat [ICON_Culture] Cultuur een andere weg naar de overwinning kan zijn. Elke civic die je aanschaft geeft je beschaving toegang tot beleid of regeringen, evenals sommige gebouwen, wijken en diplomatieke vooruitgang. Je verwerft burgerschap door [ICON_Culture] -cultuur te verzamelen. Elke beurt krijgt je beschaving een hoeveelheid [ICON_Culture] Culture aan zijn pool toegevoegd. Elke burger kost een bepaald aantal [ICON_Culture] cultuur om te leren; wanneer je voldoende [ICON_Culture] cultuur hebt verzameld, verwerf je de burgerzin. Wanneer je de nieuwe burgerzin krijgt, is je zwembad leeg en begin je je opnieuw te verzamelen, sparen voor de volgende burger.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_2_CHAPTER_CONTENT_TITLE">
 			<Text>Cultuur verdienen</Text>
@@ -506,13 +506,13 @@
 			<Text>Inspiratiemomenten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Inspiratiemomenten, ook wel 'burgerstimulansen' genoemd, bieden een onmiddellijke en belangrijke impuls aan je studie van een burger. Deze boosts worden verdiend als je het spel op een natuurlijke manier speelt en je acties bepalen welk soort inspiratiemomenten je tegenkomt. Bijvoorbeeld, het opbouwen van een wonder versterkt je voortgang naar Drama en Poëzie, en het bouwen van een wijk zal je vooruitgang naar het Amerikaanse personeel stimuleren. De Civics Tree vermeldt de boosts die zijn gekoppeld aan elke civic, maar je kunt ze ook opdoen uit andere bronnen (zoals Great People of gezamenlijk onderzoek door teams).</Text>
+			<Text>Inspiratiemomenten, ook wel 'burgerstimulansen' genoemd, bieden een onmiddellijke en belangrijke impuls aan je studie van een burger. Deze boosts worden verdiend als je het spel op een natuurlijke manier speelt en je acties bepalen welk soort inspiratiemomenten je tegenkomt. Bijvoorbeeld, het opbouwen van een wonder versterkt je voortgang naar Drama en Poëzie, en het bouwen van een wijk zal je vooruitgang naar het Amerikaanse personeel stimuleren. De Ontplooiingenboom vermeldt de boosts die zijn gekoppeld aan elke civic, maar je kunt ze ook opdoen uit andere bronnen (zoals Great People of gezamenlijk onderzoek door teams).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_TITLE">
-			<Text>The Civics Tree</Text>
+			<Text>The Ontplooiingenboom</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Om te zien hoe dit allemaal werkt in het spel, bekijk de verbazingwekkende Civics Tree. Het toont alle van de civiek en laat zien hoe ze met elkaar verweven zijn. Je kunt op een civic klikken om je beschaving te laten studeren - als je beschaving niet de vereiste civic kent, dan zal hij die ook onderzoeken. De Civics Tree zet de snelste route uit naar de gevraagde civic, en je bestudeert de benodigde precursors in de volgorde waarin deze wordt weergegeven.</Text>
+			<Text>Om te zien hoe dit allemaal werkt in het spel, bekijk de verbazingwekkende Ontplooiingenboom. Het toont alle van de civiek en laat zien hoe ze met elkaar verweven zijn. Je kunt op een civic klikken om je beschaving te laten studeren - als je beschaving niet de vereiste civic kent, dan zal hij die ook onderzoeken. De Ontplooiingenboom zet de snelste route uit naar de gevraagde civic, en je bestudeert de benodigde precursors in de volgorde waarin deze wordt weergegeven.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_TITLE">
 			<Text>Cultuurbommen</Text>
@@ -833,13 +833,13 @@
 			<Text>Invoering</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_1">
-			<Text>De Trader-eenheid is ontgrendeld door onderzoek naar Buitenlandse Handel en gebouwd in steden. Trader-eenheden bevinden zich op een afzonderlijke kaartlaag en hebben geen interactie met de meeste normale dingen op een kaart. Ze kunnen vrij met andere eenheden stapelen en culturele grenzen negeren.</Text>
+			<Text>De Handelaar is ontgrendeld door onderzoek naar Buitenlandse Handel en gebouwd in steden. Trader-eenheden bevinden zich op een afzonderlijke kaartlaag en hebben geen interactie met de meeste normale dingen op een kaart. Ze kunnen vrij met andere eenheden stapelen en culturele grenzen negeren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_2">
 			<Text>Wanneer een handelaar zich in een stad bevindt die de speler bezit, kan deze een [ICON_TradeRoute] handelsroute beginnen tussen die stad en een andere stad die binnen bereik ligt, zolang geen van uw [ICON_TradeRoute] handelsroutes daar al naartoe gaan (bijvoorbeeld als ik al een [ICON_TradeRoute] handelsroute naar de stad Athene heb, kan ik daar geen tweede route naartoe sturen) en heeft de speler het maximale aantal [ICON_TradeRoute] handelsroutes niet bereikt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Eenmaal gemaakt, duurt de [ICON_TradeRoute] handelsroute minimaal 20 beurten op standaardgamesnelheid. De Trader-eenheid beweegt zich automatisch langs zijn pad gedurende de duur van de route, maar zal de route pas afmaken als deze is teruggekeerd naar de tegel van de oorspronkelijke stad. Wanneer je op een actieve route bent, zal de Trader-unit de beperkingen op het terrein negeren en 1 tegel elke draai verplaatsen, waarbij een weg wordt geplaatst tijdens het verplaatsen. Vergeet niet om uw handelaar te beschermen tegen Barbaren of vijandige beschavingen, omdat deze kwetsbaar is voor plundering.</Text>
+			<Text>Eenmaal gemaakt, duurt de [ICON_TradeRoute] handelsroute minimaal 20 beurten op standaardgamesnelheid. De Handelaar beweegt zich automatisch langs zijn pad gedurende de duur van de route, maar zal de route pas afmaken als deze is teruggekeerd naar de tegel van de oorspronkelijke stad. Wanneer je op een actieve route bent, zal de Trader-unit de beperkingen op het terrein negeren en 1 tegel elke draai verplaatsen, waarbij een weg wordt geplaatst tijdens het verplaatsen. Vergeet niet om uw handelaar te beschermen tegen Barbaren of vijandige beschavingen, omdat deze kwetsbaar is voor plundering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_TITLE">
 			<Text>Toenemende handelsroutes</Text>
@@ -890,7 +890,7 @@
 			<Text>Regeringen stellen u in staat om uw beschaving aan te passen aan uw speelstijl door verschillende combinaties van slots aan te bieden om verschillende soorten beleid te kiezen, evenals verschillende bonussen aan te bieden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Ontgrendeld door de Civics Tree, zullen de beschikbare regeringen veranderen naarmate je verder komt in de tijd. In het begin heb je een eenvoudige regering met slechts een handvol slots. Maar als je later tijdperken bereikt, zullen meer slots in verschillende combinaties worden ontgrendeld. Daar bovenop hebben regeringen hun eigen speciale bonussen; de regering van de Theocratie, bijvoorbeeld, zal je toestaan landeenheden te kopen bij [ICON_Faith] Geloof en biedt korting op [ICON_Faith] Geloofsaankopen wanneer actief.</Text>
+			<Text>Ontgrendeld door de Ontplooiingenboom, zullen de beschikbare regeringen veranderen naarmate je verder komt in de tijd. In het begin heb je een eenvoudige regering met slechts een handvol slots. Maar als je later tijdperken bereikt, zullen meer slots in verschillende combinaties worden ontgrendeld. Daar bovenop hebben regeringen hun eigen speciale bonussen; de regering van de Theocratie, bijvoorbeeld, zal je toestaan landeenheden te kopen bij [ICON_Faith] Geloof en biedt korting op [ICON_Faith] Geloofsaankopen wanneer actief.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
 			<Text>Ten slotte hebben alle regeringen Legacy-bonussen op basis van hoe lang die regering actief was in je rijk. Hoewel je misschien voorbij de regering van Theocracy bent gekomen, ontvang je een Legacy-bonus van [ICON_Faith] Geloof-kortingen op basis van hoe lang die regering actief was in de geschiedenis van je imperium. U kunt op elk moment van uw regering overschakelen. Als je overschakelt naar een eerder aangenomen regering, ga je naar een staat van anarchie.</Text>
@@ -908,7 +908,7 @@
 			<Text>Beleid verkrijgen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Je kunt ervoor kiezen om een beleid aan te nemen zodra je [ICON_Culture] -cultuur hebt opgedaan om je eerste regering te ontgrendelen. Beleid zal worden ontsloten naarmate je verder komt in de Civics Tree. Door je regering te veranderen, kun je verschillende beleidscombinaties gebruiken om beter aan je speelstijl te voldoen. Telkens wanneer een nieuwe regering of beleid wordt ontsloten van de Civics Tree, hebt u de mogelijkheid om het beleid opnieuw te kiezen of uw regering gratis te wijzigen. Anders zullen er kosten zijn om deze wijzigingen aan te brengen.</Text>
+			<Text>Je kunt ervoor kiezen om een beleid aan te nemen zodra je [ICON_Culture] -cultuur hebt opgedaan om je eerste regering te ontgrendelen. Beleid zal worden ontsloten naarmate je verder komt in de Ontplooiingenboom. Door je regering te veranderen, kun je verschillende beleidscombinaties gebruiken om beter aan je speelstijl te voldoen. Telkens wanneer een nieuwe regering of beleid wordt ontsloten van de Ontplooiingenboom, hebt u de mogelijkheid om het beleid opnieuw te kiezen of uw regering gratis te wijzigen. Anders zullen er kosten zijn om deze wijzigingen aan te brengen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_TITLE">
 			<Text>Beleidstypen</Text>
@@ -1001,7 +1001,7 @@
 			<Text>Vechtervliegtuigen kunnen worden ingezet op een geldige hex binnen hun bewegingsbereik [ICON_Movement] vanaf een vriendelijke vliegbasis. Nadat het is ingezet, zal het vliegtuig een rondlopend patroon vliegen rond zijn effectieve snijbereik (momenteel 1 hex radius). Dit zou het zowel voor de aanvaller als voor de verdediger duidelijker moeten maken dat de status van de Fighters in the Patrol-toestand is.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_2">
-			<Text>De toestand van de patrouille gaat door, ongeveer zoals de unit 'Fortify'. Zodra een vliegtuig op Patrol is ingesteld, zal het dit doen totdat het anders is besteld of het is vernietigd. Tijdens het patrouilleren zal het vliegtuig doorgaan met onderscheppen en verdedigen tegen meerdere aanvallers.</Text>
+			<Text>De toestand van de patrouille gaat door, ongeveer zoals de unit 'Fortify'. Zodra een vliegtuig op Patrol is ingesteld, zal het dit doen totdat het anders is beveeld of het is vernietigd. Tijdens het patrouilleren zal het vliegtuig doorgaan met onderscheppen en verdedigen tegen meerdere aanvallers.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_3">
 			<Text>Op elk moment tijdens de beurt van de speler kunnen gevechtsvliegtuigen 'terugkeren naar de basis' (station op een vriendelijke vliegbasis) om te kunnen helen. Vliegtuigen gestationeerd op een vliegbasis onderscheppen geen aanvallend vliegtuig. Vliegtuigen kunnen aan het einde van de beurt van het spel genezen als ze alleen op een stadscentrum, luchthaven, landingsbaan of vliegtuigdrager staan als ze niet betrokken zijn geweest bij gevechten. Genezing is 'snelst' op een luchthaven van Aerodrome, en minder op Airstrips en Carriers. Deze waarden kunnen worden verhoogd door middel van promoties en / of beleid.</Text>
@@ -1022,10 +1022,10 @@
 			<Text>nukes</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_TITLE">
-			<Text>Nucleaire apparaattypes</Text>
+			<Text>Nucleaire eenheidtypes</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Er zijn 2 categorieën van atoomwapens: het nucleaire apparaat en het thermonucleaire apparaat. Ze kunnen worden gebouwd als een stadsproject in elke stad en beide vereisen dat de bron van uranium wordt geproduceerd. Er is geen limiet op het aantal dat een speler kan bouwen.[NEWLINE][NEWLINE]Zodra een nucleair of thermonucleair apparaat is gemaakt, wordt het toegevoegd aan de inventaris van de speler en kan het vervolgens worden gebruikt door elke eenheid of verbetering waarmee het op de kaart kan worden ingezet. Dit omvat bommenwerpers, nucleaire onderzeeërs en de raket silo.</Text>
+			<Text>Er zijn 2 categorieën van atoomwapens: de atoombom en de waterstofbom. Ze kunnen worden gebouwd als een stadsproject in elke stad en beide vereisen dat de bron van uranium wordt geproduceerd. Er is geen limiet op het aantal dat een speler kan bouwen.[NEWLINE][NEWLINE]Zodra een atoombom of waterstofbom is gemaakt, wordt het toegevoegd aan de inventaris van de speler en kan het vervolgens worden gebruikt door elke eenheid of verbetering waarmee het op de kaart kan worden ingezet. Dit omvat bommenwerpers, nucleaire onderzeeërs en de raket silo.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_2">
 			<Text>Nucleaire apparaten hebben een explosiebereik van 1. Wanneer ze worden ingezet vanaf een raket Silo, hebben ze een [ICON_Range] bereik van 12. Ze kosten 14 [ICON Gold Gold per beurt om te onderhouden.</Text>
@@ -1061,7 +1061,7 @@
 			<Text>Fantastische werken, relikwieën en artefacten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Great Works komt in vijf verschillende soorten. [ICON_GreatWork_Writing] Schrijven, [ICON_GreatWork_Landscape] Art en [ICON_GreatWork_Music] Muziek die kan worden gegenereerd via [ICON_GreatPerson] Great People, [ICON_GreatWork_Artifact] Artefacts, die worden opgehaald van Antiquity Sites door Archeologen en [ICON_GreatWork_Relic] Relics, die zijn gemaakt door Apostelen met het vermogen van de martelaar om te sterven in Theological Combat. (Relics kunnen worden verkregen uit andere bronnen, zoals Tribal Villages, de stadstaat Kandy, of Jeanne D'Arc wanneer ze met pensioen gaat.) Eenmaal verworven kan een Great Work worden ondergebracht in een Great Work-gokkast in het betreffende gebouw of Wonder.</Text>
+			<Text>Great Works komt in vijf verschillende soorten. [ICON_GreatWork_Writing] Schrijven, [ICON_GreatWork_Landscape] Art en [ICON_GreatWork_Music] Muziek die kan worden gegenereerd via [ICON_GreatPerson] Great People, [ICON_GreatWork_Artifact] Artefacts, die worden opgehaald van Antiquity Sites door Archeologen en [ICON_GreatWork_Relic] Relics, die zijn gemaakt door Apostelen met het vermogen van de martelaar om te sterven in Theological Combat. (Relics kunnen worden verkregen uit andere bronnen, zoals stamdorps, de stadstaat Kandy, of Jeanne D'Arc wanneer ze met pensioen gaat.) Eenmaal verworven kan een Great Work worden ondergebracht in een Great Work-gokkast in het betreffende gebouw of Wonder.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
 			<Text>Resorts aan zee</Text>

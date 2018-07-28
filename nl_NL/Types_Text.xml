@@ -2094,16 +2094,16 @@
 			<Text>Operatie Ivy</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_NAME">
-			<Text>Bouw nucleair apparaat</Text>
+			<Text>Bouw atoombom</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_SHORT_NAME">
-			<Text>Bouw nucleair apparaat</Text>
+			<Text>Bouw atoombom</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_NAME">
-			<Text>Bouw thermonucleair apparaat</Text>
+			<Text>Bouw waterstofbom</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_SHORT_NAME">
-			<Text>Bouw thermonucleair apparaat</Text>
+			<Text>Bouw waterstofbom</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_NAME">
 			<Text>Religieuze bekering</Text>

@@ -50,10 +50,10 @@
 			<Text>Maakt de productie van thermonucleaire apparaten mogelijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
-			<Text>Voegt een nucleair apparaat toe aan ons staatsbezit. Vereist [ICON_Resource_Uranium] uranium. Onderhoud kost 14 [ICON_Gold] goud.</Text>
+			<Text>Voegt een atoombom toe aan ons staatsbezit. Vereist [ICON_Resource_Uranium] uranium. Onderhoud kost 14 [ICON_Gold] goud.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
-			<Text>Voegt een thermonucleair apparaat toe aan ons staatsbezit. Vereist [ICON_Resource_Uranium] uranium. Onderhoud kost 16 [ICON_Gold] goud.</Text>
+			<Text>Voegt een waterstofbom toe aan ons staatsbezit. Vereist [ICON_Resource_Uranium] uranium. Onderhoud kost 16 [ICON_Gold] goud.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
 			<Text>Je hebt met succes een satelliet gelanceerd! Onthult iedere onbekende hoek van de wereld en markeert de eerste stap richting een wetenschappelijke overwinning.</Text>

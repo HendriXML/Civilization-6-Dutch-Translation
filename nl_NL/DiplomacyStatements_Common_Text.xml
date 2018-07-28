@@ -137,31 +137,31 @@
 			<Text>Twee van de steden van de doelmacht bevinden zich binnen 10 tegels van de steden van 2 tegenstanders.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] [COLOR_RED] Je voldoet niet aan de voorwaarden voor deze Casus Belli. [ENDCOLOR] [NEWLINE] [{2_CasusBelliDescription}]</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] [COLOR_RED] Je voldoet niet aan de voorwaarden voor deze Casus Belli. [ENDCOLOR][NEWLINE] [{2_CasusBelliDescription}]</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je hebt een verdedigingspact met deze leider.</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] Je hebt een verdedigingspact met deze leider.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet wachten op {2_Turns} beurten na het afwijzen (beschikbaar in {3_Remaining} beurten).</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] Je moet wachten op {2_Turns} beurten na het afwijzen (beschikbaar in {3_Remaining} beurten).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
-			<Text>Niet in staat om {1_ActionType} [NEWLINE] Je hebt {2_GoudRequirement} [ICON_Gold] Gold nodig.</Text>
+			<Text>Niet in staat om {1_ActionType}[NEWLINE] Je hebt {2_GoudRequirement} [ICON_Gold] Gold nodig.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je hebt deze speler niet veroordeeld.</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] Je hebt deze speler niet veroordeeld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet {2_Turns} beurten wachten na het maken van de vrede (beschikbaar in {3_Remaining} beurten).</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] Je moet {2_Turns} beurten wachten na het maken van de vrede (beschikbaar in {3_Remaining} beurten).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet wachten tot beurt {2_TurnNumber} om de oorlog aan een belangrijke beschaving in deze game te verklaren.</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] Je moet wachten tot beurt {2_TurnNumber} om de oorlog aan een belangrijke beschaving in deze game te verklaren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Je moet {2_Turns} beurten wachten na het verklaren van de oorlog (beschikbaar in {3_Remaining} beurten).</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] Je moet {2_Turns} beurten wachten na het verklaren van de oorlog (beschikbaar in {3_Remaining} beurten).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
-			<Text>Niet in staat om {1_WarActionType} [NEWLINE] Oorlogen duren voor altijd in deze game.</Text>
+			<Text>Niet in staat om {1_WarActionType}[NEWLINE] Oorlogen duren voor altijd in deze game.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
 			<Text>[NEWLINE][NEWLINE] (Geen straf bij het hernemen vriendschappelijke steden)</Text>

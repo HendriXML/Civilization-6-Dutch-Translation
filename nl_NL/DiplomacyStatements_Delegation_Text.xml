@@ -53,7 +53,7 @@
 			<Text>Ik verwelkom uw delegatie in de grote Verenigde Staten van Amerika.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
-			<Text>Uw delegatie is gearriveerd en draagt ​​uw eerbetoon aan de keizerin. Het wordt zeer op prijs gesteld.</Text>
+			<Text>Uw delegatie is gearriveerd en draagt uw eerbetoon aan de keizerin. Het wordt zeer op prijs gesteld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
 			<Text>Uw handelsdelegatie arriveerde, zag en overwon ons met hun vriendelijkheid. Bedankt voor de geschenken.</Text>

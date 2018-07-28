@@ -383,7 +383,7 @@
 			<Text>Koormuziek</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
-			<Text>+ 25% [ICON_Production] Productie naar districten in steden zonder een specialiteitendistrict.</Text>
+			<Text>+ 25% [ICON_Production] Productie naar wijken in steden zonder een specialiteitenwijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
 			<Text>City Patron Goddess</Text>

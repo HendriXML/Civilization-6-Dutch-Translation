@@ -47,13 +47,13 @@
 			<Text>ADVISEUR</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_MESSAGE_INTRO">
-			<Text>Als uw adviseur ben ik gekwalificeerd om u te helpen bij alle zaken die verband houden met het besturen van onze beschaving. [NEWLINE] Als u mijn service niet nodig hebt, kunt u mij ontslaan om andere zaken te behandelen.</Text>
+			<Text>Als uw adviseur ben ik gekwalificeerd om u te helpen bij alle zaken die verband houden met het besturen van onze beschaving.[NEWLINE] Als u mijn service niet nodig hebt, kunt u mij ontslaan om andere zaken te behandelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_1">
 			<Text>Groeten Mijn Luik! Als uw persoonlijke adviseur ben ik gekwalificeerd om u te helpen bij alle zaken die verband houden met het besturen van onze beschaving. Ik ben tot uw dienst.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_2">
-			<Text>Alle grote beschavingen beginnen met een geweldige stad, en onze Settlers hebben een ideale locatie gevonden. Bestel ze om hier een nieuwe stad te stichten.</Text>
+			<Text>Alle grote beschavingen beginnen met een geweldige stad, en onze Kolonisten hebben een ideale locatie gevonden. Beveel ze om hier een nieuwe stad te stichten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_3">
 			<Text>Goed gedaan! Je hebt je eerste stad gesticht. Vanuit deze wortels zal je beschaving groeien om de tand des tijds te doorstaan. Nu moet je koesteren en beschermen wat je hebt gecreëerd.</Text>
@@ -83,7 +83,7 @@
 			<Text>Er zijn andere zaken, Excellentie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_12">
-			<Text>Aangezien de Warrior-training is voltooid, is het tijd om een ​​nieuwe productietaak aan de stad toe te wijzen.</Text>
+			<Text>Aangezien de Krijger-training is voltooid, is het tijd om een nieuwe productietaak aan de stad toe te wijzen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_13">
 			<Text>De landen rond onze stad kunnen overvloedig zijn als we ze ontwikkelen. We zouden bouwers moeten trainen om verbeteringen aan te brengen aan de gronden binnen onze grenzen.</Text>
@@ -95,10 +95,10 @@
 			<Text>Aan het begin van het spel worden je stad en de landen direct daar omheen onthuld, maar de gebieden daarachter, vertegenwoordigd door leeg perkament, geven delen van de wereld aan die je nog niet hebt verkend.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_16_BODY">
-			<Text>Warrior-eenheden hebben een [ICON_Movement] -bewegingsbereik van 2. [NEWLINE][NEWLINE]De blauwgekleurde indicator op de landerijen rond de unit geeft de meest verste geselecteerde eenheid weer in één slag.</Text>
+			<Text>Krijger-eenheden hebben een [ICON_Movement] -bewegingsbereik van 2.[NEWLINE][NEWLINE]De blauwgekleurde indicator op de landerijen rond de unit geeft de meest verste geselecteerde eenheid weer in één slag.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_17_BODY">
-			<Text>Open terrein, zoals vlaktes en grasland, verbruikt slechts 1 bewegingspunt [ICON_Movement], terwijl moeilijker terrein, zoals Woods en heuvels, 2 of meer [ICON_Movement] -verplaatsingspunten zullen verbruiken. Verplaats de Warrior-eenheid naar de gemarkeerde locatie door met de rechtermuisknop te klikken.</Text>
+			<Text>Open terrein, zoals vlaktes en grasland, verbruikt slechts 1 bewegingspunt [ICON_Movement], terwijl moeilijker terrein, zoals Woods en heuvels, 2 of meer [ICON_Movement] -verplaatsingspunten zullen verbruiken. Verplaats de Krijger-eenheid naar de gemarkeerde locatie door met de rechtermuisknop te klikken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_17b_HEAD">
 			<Text>MOVE WARRIOR</Text>
@@ -107,7 +107,7 @@
 			<Text>KLIK RECHTS op de gemarkeerde locatie om je Warrior te verplaatsen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_15">
-			<Text>Majesteit, onze krijgers hebben een klein stamdorp ontdekt, waarvan de bewoners gastvrij en vriendelijk zijn. Zullen we het onderzoeken en de Warriors sturen om met hen te praten?</Text>
+			<Text>Majesteit, onze krijgers hebben een klein stamdorp ontdekt, waarvan de bewoners gastvrij en vriendelijk zijn. Zullen we het onderzoeken en de Krijgers sturen om met hen te praten?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_18_BODY">
 			<Text>Het verkennen van stamdorpen kan je beschaving een van de vele onmiddellijke voordelen geven, zoals het toekennen van een extra [ICON_Citizen] bevolking in je stad of het toekennen van [ICON_Gold] goud. Het is een goede strategie om zoveel mogelijk stamdorpen te verkennen.</Text>
@@ -116,7 +116,7 @@
 			<Text>MOVE WARRIOR</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_20_BODY">
-			<Text>Om een ​​Tribal Village te verkennen, verplaats je een van je eenheden naar de hexagon van het Tribal Village. Probeer je Warrior-eenheid daar nu te verplaatsen.</Text>
+			<Text>Om een stamdorp te verkennen, verplaats je een van je eenheden naar de hexagon van de stamdorp. Probeer je Krijger-eenheid daar nu te verplaatsen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_16">
 			<Text>Het lijkt erop dat de tribale dorpelingen ook worden lastiggevallen door de barbaren. Ze zijn onder de indruk van onze cultuur en hebben besloten om mee te doen in de strijd!</Text>
@@ -131,7 +131,7 @@
 			<Text>Scouts zijn uitstekend in het verkennen, maar ze zijn niet zo sterk in gevechten als onze Warriors. Het is beter om ze te laten focussen op onderzoek en overleving dan op het bestrijden van onze vijanden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_19">
-			<Text>Een team van bouwers heeft zijn training in onze stad afgerond. Ze zijn klaar om te werken aan het verbeteren van de omliggende landen. Er zijn ideale locaties voor het verbouwen van [ICON_Food] Food om onze bevolking te ondersteunen. Het bouwen van een boerderij daar zou onze opbrengst van die landen verhogen.</Text>
+			<Text>Een team van bouwers heeft zijn training in onze stad afgerond. Ze zijn klaar om te werken aan het verbeteren van de omliggende landen. Er zijn ideale locaties voor het verbouwen van [ICON_Food] Voedsel om onze bevolking te ondersteunen. Het bouwen van een boerderij daar zou onze opbrengst van die landen verhogen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_22_BODY">
 			<Text>Bouwers kunnen een breed scala aan verbeteringen aan uw land maken. Het type verbetering dat ze op een plot kunnen bouwen, wordt vaak bepaald door het type terrein. Vlaktes en graslandpercelen zijn ideaal voor boerderijen, waardoor de [ICON_Citizen] bevolking toeneemt.</Text>
@@ -146,10 +146,10 @@
 			<Text>BOUW BOERDERIJ</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_24_BODY">
-			<Text>Bouw hier een Farm-verbetering door te klikken op de knop "Verbetering bouwen: boerderij" naast het paneel van het apparaat.</Text>
+			<Text>Bouw hier een Farm-verbetering door te klikken op de knop "Verbetering bouwen: boerderij" naast het paneel van de eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_25_BODY">
-			<Text>Door hier een boerderij te bouwen, is de [ICON_Food] voedselopbrengst van dit perceel gestegen van 1 [ICON_Food] voedsel per beurt naar 2. De hoeveelheid [ICON_Food] voedsel die door uw stad wordt gegenereerd, bepaalt hoe snel de bevolking van die stad groeit, waardoor u nieuw wordt [ICON_Citizen] Burgers om meer tegels te bewerken. Meer [ICON_Food] Eten betekent snellere groei.</Text>
+			<Text>Door hier een boerderij te bouwen, is de [ICON_Food] voedselopbrengst van dit perceel gestegen van 1 [ICON_Food] voedsel per beurt naar 2. De hoeveelheid [ICON_Food] voedsel die door uw stad wordt gegenereerd, bepaalt hoe snel de bevolking van die stad groeit, waardoor u nieuw wordt [ICON_Citizen] Burgers om meer tegels te bewerken. Meer [ICON_Food] voedsel betekent snellere groei.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_26_BODY">
 			<Text>Bouwers kunnen tot 3 verbeteringen opbouwen voordat ze hun personeelsbestand uitputten. Dit nummer wordt aangegeven in het paneel van de eenheid. Deze Builder-eenheid heeft een van zijn medewerkers verbruikt om de boerderij te bouwen en heeft er nu nog 2 over.</Text>
@@ -173,7 +173,7 @@
 			<Text>Bij het ontwikkelen van je leger is het altijd een goede strategie om te diversifiëren. Niet alle eenheden zijn gelijk gemaakt, sommige zijn beter tegen anderen, en hebben capaciteiten die hen van de rest scheiden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_7">
-			<Text>Onze ontdekkingsreizigers hebben een andere vriendelijke Tribal Village gezien. Ik stel voor dat we onze Scouts sturen om het te onderzoeken.</Text>
+			<Text>Onze ontdekkingsreizigers hebben een ander vriendelijk stamdorp gezien. Ik stel voor dat we onze Scouts sturen om het te onderzoeken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_8">
 			<Text>Een goede stad kan een geweldige stad worden door zorgvuldige planning. Het beslissen over het plaatsen van een stadsdeel is een belangrijke beslissing. Zorg ervoor dat u een locatie kiest die het meest geschikt is om het meeste voordeel te behalen.</Text>
@@ -212,7 +212,7 @@
 			<Text>De kans is aangebroken voor een verandering in een nieuw en krachtiger regeringssysteem. Laten we onze identiteit versterken en meer beleid voeren om onze mensen te besturen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_6">
-			<Text>We hebben de mogelijkheid om een ​​formele handelsroute tussen twee steden te ontwikkelen. Een Trader-eenheid is vereist om een ​​dergelijke route te bepalen, wat zeer voordelig zou zijn voor onze economie.</Text>
+			<Text>We hebben de mogelijkheid om een formele handelsroute tussen twee steden te ontwikkelen. Een Handelaar is vereist om een dergelijke route te bepalen, wat zeer voordelig zou zijn voor onze economie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_7">
 			<Text>Naast het brengen van rijkdommen naar onze beschaving, zal deze handelsroute geleidelijk wegen tussen onze steden ontwikkelen. Wegen laten toe dat onze eenheden niet langer gehinderd worden door het moeilijke terrein waardoor ze passeren.</Text>
@@ -224,7 +224,7 @@
 			<Text>De gevechtsresultaten van dit toestel zijn legendarisch geworden en een naam waardig voor hen. Met welke titel zullen we hen eren?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_11">
-			<Text>De gezondheid van dit apparaat is erg laag en dreigt verloren te gaan. Door een eenheid toe te staan ​​om een ​​pauze te nemen van vechten en rusten, zal het in de loop van de tijd kunnen genezen.</Text>
+			<Text>De gezondheid van deze eenheid is erg laag en dreigt verloren te gaan. Door een eenheid toe te staan om een pauze te nemen van vechten en rusten, zal het in de loop van de tijd kunnen genezen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_12">
 			<Text>Het is het beste om voorzichtig te zijn bij het bewegen dichtbij vijandelijke eenheden. Hierdoor zal de eenheid vaak gedwongen worden in de 'zone of control' van de vijand te staan, waardoor de beweging beperkt wordt.</Text>
@@ -236,7 +236,7 @@
 			<Text>Onze bouwers hebben niets gedaan. Misschien moeten we hun inspanningen richten op het verbeteren van het land rond onze stad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_15">
-			<Text>Onze hoofdstad bloeit! Maar ik denk dat het tijd is dat we elders wortels gaan vestigen. Misschien moeten we een Settler trainen.</Text>
+			<Text>Onze hoofdstad bloeit! Maar ik denk dat het tijd is dat we elders wortels gaan vestigen. Misschien moeten we een Kolonist trainen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_16">
 			<Text>Mijn leenheer, we hebben een gezant tot onze beschikking. We kunnen de Envoy gebruiken om genade te krijgen bij een stadstaat. Vriendschap met de buurman van een stadstaat kan enorm van pas komen voor onze beschaving.</Text>
@@ -251,7 +251,7 @@
 			<Text>Jouw genade, ik moet je waarschuwen dat sommige van de verbeterde landen rond onze stad zijn geplunderd. We moeten de verantwoordelijken vinden en ervoor zorgen dat er geen schade meer kan worden aangericht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_20">
-			<Text>We hebben recent geavanceerde kennis opgedaan in stadsplanning. Het creëren van districten in onze steden kan veel krachtiger en lucratiever zijn dan eenvoudige verbeteringen, zoals boerderijen en mijnen.</Text>
+			<Text>We hebben recent geavanceerde kennis opgedaan in stadsplanning. Het creëren van wijken in onze steden kan veel krachtiger en lucratiever zijn dan eenvoudige verbeteringen, zoals boerderijen en mijnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_21">
 			<Text>Ons leger heeft de manier geleerd om twee militaire eenheden te combineren in korpsen op grotere schaal. Deze Corps-eenheden zijn veel krachtiger dan hun enkelvoudige tegenhangers.</Text>
@@ -266,7 +266,7 @@
 			<Text>Uw gratie! De vijand staat aan onze poorten en deze stad is omringd en onder seige. Voorraden en voedsel kunnen er niet doorheen komen en onze stad kan zijn wonden niet genezen. Het is van het grootste belang dat we deze omsingeling doorbreken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_25">
-			<Text>Een vijand bevindt zich binnen het bereik van onze stad. Bestel het garnizoen van de stad om een ​​afstandsaanval uit te voeren tegen de indringers.</Text>
+			<Text>Een vijand bevindt zich binnen het bereik van onze stad. Beveel het garnizoen van de stad om een afstandsaanval uit te voeren tegen de indringers.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_26">
 			<Text>Het is belangrijk om onze buren goed in de gaten te houden en onze mensen kunnen helpen. Luister aandachtig, want ze zijn soms ingewijd in meer informatie dan wij.</Text>
@@ -275,7 +275,7 @@
 			<Text>Mijn heer, we beginnen de aandacht van de Grote Mensen van de wereld te trekken. Natuurlijk zijn er ook andere leiders die strijden om hun aandacht.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_28">
-			<Text>Hoe meer gespecialiseerde districten we bouwen, des te meer zullen we in gespecialiseerde grote mensen trekken om hun talenten met onze beschaving te delen. Ik adviseer dat we deze blijven bouwen.</Text>
+			<Text>Hoe meer gespecialiseerde wijken we bouwen, des te meer zullen we in gespecialiseerde grote mensen trekken om hun talenten met onze beschaving te delen. Ik adviseer dat we deze blijven bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_29">
 			<Text>Een beroemde kunstenaar is geïnspireerd door onze beschaving en is naar ons land gekomen om geweldige kunstwerken te maken. Ik stel voor dat we ergens deze meesterwerken onmiddellijk huisvesten.</Text>
@@ -284,7 +284,7 @@
 			<Text>Deze schrijver is geïnspireerd door onze beschaving en komt naar ons land om geweldige werken te schrijven. Ik stel voor dat we ergens deze meesterwerken onmiddellijk huisvesten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_31">
-			<Text>Onze bevolking heeft een grote profeet naar onze landen getrokken! Stuur deze allerheiligste persoon naar onze Heilige Site en verheug u, want de tijd is gekomen om een ​​religie voor onszelf te stichten.</Text>
+			<Text>Onze bevolking heeft een grote profeet naar onze landen getrokken! Stuur deze allerheiligste persoon naar onze Heilige Site en verheug u, want de tijd is gekomen om een religie voor onszelf te stichten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_32">
 			<Text>Deze muzikant is geïnspireerd door onze beschaving en is naar ons land gekomen om geweldige muziekwerken te maken. Ik stel voor dat we ergens deze meesterwerken onmiddellijk huisvesten.</Text>
@@ -320,16 +320,16 @@
 			<Text>Alle andere religies in de wereld vormen een bedreiging voor ons geloof. We kunnen Inquisiteurs rekruteren om de ketters uit onze steden te zuiveren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_43">
-			<Text>Excellentie, ik vind dat het tijd is om een ​​aantal buurten te bouwen voor onze groeiende bevolking. We zouden deze op onze mooiste landen moeten bouwen - in de buurt van natuurlijke wonderen, of misschien aan de kust.</Text>
+			<Text>Excellentie, ik vind dat het tijd is om een aantal buurten te bouwen voor onze groeiende bevolking. We zouden deze op onze mooiste landen moeten bouwen - in de buurt van natuurlijke wonderen, of misschien aan de kust.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_44">
 			<Text>Mijn Luik, al onze militairen zijn vernietigd en we zijn volkomen weerloos. Het trainen van militaire eenheden is van het grootste belang als we willen overleven.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_45">
-			<Text>Onze ontdekkingsreizigers hebben een andere vriendelijke Tribal Village gezien. Ik stel voor dat we een Scout sturen om te onderzoeken.</Text>
+			<Text>Onze ontdekkingsreizigers hebben een ander vriendelijk stamdorp gezien. Ik stel voor dat we een Scout sturen om te onderzoeken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_46">
-			<Text>Majesteit, houd je bondgenoten dichtbij en je vijanden dichterbij. We zijn nu in staat om een ​​Spion te rekruteren die ons kan helpen beter te begrijpen wat onze buren doen ... Op een meer verborgen niveau.</Text>
+			<Text>Majesteit, houd je bondgenoten dichtbij en je vijanden dichterbij. We zijn nu in staat om een Spion te rekruteren die ons kan helpen beter te begrijpen wat onze buren doen ... Op een meer verborgen niveau.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_50">
 			<Text>Sommige bronnen, zoals deze, kunnen worden geoogst. Hiermee wordt de bron verwijderd in ruil voor een onmiddellijke winst. Maar als het eenmaal is verwijderd, komt het niet meer terug.</Text>
@@ -395,19 +395,19 @@
 			<Text>Buurten met een hogere aantrekkelijkheid zullen meer burgers huisvesten, terwijl buurten gebouwd door moeras, luchthavens of regenwoud helemaal niet erg bevolkt zullen zijn.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_71">
-			<Text>Onze schatkist zit vol met goud en ik denk dat het verstandig is om een ​​investering te doen. Misschien kunnen we ons leger uitbreiden.</Text>
+			<Text>Onze schatkist zit vol met goud en ik denk dat het verstandig is om een investering te doen. Misschien kunnen we ons leger uitbreiden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_72">
 			<Text>We hebben nog geen Heilige Site gebouwd en de grote profeet die we tot onze stad aangetrokken hebben, kan nergens heen. Laten we er een bouwen!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_73">
-			<Text>Onze bevolking heeft een grote profeet naar onze landen getrokken! Stuur deze allerheiligste persoon naar Stonehenge en verheug je, want de tijd is gekomen om een ​​religie voor onszelf te stichten.</Text>
+			<Text>Onze bevolking heeft een grote profeet naar onze landen getrokken! Stuur deze allerheiligste persoon naar Stonehenge en verheug je, want de tijd is gekomen om een religie voor onszelf te stichten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_74">
 			<Text>Een geweldige ingenieur is naar onze beschaving gekomen, klaar om hard te werken om onze infrastructuur te verbeteren. Elk heeft een ander talent, maar ze kunnen allemaal onze steden op een of andere manier verbeteren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_75">
-			<Text>We hebben nu de mogelijkheid om een ​​Spaceport te bouwen. Als we ons onderzoek voortzetten, kunnen we misschien de mysteriën van de sterren ontgrendelen.</Text>
+			<Text>We hebben nu de mogelijkheid om een Spaceport te bouwen. Als we ons onderzoek voortzetten, kunnen we misschien de mysteriën van de sterren ontgrendelen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_LISTENER_76">
 			<Text>We hebben een manier gevonden om onze landbouwoutput te vergroten. Om dit potentieel aan te boren, stel ik voor dat we proberen om twee aangrenzende boerderijen op elk perceel landbouwgrond te houden.</Text>
@@ -458,7 +458,7 @@
 			<Text>SELECTEER SETTLER</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_1_BODY">
-			<Text>Klik op de Settler-eenheid om deze te selecteren.</Text>
+			<Text>Klik op de Kolonist-eenheid om deze te selecteren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_8_HEAD">
 			<Text>EINDE DRAAIEN</Text>
@@ -467,7 +467,7 @@
 			<Text>Omdat er geen beslissingen meer zijn om deze beurt te maken, klikt u op de knop Volgende afslag om door te gaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_11a_BODY">
-			<Text>Taken die moeten worden voltooid voordat u uw beurt kunt beëindigen, verschijnen in het meldingspaneel rechtsonder in het scherm. [NEWLINE][NEWLINE]Aangezien de productie in deze stad is voltooid, krijgt u een herinnering dat u de volgende keer moet kiezen ding om te produceren voordat je je beurt kunt beëindigen.</Text>
+			<Text>Taken die moeten worden voltooid voordat u uw beurt kunt beëindigen, verschijnen in het meldingspaneel rechtsonder in het scherm.[NEWLINE][NEWLINE]Aangezien de productie in deze stad is voltooid, krijgt u een herinnering dat u de volgende keer moet kiezen ding om te produceren voordat je je beurt kunt beëindigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_11_HEAD">
 			<Text>VEREISTE ACTIES</Text>
@@ -494,7 +494,7 @@
 			<Text>EINDE DRAAIEN</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_19_BODY">
-			<Text>Omdat je Warrior-eenheid al zijn [ICON_Movement] -verplaatsingspunten heeft gebruikt, is het gedaan met zijn acties deze beurt. [NEWLINE][NEWLINE]Productie- en onderzoekstaken zijn nog in volle gang, dus er zijn geen andere beslissingen te nemen.</Text>
+			<Text>Omdat je Krijger-eenheid al zijn [ICON_Movement] -verplaatsingspunten heeft gebruikt, is het gedaan met zijn acties deze beurt.[NEWLINE][NEWLINE]Productie- en onderzoekstaken zijn nog in volle gang, dus er zijn geen andere beslissingen te nemen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_19b_BODY">
 			<Text>Klik nogmaals op de knop Volgende afslag om door te gaan.</Text>
@@ -503,7 +503,7 @@
 			<Text>SELECTEER STRIJDER</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_9_BODY">
-			<Text>Klik op de Warrior-eenheid om deze te selecteren.</Text>
+			<Text>Klik op de Krijger-eenheid om deze te selecteren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_2_HEAD">
 			<Text>GEVONDEN EEN STAD</Text>
@@ -524,13 +524,13 @@
 			<Text>Dit is de Production Chooser van de stad. Vanaf hier kunt u gebouwen bouwen, wonderen van de wereld maken en militaire en civiele eenheden trainen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_4b_BODY">
-			<Text>Selecteer de knop Warrior om een ​​Warrior-eenheid in uw stad te trainen.</Text>
+			<Text>Selecteer de knop Warrior om een Krijger-eenheid in uw stad te trainen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_5a_BODY">
 			<Text>Civilization is een turn-based game waarbij beslissingen worden genomen en acties worden uitgevoerd tijdens een spelbeurt, net zoals het spelen van een bordspel met vrienden. Zodra alle andere spelers hun zetten hebben gedaan, zal een nieuwe beurt beginnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_5b_BODY">
-			<Text>Het bouwen van items in uw stad kost tijd. Het aantal keren dat het spel draait, wordt aangegeven op elk item in het menu. [NEWLINE][NEWLINE]Dit wordt berekend op basis van de [ICON_Production] productiekosten van het artikel versus het [ICON_Production] productie-rendement van de stad. Hoe hoger de opbrengst, hoe minder beurten er nodig zijn om te bouwen.</Text>
+			<Text>Het bouwen van items in uw stad kost tijd. Het aantal keren dat het spel draait, wordt aangegeven op elk item in het menu.[NEWLINE][NEWLINE]Dit wordt berekend op basis van de [ICON_Production] productiekosten van het artikel versus het [ICON_Production] productie-rendement van de stad. Hoe hoger de opbrengst, hoe minder beurten er nodig zijn om te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_5_HEAD">
 			<Text>EINDE DRAAIEN</Text>
@@ -557,19 +557,19 @@
 			<Text>BOUWEN MONUMENT</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_27_BODY">
-			<Text>Naast trainingseenheden kan je stad haar productie richten op het bouwen van gebouwen zoals het monument. [NEWLINE][NEWLINE]Probeer er nu een te bouwen door het te selecteren in de productiewachtrij van de stad.</Text>
+			<Text>Naast trainingseenheden kan je stad haar productie richten op het bouwen van gebouwen zoals het monument.[NEWLINE][NEWLINE]Probeer er nu een te bouwen door het te selecteren in de productiewachtrij van de stad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_21">
-			<Text>Met Barbaren in ons midden, denk ik dat onze mensen meer op hun gemak zouden zijn als onze Warriors dichter bij de stad zouden zijn. Bestel ze om terug te keren en te verdedigen.</Text>
+			<Text>Met Barbaren in ons midden, denk ik dat onze mensen meer op hun gemak zouden zijn als onze Warriors dichter bij de stad zouden zijn. Beveel ze om terug te keren en te verdedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_28a_BODY">
-			<Text>Eenheden kunnen worden besteld om langere afstanden te verplaatsen door hen een opdracht met meerdere bochten te geven. Dit elimineert de noodzaak om elke beurt een afzonderlijke verplaatsingsvolgorde te geven om een ​​bestemming te bereiken.</Text>
+			<Text>Eenheden kunnen worden beveeld om langere afstanden te verplaatsen door hen een opdracht met meerdere beurten te geven. Dit elimineert de noodzaak om elke beurt een afzonderlijke verplaatsingsvolgorde te geven om een bestemming te bereiken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_28_HEAD">
 			<Text>MOVE WARRIOR</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_28_BODY">
-			<Text>Probeer de Warrior te bestellen om terug te keren naar de stad door op de knop Verplaatsen naar te klikken en vervolgens op de stad te klikken.</Text>
+			<Text>Probeer de Krijger te bevelen om terug te keren naar de stad door op de knop Verplaatsen naar te klikken en vervolgens op de stad te klikken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_29_BODY">
 			<Text>Wanneer u een opdracht met meerdere bewegingen gebruikt, wordt er een pad weergegeven op de kaart dat aangeeft welk pad de eenheid zal volgen, samen met indicatoren van het aantal beurten totdat deze de bestemming bereikt.</Text>
@@ -584,13 +584,13 @@
 			<Text>Onze helderste geesten hebben nieuwe en ingenieuze manieren ontdekt om edelstenen en metalen uit de aarde te halen. Er is een overvloed aan waardevolle stenen in de buurt, het zou verstandig zijn om onze bouwers daarheen te sturen om er een steengroeve te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_30_BODY">
-			<Text>Verspreid over de kaart zijn verschillende soorten hulpmiddelen. Er zijn 3 categorieën bronnen: [NEWLINE][NEWLINE]Luxe: deze dragen bij aan het algemene geluk van uw burgers. [NEWLINE][NEWLINE]Strategisch: essentieel voor het maken van enkele zeer krachtige militaire eenheden. [NEWLINE][NEWLINE]Bonus: Zorg voor extra opbrengsten van [ICON_Food] Food, [ICON_Production] Production of [ICON_Gold] Gold.</Text>
+			<Text>Verspreid over de kaart zijn verschillende soorten hulpmiddelen. Er zijn 3 categorieën bronnen:[NEWLINE][NEWLINE]Luxe: deze dragen bij aan het algemene geluk van uw burgers.[NEWLINE][NEWLINE]Strategisch: essentieel voor het maken van enkele zeer krachtige militaire eenheden.[NEWLINE][NEWLINE]Bonus: Zorg voor extra opbrengsten van [ICON_Food] Voedsel, [ICON_Production] Production of [ICON_Gold] Gold.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_31a_HEAD">
 			<Text>BOUWEN VAN DE GRAAG</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_31a_BODY">
-			<Text>Deze steen is een bonusmiddel. Het biedt een extra +1 [ICON_Production] productie aan uw stad. [NEWLINE][NEWLINE]Als u hier een Quarry-verbetering bouwt, verhoogt dit de opbrengst naar +2 [ICON_Production] Productie.</Text>
+			<Text>Deze steen is een bonusmiddel. Het biedt een extra +1 [ICON_Production] productie aan uw stad.[NEWLINE][NEWLINE]Als u hier een Quarry-verbetering bouwt, verhoogt dit de opbrengst naar +2 [ICON_Production] Productie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_31b_BODY">
 			<Text>Verplaats uw Builder-eenheid naar de Stone-resource en laat ze daar een Quarry-verbetering construeren.</Text>
@@ -608,13 +608,13 @@
 			<Text>Majesteit, we moeten ons rijk uitbreiden. We hebben avontuurlijke families klaar om uit te barsten en nieuwe landen te claimen ter ere van onze mensen. Als we onze grenzen niet uitbreiden, zullen we na verloop van tijd omringd worden door onze vijanden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_29">
-			<Text>Settlers zullen enige tijd nodig hebben om hun training te voltooien. Onze Scout moet doorgaan met het verkennen van onontdekte gebieden. Ik zou adviseren om onze Warriors in het [ICON_Capital] Capital te houden om het te verdedigen.</Text>
+			<Text>Kolonisten zullen enige tijd nodig hebben om hun training te voltooien. Onze Scout moet doorgaan met het verkennen van onontdekte gebieden. Ik zou adviseren om onze Warriors in het [ICON_Capital] Capital te houden om het te verdedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_30">
-			<Text>De Settlers staan ​​klaar om op reis te gaan om een ​​nieuwe stad te stichten en onze beschaving uit te breiden. De landen daarachter zijn gevaarlijk en het zou verstandig zijn om hun bescherming te verzekeren door ze met een militaire escorte te sturen.</Text>
+			<Text>De Kolonisten staan klaar om op reis te gaan om een nieuwe stad te stichten en onze beschaving uit te breiden. De landen daarachter zijn gevaarlijk en het zou verstandig zijn om hun bescherming te verzekeren door ze met een militaire escorte te sturen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_31">
-			<Text>Onze Settlers moeten veilig zijn op hun reis onder de bescherming van onze Warriors. Maar we zullen zonder bescherming in het [ICON_Capital] kapitaal zijn zodra ze vertrekken. Ik stel voor dat we onmiddellijk een Slinger-eenheid beginnen te trainen om de stad te verdedigen.</Text>
+			<Text>Onze Kolonisten moeten veilig zijn op hun reis onder de bescherming van onze Warriors. Maar we zullen zonder bescherming in het [ICON_Capital] kapitaal zijn zodra ze vertrekken. Ik stel voor dat we onmiddellijk een Slinger-eenheid beginnen te trainen om de stad te verdedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_32">
 			<Text>Goed gedaan, Majesteit. Onze grote geesten zijn al begonnen aan nieuwe manieren om ons voedsel op te slaan en te bewaren.</Text>
@@ -632,7 +632,7 @@
 			<Text>Onze boeren zijn zeer bekwaam in het bieden van [ICON_Food] voedsel voor onze mensen, maar we moeten betere manieren vinden om het op te slaan. Ik stel voor dat we de inspanningen van onze wetenschappers richten op het oplossen van dit probleem.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_39">
-			<Text>Onze toewijding om een ​​consistente geschreven taal te ontwikkelen, heeft ons in staat gesteld onze kennis vast te leggen voor toekomstig gebruik. Als we een gemeenschappelijke locatie in onze stad zouden bieden voor onze wetenschappers om deze informatie te delen, ben ik er zeker van dat hun bezigheden veel efficiënter zouden zijn.</Text>
+			<Text>Onze toewijding om een consistente geschreven taal te ontwikkelen, heeft ons in staat gesteld onze kennis vast te leggen voor toekomstig gebruik. Als we een gemeenschappelijke locatie in onze stad zouden bieden voor onze wetenschappers om deze informatie te delen, ben ik er zeker van dat hun bezigheden veel efficiënter zouden zijn.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_40">
 			<Text>Uitstekend! De bouw op een campus is begonnen. Onze wetenschappers kijken uit naar de voltooiing ervan.</Text>
@@ -647,7 +647,7 @@
 			<Text>Hoogheid, we zijn in oorlog. Beveiliging van het rijk is van het grootste belang. We moeten onmiddellijk een leger gaan mobiliseren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_44">
-			<Text>Het verenigen van uw bestuur met een strikte wetboekcode kan ons het meeste voordeel opleveren. Ik denk dat het tijd is om een ​​reeks beleidsmaatregelen uit te vaardigen om onze vooruitgang naar een meer verfijnde beschaving te versterken.</Text>
+			<Text>Het verenigen van uw bestuur met een strikte wetboekcode kan ons het meeste voordeel opleveren. Ik denk dat het tijd is om een reeks beleidsmaatregelen uit te vaardigen om onze vooruitgang naar een meer verfijnde beschaving te versterken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_45">
 			<Text>Strenge discipline in onze militaire rangen zou ons een voorsprong geven tegen de ongeorganiseerde barbaarse horde. Meer gestructureerde stadsplanning zal onze steden georganiseerd en efficiënter maken. Ik stel voor dat we dit beleid uitvoeren.</Text>
@@ -656,7 +656,7 @@
 			<Text>Het voeden van onze bevolking is belangrijk, maar we moeten ze ook beschermen. Er zijn barbaarse stammen bij ons die niets liever willen dan plunderen en plunderen wat van ons is.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_47">
-			<Text>We blijven vooruitgang boeken met het opleiden van een team van bouwers en het onderzoek wordt voortgezet zoals gepland. [NEWLINE] Onze Warriors staan ​​heel dicht bij het stamdorp en zouden snel moeten aankomen.</Text>
+			<Text>We blijven vooruitgang boeken met het opleiden van een team van bouwers en het onderzoek wordt voortgezet zoals gepland.[NEWLINE] Onze Warriors staan heel dicht bij het stamdorp en zouden snel moeten aankomen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_48">
 			<Text>Onze mensen hebben naar de hemel gekeken, en begonnen zich af te vragen of onze fortuinen geleid zouden kunnen worden door de handen van een grotere macht. Wie zijn deze grote goden en welke zegeningen kunnen zij ons schenken?</Text>
@@ -710,22 +710,22 @@
 			<Text>FOREST WARRIOR</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_36_BODY">
-			<Text>Probeer de Warrior-eenheid te bestellen om dit te doen door op de knop Versterken te klikken.</Text>
+			<Text>Probeer de Krijger-eenheid te bevelen om dit te doen door op de knop Versterken te klikken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_37_HEAD">
 			<Text>BONUS FORFORMEREN</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_37_BODY">
-			<Text>Deze eenheid heeft nu een voordeel in de strijd tijdens het verdedigen. Als het apparaat echter wordt verplaatst, verliest het zijn versterkte status en moet het opnieuw worden versterkt om de bonus te ontvangen.</Text>
+			<Text>Deze eenheid heeft nu een voordeel in de strijd tijdens het verdedigen. Als de eenheid echter wordt verplaatst, verliest het zijn versterkte status en moet het opnieuw worden versterkt om de bonus te ontvangen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_38_HEAD">
 			<Text>BUILDERSWERK</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_38a_BODY">
-			<Text>Uw Builder heeft nog steeds een van zijn personeel over. [NEWLINE][NEWLINE]U kunt het gebruiken om een ​​Mine on the Hill-plot (+ [ICON_Production] -productie) of een Farm on the Plains-plot (+ [ICON_Food] voedsel te maken) ). [NEWLINE][NEWLINE]Dit kan meer dan één beurt in beslag nemen, één om de Builder-eenheid te verplaatsen en nog een keer om de verbetering op te bouwen.</Text>
+			<Text>Uw Builder heeft nog steeds een van zijn personeel over.[NEWLINE][NEWLINE]U kunt het gebruiken om een Mine on the Hill-plot (+ [ICON_Production] -productie) of een Farm on the Plains-plot (+ [ICON_Food] voedsel te maken) ).[NEWLINE][NEWLINE]Dit kan meer dan één beurt in beslag nemen, één om de Builder-eenheid te verplaatsen en nog een keer om de verbetering op te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_38b_BODY">
-			<Text>Let op: bouwers kunnen alleen verbeteringen aanbrengen binnen de grenzen van uw stad. [NEWLINE][NEWLINE]Door [ICON_Culture] cultuur te genereren, worden de grenzen van uw stad uitgebreid, waardoor u toegang heeft tot meer bronnen.</Text>
+			<Text>Let op: bouwers kunnen alleen verbeteringen aanbrengen binnen de grenzen van uw stad.[NEWLINE][NEWLINE]Door [ICON_Culture] cultuur te genereren, worden de grenzen van uw stad uitgebreid, waardoor u toegang heeft tot meer bronnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_39_HEAD">
 			<Text>EXPLORATION</Text>
@@ -734,19 +734,19 @@
 			<Text>Voel je vrij om verder te gaan met het verkennen van de kaart met je Scout-eenheid. Beëindig uw beurt wanneer u klaar bent met het geven van orders aan uw Builder en Scout.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_40_BODY">
-			<Text>Je stad is klaar met productie in het monumentgebouw. Alle gebouwen dragen op specifieke manieren bij aan de ontwikkeling van een stad. Het Monument vergroot de [ICON_Culture] Cultuur die door de stad wordt gegenereerd en die de invloed van de stad op extra hexen vergroot.</Text>
+			<Text>Je stad is klaar met productie in het monumentgebouw. Alle gebouwen dragen op specifieke manieren bij aan de ontwikkeling van een stad. Het Monument vergroot de [ICON_Culture] Cultuur die door de stad wordt gegenereerd en die de invloed van de stad op extra tegels vergroot.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_41_HEAD">
 			<Text>TREININSTELLINGEN</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_41_BODY">
-			<Text>Beginnen met het trainen van een Settler-eenheid.</Text>
+			<Text>Beginnen met het trainen van een Kolonist-eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_41b_BODY">
-			<Text>Open de productie-kiezer en begin met het trainen van een Settler-eenheid. Houd er rekening mee dat de productie-kiezer kan worden geopend via het informatiepaneel van de stad of vanuit de herinnering Kies productie in het meldingenvenster aan de rechterkant van de gameweergave.</Text>
+			<Text>Open de productie-kiezer en begin met het trainen van een Kolonist-eenheid. Houd er rekening mee dat de productie-kiezer kan worden geopend via het informatiepaneel van de stad of vanuit de herinnering Kies productie in het meldingenvenster aan de rechterkant van de gameweergave.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_42_BODY">
-			<Text>Eenheden zoals Settlers en Builders zijn non-combat, civiele eenheden en kunnen zich dus niet verdedigen. Dit laat hen zeer kwetsbaar om te worden gevangen of gedood door vijandelijke eenheden. Je militaire eenheden kunnen echter als bescherming voor de civiele eenheid fungeren als ze dezelfde hex hebben.</Text>
+			<Text>Eenheden zoals Kolonisten en Builders zijn non-combat, civiele eenheden en kunnen zich dus niet verdedigen. Dit laat hen zeer kwetsbaar om te worden gevangen of gedood door vijandelijke eenheden. Je militaire eenheden kunnen echter als bescherming voor de civiele eenheid fungeren als ze dezelfde hex hebben.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_43a_BODY">
 			<Text>Een gemakkelijke manier om de twee eenheden samen te brengen, is door ze aan elkaar te koppelen tot ze hun bestemming bereiken.</Text>
@@ -755,7 +755,7 @@
 			<Text>ESCORT SETTLER</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_43_BODY">
-			<Text>Selecteer de Settler of de Warrior en klik op Escort in het paneel van het apparaat.</Text>
+			<Text>Selecteer de Kolonist of de Krijger en klik op Escort in het paneel van de eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_44_HEAD">
 			<Text>MOVE FORMATION</Text>
@@ -821,40 +821,40 @@
 			<Text>Klik om de technologiestructuur te sluiten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_55_BODY">
-			<Text>Blijf uw Settler-eenheid naar de aangegeven locatie verplaatsen.</Text>
+			<Text>Blijf uw Kolonist-eenheid naar de aangegeven locatie verplaatsen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_56_BODY">
-			<Text>Bij het kiezen van een locatie om een ​​nieuwe stad te vestigen, is het belangrijk om naar de vruchtbaarheid van het omliggende land te kijken. Nabijheid van bronnen van [ICON_Food] Voedsel, hulpbronnen en zoet water zijn allemaal erg belangrijk. Voor deze zelfstudie hebben we al een ideale locatie voor u gevonden.</Text>
+			<Text>Bij het kiezen van een locatie om een nieuwe stad te vestigen, is het belangrijk om naar de vruchtbaarheid van het omliggende land te kijken. Nabijheid van bronnen van [ICON_Food] Voedsel, hulpbronnen en zoet water zijn allemaal erg belangrijk. Voor deze zelfstudie hebben we al een ideale locatie voor u gevonden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_57_BODY">
-			<Text>Wanneer uw Settler-eenheid in staat is, klikt u op de knop Gevonden stad om hier een nieuwe stad te maken. Mogelijk moet je naar de volgende afslag gaan als je Settler geen [ICON_Movement] -verplaatsingspunten meer heeft.</Text>
+			<Text>Wanneer uw Kolonist-eenheid in staat is, klikt u op de knop Gevonden stad om hier een nieuwe stad te maken. Mogelijk moet je naar de volgende afslag gaan als je Kolonist geen [ICON_Movement] -verplaatsingspunten meer heeft.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_58_BODY">
-			<Text>Om een ​​spel Civilization te winnen, moet je als speler alle andere beschavingen in de wereld verslaan. Er zijn meerdere manieren om dit te bereiken. Je kunt hun steden militair veroveren, ze in je beschaving brengen. Je kunt ook technologisch winnen, of door culturele of religieuze overheersing.</Text>
+			<Text>Om een spel Civilization te winnen, moet je als speler alle andere beschavingen in de wereld verslaan. Er zijn meerdere manieren om dit te bereiken. Je kunt hun steden militair veroveren, ze in je beschaving brengen. Je kunt ook technologisch winnen, of door culturele of religieuze overheersing.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_59_BODY">
-			<Text>Op weg naar de overwinning zijn er fundamentele strategieën om je te helpen bij het bouwen van je beschaving. [NEWLINE] --- [NEWLINE] Voor deze zelfstudie hebben we vier doelen voor je neergezet die je kunt bereiken. Voltooi alle vier en je kunt de tutorial voltooien. Om de tutorial te WINNEN, moet je echter het vijfde doelpunt voltooien.</Text>
+			<Text>Op weg naar de overwinning zijn er fundamentele strategieën om je te helpen bij het bouwen van je beschaving.[NEWLINE] ---[NEWLINE] Voor deze zelfstudie hebben we vier doelen voor je neergezet die je kunt bereiken. Voltooi alle vier en je kunt de tutorial voltooien. Om de tutorial te WINNEN, moet je echter het vijfde doelpunt voltooien.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_61_BODY">
-			<Text>Gefeliciteerd! [NEWLINE] --- [NEWLINE] Je hebt de fundamenten van het groeien en onderhouden van een beschaving voltooid die de tand des tijds zal doorstaan. Je kunt de tutorial afmaken, of je kunt blijven spelen en deze game winnen door de rivaliserende civ te elimineren.</Text>
+			<Text>Gefeliciteerd![NEWLINE] ---[NEWLINE] Je hebt de fundamenten van het groeien en onderhouden van een beschaving voltooid die de tand des tijds zal doorstaan. Je kunt de tutorial afmaken, of je kunt blijven spelen en deze game winnen door de rivaliserende civ te elimineren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_63_BODY">
 			<Text>In deze tutorial speel je op een kleine kaart met een enkele rivaliserende beschaving. Een standaard game van Civilization presenteert een grotere kaart van de wereld, met verschillende rivaliserende beschavingen, allemaal concurrerend om te winnen. De taak is groter, maar de doelen blijven hetzelfde.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_62_BODY">
-			<Text>Om dit spel te winnen, moet je alle stad (en) van de rivaliserende beschaving veroveren met je leger. [NEWLINE] --- [NEWLINE] Veel succes!</Text>
+			<Text>Om dit spel te winnen, moet je alle stad (en) van de rivaliserende beschaving veroveren met je leger.[NEWLINE] ---[NEWLINE] Veel succes!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_76_BODY">
 			<Text>Open de productie-kiezer van je eerste stad door op de productieknop op de stadsbanner te klikken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_77_BODY">
-			<Text>In Civilization VI zijn er veel soorten districten die in jouw steden kunnen worden gebouwd, elk met een specifiek doel.</Text>
+			<Text>In Civilization VI zijn er veel soorten wijken die in jouw steden kunnen worden gebouwd, elk met een specifiek doel.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_78_BODY">
-			<Text>Door onderzoek naar Schrijven af ​​te ronden, kun je nu een Campuswijk in je stad bouwen. [NEWLINE][NEWLINE]Het Campusdistrict is gewijd aan het vergroten van het aantal [ICON_Science] Wetenschap dat gegenereerd wordt door de stad die het bevat.</Text>
+			<Text>Door onderzoek naar Schrijven af te ronden, kun je nu een Campuswijk in je stad bouwen.[NEWLINE][NEWLINE]Het Campusdistrict is gewijd aan het vergroten van het aantal [ICON_Science] Wetenschap dat gegenereerd wordt door de stad die het bevat.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_79_BODY">
-			<Text>Veel districten in het spel krijgen ook een bonus afhankelijk van waar ze in de stad zijn geplaatst. De Campus krijgt een bonus wanneer gebouwd naast Bergen of Jungles.</Text>
+			<Text>Veel wijken in het spel krijgen ook een bonus afhankelijk van waar ze in de stad zijn geplaatst. De Campus krijgt een bonus wanneer gebouwd naast Bergen of Jungles.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_80_HEAD">
 			<Text>BOUWEN CAMPUS</Text>
@@ -875,25 +875,25 @@
 			<Text>Aangezien u de schrijftechnologie hebt voltooid, moet u nu kiezen wat u vervolgens gaat onderzoeken. Als je een suggestie wilt, zijn dierhouderij en bronswerk beide goede keuzes.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_85_BODY">
-			<Text>Veehouderij stelt u in staat om verbeteringen aan de grasmat en het kamp in uw steden aan te brengen. [NEWLINE][NEWLINE]Brons Werken zal u militair helpen door het kampementdistrict te ontsluiten en u Spearmen te laten trainen.</Text>
+			<Text>Veehouderij stelt u in staat om verbeteringen aan de grasmat en het kamp in uw steden aan te brengen.[NEWLINE][NEWLINE]Brons Werken zal u militair helpen door het kampementdistrict te ontsluiten en u Spearmen te laten trainen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_86_BODY">
-			<Text>Sommige gebouwen kunnen alleen in districten worden gebouwd. De bibliotheek is een gebouw dat exclusief is voor de Campuswijk. Omdat we de bouw op de Campus hebben voltooid, kunnen we er nu een bibliotheek aan bouwen.</Text>
+			<Text>Sommige gebouwen kunnen alleen in wijken worden gebouwd. De bibliotheek is een gebouw dat exclusief is voor de Campuswijk. Omdat we de bouw op de Campus hebben voltooid, kunnen we er nu een bibliotheek aan bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_87_HEAD">
 			<Text>BOUWEN BIBLIOTHEEK</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_87_BODY">
-			<Text>Klik op de knop Productie kiezen rechtsonder om een ​​bibliotheek te bouwen.</Text>
+			<Text>Klik op de knop Productie kiezen rechtsonder om een bibliotheek te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_88_BODY">
-			<Text>Gefeliciteerd! [NEWLINE] Je hebt je eerste spel van Civilization gewonnen. [NEWLINE][NEWLINE]Je bent nu klaar om veel grotere uitdagingen en doelstellingen aan te gaan, nieuwe werelden te verkennen, nieuwe beschavingen voor de eerste keer te ontmoeten en overwinning te behalen op jouw voorwaarden.</Text>
+			<Text>Gefeliciteerd![NEWLINE] Je hebt je eerste spel van Civilization gewonnen.[NEWLINE][NEWLINE]Je bent nu klaar om veel grotere uitdagingen en doelstellingen aan te gaan, nieuwe werelden te verkennen, nieuwe beschavingen voor de eerste keer te ontmoeten en overwinning te behalen op jouw voorwaarden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_89_BODY">
-			<Text>Wanneer je een oorlog voert met een andere beschaving, is het het beste om een ​​voldoende aantal gevechtseenheden te hebben, zowel om je steden te verdedigen als om in het buitenland te vechten.</Text>
+			<Text>Wanneer je een oorlog voert met een andere beschaving, is het het beste om een voldoende aantal gevechtseenheden te hebben, zowel om je steden te verdedigen als om in het buitenland te vechten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_90_BODY">
-			<Text>Soms is het nodig om de productie op een gebouw of district op te schorten om eenheden te trainen om de oorlog te bestrijden. Om dit te doen, hoeft u alleen de huidige productietaak van de stad te veranderen in de gevechtseenheid die u wilt creëren.</Text>
+			<Text>Soms is het nodig om de productie op een gebouw of wijk op te schorten om eenheden te trainen om de oorlog te bestrijden. Om dit te doen, hoeft u alleen de huidige productietaak van de stad te veranderen in de gevechtseenheid die u wilt creëren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_91_BODY">
 			<Text>Als je tevreden bent met de grootte van je leger, kun je de productie van wat eerder werd gebouwd, hervatten zonder de voortgang te verliezen die je hebt gemaakt.</Text>
@@ -923,13 +923,13 @@
 			<Text>Klik op de knop Beleid wijzigen</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_96_BODY">
-			<Text>Om een ​​beleid te slepen, klik en versleep je het beleid van rechts naar het juiste slot in je regering aan de linkerkant. [NEWLINE][NEWLINE]Probeer dat nu door het Discipline-beleid toe te voegen aan het Militaire slot en voeg vervolgens het beleid Stedenbouwkunde toe aan het economische slot. Klik op de knop Beleid bevestigen als u klaar bent.</Text>
+			<Text>Om een beleid te slepen, klik en versleep je het beleid van rechts naar het juiste slot in je regering aan de linkerkant.[NEWLINE][NEWLINE]Probeer dat nu door het Discipline-beleid toe te voegen aan het Militaire slot en voeg vervolgens het beleid Stedenbouwkunde toe aan het economische slot. Klik op de knop Beleid bevestigen als u klaar bent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_97_BODY">
 			<Text>Door dit beleid uit te vaardigen, zullen je militaire eenheden nu een +5 [ICON_Strength] Combat Strength-bonus krijgen wanneer ze tegen Barbaren vechten. Bovendien ontvangen uw steden +1 [ICON_Production] productie per beurt, waardoor ze eenheden kunnen trainen en gebouwen sneller kunnen bouwen dan voorheen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_98_BODY">
-			<Text>Net zoals je nieuwe technologieën onderzoekt door [ICON_Science] -wetenschap in je steden te genereren, ontgrendel je de burgerzin door [ICON_Culture] Culture te genereren. [NEWLINE][NEWLINE]Je hebt de civielrechtelijke code al ontgrendeld waarmee je je eerste regering.</Text>
+			<Text>Net zoals je nieuwe technologieën onderzoekt door [ICON_Science] -wetenschap in je steden te genereren, ontgrendel je de burgerzin door [ICON_Culture] Culture te genereren.[NEWLINE][NEWLINE]Je hebt de civielrechtelijke code al ontgrendeld waarmee je je eerste regering.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_99a_BODY">
 			<Text>Nu moet je een nieuwe burger selecteren om verder te gaan.</Text>
@@ -938,10 +938,10 @@
 			<Text>CIVICS BOOM</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_99b_BODY">
-			<Text>Open de Civics Tree door op de knop Civics Tree in de linkerbovenhoek van het scherm te klikken.</Text>
+			<Text>Open de Ontplooiingenboom door op de knop Ontplooiingenboom in de linkerbovenhoek van het scherm te klikken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_100_BODY">
-			<Text>Net zoals de technologieboom, heeft de Civics Tree verschillende keuzes en paden naarmate je verder komt in het spel. [NEWLINE] Klik voor deze zelfstudie op Civiel vakmanschap om verder te gaan met de volgende stap.</Text>
+			<Text>Net zoals de technologieboom, heeft de Ontplooiingenboom verschillende keuzes en paden naarmate je verder komt in het spel.[NEWLINE] Klik voor deze zelfstudie op Civiel vakmanschap om verder te gaan met de volgende stap.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_100b_HEAD">
 			<Text>KIES CIVIC</Text>
@@ -953,7 +953,7 @@
 			<Text>Sluit de boom</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_100c_BODY">
-			<Text>Klik om de Civics Tree te sluiten</Text>
+			<Text>Klik om de Ontplooiingenboom te sluiten</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_101_BODY">
 			<Text>Klik op Volgende afslag om verder te gaan.</Text>
@@ -962,7 +962,7 @@
 			<Text>TREINBOUWER</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_102_BODY">
-			<Text>Klik op Builder om een ​​Builder-eenheid te trainen.</Text>
+			<Text>Klik op Builder om een Builder-eenheid te trainen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_103_BODY">
 			<Text>De stad is de hoeksteen van elke grote beschaving. De grootte van een stad wordt weergegeven door de [ICON_Citizen] -populatie, links van het naambord aangegeven.</Text>
@@ -974,7 +974,7 @@
 			<Text>Elke stad claimt ook het omringende land voor jouw exclusieve controle. Deze landen worden aangegeven door de gekleurde rand rondom de stad. De unieke kenmerken binnen uw grenzen zullen een grote invloed hebben op de potentiële sterke punten van elke stad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_104_OTHER_BODY">
-			<Text>Langeafstandseenheden hebben ook de neiging om een ​​lagere verdedigingssterkte te hebben dan hun tegen elkaar vechtende tegenhangers, dus is het het beste om ze dicht bij vriendelijke eenheden van andere typen te houden ter bescherming.</Text>
+			<Text>Langeafstandseenheden hebben ook de neiging om een lagere verdedigingssterkte te hebben dan hun tegen elkaar vechtende tegenhangers, dus is het het beste om ze dicht bij vriendelijke eenheden van andere typen te houden ter bescherming.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_105_BODY">
 			<Text>Je moet kiezen hoe elke stad in je beschaving in de loop van de tijd groeit en zich uitbreidt, het land dat je controleert verbetert en nieuwe gebouwen en wijken binnen je grenzen creëert.</Text>
@@ -986,16 +986,16 @@
 			<Text>We zijn net klaar met onderzoek naar schrijven.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_POTTERY_COMPLETE">
-			<Text>Naast [ICON_Food] Food hebben jouw mensen ook [ICON_Amenities] voorzieningen in hun steden nodig. Een bron van [ICON_Amenities] Voorzieningen zijn luxe bronnen, zoals deze [ICON_Resource_Coffee] koffie naast uw [ICON_Capital] Capitol. Als de Pottery-technologie compleet is, is het een goed idee om Irrigatie te onderzoeken om uw bouwers in staat te stellen luxe bronnen te verbeteren, zoals de [ICON_Resource_Coffee] koffie naast onze [ICON_Capital] hoofdstad. Dit levert [ICON_Amenities] Voorzieningen op voor onze stad, waardoor het geluk groter wordt.</Text>
+			<Text>Naast [ICON_Food] Voedsel hebben jouw mensen ook [ICON_Amenities] voorzieningen in hun steden nodig. Een bron van [ICON_Amenities] Voorzieningen zijn luxe bronnen, zoals deze [ICON_Resource_Coffee] koffie naast uw [ICON_Capital] Capitol. Als de Pottery-technologie compleet is, is het een goed idee om Irrigatie te onderzoeken om uw bouwers in staat te stellen luxe bronnen te verbeteren, zoals de [ICON_Resource_Coffee] koffie naast onze [ICON_Capital] hoofdstad. Dit levert [ICON_Amenities] Voorzieningen op voor onze stad, waardoor het geluk groter wordt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_GOAL_6_COMPLETE">
 			<Text>Je hebt het doel van het verbeteren van een tegel binnen het bereik van de tweede stad voltooid!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_GOAL_8_COMPLETE">
-			<Text>Je hebt het doel bereikt om een ​​ander stamdorp te verkennen!</Text>
+			<Text>Je hebt het doel bereikt om een ander stamdorp te verkennen!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_GOAL_9_COMPLETE">
-			<Text>Je hebt het doel om een ​​stad te laten groeien tot een populatie van zes voltooid!</Text>
+			<Text>Je hebt het doel om een stad te laten groeien tot een populatie van zes voltooid!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_GOAL_10_COMPLETE">
 			<Text>U bent klaar met het maken van vijf verbeteringen!</Text>
@@ -1007,19 +1007,19 @@
 			<Text>Je hebt het doel van het bouwen van een kazerne voltooid!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_106_BODY">
-			<Text>Elke stad genereert een verscheidenheid aan opbrengsten aan het begin van elke beurt. Deze worden verkregen uit de hexen die de stad controleert.</Text>
+			<Text>Elke stad genereert een verscheidenheid aan opbrengsten aan het begin van elke beurt. Deze worden verkregen uit de tegels die de stad controleert.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_107_BODY">
-			<Text>Elke zeshoek binnen je stadsgrenzen kan een aantal opbrengsten opleveren om je te helpen je beschaving vooruit te helpen. [ICON_Food] Food en [ICON_Production] Productie zijn twee van deze opbrengsten. [NEWLINE][NEWLINE][ICON_Food] Voedsel voedt de groei van steden, waardoor de [ICON_Citizen] -populatie toeneemt. Meer [ICON_Food] Eten, sneller groeien. [NEWLINE][NEWLINE][ICON_Production] Productie wordt gebruikt om nieuwe items te bouwen, zoals militaire eenheden en stadsupgrades. Hoe meer [ICON_Production] Productie uw stad heeft, hoe sneller u dingen kunt bouwen.</Text>
+			<Text>Elke zeshoek binnen je stadsgrenzen kan een aantal opbrengsten opleveren om je te helpen je beschaving vooruit te helpen. [ICON_Food] Voedsel en [ICON_Production] Productie zijn twee van deze opbrengsten.[NEWLINE][NEWLINE][ICON_Food] Voedsel voedt de groei van steden, waardoor de [ICON_Citizen] -populatie toeneemt. Meer [ICON_Food] voedsel, sneller groeien.[NEWLINE][NEWLINE][ICON_Production] Productie wordt gebruikt om nieuwe items te bouwen, zoals militaire eenheden en stadsupgrades. Hoe meer [ICON_Production] Productie uw stad heeft, hoe sneller u dingen kunt bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_108_BODY">
-			<Text>Elke hex zal echter bewerkt moeten worden door uw [ICON_Citizen] Bevolking om de opbrengst van die hex te verkrijgen. [NEWLINE][NEWLINE]Elke [ICON_Citizen] Burger kan 1 hex binnen uw grenzen werken.</Text>
+			<Text>Elke hex zal echter bewerkt moeten worden door uw [ICON_Citizen] Bevolking om de opbrengst van die hex te verkrijgen.[NEWLINE][NEWLINE]Elke [ICON_Citizen] Burger kan 1 hex binnen uw grenzen werken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_109_BODY">
 			<Text>De [ICON_Citizen] van je stad laten groeien. Bevolking is erg belangrijk om te profiteren van alle opbrengsten uit de omliggende landen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_110_BODY">
-			<Text>Het is nu aan jou om te beslissen wat je in deze stad wilt produceren. [NEWLINE][NEWLINE]Suggesties: [NEWLINE][NEWLINE]- Train een bouwer om meer van de omliggende gebieden binnen je grenzen te verbeteren. [NEWLINE][NEWLINE]- Train een gevechtseenheid om de omvang en kracht van je leger uit te breiden. [NEWLINE][NEWLINE]- Bouw een graanschuur om extra [ICON_Food] voedsel voor je stad en meer te bieden [ICON_Housing] Huisvesting voor je [ICON_Citizen ] Bevolking.</Text>
+			<Text>Het is nu aan jou om te beslissen wat je in deze stad wilt produceren.[NEWLINE][NEWLINE]Suggesties:[NEWLINE][NEWLINE]- Train een bouwer om meer van de omliggende gebieden binnen je grenzen te verbeteren.[NEWLINE][NEWLINE]- Train een gevechtseenheid om de omvang en kracht van je leger uit te breiden.[NEWLINE][NEWLINE]- Bouw een graanschuur om extra [ICON_Food] voedsel voor je stad en meer te bieden [ICON_Housing] Huisvesting voor je [ICON_Citizen ] Bevolking.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_GENERAL_1">
 			<Text>doelen:</Text>
@@ -1049,16 +1049,16 @@
 			<Text>Houd je Warriors in je stad om het te verdedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_4">
-			<Text>TREININSTELLER: complete training van een Settler-eenheid.</Text>
+			<Text>TREININSTELLER: complete training van een Kolonist-eenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_TOOLTIP_4">
-			<Text>Volledige training van een Settler-eenheid om je beschaving uit te breiden.</Text>
+			<Text>Volledige training van een Kolonist-eenheid om je beschaving uit te breiden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_5">
-			<Text>STEL NIEUWE STAD IN: Escort Settler naar de opgegeven locatie.</Text>
+			<Text>STEL NIEUWE STAD IN: Escort Kolonist naar de opgegeven locatie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_TOOLTIP_5">
-			<Text>Escorteer de Settler met je Warrior naar de opgegeven locatie.</Text>
+			<Text>Escorteer de Kolonist met je Warrior naar de opgegeven locatie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_6">
 			<Text>ONTWIKKELEN: Gebruik Bouwer om het land rondom de nieuwe stad te verbeteren.</Text>
@@ -1088,7 +1088,7 @@
 			<Text>Elimineer de andere beschaving.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_13">
-			<Text>BOUWVERBETERING: Gebruik uw Builder-eenheid om een ​​derde verbetering in uw stad op te bouwen.</Text>
+			<Text>BOUWVERBETERING: Gebruik uw Builder-eenheid om een derde verbetering in uw stad op te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_14">
 			<Text>Bouw de oude muren in je hoofdstad.</Text>
@@ -1127,16 +1127,16 @@
 			<Text>[NEWLINE][NEWLINE]Ontsluit ontplooiing: {1_Civics}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_53_BODY">
-			<Text>De symbolen die worden weergegeven in het technologieknooppunt vertegenwoordigen nieuwe eenheden, gebouwen, wonderen en mogelijkheden die worden ontgrendeld door de technologie zodra deze is voltooid. Nadat u bijvoorbeeld de technologie van Pottery hebt onderzocht, kunt u het graanschuurgebouw in al uw steden bouwen. Je bouwers zullen ook de mogelijkheid krijgen om tarwemiddelen in de buurt van jouw stad te oogsten. Tijdens het oogsten van een tarwesource krijgt u een grote hoeveelheid [ICON_Food] voedsel, die bron wordt van de kaart verwijderd. In de meeste gevallen is het beter om een ​​tarwemiddel te verzorgen door er in plaats daarvan een Farm-verbetering op te bouwen.</Text>
+			<Text>De symbolen die worden weergegeven in het technologieknooppunt vertegenwoordigen nieuwe eenheden, gebouwen, wonderen en mogelijkheden die worden ontgrendeld door de technologie zodra deze is voltooid. Nadat u bijvoorbeeld de technologie van Pottery hebt onderzocht, kunt u het graanschuurgebouw in al uw steden bouwen. Je bouwers zullen ook de mogelijkheid krijgen om tarwemiddelen in de buurt van jouw stad te oogsten. Tijdens het oogsten van een tarwesource krijgt u een grote hoeveelheid [ICON_Food] voedsel, die bron wordt van de kaart verwijderd. In de meeste gevallen is het beter om een tarwemiddel te verzorgen door er in plaats daarvan een Farm-verbetering op te bouwen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_167_BODY">
-			<Text>De technologische vooruitgang van uw mensen wordt bereikt door onderzoek. [NEWLINE][NEWLINE]Door onderzoek naar technologieën te voltooien, ontgrendelt u nieuwe manieren om het land te exploiteren, nieuwe militaire eenheden, nieuwe stadsupgrades en nog veel meer.</Text>
+			<Text>De technologische vooruitgang van uw mensen wordt bereikt door onderzoek.[NEWLINE][NEWLINE]Door onderzoek naar technologieën te voltooien, ontgrendelt u nieuwe manieren om het land te exploiteren, nieuwe militaire eenheden, nieuwe stadsupgrades en nog veel meer.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_111_BODY">
 			<Text>Net zoals het bouwen van nieuwe units wordt gevoed door [ICON_Production] Production, wordt onderzoek naar nieuwe technologieën aangewakkerd door [ICON_Science] Science.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_112_BODY">
-			<Text>Elke stad in je rijk genereert per beurt een kleine hoeveelheid [ICON_Science] Wetenschap. Hoe snel uw onderzoeksprojecten worden voltooid, wordt bepaald door het totaal van alle [ICON_Science] wetenschap die door uw steden wordt gegenereerd. [NEWLINE][NEWLINE]Hoe meer [ICON_Science] wetenschap u genereert, hoe sneller u nieuwe technologieën onderzoekt.</Text>
+			<Text>Elke stad in je rijk genereert per beurt een kleine hoeveelheid [ICON_Science] Wetenschap. Hoe snel uw onderzoeksprojecten worden voltooid, wordt bepaald door het totaal van alle [ICON_Science] wetenschap die door uw steden wordt gegenereerd.[NEWLINE][NEWLINE]Hoe meer [ICON_Science] wetenschap u genereert, hoe sneller u nieuwe technologieën onderzoekt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_SELECT_IRRIGATION">
 			<Text>Selecteer Irrigatie in het paneel Onderzoekskiezen.</Text>
@@ -1148,13 +1148,13 @@
 			<Text>Klik op de knop Onderzoek kiezen om het Onderzoekspaneel te openen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_113_BODY">
-			<Text>Voor deze tutorial hebben we de productie van dit apparaat 'overhaast' gemaakt. Normaal gesproken zou de productie meerdere beurten in beslag hebben genomen om te voltooien.</Text>
+			<Text>Voor deze tutorial hebben we de productie van deze eenheid 'overhaast' gemaakt. Normaal gesproken zou de productie meerdere beurten in beslag hebben genomen om te voltooien.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_12_BODY">
 			<Text>Klik op de knop Kies productie om het Productiemenu van de stad te openen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_15_BODY">
-			<Text>Klik op de Warrior-eenheid om deze te selecteren.</Text>
+			<Text>Klik op de Krijger-eenheid om deze te selecteren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_114_BODY">
 			<Text>Alle stamdorpen zullen een beloning toekennen wanneer ze door een speler worden verkend. Dit stamdorp heeft je een nieuwe Scout-eenheid gegeven, die in jouw stad is verschenen.</Text>
@@ -1169,10 +1169,10 @@
 			<Text>Er is onderzoek gestart naar de Pottery-technologie. Beëindig je beurt nadat je je Scout-eenheid hebt verplaatst.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_118_BODY">
-			<Text>Om een ​​spel Civilization te winnen, moet je alle andere beschavingen in de wereld verslaan. Er zijn meerdere manieren om dit te bereiken. De meeste games eindigen ook in het jaar 2050 of na een bepaald aantal beurten. Als geen enkele speler deze overwinningen tegen die tijd heeft behaald, bepaalt de score de winnaar. De score wordt berekend als een algemene maatstaf voor de prestaties van elke speler op alle terreinen van het streven.</Text>
+			<Text>Om een spel Civilization te winnen, moet je alle andere beschavingen in de wereld verslaan. Er zijn meerdere manieren om dit te bereiken. De meeste games eindigen ook in het jaar 2050 of na een bepaald aantal beurten. Als geen enkele speler deze overwinningen tegen die tijd heeft behaald, bepaalt de score de winnaar. De score wordt berekend als een algemene maatstaf voor de prestaties van elke speler op alle terreinen van het streven.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_119_BODY">
-			<Text>De status van de voorwaarden van elke Victory wordt bijgehouden in het paneel World Rankings. [NEWLINE][NEWLINE]Nu openen.</Text>
+			<Text>De status van de voorwaarden van elke Victory wordt bijgehouden in het paneel World Rankings.[NEWLINE][NEWLINE]Nu openen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_119a_HEAD">
 			<Text>Wereldranglijsten</Text>
@@ -1184,34 +1184,34 @@
 			<Text>Het tabblad Algemeen geeft je een overzicht van alle soorten overwinningen en je rangorde ten opzichte van andere spelers</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_121_BODY">
-			<Text>De andere tabbladen geven u meer specifieke informatie over elke reeks rankings. [NEWLINE][NEWLINE]Sluit het paneel wanneer u klaar bent om verder te gaan.</Text>
+			<Text>De andere tabbladen geven u meer specifieke informatie over elke reeks rankings.[NEWLINE][NEWLINE]Sluit het paneel wanneer u klaar bent om verder te gaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_122_BODY">
-			<Text>De rest van deze tutorial helpt je om je eerste overheersingsoverwinning te bereiken. [NEWLINE][NEWLINE]Het doel van een dominantieoverwinning is dat je beschaving de laatste is die zijn eigen [ICON_Capital] hoofdstad inneemt. [NEWLINE] [NEWLINE ] Voor deze zelfstudie betekent dit dat je je leger moet gebruiken om de [ICON_Capital] hoofdstad van je rivaal te veroveren, terwijl je ze niet kunt nemen. [NEWLINE][NEWLINE]Hoe je dit uiteindelijk bereikt, is aan jou. We hebben echter drie optionele doelstellingen gegeven die, indien voltooid, u enorm zullen helpen om dit te bereiken.</Text>
+			<Text>De rest van deze tutorial helpt je om je eerste overheersingsoverwinning te bereiken.[NEWLINE][NEWLINE]Het doel van een dominantieoverwinning is dat je beschaving de laatste is die zijn eigen [ICON_Capital] hoofdstad inneemt.[NEWLINE] [NEWLINE ] Voor deze zelfstudie betekent dit dat je je leger moet gebruiken om de [ICON_Capital] hoofdstad van je rivaal te veroveren, terwijl je ze niet kunt nemen.[NEWLINE][NEWLINE]Hoe je dit uiteindelijk bereikt, is aan jou. We hebben echter drie optionele doelstellingen gegeven die, indien voltooid, u enorm zullen helpen om dit te bereiken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_123_BODY">
 			<Text>Als je ergens niet zeker van bent, of op zoek bent naar meer informatie over alles wat je in deze tutorial hebt gezien, is de kans groot dat je het in de Civilopedia vindt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_64_BODY">
-			<Text>Districten zijn specifieke delen van uw stad die zijn toegewijd aan het leveren van een specifieke opbrengst. Gebouwen kunnen in districten worden gebouwd om die opbrengst te vergroten en tegelijkertijd andere voordelen voor uw stad te bieden.</Text>
+			<Text>Districten zijn specifieke delen van uw stad die zijn toegewijd aan het leveren van een specifieke opbrengst. Gebouwen kunnen in wijken worden gebouwd om die opbrengst te vergroten en tegelijkertijd andere voordelen voor uw stad te bieden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_65_BODY">
-			<Text>U hebt bijvoorbeeld het district {DISTRICT_TYPE} ontgrendeld dat is gewijd aan het leveren van {YIELD_TYPE} aan uw beschaving. Als u een {DISTRICT_BUILDING} gebouw bouwt in dit district, verhoogt u de {YIELD_TYPE} opbrengst voor uw beschaving.</Text>
+			<Text>U hebt bijvoorbeeld de wijk {DISTRICT_TYPE} ontgrendeld dat is gewijd aan het leveren van {YIELD_TYPE} aan uw beschaving. Als u een {DISTRICT_BUILDING} gebouw bouwt in dit district, verhoogt u de {YIELD_TYPE} opbrengst voor uw beschaving.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_66_BODY">
-			<Text>Om een ​​wijk te zones, selecteert u deze in het productiemenu van uw stad zoals u een gebouw of een eenheid zou doen. Sommige districten hebben regels over waar ze kunnen worden geplaatst, maar wat nog belangrijker is, is dat districten een nog groter voordeel kunnen hebben als ze op een optimale locatie worden geplaatst.</Text>
+			<Text>Om een wijk te zones, selecteert u deze in het productiemenu van uw stad zoals u een gebouw of een eenheid zou doen. Sommige wijken hebben regels over waar ze kunnen worden geplaatst, maar wat nog belangrijker is, is dat wijken een nog groter voordeel kunnen hebben als ze op een optimale locatie worden geplaatst.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_67_BODY">
-			<Text>Wanneer u klaar bent om een ​​district te bezetten, helpt het spel u bij het kiezen van de beste locatie. Soms heb je misschien geen geldige plek in je stad om meteen een nieuwe wijk te plaatsen. Mogelijk moet de locatie worden verwijderd van obstructies, of al uw bestaande stadsplattegronden hebben mogelijk al verbeteringen.</Text>
+			<Text>Wanneer u klaar bent om een wijk te bezetten, helpt het spel u bij het kiezen van de beste locatie. Soms heb je misschien geen geldige plek in je stad om meteen een nieuwe wijk te plaatsen. Mogelijk moet de locatie worden verwijderd van obstructies, of al uw bestaande stadsplattegronden hebben mogelijk al verbeteringen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_68_BODY">
-			<Text>Het uitbreiden van de grootte van je stad is een manier om meer locaties voor districten te krijgen, evenals verbeteringen.</Text>
+			<Text>Het uitbreiden van de grootte van je stad is een manier om meer locaties voor wijken te krijgen, evenals verbeteringen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_5">
 			<Text>Majesteit, als ik mag ... Hoewel onze wetenschappers bereid zijn andere onderzoeksprojecten te onderzoeken, denk ik dat het het beste is om hen niet af te leiden totdat ze hun huidige project hebben voltooid, tenzij het absoluut noodzakelijk is.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_69_BODY">
-			<Text>Alle onderzoeksresultaten met betrekking tot een technologie gaan niet verloren, dus er zijn gevallen waarin het wijzigen van uw onderzoeksfocus strategisch geldig is. Het is echter altijd beter om een ​​voltooide technologie te hebben in plaats van veel onvolledige.</Text>
+			<Text>Alle onderzoeksresultaten met betrekking tot een technologie gaan niet verloren, dus er zijn gevallen waarin het wijzigen van uw onderzoeksfocus strategisch geldig is. Het is echter altijd beter om een voltooide technologie te hebben in plaats van veel onvolledige.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_73_BODY">
 			<Text>In Civilization VI kun je Eureka Moments krijgen die je technologieonderzoek een boost geven in game-prestaties. Dit Eureka-moment werd gewonnen door een natuurwonder te ontdekken. Andere prestaties kunnen het winnen van een gevecht met een specifieke eenheid of het bouwen van een gebouw zijn. Het bereiken hiervan versnelt je technologische vooruitgang enorm.</Text>
@@ -1229,10 +1229,10 @@
 			<Text>Scouts krijgen, in tegenstelling tot andere militaire eenheden, ervaring met het verkennen van de stamdorpen. Ze kunnen ook ervaring opdoen met het ontdekken van natuurlijke wonderen in de wereld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_128_BODY">
-			<Text>Je hebt misschien gemerkt dat je steden elke beurt een kleine hoeveelheid [ICON_Faith] geloof hebben gegenereerd. [NEWLINE][NEWLINE][ICON_Faith] Geloof wordt met de tijd verdiend door bepaalde gebouwen, districten en beleid.</Text>
+			<Text>Je hebt misschien gemerkt dat je steden elke beurt een kleine hoeveelheid [ICON_Faith] geloof hebben gegenereerd.[NEWLINE][NEWLINE][ICON_Faith] Geloof wordt met de tijd verdiend door bepaalde gebouwen, wijken en beleid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_129_BODY">
-			<Text>Nu je genoeg [ICON_Faith] Faith hebt verdiend, kun je de eerste stap zetten naar het oprichten van een religie door een pantheon te vormen, die je een keuze aan strategische voordelen biedt.</Text>
+			<Text>Nu je genoeg [ICON_Faith] Geloof hebt verdiend, kun je de eerste stap zetten naar het oprichten van een religie door een pantheon te vormen, die je een keuze aan strategische voordelen biedt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_129b_HEAD">
 			<Text>Kies voor Pantheon</Text>
@@ -1247,10 +1247,10 @@
 			<Text>Kies een pantheon en klik vervolgens op de knop 'Dit Pantheon gevonden' als je klaar bent.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_130_BODY">
-			<Text>Goed gedaan! De volgende stap is om een ​​grote profeet aan te trekken, die in staat zal zijn om een ​​religie te stichten. Maar eerst moet je een Holy Site district bouwen, of een passend overheidsbeleid opstellen, die beide je Great Prophet Points verdienen.</Text>
+			<Text>Goed gedaan! De volgende stap is om een grote profeet aan te trekken, die in staat zal zijn om een religie te stichten. Maar eerst moet je een Holy Site wijk bouwen, of een passend overheidsbeleid opstellen, die beide je Great Prophet Points verdienen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_131_BODY">
-			<Text>Er zijn een beperkt aantal mogelijkheden om een ​​religie te stichten. Dit is optioneel, maar onthoud dat als je dat niet doet, je misschien geen effectief tegenwicht hebt tegen een speler die op zoek is naar een religieuze overwinning door je [ICON_Citizen] -burgers te converteren.</Text>
+			<Text>Er zijn een beperkt aantal mogelijkheden om een religie te stichten. Dit is optioneel, maar onthoud dat als je dat niet doet, je misschien geen effectief tegenwicht hebt tegen een speler die op zoek is naar een religieuze overwinning door je [ICON_Citizen] -burgers te converteren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_131b_HEAD">
 			<Text>Religie sluiten</Text>
@@ -1259,16 +1259,16 @@
 			<Text>Je [ICON_GreatProphet] Great Prophet heeft een nieuwe religie opgericht en je moet deze aanpassen door een naam, symbool te selecteren en twee aanvullende religieuze overtuigingen te selecteren die een aanvulling zijn op het eerder door jou gekozen geloof van het Pantheon.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_133_BODY">
-			<Text>Je nieuwe religie kan zich verspreiden tussen steden, en zijn [ICON_Citizen] burgers omvormen tot volgers. Het is mogelijk voor een stad om een ​​mix van verschillende religies te hebben. De religie met de meerderheid van de volgers in een stad zal degene zijn die zijn bonussen overdraagt.</Text>
+			<Text>Je nieuwe religie kan zich verspreiden tussen steden, en zijn [ICON_Citizen] burgers omvormen tot volgers. Het is mogelijk voor een stad om een mix van verschillende religies te hebben. De religie met de meerderheid van de volgers in een stad zal degene zijn die zijn bonussen overdraagt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_134_BODY">
-			<Text>Terwijl religie zich langzaam organisch zal verspreiden van stad tot stad, kun je plotselinge verschuivingen veroorzaken door Missionaire en Aposteleenheden te trainen en ze uit te zenden om de Godsdienst van je volk te verspreiden. Deze eenheden kunnen worden verkregen door [ICON_Faith] Faith uit te geven om ze te kopen op het tabblad Aankoop van het Productiemenu van een stad.</Text>
+			<Text>Terwijl religie zich langzaam organisch zal verspreiden van stad tot stad, kun je plotselinge verschuivingen veroorzaken door Missionaire en Aposteleenheden te trainen en ze uit te zenden om de Godsdienst van je volk te verspreiden. Deze eenheden kunnen worden verkregen door [ICON_Faith] Geloof uit te geven om ze te kopen op het tabblad Aankoop van het Productiemenu van een stad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_135_BODY">
 			<Text>Agressief je religie verspreiden is essentieel als je je richt op een religieuze overwinning. Zelfs als dat niet zo is, is het verstandig om bij te houden hoe religie zich over de wereld verspreidt. Tegenover waar mogelijk de kansen te verkleinen dat een andere speler op deze manier de Overwinning claimt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_136_BODY">
-			<Text>Je hebt de gelegenheid gekregen om een ​​[ICON_GreatPerson] Grote Persoon voor je beschaving te claimen. [ICON_GreatPerson] Geweldige mensen bieden aanzienlijke voordelen voor uw beschaving op basis van hun vakgebied. Er zijn veel soorten [ICON_GreatPerson] geweldige mensen, waaronder artiesten, ingenieurs en militaire leiders.</Text>
+			<Text>Je hebt de gelegenheid gekregen om een [ICON_GreatPerson] Grote Persoon voor je beschaving te claimen. [ICON_GreatPerson] Geweldige mensen bieden aanzienlijke voordelen voor uw beschaving op basis van hun vakgebied. Er zijn veel soorten [ICON_GreatPerson] geweldige mensen, waaronder artiesten, ingenieurs en militaire leiders.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_136b_HEAD">
 			<Text>Geweldige mensen</Text>
@@ -1280,16 +1280,16 @@
 			<Text>Dit is het [ICON_GreatPerson] Great People-paneel. Het toont alle [ICON_GreatPerson] geweldige mensen die momenteel beschikbaar zijn voor beschavingen om te claimen, hun voordelen en hun kosten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_138_BODY">
-			<Text>Elke [ICON_GreatPerson] geweldige persoon heeft een of meer mogelijkheden om een ​​speciale bonus te activeren. Ze verschijnen als een eenheid in een van je steden en je moet hun bonus activeren op een speciale locatie op de kaart. Zodra ze al hun bonussen hebben gebruikt, zal de [ICON_GreatPerson] geweldige persoon verdwijnen.</Text>
+			<Text>Elke [ICON_GreatPerson] geweldige persoon heeft een of meer mogelijkheden om een speciale bonus te activeren. Ze verschijnen als een eenheid in een van je steden en je moet hun bonus activeren op een speciale locatie op de kaart. Zodra ze al hun bonussen hebben gebruikt, zal de [ICON_GreatPerson] geweldige persoon verdwijnen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_139_BODY">
-			<Text>Een [ICON_GreatPerson] Geweldige Persoon wordt verdiend door voldoende [ICON_GreatPerson] Great People Points van dit type op te slaan en vervolgens uit te geven om de [ICON_GreatPerson] Geweldige Persoon voor je beschaving te rekruteren. Deze punten komen voornamelijk uit districten en gebouwen, maar kunnen ook komen van beleid en andere effecten. Als je gehaast bent, kun je [ICON_Gold] Gold of [ICON_Faith] Faith uitgeven om meteen de [ICON_GreatPerson] geweldige persoon te verdienen die je zoekt.</Text>
+			<Text>Een [ICON_GreatPerson] Geweldige Persoon wordt verdiend door voldoende [ICON_GreatPerson] Great People Points van dit type op te slaan en vervolgens uit te geven om de [ICON_GreatPerson] Geweldige Persoon voor je beschaving te rekruteren. Deze punten komen voornamelijk uit wijken en gebouwen, maar kunnen ook komen van beleid en andere effecten. Als je gehaast bent, kun je [ICON_Gold] Gold of [ICON_Faith] Geloof uitgeven om meteen de [ICON_GreatPerson] geweldige persoon te verdienen die je zoekt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_140_BODY">
-			<Text>Je kunt ervoor kiezen om een ​​[ICON_GreatPerson] geweldige persoon door te geven die je niet wilt. Als u dit doet, hebben andere spelers de mogelijkheid om ze te claimen en is uw keuze om te slagen niet omkeerbaar. Uw [ICON_GreatPerson] Great People Points worden echter opgeslagen voor een toekomstige gelegenheid.</Text>
+			<Text>Je kunt ervoor kiezen om een [ICON_GreatPerson] geweldige persoon door te geven die je niet wilt. Als u dit doet, hebben andere spelers de mogelijkheid om ze te claimen en is uw keuze om te slagen niet omkeerbaar. Uw [ICON_GreatPerson] Great People Points worden echter opgeslagen voor een toekomstige gelegenheid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_141_BODY">
-			<Text>U hebt zojuist een Trader-eenheid voltooid. Handelaren reizen tussen twee steden en genereren inkomsten voor hun stad van herkomst.</Text>
+			<Text>U hebt zojuist een Handelaar voltooid. Handelaren reizen tussen twee steden en genereren inkomsten voor hun stad van herkomst.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_142_BODY">
 			<Text>Je beschaving kan een beperkt aantal [ICON_TradeRoute] handelsroutes vaststellen. U kunt deze capaciteit uitbreiden met Commercial Hub of Harbor districts.</Text>
@@ -1301,13 +1301,13 @@
 			<Text>Klik op de eenheid 'Wijs handelsroute toe'.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_143_BODY">
-			<Text>Er zijn momenteel geen andere steden om handel mee te drijven. Blijf de kaart verkennen, of bouw een Settler op en zoek een nieuwe stad op.</Text>
+			<Text>Er zijn momenteel geen andere steden om handel mee te drijven. Blijf de kaart verkennen, of bouw een Kolonist op en zoek een nieuwe stad op.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_144_BODY">
 			<Text>Dit is het Trade Panel, waarin de steden worden weergegeven waarmee u momenteel kunt handelen. Handelaren hebben een beperkt bereik, maar het bezoeken van nabijgelegen steden zal daar een handelspost vestigen, waardoor ze kunnen worden gebruikt als een brug naar verder gelegen bestemmingen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_145_BODY">
-			<Text>Afhankelijk van de gebouwen en districten binnen een buitenlandse bestemming, verdien je elke beurt opbrengsten van [ICON_Science] Science, [ICON_Faith] Faith, [ICON_Culture] Culture of [ICON_Gold] Gold voor een bepaald aantal beurten. Voor binnenlandse bestemmingen kunt u [ICON_Food] Food en [ICON_Production] Production verdienen.</Text>
+			<Text>Afhankelijk van de gebouwen en wijken binnen een buitenlandse bestemming, verdien je elke beurt opbrengsten van [ICON_Science] Science, [ICON_Faith] Geloof, [ICON_Culture] Culture of [ICON_Gold] Gold voor een bepaald aantal beurten. Voor binnenlandse bestemmingen kunt u [ICON_Food] Voedsel en [ICON_Production] Production verdienen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_145b_BODY">
 			<Text>Selecteer de bestemming van uw keuze in de lijst met beschikbare steden.</Text>
@@ -1331,16 +1331,16 @@
 			<Text>Klik op de knop stadstaat of klik op de stadstatus om het deelvenster Stadstatus te openen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_151_BODY">
-			<Text>Dit is het paneel van de stadstaat. U kunt gezanten verdienen en ze naar een stadstaat sturen. Als u dit doet, kunt u geleidelijk betere buffs verdienen voor [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production, [ICON_Gold] Gold of [ICON_Faith] Faith. Klik op de naam van een stadstaat in de lijst.</Text>
+			<Text>Dit is het paneel van de stadstaat. U kunt gezanten verdienen en ze naar een stadstaat sturen. Als u dit doet, kunt u geleidelijk betere buffs verdienen voor [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Production] Production, [ICON_Gold] Gold of [ICON_Faith] Geloof. Klik op de naam van een stadstaat in de lijst.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_152_BODY">
-			<Text>Dit zijn de quests die je kunt voltooien voor deze stadstaat. Dit is een manier om gezanten te verdienen en uw vriendschap ermee te verbeteren. U kunt ook gezanten verdienen door bepaalde items in de Civics Tree in te vullen en in de loop van de tijd via regeringen en beleid.</Text>
+			<Text>Dit zijn de quests die je kunt voltooien voor deze stadstaat. Dit is een manier om gezanten te verdienen en uw vriendschap ermee te verbeteren. U kunt ook gezanten verdienen door bepaalde items in de Ontplooiingenboom in te vullen en in de loop van de tijd via regeringen en beleid.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_153_BODY">
 			<Text>Je eenheid komt dicht bij een vijandige stad. Aanvallen van steden is meestal een moeilijke en potentieel kostbare onderneming die een mix van eenheidstypen en een tactische aanpak vereist.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_154_BODY">
-			<Text>Het beveiligingsniveau en de statusbalk van de stad staan ​​op het naamplaatje. Deze stad heeft muren. Het zal in staat zijn om een ​​afstandsaanval te lanceren van 2 hexen weg, en zal zeer resistent zijn tegen melee-eenheden.</Text>
+			<Text>Het beveiligingsniveau en de statusbalk van de stad staan op het naamplaatje. Deze stad heeft muren. Het zal in staat zijn om een afstandsaanval te lanceren van 2 tegels weg, en zal zeer resistent zijn tegen melee-eenheden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_155_BODY">
 			<Text>Bepaalde belegeringseenheden kunnen je kansen verbeteren. Katapulten kunnen aanvallen vanuit bereik en aanzienlijke schade toebrengen aan muren, terwijl de stormram of belegeringstoren gevechtseenheden toestaat om muren aan te vallen of ze te omzeilen.</Text>
@@ -1400,7 +1400,7 @@
 			<Text>Te lang hebben we deze wereld rondgetrokken zonder een land om de onze te noemen. Het is tijd dat we onze wortels neerleggen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_22a">
-			<Text>Onze dappere Settlers wachten op je commando. We zouden onze eerste stad hier moeten vinden.</Text>
+			<Text>Onze dappere Kolonisten wachten op je commando. We zouden onze eerste stad hier moeten vinden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_3_ALTV2">
 			<Text>Uit de zaden van deze kleine stad zul je een rijk laten groeien. Maar om echt te gedijen, moeten we eerst rekening houden met de behoeften van onze mensen.</Text>
@@ -1454,7 +1454,7 @@
 			<Text>Barbaarse raiders naderen onze stad! We zijn zeker te veel een doelwit voor hen om te negeren.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_92">
-			<Text>We kunnen niet toestaan ​​dat deze wilden ons plunderen en alles vernietigen wat we hebben gebouwd. Onze Warriors hebben hun training voltooid. Laten we ze inzetten voor de strijd!</Text>
+			<Text>We kunnen niet toestaan dat deze wilden ons plunderen en alles vernietigen wat we hebben gebouwd. Onze Warriors hebben hun training voltooid. Laten we ze inzetten voor de strijd!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_94">
 			<Text>Krijgers zijn het lemmet waarmee we onze vijand zullen neerhalen. Ze hebben alleen je hand nodig om hen te begeleiden.</Text>
@@ -1493,13 +1493,13 @@
 			<Text>We hebben alle noodzakelijke zaken bijgewoond vandaag.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_FTUE_47_ALT">
-			<Text>Onze Warriors staan ​​voor de dorpspoorten. Ze wachten op je opdracht om binnen te gaan.</Text>
+			<Text>Onze Warriors staan voor de dorpspoorten. Ze wachten op je opdracht om binnen te gaan.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_16_ALT">
-			<Text>Het lijkt erop dat vriendschap zijn voordelen heeft. Ons succes tegen de Barbaren heeft dit dorp bereikt. Onder de indruk van onze cultuur willen ze opstaan ​​tegen hun onderdrukkers en ons bijstaan ​​in de strijd tegen de horde.</Text>
+			<Text>Het lijkt erop dat vriendschap zijn voordelen heeft. Ons succes tegen de Barbaren heeft dit dorp bereikt. Onder de indruk van onze cultuur willen ze opstaan tegen hun onderdrukkers en ons bijstaan in de strijd tegen de horde.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_17_ALT">
-			<Text>Hoewel hij niet bekwaam is in gevechtshandelingen, bezit deze stam een ​​grote kennis van het land. Hun vermogen om zich snel door het terrein te bewegen maakt hen tot ideale Scouts. We moeten ze goed gebruiken.</Text>
+			<Text>Hoewel hij niet bekwaam is in gevechtshandelingen, bezit deze stam een grote kennis van het land. Hun vermogen om zich snel door het terrein te bewegen maakt hen tot ideale Scouts. We moeten ze goed gebruiken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_171">
 			<Text>Er kunnen nog andere gelijkgezinde nederzettingen zijn in de landen die voor ons liggen. We zouden het verstandig zijn om ze in de toekomst op te zoeken ...</Text>
@@ -1547,7 +1547,7 @@
 			<Text>Terwijl onze Scouts blijven doorgaan, laten we ons naar ons eigen kapitaal keren. Terwijl onze stad groeit, neemt ook de honger van onze mensen toe ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_191">
-			<Text>Onze bouwers staan ​​nu klaar. Het bouwen van een boerderij op vruchtbare gronden in onze stad zal onze opbrengst verhogen en onze mensen beter voeden.</Text>
+			<Text>Onze bouwers staan nu klaar. Het bouwen van een boerderij op vruchtbare gronden in onze stad zal onze opbrengst verhogen en onze mensen beter voeden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_192">
 			<Text>Deze vlaktes hebben een rijke bodem. Een ideale plek om onze eerste gewassen te planten ...</Text>
@@ -1595,22 +1595,22 @@
 			<Text>Misschien zijn we nu klaar om onze beschaving buiten onze hoofdstad te verspreiden. Als we het omliggende gebied niet claimen, zullen anderen dat zeker doen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_29_ALT">
-			<Text>Uitstekend, deze dappere Settlers staan ​​klaar om onze cultuur naar het onbekende te dragen. Het zal echter enige tijd duren voordat ze zijn voorbereid op de reis die hen te wachten staat.</Text>
+			<Text>Uitstekend, deze dappere Kolonisten staan klaar om onze cultuur naar het onbekende te dragen. Het zal echter enige tijd duren voordat ze zijn voorbereid op de reis die hen te wachten staat.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_292">
 			<Text>Er zijn meldingen van gevaarlijke raiders die rondzwerven in de nabijgelegen landen. Het is het beste om deze Warriors hier te houden, met het oog op de veiligheid van onze hoofdstad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_30_ALT">
-			<Text>Onze Settlers hebben de voorbereidingen voltooid en wachten op uw opdracht. De landen die voor hen liggen, bezitten echter onnoemelijke gevaren. We moeten niet toestaan ​​dat ze uitgaan zonder bescherming ...</Text>
+			<Text>Onze Kolonisten hebben de voorbereidingen voltooid en wachten op uw opdracht. De landen die voor hen liggen, bezitten echter onnoemelijke gevaren. We moeten niet toestaan dat ze uitgaan zonder bescherming ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_301">
 			<Text>Uitstekend, met onze mensen voorbereid moeten we nu onze bestemming kiezen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_302">
-			<Text>Er is een gebied rijk aan hulpbronnen niet ver van de hoofdstad. Laten we onze Settlers daarheen sturen.</Text>
+			<Text>Er is een gebied rijk aan hulpbronnen niet ver van de hoofdstad. Laten we onze Kolonisten daarheen sturen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_31_ALT">
-			<Text>Hoewel onze Settlers veilig zijn onder de bescherming van onze Warriors, is onze hoofdstad nu weerloos. Zonder de bescherming van het leger zullen we zeker worden overspoeld door onze vijanden.</Text>
+			<Text>Hoewel onze Kolonisten veilig zijn onder de bescherming van onze Warriors, is onze hoofdstad nu weerloos. Zonder de bescherming van het leger zullen we zeker worden overspoeld door onze vijanden.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_311">
 			<Text>Hoewel onze krijgers dapper zijn, moet een goede strijdmacht worden gediversifieerd. Slingers bieden een andere stijl van vechten.</Text>
@@ -1622,7 +1622,7 @@
 			<Text>Locatie is van cruciaal belang bij het opzetten van een nieuwe regeling. We hebben geluk dat we zo'n ideale plek hebben ontdekt.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_331">
-			<Text>Bestel onze mensen om hier te roeien.</Text>
+			<Text>Beveel onze mensen om hier te roeien.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_332">
 			<Text>Goed gedaan. Onze beschaving blijft zich buiten de verwachting verspreiden. Na verloop van tijd kan het zelfs onze eigen hoofdstad evenaren.</Text>
@@ -1643,10 +1643,10 @@
 			<Text>Onze stad blijft bloeien. Onze mensen gedijen al en onze bevolking groeit!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_5_ALT">
-			<Text>Hoewel onze wetenschappers bereid zijn andere onderzoeksprojecten te onderzoeken, is het misschien niet verstandig hen af ​​te leiden van hun huidige werk tenzij het absoluut noodzakelijk is.</Text>
+			<Text>Hoewel onze wetenschappers bereid zijn andere onderzoeksprojecten te onderzoeken, is het misschien niet verstandig hen af te leiden van hun huidige werk tenzij het absoluut noodzakelijk is.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_6_ALT">
-			<Text>De taak die voorhanden is, is van cruciaal belang. Zou ik in deze kwestie geduld kunnen aanbevelen? We zouden onze mensen moeten toestaan ​​hun werk voort te zetten als dat enigszins mogelijk is.</Text>
+			<Text>De taak die voorhanden is, is van cruciaal belang. Zou ik in deze kwestie geduld kunnen aanbevelen? We zouden onze mensen moeten toestaan hun werk voort te zetten als dat enigszins mogelijk is.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_7_ALT">
 			<Text>We hebben een ander vriendelijk dorpje in de buurt gezien. Misschien moeten we een Scout sturen om te onderzoeken.</Text>
@@ -1673,13 +1673,13 @@
 			<Text>Met Writing verenigen we onze mensen. Een gemeenschappelijke geschreven taal laat ideeën bloeien en onze collectieve kennis groeien. Als we een plaats zouden bieden om deze kennis te verzamelen en te delen, zouden onze mensen zeker gedijen ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_391">
-			<Text>Door ons als geesten en middelen in districten te concentreren, specialiseren we de groei van onze stad. We moeten de locatie van deze districten zorgvuldig kiezen om er het meeste profijt van te trekken.</Text>
+			<Text>Door ons als geesten en middelen in wijken te concentreren, specialiseren we de groei van onze stad. We moeten de locatie van deze wijken zorgvuldig kiezen om er het meeste profijt van te trekken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_40_ALT">
 			<Text>Reeds de grootste geesten in onze beschaving wachten gretig af op de voltooiing van deze Campus ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_401">
-			<Text>Maar we moeten niet toestaan ​​dat deze grote denkers niets doen. Laten we hun aandacht elders richten ...</Text>
+			<Text>Maar we moeten niet toestaan dat deze grote denkers niets doen. Laten we hun aandacht elders richten ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_41_ALT">
 			<Text>Onze grootste geleerden en wetenschappers beginnen zich al te verzamelen op onze Campus. Door hen een bibliotheek aan te bieden zou ze verder kunnen helpen in hun bezigheden.</Text>
@@ -1700,7 +1700,7 @@
 			<Text>Er is oorlog over ons! Onze mensen zijn in gevaar. We moeten onmiddellijk een leger mobiliseren of het risico lopen te worden overwonnen. Er is geen tijd voor vertraging!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_44_ALT">
-			<Text>Onze mensen gedijen echt onder jouw leiding. Maar naarmate onze beschaving groeit, moet ook ons ​​leiderschap groeien.</Text>
+			<Text>Onze mensen gedijen echt onder jouw leiding. Maar naarmate onze beschaving groeit, moet ook ons leiderschap groeien.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_441">
 			<Text>We moeten nu beleid opstellen om de groei van onze mensen beter te sturen ...</Text>

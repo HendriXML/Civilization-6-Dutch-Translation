@@ -548,16 +548,16 @@
 			<Text>Het kampement buiten de stad {1_CityName} heeft vijandelijke troepen op schootsafstand.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
-			<Text>Nucleair apparaat ontploft</Text>
+			<Text>Atoombom ontploft</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
-			<Text>{1_CivName} heeft een nucleair apparaat laten ontploffen nabij de stad {2_CityName}.</Text>
+			<Text>{1_CivName} heeft een atoombom laten ontploffen nabij de stad {2_CityName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
-			<Text>Thermonucleair apparaat ontploft</Text>
+			<Text>Waterstofbom ontploft</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
-			<Text>{1_CivName} heeft een verwoestend thermomucleair apparaat laten onploffen nabij de stad {2_CityName}.</Text>
+			<Text>{1_CivName} heeft een verwoestend waterstofbom laten onploffen nabij de stad {2_CityName}.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
 			<Text>Kan spion opleiden</Text>

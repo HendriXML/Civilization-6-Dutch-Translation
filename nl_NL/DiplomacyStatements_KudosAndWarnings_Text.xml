@@ -182,7 +182,7 @@
 			<Text>Grote geesten denken hetzelfde, zie ik. Er zijn zoveel toepassingen voor die technologie ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_FAITH">
-			<Text>Vrede zij met jou en de jouwe. Het is hartverwarmend om een ​​andere te zien die net zo vroom is als ikzelf.</Text>
+			<Text>Vrede zij met jou en de jouwe. Het is hartverwarmend om een andere te zien die net zo vroom is als ikzelf.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_EXPLORATION">
 			<Text>Ja erg goed. Laat het verkennen aan mij over.</Text>
@@ -203,7 +203,7 @@
 			<Text>Ik zal mijn vijanden vernietigen en als je hen blijft helpen, zal ik je ook vernietigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GANDHI_ANY">
-			<Text>Als je zo bloeddorstig bent, is het misschien beter om een ​​einde aan je leiderschap te maken.</Text>
+			<Text>Als je zo bloeddorstig bent, is het misschien beter om een einde aan je leiderschap te maken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GILGAMESH_ANY">
 			<Text>Als je mijn vrienden schaadt, zul je de macht van Uruk tegemoet treden; dit beloof ik je.</Text>
