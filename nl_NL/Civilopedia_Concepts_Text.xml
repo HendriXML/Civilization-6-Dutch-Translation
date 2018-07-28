@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_CHAPTER_INTRO_TITLE">
 			<Text>Introductie</Text>

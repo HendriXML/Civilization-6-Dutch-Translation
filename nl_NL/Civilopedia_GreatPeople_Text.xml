@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<GameData>
 	<LocalizedText>
 		<Replace Language="nl_NL" Tag="LOC_PEDIA_GREATPEOPLE_PAGE_INTRO_CHAPTER_CONTENT_PARA_1">
 			<Text>Geweldige mensen zijn de kunstenaars, handelaren, ingenieurs, wetenschappers, generaals of admiraals die in zijn eentje de loop van een beschaving kunnen veranderen. In Civilization VI is elke Great Person een persoon met een eigen naam en effect op basis van hun historische invloed. Er zijn zeven soorten geweldige mensen: grote kunstenaars (of schrijvers of muzikanten), grote ingenieurs, grote handelaars, grote wetenschappers, grote profeten, grote admiraals en grote generaals.</Text>
