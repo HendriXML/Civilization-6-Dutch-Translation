@@ -15,4 +15,4 @@ C:\Users\\{Jouw gebruikersnaam}\Documents\My Games\Sid Meier's Civilization VI\T
 De vertaling bouwt voort op het werk van martinbc https://forums.civfanatics.com/threads/dutch-translation-civ-vi.605101
 Waarvoor dank!
 
-Inmiddels heb ik ook met behulp van Google Translate alle tekst vertaald. Het is voor een persoon ondoenlijk de grote hoeveelheid tekst goed na te kijken. Mochten anderen zich hiervoor willen inzetten, dan kan dat natuurlijk!
+Inmiddels heb ik ook met behulp van Google Translate alle tekst vertaald. Het is echter voor één persoon ondoenlijk de grote hoeveelheid tekst goed na te kijken. Mochten anderen zich hiervoor willen inzetten, dan kan dat natuurlijk!
