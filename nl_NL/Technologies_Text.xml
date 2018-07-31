@@ -242,7 +242,7 @@
 			<Text>bouw twee krachtcentrales.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
-			<Text>Leg een landingsbaan aan.</Text>
+			<Text>Heb 3 legers of armadas.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_PLASTICS">
 			<Text>bouw een oliebron.</Text>
@@ -269,7 +269,7 @@
 			<Text>bouw een aluminiummijn.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
-			<Text>bespoediging naar Grote Wetenschapper of spion.</Text>
+			<Text>bespoediging via Grote Wetenschapper of spion.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
 			<Text>Een stad aan de kust verkrijgen geeft je beschaving inzicht in navigatie.</Text>

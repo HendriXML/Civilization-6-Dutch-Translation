@@ -107,7 +107,7 @@
 			<Text>sticht een Pantheon.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
-			<Text>onderzoek constructietechniek.</Text>
+			<Text>onderzoek Constructie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
 			<Text>ontmoet drie stadstaten.</Text>

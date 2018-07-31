@@ -1871,13 +1871,13 @@
 			<Text>Een niet ontmoete beschaving komt dichter bij een wetenschappelijke overwinning.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_TO_BOOST">
-			<Text>Om te boosten:</Text>
+			<Text>Bespoedigen:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_BOOSTED">
-			<Text>GEBOOST:</Text>
+			<Text>BESPOEDIGD:</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_BOOST_BOOSTED_POPUP">
-			<Text>GEBOOST</Text>
+			<Text>BESPOEDIGD</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_BOOST_GOODYHUT">
 			<Text>De burgers delen een verborgen technisch geheim.</Text>
