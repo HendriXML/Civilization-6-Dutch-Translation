@@ -23,7 +23,7 @@
 			<Text>Ik ben Gorgo, koningin van Sparta en leider van de Grieken. Wie ben je? Over welke overwinningen kun je spreken?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY">
-			<Text>Harald Sigurdsson staat voor je: een Viking die anders dan de zeeën en landen ooit hebben gekend. Hah, ben je bang?</Text>
+			<Text>Harald Sigurdsson staat voor je: een Viking zoals de zeeën en landen nooit hebben gekend. Hah, ben je bang?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY">
 			<Text>Hallo, ik ben Hojo Tokimune van Japan, een bescheiden volgeling van Bushido.</Text>
@@ -209,13 +209,13 @@
 			<Text>Geen van ons staat te juichen, maar misschien kunnen we onze thuislanden op elkaars landkaart markeren?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
-			<Text>Laten we informatie uitwisselen terwijl we wijsheid uitwisselen. Vertel me over je kapitaal. Is het een heilige stad?</Text>
+			<Text>Laten we informatie uitwisselen terwijl we wijsheid uitwisselen. Vertel me over je hoofdstad. Is het een heilige stad?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
 			<Text>Ik ben verliefd op architectuur. Vertel me, heeft jouw hoofdstad triomfantelijke bogen of grote metalen torens?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
-			<Text>Alexandrië is het huis van farao's, mijn thuis. Ik kan je meer vertellen als je me vertelt over je kapitaal.</Text>
+			<Text>Alexandrië is het huis van farao's, mijn thuis. Ik kan je meer vertellen als je me vertelt over je hoofdstad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
 			<Text>Ik zal je onze grote hoofdstad laten zien als je me vertelt hoe jouw jouw kan vergelijken met de machts zetel van Duitsland.</Text>
@@ -224,13 +224,13 @@
 			<Text>Ik geniet van reizen, misschien zal ik op een dag je hoofdstad bezoeken. Is het ver? Zou je me erover vertellen?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
-			<Text>Niemand mag de muren van Uruk passeren zonder mijn toestemming, maar ik zal je erover vertellen, als je me vertelt over je kapitaal.</Text>
+			<Text>Niemand mag de muren van Uruk passeren zonder mijn toestemming, maar ik zal je erover vertellen, als je me vertelt over je hoofdstad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
-			<Text>Hoe ziet jouw kapitaal eruit? Vertel het me, en ik zal je over Sparta vertellen.</Text>
+			<Text>Hoe ziet jouw hoofdstad eruit? Vertel het me, en ik zal je over Sparta vertellen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
-			<Text>Ik heb heinde en verre gereisd, maar ik heb je kapitaal nooit gezien. Vertel me erover.</Text>
+			<Text>Ik heb heinde en verre gereisd, maar ik heb je hoofdstad nog niet gezien. Vertel me erover.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
 			<Text>Ik wil graag informatie uitwisselen over onze hoofdsteden. Onze is als het zuivere land. Hoe ziet de jouwe eruit?</Text>
@@ -239,7 +239,7 @@
 			<Text>Laten we diplomatieke beleefdheden uitwisselen. Vertel me over je hoofdstad, en ik zal je over de mijne vertellen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
-			<Text>Athene is een glorieuze metropool. Hoe ziet jouw kapitaal eruit? Kom, laten we informatie uitwisselen.</Text>
+			<Text>Athene is een glorieuze metropool. Hoe ziet jouw hoofdstad eruit? Kom, laten we informatie uitwisselen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
 			<Text>Wilt u informatie uitwisselen over onze hoofdsteden? De mijne is een baken van vooruitgang, maar ik ken de uwe niet.</Text>
@@ -248,7 +248,7 @@
 			<Text>Zou je willen horen van mijn hoofdstad? Madrid is de mooiste van steden. Is jouw hoofdstad ook mooi?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
-			<Text>Je hebt sommige van onze pracht gezien. Is uw kapitaal zelfs half zo groot als het onze?</Text>
+			<Text>Je hebt sommige van onze pracht gezien. Is je hoofdstad zelfs half zo groot als het onze?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
 			<Text>Kom, laten we informatie uitwisselen over onze hoofdsteden. Ik nodig je uit om me over je mensen te vertellen, en ik ben blij dat ik je over de mijne vertel.</Text>
@@ -260,10 +260,10 @@
 			<Text>Ja, mijn mensen zijn nomadisch, maar we hebben nog steeds een prachtige hoofdstad. En jij?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
-			<Text>Vertel me over je kapitaal. Is het gesticht door verloren Trojaanse paarden? Of kinderen opgevoed door wolven?</Text>
+			<Text>Vertel me over je hoofdstad. Is het gesticht door verloren Trojaanse paarden? Of kinderen opgevoed door wolven?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
-			<Text>In het belang van onze politieke relatie willen we graag meer weten over uw kapitaal ... in ruil voor informatie over die van ons natuurlijk.</Text>
+			<Text>In het belang van onze politieke relatie willen we graag meer weten over je hoofdstad ... in ruil voor informatie over die van ons natuurlijk.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
 			<Text>Uitwisseling van informatie over onze hoofdsteden is een geweldig idee; het zal helpen handel te promoten.</Text>

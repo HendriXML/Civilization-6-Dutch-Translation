@@ -110,7 +110,7 @@
 			<Text>Beurten om terug te keren: {1_Turns}</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_ESCAPE_TOOLTIP">
-			<Text>Kies een ontsnappingsroute uit de stad voor je agent. Politie zal waarschijnlijk snelle uitgangen controleren zoals vliegveld of haven. Te voet ontsnappen is altij de veiligste optie.</Text>
+			<Text>Kies een ontsnappingsroute uit de stad voor je agent. Politie zal waarschijnlijk snelle uitgangen controleren zoals vliegveld of haven. Te voet ontsnappen is altijd de veiligste optie.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ESPIONAGE_LEVEL_1_NAME">
 			<Text>Recruut</Text>

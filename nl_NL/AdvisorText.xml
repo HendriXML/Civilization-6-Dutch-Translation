@@ -614,7 +614,7 @@
 			<Text>De Kolonisten staan klaar om op reis te gaan om een nieuwe stad te stichten en onze beschaving uit te breiden. De landen daarachter zijn gevaarlijk en het zou verstandig zijn om hun bescherming te verzekeren door ze met een militaire escorte te sturen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_31">
-			<Text>Onze Kolonisten moeten veilig zijn op hun reis onder de bescherming van onze Warriors. Maar we zullen zonder bescherming in het [ICON_Capital] kapitaal zijn zodra ze vertrekken. Ik stel voor dat we onmiddellijk een Slinger-eenheid beginnen te trainen om de stad te verdedigen.</Text>
+			<Text>Onze Kolonisten moeten veilig zijn op hun reis onder de bescherming van onze Warriors. Maar we zullen zonder bescherming in de [ICON_Capital] hoofdstad zijn zodra ze vertrekken. Ik stel voor dat we onmiddellijk een Slinger-eenheid beginnen te trainen om de stad te verdedigen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_ADVISOR_LINE_FTUE_32">
 			<Text>Goed gedaan, Majesteit. Onze grote geesten zijn al begonnen aan nieuwe manieren om ons voedsel op te slaan en te bewaren.</Text>
@@ -968,7 +968,7 @@
 			<Text>De stad is de hoeksteen van elke grote beschaving. De grootte van een stad wordt weergegeven door de [ICON_Citizen] -populatie, links van het naambord aangegeven.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_103_OTHER_BODY">
-			<Text>Een Slinger-eenheid is klaar met trainen in je kapitaal. Slingers zijn ingedeeld in klasseblokken, zodat ze vanop afstand kunnen aanvallen zonder melee-gevechten aan te gaan. Dit voorkomt dat ze tijdens de aanval wederzijdse schade oplopen.</Text>
+			<Text>Een Slinger-eenheid is klaar met trainen in je hoofdstad. Slingers zijn ingedeeld in klasseblokken, zodat ze vanop afstand kunnen aanvallen zonder melee-gevechten aan te gaan. Dit voorkomt dat ze tijdens de aanval wederzijdse schade oplopen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_META_104_BODY">
 			<Text>Elke stad claimt ook het omringende land voor jouw exclusieve controle. Deze landen worden aangegeven door de gekleurde rand rondom de stad. De unieke kenmerken binnen uw grenzen zullen een grote invloed hebben op de potentiële sterke punten van elke stad.</Text>
@@ -1070,7 +1070,7 @@
 			<Text>WETENSCHAP: bouw een campus in je hoofdstad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_TOOLTIP_7">
-			<Text>Voltooi de bouw van een Campus in uw hoofdstad.</Text>
+			<Text>Voltooi de bouw van een Campus in je hoofdstad.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TUTORIAL_GOAL_8">
 			<Text>ONTDEK: Vind en verken alle stamdorpen in uw regio (n / n)</Text>
@@ -1544,7 +1544,7 @@
 			<Text>Maar laten we de verkenningsinspanningen van onze Scouts niet vergeten. Er is een hele wereld voor ons om te ontdekken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_19_ALT">
-			<Text>Terwijl onze Scouts blijven doorgaan, laten we ons naar ons eigen kapitaal keren. Terwijl onze stad groeit, neemt ook de honger van onze mensen toe ...</Text>
+			<Text>Terwijl onze Scouts blijven doorgaan, laten we ons naar onze eigen hoofdstad keren. Terwijl onze stad groeit, neemt ook de honger van onze mensen toe ...</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="ADVISOR_LINE_FTUE_191">
 			<Text>Onze bouwers staan nu klaar. Het bouwen van een boerderij op vruchtbare gronden in onze stad zal onze opbrengst verhogen en onze mensen beter voeden.</Text>

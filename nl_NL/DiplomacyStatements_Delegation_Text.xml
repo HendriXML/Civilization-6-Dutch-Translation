@@ -152,7 +152,7 @@
 			<Text>We hebben je een delegatie gestuurd met geschenken van yosegi-zukuri, enkele van onze grootste werken.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY">
-			<Text>Zult u onze diplomatieke delegatie in uw hoofdstad ontvangen?</Text>
+			<Text>Zult u onze diplomatieke delegatie in je hoofdstad ontvangen?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY">
 			<Text>We hebben je een delegatie gestuurd met geschenken. Wees niet ongerust, er is geen groot houten paard bij betrokken.</Text>

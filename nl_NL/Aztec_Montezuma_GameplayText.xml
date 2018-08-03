@@ -381,7 +381,7 @@
 			<Text>Je bent een gif voor deze wereld. Jij bent slecht! (Je wordt aangeklaagd).</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MONTEZUMA_ANY">
-			<Text>Ik ben de foute heer van Tenochtitlan. De tlatoani. Wie komt er voor mij? Een krijger of een lafaard?</Text>
+			<Text>Ik ben de explosieve heer van Tenochtitlan. De tlatoani. Wie komt er voor mij? Een krijger of een lafaard?</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MONTEZUMA_ANY">
 			<Text>Het is een eer om je te ontmoeten. Ik nodig je uit in onze nabijgelegen stad, je kunt je vaardigheden bij Ollamaliztli testen.</Text>
@@ -390,7 +390,7 @@
 			<Text>Het is geregeld.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
-			<Text>Tenochtitlan ligt het dichtst bij Huitzilopochtli; vertel me nu over je kapitaal!</Text>
+			<Text>Tenochtitlan ligt het dichtst bij Huitzilopochtli; vertel me nu over je hoofdstad!</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
 			<Text>Wat wil je???</Text>
