@@ -68,7 +68,7 @@
 			<Text>Upgradet boerderijen tot gemechaniseerde landbouw. +1 [ICON_Food] voedsel voor iedere aanliggende boerderij.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] productie van houtmolen.</Text>
+			<Text>+1 [ICON_Production] productie van houtmolen. Ontsluit stadsverdediging, wat al je steden automatisch 200 versterkingskracht geeft en de mogelijkheid van bombarderen.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
 			<Text>+1 [ICON_Movement]verplaatsing voor ingescheepte eenheden.</Text>

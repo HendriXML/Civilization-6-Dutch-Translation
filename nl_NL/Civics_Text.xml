@@ -47,7 +47,7 @@
 			<Text>Beloont je met 2 [ICON_Envoy] gezanten.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
-			<Text>Kan boerderij bouwen op heuvels in grasland en vlaktes. Ontsluit stadsverdediging, wat al je steden automatisch 200 versterkingskracht geeft en de mogelijkheid van bombarderen.</Text>
+			<Text>Kan boerderij bouwen op heuvels in grasland en vlaktes.</Text>
 		</Replace>
 		<Replace Language="nl_NL" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
 			<Text>Geeft je de mogelijkheid om een extra spion op te leiden. Maakt de omvorming van twee identieke eenheden tot een korps of vloot mogelijk. Geeft je een nieuwe casus belli die als rechtvaardiging voor een oorlog kan gelden: koloniale oorlog.</Text>
